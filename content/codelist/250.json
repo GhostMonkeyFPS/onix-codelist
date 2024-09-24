@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 250,
+    "CodeListDescription": "Resource identifier type",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "For example, a publisher\u2019s internal digital asset ID. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "ISCC",
+            "CodeNotes": "International Standard Content Code, a \u2018similarity hash\u2019 derived algorithmically from the resource content itself (see https:\/\/iscc.codes). <IDValue> is the ISCC-CODE generated from a digital manifestation of the work, as a variable-length case-insensitive alphanumeric string (or 55 characters including three hyphens if using ISCC v1.0, but this is deprecated). Note alphabetic characters in v1.x ISCCs use Base32 encoding and are conventionally upper case. The \u2018ISCC:\u2019 prefix is omitted",
+            "IssueNumber": 53,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

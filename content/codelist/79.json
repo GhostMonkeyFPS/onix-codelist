@@ -1,0 +1,383 @@
+{
+    "CodeListNumber": 79,
+    "CodeListDescription": "Product form feature type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Color of cover",
+            "CodeNotes": "For Product Form Feature values see code list 98",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Color of spine",
+            "CodeNotes": "Where it is different from the overall color of the cover (see code 01). For Product Form Feature values see code list 98. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Color of foil",
+            "CodeNotes": "On cover or spine. For Product Form Feature values see metallic colors from code list 98. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Color of page edge",
+            "CodeNotes": "Sprayed \/ gilded edges. For Product Form Feature values see code list 98",
+            "IssueNumber": 1,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Text font",
+            "CodeNotes": "The principal font used for body text, when this is a significant aspect of product description, eg for some Bibles, and for large print product. The accompanying <ProductFormFeatureDescription> is text specifying the typeface name. The font size may be specified with the font name, but is preferred separately (in points) in <ProductFormFeatureValue>",
+            "IssueNumber": 1,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Special cover material",
+            "CodeNotes": "For Product Form Feature values see code list 99",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "DVD region",
+            "CodeNotes": "For Product Form Feature values see code list 76",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Operating system requirements",
+            "CodeNotes": "A computer or handheld device operating system required to use a digital product, with version detail if applicable. The accompanying Product Form Feature Value is a code from List 176. Version detail, when applicable, is carried in Product Form Feature Description",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Other system requirements",
+            "CodeNotes": "Other system requirements for a digital product, described by free text in Product Form Feature Description",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "\u2018Point and listen\u2019 device compatibility",
+            "CodeNotes": "Indicates compatibility with proprietary \u2018point and listen\u2019 devices such as Ting Pen (http:\/\/www.ting.eu), the iSmart Touch and Read Pen. These devices scan invisible codes specially printed on the page to identify the book and position of the word, and the word is then read aloud by the device. The name of the compatible device (or range of devices) should be given in <ProductFormFeatureDescription>",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "E-publication accessibility detail",
+            "CodeNotes": "For <ProductFormFeatureValue> codes, see Codelist 196",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "E-publication format version",
+            "CodeNotes": "For versioned e-book file formats (or in some cases, devices). <ProductFormFeatureValue> should contain the version number as a period-separated list of numbers (eg \u20187\u2019, \u20181.5\u2019 or \u20183.10.7\u2019). Only for use in ONIX 3.0 or later \u2013 in ONIX 2.1, use <EpubTypeVersion> instead. For the most common file formats, code 15 and List 220 is strongly preferred",
+            "IssueNumber": 17,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "US CPSIA or other international hazard warning",
+            "CodeNotes": "Hazard warning required by US Consumer Product Safety Improvement Act (CPSIA) of 2008 or other US or international legislation. Required, when applicable, for products sold in the US. The Product Form Feature Value is a code from List 143. Further explanation may be given in Product Form Feature Description",
+            "IssueNumber": 9,
+            "ModifiedNumber": 46,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "EU Toy Safety Hazard warning",
+            "CodeNotes": "Product carries hazard warning required by EU Toy Safety Directive. The Product Form Feature Value is a code from List 184, and (for some codes) the exact wording of the warning may be given in Product Form Feature Description",
+            "IssueNumber": 13,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "IATA Dangerous Goods warning",
+            "CodeNotes": "Product Form Feature Description must give further details of the warning",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "E-publication format version code",
+            "CodeNotes": "For common versioned e-book formats (or in some cases, devices) \u2013 for example EPUB 2.0.1 or EPUB 3.0. <ProductFormFeatureValue> is a code from list 220. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "E-publication format validator version",
+            "CodeNotes": "For common versioned e-book formats, the name and version of the validator used to check conformance. <ProductFormFeatureDescription> is the common name of the validator used (eg EpubCheck, Flightdeck), and <ProductFormFeatureValue> is the version number of the validator (eg 4.0.0a). Use with code 15 (or possibly code 10), or with <EpubTypeVersion>, to specify the version the e-publication conforms with",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "\u2018Point and watch\u2019 device\/app compatibility",
+            "CodeNotes": "Indicates compatibility with proprietary \u2018point and watch\u2018 devices or apps. These scan invisible codes specially printed on the page, or the whole page image, to identify the book and page position. Scanning can trigger display of (for example) an augmented reality view of the page. The name of the compatible app or device (or range of apps\/devices) should be given in <ProductFormFeatureDescription>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "E-publication authentication and access control",
+            "CodeNotes": "Requirement for user authentication prior to use, with detail of authentication method (user enrolment, and login passwords, location- or device-based recognition, authentication via third-party identity service etc) given in <ProductFormFeatureDescription>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Battery type and safety",
+            "CodeNotes": "Use to describe battery requirements, types, hazards and battery safety warnings. <ProductFormFeatureValue> is a code from List 242. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 45,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Battery capacity",
+            "CodeNotes": "Total capacity (of batteries in the product) in Watt hours. <ProductFormFeatureValue> is an integer or decimal number (eg \u201845\u2019, not \u201845Wh\u2019). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Dangerous goods",
+            "CodeNotes": "Use to describe regulation of the product for various purposes. <ProductFormFeatureValue> is a code from List 243. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Game pieces",
+            "CodeNotes": "Number of pieces, eg for jigsaws, puzzles, kits, board games. <ProductFormFeatureValue> is an integer. Only for use in ONIX 3.0 or later. For pieces like cards in a pack, see <Extent> and code 00 from List 24",
+            "IssueNumber": 48,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Game players",
+            "CodeNotes": "Number of players, for board games, card games, videogames etc. <ProductFormFeatureValue> must be a required (exact) number as an integer OR a range (eg \u20182\u20136\u2019), optionally accompanied by the number of players as text (eg \u2018suitable for 2\u20136 players\u2019) in <ProductFormFeatureDescription>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Game play time",
+            "CodeNotes": "Typical time to complete a game, for board games, card games, videogames etc, stated as an integer (in minutes) OR range (eg \u201860\u201390\u2019) in <ProductFormFeatureValue>, optionally accompanied by the playing time as text (eg \u2018typically 60\u201390 minutes\u2019) in <ProductFormFeatureDescription>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Personal data requirements",
+            "CodeNotes": "Personal data required for registration or use of the product. This can be coded in <ProductFormFeatureValue> (for example using a URI from SCOLOM list 044 \u2013 see http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-044) \u2013 and\/or described in <ProductFormFeatureDescription>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Not FSC or PEFC certified",
+            "CodeNotes": "Product does not carry FSC or PEFC logo. The Product Form Feature Value element is not used. The Product Form Feature Description element may carry free text indicating the grade or type of paper. The product record may also still carry a claimed Pre- and Post-Consumer Waste (PCW) percentage value (type code 37) in a separate repeat of the Product Form Feature composite",
+            "IssueNumber": 10,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "FSC certified \u2013 pure",
+            "CodeNotes": "Product carries FSC logo (Pure, 100%). <ProductFormFeatureValue> is the Certification number (ie either a Chain Of Custody (COC) number or a Trademark License number) printed on the book. Format: Chain of Custody number is two to five letters-COC-six digits (the digits should include leading zeros if necessary), eg \u2018AB-COC-001234\u2019 or \u2018ABCDE-COC-123456\u2019; Trademark License number is C followed by six digits, eg \u2018C005678\u2019 (this would normally be prefixed by \u2018FSC\u00ae\u2019 when displayed). The Product Form Feature Description element may carry free text indicating the grade or type of paper. By definition, a product certified Pure does not contain Pre- or Post-Consumer-Waste (PCW), so type code 31 can only occur on its own. Certification numbers may be checked at https:\/\/info.fsc.org\/",
+            "IssueNumber": 10,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "FSC certified \u2013 mixed sources",
+            "CodeNotes": "Product carries FSC logo (Mixed sources, Mix). <ProductFormFeatureValue> is the Certification number (ie either a Chain Of Custody (COC) number or a Trademark License number) printed on the book. Format: Chain of Custody number is two to five letters-COC-six digits (the digits should include leading zeros if necessary), eg \u2018AB-COC-001234\u2019 or \u2018ABCDE-COC-123456\u2019; Trademark License number is C followed by six digits, eg \u2018C005678\u2019 (this would normally be prefixed by \u2018FSC\u00ae\u2019 when displayed). The Product Form Feature Description element may carry free text indicating the grade or type of paper. May be accompanied by a Pre- and Post-Consumer-Waste (PCW) percentage value, to be reported in another instance of <ProductFormFeature> with type code 36. Certification numbers may be checked at https:\/\/info.fsc.org\/",
+            "IssueNumber": 10,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "FSC certified \u2013 recycled",
+            "CodeNotes": "Product carries FSC logo (Recycled). <ProductFormFeatureValue> is the Certification number (ie either a Chain Of Custody (COC) number or a Trademark License number) printed on the book. Format: Chain of Custody number is two to five letters-COC-six digits (the digits should include leading zeroes if necessary), eg \u2018AB-COC-001234\u2019 or \u2018ABCDE-COC-123456\u2019; Trademark License number is C followed by six digits, eg \u2018C005678\u2019 (this would normally be prefixed by \u2018FSC\u00ae\u2019 when displayed). The Product Form Feature Description element may carry free text indicating the grade or type of paper. Should be accompanied by a Pre- and Post-Consumer-Waste (PCW) percentage value, to be reported in another instance of <ProductFormFeature> with type code 36. Certification numbers may be checked at https:\/\/info.fsc.org\/",
+            "IssueNumber": 10,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "PEFC certified",
+            "CodeNotes": "Product carries PEFC logo (certified) or equivalent from PEFC-endorsed national scheme. <ProductFormFeatureValue> is the Chain Of Custody (COC) number printed on the book. The Product Form Feature Description element may carry free text indicating the grade or type of paper. May be accompanied by a Post-Consumer Waste (PCW) percentage value, to be reported in another instance of <ProductFormFeature> with type code 36",
+            "IssueNumber": 10,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "PEFC recycled",
+            "CodeNotes": "Product carries PEFC logo (recycled) or equivalent from PEFC-endorsed national scheme. <ProductFormFeatureValue> is the Chain Of Custody (COC) number printed on the book. The Product Form Feature Description element may carry free text indicating the grade or type of paper. Should be accompanied by a Post-Consumer-Waste (PCW) percentage value, to be reported in another instance of <ProductFormFeature> with type code 36",
+            "IssueNumber": 10,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "FSC or PEFC certified Pre- and Post-Consumer Waste (PCW) percentage",
+            "CodeNotes": "The percentage of recycled Pre- and Post-Consumer-Waste (PCW) used in a product where the composition is certified by FSC, PEFC or PEFC-endorsed scheme. <ProductFormFeatureValue> is an integer. May occur together with type code 32, 33, 34 or 35",
+            "IssueNumber": 10,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Claimed Pre- and Post-Consumer Waste (PCW) percentage",
+            "CodeNotes": "The percentage of recycled Pre- and Post-Consumer Waste (PCW) claimed to be used in a product where the composition is not certified by FSC or PEFC. <Product FormFeatureValue> is an integer. <ProductFormFeatureDescription> may carry free text supporting the claim. Must be accompanied by type code 30",
+            "IssueNumber": 10,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "\u2018Green\u2019 inks",
+            "CodeNotes": "Vegetable-based or other environmentally-conscious inks and varnishes. <ProductFormFeatureDescription> may carry free text with a more detailed statement. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "\u2018Green\u2019 adhesives",
+            "CodeNotes": "Product binding uses environmentally-concious adhesives and other binding materials. <ProductFormFeatureDescription> may carry free text with a more detailed statement. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Paper produced by \u2018green\u2019 technology",
+            "CodeNotes": "Product made from paper produced using environmentally-conscious technology. <ProductFormFeatureDescription> may carry free text with a more detailed statement",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Carbon\/GHG emission certification scheme",
+            "CodeNotes": "<ProductFormFeatureValue> is a code from List 262 identifying the particular certification scheme. <ProductFormFeatureDescription> may be a descriptor for some part, schedule or annex of the certification scheme, where necessary. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Carbon\/GHG emission certification \/ license number",
+            "CodeNotes": "<ProductFormFeatureValue> is a code from List 262 identifying a particular certification scheme. <ProductFormFeatureDescription> is a certificate or license number used to certify compliance with the scheme. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Carbon\/GHG emission certification URL",
+            "CodeNotes": "<ProductFormFeatureValue> is a code from List 262 identifying a particular certification scheme. <ProductFormFeatureDescription> is a URL linking to a web page certifying compliance with the scheme. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Carbon\/GHG Scope 3 certified Carbon dioxide equivalent emission",
+            "CodeNotes": "<ProductFormFeatureValue> is a code from List 262 identifying a particular certification scheme. <ProductFormFeatureDescription> is a number specifying certified GHG emissions per copy of the product, measured in kilograms of Carbon dioxide equivalent (CO\u2082e) using the Scope 3 methodology of the scheme. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Carbon\/GHG Scope 2 certified Carbon dioxide equivalent emission",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Carbon\/GHG Scope 1 certified Carbon dioxide equivalent emission",
+            "CodeNotes": "Scope 1 emission certifications are not recommended for use. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "EUDR raw material location (interior or full product)",
+            "CodeNotes": "For EU Deforestation Regulations, location of raw material source plot (\u2018where the tree grew\u2019) for the interior or main body of the product (or for the entire product, if the raw material source for the binding and other parts of the product cannot be differentiated). If there are multiple sources for the same raw material, repeat <ProductFormFeature> for each plot. Further repeats of <ProductFormFeature> may be used for multiple paper, card and board types. <ProductFormFeatureValue> is a country code from List 91 indicating the country in which the source plot is, optionally followed by space and a date of harvest of the source plot (YYYY, YYYYMM or YYYYMMDD). <ProductFormFeatureDescription> is a list of points defining the plot from which the raw material was harvested, using GPS coordinates with 6 decimal places of precision (these are real numbers, \u00b190 for latitude [negative numbers indicate a latitude south of the equator], \u00b1180 excluding -180 itself for longitude [negative numbers indicate a longitude west of the Prime Greenwich meridian]). Latitude and Longitude for each point are space-separated, and multiple points are comma-separated. (Note these coordinates use decimal parts of a degree, not minutes and seconds.) ONE point defines the centre of a 4 hectare plot (200m \u00d7 200m). TWO points define a line joining opposite corners of a \u2018square\u2019 plot bounded by two lines of latitude and two of longitude. THREE or more points define a simple polygon outlining the plot. Lines and polygon edges may not cross a national boundary or the 180\u00b0 line of longitude. Polygon edges may not intersect. It is good practice to ensure the polygon is drawn clockwise and is \u2018closed\u2019 (that is, that the first and last points are identical, so that for example four points define a triangle). If not closed, the closing polygon edge is implied, and to avoid ambiguity, trailing zeros in the latitude and longitude should be explicit. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "EUDR raw material location (binding)",
+            "CodeNotes": "For endpaper, cover card or board, any other binding or covering material and any jacket (but not including any slipcase or other packaging). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "EUDR raw material location (other)",
+            "CodeNotes": "Including any slipcase or box, retail packaging, supplementary material (but not including any packaging discarded before retail sale). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "EUDR due diligence reference",
+            "CodeNotes": "For EU Deforestation Regulations, <ProductFormFeatureValue> is a \u2018Due Diligence Statement\u2019 (DDS) document reference recorded by the publisher or other organization responsible for the product when a due diligence statement is uploaded to the EU\u2019s portal, expected to be in a format like \u201824FRXVV3VOS991\u2019. There may also be a UUID acting as an internal or proprietary document reference, for which use <ProductFormFeatureDescription>. <ProductFormFeature> should be repeated if multiple DDSs apply. See https:\/\/environment.ec.europa.eu\/topics\/forests\/deforestation\/regulation-deforestation-free-products_en Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

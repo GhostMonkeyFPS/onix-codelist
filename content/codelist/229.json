@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 229,
+    "CodeListDescription": "Gender \u2013\u00a0based on ISO 5218",
+    "IssueNumber": 33,
+    "Code": [
+        {
+            "CodeValue": "u",
+            "CodeDescription": "Unknown or unspecified",
+            "CodeNotes": "Provides positive indication that the gender is not known or is not specified by the sender for any reason",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "f",
+            "CodeDescription": "Female",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "m",
+            "CodeDescription": "Male",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

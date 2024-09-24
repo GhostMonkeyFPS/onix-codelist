@@ -1,0 +1,119 @@
+{
+    "CodeListNumber": 3,
+    "CodeListDescription": "Record source type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publisher",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Publisher\u2019s distributor",
+            "CodeNotes": "Use to designate a distributor providing primary warehousing and fulfillment for a publisher or for a publisher\u2019s sales agent, as distinct from a wholesaler",
+            "IssueNumber": 0,
+            "ModifiedNumber": 46,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Wholesaler",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Bibliographic agency",
+            "CodeNotes": "Bibliographic data aggregator",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Library bookseller",
+            "CodeNotes": "Library supplier. Bookseller selling to libraries (including academic libraries)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Publisher\u2019s sales agent",
+            "CodeNotes": "Use for a publisher\u2019s sales agent responsible for marketing the publisher\u2019s products within a territory, as opposed to a publisher\u2019s distributor who fulfills orders but does not market",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Publisher\u2019s conversion service provider",
+            "CodeNotes": "Downstream provider of e-publication format conversion services (who might also be a distributor or retailer of the converted e-publication), supplying metadata on behalf of the publisher. The assigned ISBN is taken from the publisher\u2019s ISBN prefix",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Conversion service provider",
+            "CodeNotes": "Downstream provider of e-publication format conversion services (who might also be a distributor or retailer of the converted e-publication), supplying metadata on behalf of the publisher. The assigned ISBN is taken from the service provider\u2019s prefix (whether or not the service provider dedicates that prefix to a particular publisher)",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "ISBN Registration Agency",
+            "CodeNotes": "",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "ISTC Registration Agency",
+            "CodeNotes": "",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Retail bookseller",
+            "CodeNotes": "Bookseller selling primarily to consumers",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Education bookseller",
+            "CodeNotes": "Bookseller selling primarily to educational institutions",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Library",
+            "CodeNotes": "Library service providing enhanced metadata to publishers or other parties",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

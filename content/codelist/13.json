@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 13,
+    "CodeListDescription": "Collection identifier type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "For example, publisher\u2019s own series ID. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "ISSN",
+            "CodeNotes": "International Standard Serial Number, unhyphenated, 8 digits",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "German National Bibliography series ID",
+            "CodeNotes": "Maintained by the Deutsche Nationalbibliothek",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "German Books in Print series ID",
+            "CodeNotes": "Maintained by VLB",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Electre series ID",
+            "CodeNotes": "Maintained by Electre Information, France",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "Digital Object Identifier (variable length and character set, beginning \u201810.\u2019 and without https:\/\/doi.org\/ or the older http:\/\/dx.doi.org\/)",
+            "IssueNumber": 6,
+            "ModifiedNumber": 65,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "ISBN-13",
+            "CodeNotes": "Use only where the collection (series or set) is available as a single product",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "URN",
+            "CodeNotes": "Uniform Resource Name using full URN syntax, eg urn:issn:1476-4687 \u2013 though where a specific code for the identifier type is available, use of that code (ie code 02 for ISSN) is preferred",
+            "IssueNumber": 8,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "JP Magazine ID",
+            "CodeNotes": "Japanese magazine identifier, similar in scope to ISSN. Five digits to identify the periodical, without any hyphen or two digit extension. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "BNF Control number",
+            "CodeNotes": "French National Bibliography series ID. Identifiant des publications en s\u00e9rie maintenu par la Biblioth\u00e8que Nationale de France",
+            "IssueNumber": 24,
+            "ModifiedNumber": 36,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "ARK",
+            "CodeNotes": "Archival Resource Key, as a URL (including the address of the ARK resolver provided by eg a national library)",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "ISSN-L",
+            "CodeNotes": "International Standard Serial Number \u2018linking ISSN\u2019, used when distinct from the serial ISSN. Unhyphenated, 8 digits. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 41,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

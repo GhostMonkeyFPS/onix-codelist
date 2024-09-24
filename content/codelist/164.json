@@ -1,0 +1,247 @@
+{
+    "CodeListNumber": 164,
+    "CodeListDescription": "Work relation",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Manifestation of",
+            "CodeNotes": "Product A is or includes a manifestation of work X. (There is a direct parent\u2013child relation between work X and the product). The instance of <RelatedWork> must include an identifier for work X",
+            "IssueNumber": 9,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Derived from",
+            "CodeNotes": "Product A is or includes a manifestation of a work X which is derived (directly) from related work W in one or more of the ways specified in the former ISTC rules. (There is a relationship between a grandparent work W and a parent work X, and between that parent work and the product.) This relation type is intended to enable products with a common \u2018grandparent\u2019 work to be linked without specifying the precise nature of their derivation, and without necessarily assigning an identifier to the product\u2019s parent work X. The instance of <RelatedWork> must include an identifier for work W. Codes 20\u201330 may be used instead to provide details of the derivation of work X from work W",
+            "IssueNumber": 9,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Related work is derived from this",
+            "CodeNotes": "Product A is a manifestation of a work X from which related work Y is (directly) derived in one or more of the ways specified in the former ISTC rules. (There is a relationship between a parent work X and a child work Y, and between the parent work X and the product.) The instance of <RelatedWork> must include an identifier for work Y. Codes 40\u201350 may be used instead to provide details of the derivation of work Y from work X",
+            "IssueNumber": 13,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Other work in same (bibliographic) collection",
+            "CodeNotes": "Product A is a manifestation of a work X in the same (bibliographic) collection as related work Z. (There is a relationship between the parent work X and a \u2018same collection\u2019 work Z, and between the parent work X and the product.) The instance of <RelatedWork> must include an identifier for work Z",
+            "IssueNumber": 13,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Other work by same contributor",
+            "CodeNotes": "Product A is a manifestation of a work X by the same contributor(s) as related work Z. (There is a relationship between the parent work X and a work Z where X and Z have at least one contributor in common, and between the parent work X and the product.) The instance of <RelatedWork> must include an identifier for work Z",
+            "IssueNumber": 13,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Manifestation of original work",
+            "CodeNotes": "Product A is or includes a manifestation of work X. (There is a direct parent\u2013child relation between work X and the product, and work X is original, ie not a derived work of any kind \u2013 there is no work W.) The instance of <RelatedWork> must include an identifier for work X. See code 01 if the originality of X is unspecified or unknown",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Derived from by abridgement",
+            "CodeNotes": "Product A is or includes a manifestation of a work X which is derived directly from related work W by abridgement. (There is a relationship between the grandparent [unabridged] work W and the parent [abridged] work X, and between the parent work X and the product.) The instance of <RelatedWork> must include an identifier for [unabridged] work W. <EditionType> of product A would normally be ABR. See code 02 if the method of derivation of X from W is unknown or unstated. The [abridged] parent work X may be identified using a separate instance of <RelatedWork> with relation code 01",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Derived from by annotation",
+            "CodeNotes": "Product A is or includes a manifestation of a work X which is derived directly from related work W by annotation. The instance of <RelatedWork> must include an identifier for [unannotated] work W. <EditionType> of product X would normally be ANN, VAR etc. See code 02 if the method of derivation of X from W is unknown or unstated. The [annotated] parent work X may be identified using a separate instance of <RelatedWork> with relation code 01",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Derived from by compilation",
+            "CodeNotes": "The content of the work X has been formed by compilation of work W and another work Z. The instance of <RelatedWork> must include an identifier for work W. <EditionType> of product A may be CMB. Work Z may be identified using a separate instance of <RelatedWork> with code 23. The compiled parent work X may be identified using a separate instance of <Related> work with relation code 01",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Derived from by criticism",
+            "CodeNotes": "The content of the work W has been augmented by the addition of critical commendary to form work X. The instance of <RelatedWork> must include an identifier for work W. <EditionType> of Product A would normally be CRI",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Derived from by excerption",
+            "CodeNotes": "The content of the work X is an excerpt from work W. The instance of <RelatedWork> must include an identifier for [complete] work W",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Derived from by expurgation",
+            "CodeNotes": "Offensive or unsuitable text material has been removed from work W to form work X. The instance of <RelatedWork> must include an identifier for [unsuitable] work W. <EditionType> of Product A would normally be EXP",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Derived from by addition (of non-text material)",
+            "CodeNotes": "The content of work W has been augmented by the addition of significant non-textual elements to form work X. The instance of <RelatedWork> must include an identifier for [unaugmented] work W. <EditionType> of product A may be ILL, ENH etc",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Derived from by revision",
+            "CodeNotes": "The content of work W has been revised and\/or expanded or enlarged to form work X [including addition, deletion or replacement of text material]. The instance of <RelatedWork> must include an identifier for [unrevised] work W. <EditionType> of product A may be REV, NED, etc, or A may be numbered",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Derived from via translation",
+            "CodeNotes": "The content of work W has been translated into another language to form work X. The instance of <RelatedWork> must include an identifier for [untranslated] work W",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Derived from via adaptation",
+            "CodeNotes": "The content of work W has been adapted [into a different literary form] to form work X. The instance of <RelatedWork> must include an identifier for [unadapted] work W. <EditionType> of product A would normally be ADP, ACT etc",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Derived from by subtraction (of non-text material)",
+            "CodeNotes": "The content of work W has been modified by the removal of significant non-textual elements to form work X. The instance of <RelatedWork> must include an identifier for work W",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Related work is derived from this by abridgement",
+            "CodeNotes": "Product A is a manifestation of a work X from which the related work Y is (directly) derived by abridgement. (There is a relationship between the parent [unabridged] work X and the child [abridged] work Y, and between parent work X and the product.) The instance of <RelatedWork> must include the identifier for [abridged] work Y. See code 03 if the method of derivation of Y from X is unknown or unstated. The [unabridged] parent work X may be identified using a separate instance of <RelatedWork> with relation code 01 or 06",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Related work is derived from this by annotation",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Related work is derived from this by compilation",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Related work is derived from this by criticism",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Related work is derived from this by excerption",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Related work is derived from this by expurgation",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Related work is derived from this by addition (of non-text material)",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Related work is derived from this by revision",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "Related work is derived from this via translation",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Related work is derived from this via adaptation",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Derived from this by subtraction (of non-text material)",
+            "CodeNotes": "",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "98",
+            "CodeDescription": "Manifestation of LRM work",
+            "CodeNotes": "Product A is or includes a manifestation of an expression of LRM work X. Do not use, except as a workaround for differences between LRM works and expressions, and ONIX works in LRM library practice, and always also include a relationship to an ONIX work using code 01",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "Manifestation of LRM expression",
+            "CodeNotes": "Product A is or includes a manifestation of an LRM expression with the same content, same agents and in the same modality (text, audio, video etc) as work X. Do not use, except as a workaround for differences between LRM expressions and ONIX works in LRM library practice, and always also include a relationship to an ONIX work using code 01",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

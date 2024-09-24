@@ -1,0 +1,1191 @@
+{
+    "CodeListNumber": 150,
+    "CodeListDescription": "Product form",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Undefined",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AA",
+            "CodeDescription": "Audio",
+            "CodeNotes": "Audio recording \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer AZ plus <ProductFormDescription> if detail is available but no other A* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AB",
+            "CodeDescription": "Audio cassette",
+            "CodeNotes": "Audio cassette (analogue)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AC",
+            "CodeDescription": "CD-Audio",
+            "CodeNotes": "Audio compact disc: use for \u2018Red book\u2019 discs (conventional audio CD) and SACD, and use coding in <ProductFormDetail> to specify the format, if required",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AD",
+            "CodeDescription": "DAT",
+            "CodeNotes": "Digital audio tape cassette",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AE",
+            "CodeDescription": "Audio disc",
+            "CodeNotes": "Audio disc (excluding CD-Audio): use for \u2018Yellow book\u2019 (CD-Rom-style) discs, including for example mp3 CDs, and use coding in <ProductFormDetail> to specify the format of the data on the disc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 37,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AF",
+            "CodeDescription": "Audio tape",
+            "CodeNotes": "Audio tape (analogue open reel tape)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AG",
+            "CodeDescription": "MiniDisc",
+            "CodeNotes": "Sony MiniDisc format",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AH",
+            "CodeDescription": "CD-Extra",
+            "CodeNotes": "Audio compact disc with part CD-ROM content, also termed CD-Plus or Enhanced-CD: use for \u2018Blue book\u2019 and \u2018Yellow\/Red book\u2019 two-session discs",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AI",
+            "CodeDescription": "DVD Audio",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AJ",
+            "CodeDescription": "Downloadable audio file",
+            "CodeNotes": "Digital audio recording downloadable to the purchaser\u2019s own device(s)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AK",
+            "CodeDescription": "Pre-recorded digital audio player",
+            "CodeNotes": "For example, Playaway audiobook and player: use coding in <ProductFormDetail> to specify the recording format, if required",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AL",
+            "CodeDescription": "Pre-recorded SD card",
+            "CodeNotes": "For example, Audiofy audiobook chip",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AM",
+            "CodeDescription": "LP",
+            "CodeNotes": "Vinyl disc (analogue).",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AN",
+            "CodeDescription": "Downloadable and online audio file",
+            "CodeNotes": "Digital audio recording available both by download to the purchaser\u2019s own device(s) and by online (eg streamed) access",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AO",
+            "CodeDescription": "Online audio file",
+            "CodeNotes": "Digital audio recording available online (eg streamed), not downloadable to the purchaser\u2019s own device(s)",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AZ",
+            "CodeDescription": "Other audio format",
+            "CodeNotes": "Other audio format not specified by AB to AO. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BA",
+            "CodeDescription": "Book",
+            "CodeNotes": "Book \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer BZ plus <ProductFormDescription> if detail is available but no other B* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BB",
+            "CodeDescription": "Hardback",
+            "CodeNotes": "Hardback or cased book",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BC",
+            "CodeDescription": "Paperback \/ softback",
+            "CodeNotes": "Paperback or other softback book",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BD",
+            "CodeDescription": "Loose-leaf",
+            "CodeNotes": "Loose-leaf book",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BE",
+            "CodeDescription": "Spiral bound",
+            "CodeNotes": "Spiral, comb or coil bound book",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BF",
+            "CodeDescription": "Pamphlet",
+            "CodeNotes": "Pamphlet, stapled (de: \u2018geheftet\u2019). Includes low-extent wire-stitched books bound without a distinct spine (eg many comic book \u2018floppies\u2019)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BG",
+            "CodeDescription": "Leather \/ fine binding",
+            "CodeNotes": "Use <ProductFormDetail> to provide additional description",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BH",
+            "CodeDescription": "Board book",
+            "CodeNotes": "Child\u2019s book with all pages printed on board",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BI",
+            "CodeDescription": "Rag book",
+            "CodeNotes": "Child\u2019s book with all pages printed on textile",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BJ",
+            "CodeDescription": "Bath book",
+            "CodeNotes": "Child\u2019s book printed on waterproof material",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BK",
+            "CodeDescription": "Novelty book",
+            "CodeNotes": "A book whose novelty consists wholly or partly in a format which cannot be described by any other available code \u2013 a \u2018conventional\u2019 format code is always to be preferred; one or more Product Form Detail codes, eg from the B2nn group, should be used whenever possible to provide additional description",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BL",
+            "CodeDescription": "Slide bound",
+            "CodeNotes": "Slide bound book",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BM",
+            "CodeDescription": "Big book",
+            "CodeNotes": "Extra-large format for teaching etc; this format and terminology may be specifically UK; required as a top-level differentiator",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BN",
+            "CodeDescription": "Part-work (fasc\u00edculo)",
+            "CodeNotes": "A part-work issued with its own ISBN and intended to be collected and bound into a complete book.",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BO",
+            "CodeDescription": "Fold-out book or chart",
+            "CodeNotes": "Concertina-folded booklet or chart, designed to fold to pocket or regular page size, and usually bound within distinct board or card covers (de: \u2018Leporello\u2019)",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BP",
+            "CodeDescription": "Foam book",
+            "CodeNotes": "A children\u2019s book whose cover and pages are made of foam",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BZ",
+            "CodeDescription": "Other book format",
+            "CodeNotes": "Other book format or binding not specified by BB to BP. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA",
+            "CodeDescription": "Sheet map",
+            "CodeNotes": "Sheet map \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer CZ plus <ProductFormDescription> if detail is available but no other C* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CB",
+            "CodeDescription": "Sheet map, folded",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CC",
+            "CodeDescription": "Sheet map, flat",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CD",
+            "CodeDescription": "Sheet map, rolled",
+            "CodeNotes": "See <ProductPackaging> and Codelist 80 for \u2018rolled in tube\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CE",
+            "CodeDescription": "Globe",
+            "CodeNotes": "Globe or planisphere",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CZ",
+            "CodeDescription": "Other cartographic",
+            "CodeNotes": "Other cartographic format not specified by CB to CE. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DA",
+            "CodeDescription": "Digital (on physical carrier)",
+            "CodeNotes": "Digital content delivered on a physical carrier (detail unspecified). Use only when the form is unknown and no further detail can be provided. Prefer DZ plus <ProductFormDescription> if detail is available but no other D* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DB",
+            "CodeDescription": "CD-ROM",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DC",
+            "CodeDescription": "CD-I",
+            "CodeNotes": "CD interactive: use for \u2018Green book\u2019 discs",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DE",
+            "CodeDescription": "Game cartridge",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DF",
+            "CodeDescription": "Diskette",
+            "CodeNotes": "AKA \u2018floppy disc\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DI",
+            "CodeDescription": "DVD-ROM",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DJ",
+            "CodeDescription": "Secure Digital (SD) Memory Card",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DK",
+            "CodeDescription": "Compact Flash Memory Card",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DL",
+            "CodeDescription": "Memory Stick Memory Card",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DM",
+            "CodeDescription": "USB Flash Drive",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DN",
+            "CodeDescription": "Double-sided CD\/DVD",
+            "CodeNotes": "Double-sided disc, one side Audio CD\/CD-ROM, other side DVD",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DO",
+            "CodeDescription": "BR-ROM",
+            "CodeNotes": "(Blu Ray ROM)",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DZ",
+            "CodeDescription": "Other digital carrier",
+            "CodeNotes": "Other carrier of digital content not specified by DB to DO. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EA",
+            "CodeDescription": "Digital (delivered electronically)",
+            "CodeNotes": "Digital content delivered electronically (delivery method unspecified). Use only when the form and delivery method is unknown, or when no other E* code applies and the delivery method is described in <ProductFormDescription>. Note, use <ProductFormDetail> to specify file format",
+            "IssueNumber": 9,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EB",
+            "CodeDescription": "Digital download and online",
+            "CodeNotes": "Digital content available both by download and by online access",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EC",
+            "CodeDescription": "Digital online",
+            "CodeNotes": "Digital content accessed online only",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ED",
+            "CodeDescription": "Digital download",
+            "CodeNotes": "Digital content delivered by download only",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FA",
+            "CodeDescription": "Film or transparency",
+            "CodeNotes": "Film or transparency \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer FZ plus <ProductFormDescription> if detail is available but no other F* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FC",
+            "CodeDescription": "Slides",
+            "CodeNotes": "Photographic transparencies mounted for projection",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FD",
+            "CodeDescription": "OHP transparencies",
+            "CodeNotes": "Transparencies for overhead projector",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FE",
+            "CodeDescription": "Filmstrip",
+            "CodeNotes": "Photographic transparencies, unmounted but cut into short multi-frame strips",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FF",
+            "CodeDescription": "Film",
+            "CodeNotes": "Continuous movie film as opposed to filmstrip",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FZ",
+            "CodeDescription": "Other film or transparency format",
+            "CodeNotes": "Other film or transparency format not specified by FB to FF. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LA",
+            "CodeDescription": "Digital product license",
+            "CodeNotes": "Digital product license (delivery method unspecified). Use only when the form is unknown, or when no other L* code applies and the delivery method is described in <ProductFormDescription>",
+            "IssueNumber": 10,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LB",
+            "CodeDescription": "Digital product license key",
+            "CodeNotes": "Digital product license delivered through the retail supply chain as a physical \u2018key\u2019, typically a card or booklet containing a code enabling the purchaser to download the associated product",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LC",
+            "CodeDescription": "Digital product license code",
+            "CodeNotes": "Digital product license delivered by email or other electronic distribution, typically providing a code enabling the purchaser to activate, upgrade or extend the license supplied with the associated product",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MA",
+            "CodeDescription": "Microform",
+            "CodeNotes": "Microform \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer MZ plus <ProductFormDescription> if detail is available but no other M* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MB",
+            "CodeDescription": "Microfiche",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MC",
+            "CodeDescription": "Microfilm",
+            "CodeNotes": "Roll microfilm",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MZ",
+            "CodeDescription": "Other microform",
+            "CodeNotes": "Other microform not specified by MB or MC. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PA",
+            "CodeDescription": "Miscellaneous print",
+            "CodeNotes": "Miscellaneous printed material \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer PZ plus <ProductFormDescription> if detail is available but no other P* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PB",
+            "CodeDescription": "Address book",
+            "CodeNotes": "May use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PC",
+            "CodeDescription": "Calendar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PD",
+            "CodeDescription": "Cards",
+            "CodeNotes": "Cards, flash cards (eg for teaching reading), revision cards, divination, playing or trading cards",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PE",
+            "CodeDescription": "Copymasters",
+            "CodeNotes": "Copymasters, photocopiable sheets",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PF",
+            "CodeDescription": "Diary or journal",
+            "CodeNotes": "May use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PG",
+            "CodeDescription": "Frieze",
+            "CodeNotes": "Narrow strip-shaped printed sheet used mostly for education or children\u2019s products (eg depicting alphabet, number line, procession of illustrated characters etc). Usually intended for horizontal display",
+            "IssueNumber": 0,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PH",
+            "CodeDescription": "Kit",
+            "CodeNotes": "Parts for post-purchase assembly, including card, wood or plastic parts or model components, interlocking construction blocks, beads and other crafting materials etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PI",
+            "CodeDescription": "Sheet music",
+            "CodeNotes": "May use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PJ",
+            "CodeDescription": "Postcard book or pack",
+            "CodeNotes": "Including greeting cards and packs. For bound books (usually with perforated sheets to remove cards), may use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PK",
+            "CodeDescription": "Poster",
+            "CodeNotes": "Poster for retail sale \u2013 see also XF",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PL",
+            "CodeDescription": "Record book",
+            "CodeNotes": "Record book (eg \u2018birthday book\u2019, \u2018baby book\u2019): binding unspecified; may use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PM",
+            "CodeDescription": "Wallet or folder",
+            "CodeNotes": "Wallet, folder or box (containing loose sheets etc, or empty): it is preferable to code the contents and treat \u2018wallet\u2019 (or folder \/ box) as packaging in <ProductPackaging> with Codelist 80, but if this is not possible (eg where the product is empty and intended for storing other loose items) the product as a whole may be coded as a \u2018wallet\u2019. For binders intended for loose leaf or partwork publications intended to be updateable, see codes BD, BN",
+            "IssueNumber": 0,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PN",
+            "CodeDescription": "Pictures or photographs",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PO",
+            "CodeDescription": "Wallchart",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PP",
+            "CodeDescription": "Stickers",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PQ",
+            "CodeDescription": "Plate (l\u00e1mina)",
+            "CodeNotes": "A book-sized (as opposed to poster-sized) sheet, usually in color or high quality print",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PR",
+            "CodeDescription": "Notebook \/ blank book",
+            "CodeNotes": "A book with all pages blank for the buyer\u2019s own use; may use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PS",
+            "CodeDescription": "Organizer",
+            "CodeNotes": "May use <ProductFormDetail> codes P201 to P204 to specify binding",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PT",
+            "CodeDescription": "Bookmark",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PU",
+            "CodeDescription": "Leaflet",
+            "CodeNotes": "Folded but unbound",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PV",
+            "CodeDescription": "Book plates",
+            "CodeNotes": "Ex libris\u2019 book labels and packs",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PZ",
+            "CodeDescription": "Other printed item",
+            "CodeNotes": "Other printed item not specified by PB to PQ. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SA",
+            "CodeDescription": "Multiple-component retail product",
+            "CodeNotes": "Presentation unspecified: format of product components must be given in <ProductPart>. Use only when the packaging of the product is unknown, or when no other S* code applies and the presentation is described in <ProductFormDescription>",
+            "IssueNumber": 9,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SB",
+            "CodeDescription": "Multiple-component retail product, boxed",
+            "CodeNotes": "Format of product components must be given in <ProductPart>",
+            "IssueNumber": 9,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SC",
+            "CodeDescription": "Multiple-component retail product, slip-cased",
+            "CodeNotes": "Format of product components must be given in <ProductPart>",
+            "IssueNumber": 9,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SD",
+            "CodeDescription": "Multiple-component retail product, shrink-wrapped",
+            "CodeNotes": "Format of product components must be given in <ProductPart>. Use code XL for a shrink-wrapped pack for trade supply, where the retail items it contains are intended for sale individually",
+            "IssueNumber": 9,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SE",
+            "CodeDescription": "Multiple-component retail product, loose",
+            "CodeNotes": "Format of product components must be given in <ProductPart>",
+            "IssueNumber": 9,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SF",
+            "CodeDescription": "Multiple-component retail product, part(s) enclosed",
+            "CodeNotes": "Multiple component product where subsidiary product part(s) is\/are supplied as enclosures to the primary part, eg a book with a CD packaged in a sleeve glued within the back cover. Format of product components must be given in <ProductPart>",
+            "IssueNumber": 9,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SG",
+            "CodeDescription": "Multiple-component retail product, entirely digital",
+            "CodeNotes": "Multiple component product where all parts are digital, and delivered as separate files, eg a group of individual EPUB files, an EPUB with a PDF, an e-book with a license to access a range of online resources, etc. Format of product components must be given in <ProductPart>",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VA",
+            "CodeDescription": "Video",
+            "CodeNotes": "Video \u2013 detail unspecified. Use only when the form is unknown and no further detail can be provided. Prefer VZ plus <ProductFormDescription> if detail is available but no other V* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VF",
+            "CodeDescription": "Videodisc",
+            "CodeNotes": "eg Laserdisc",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VI",
+            "CodeDescription": "DVD video",
+            "CodeNotes": "DVD video: specify TV standard in <ProductFormDetail>",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VJ",
+            "CodeDescription": "VHS video",
+            "CodeNotes": "VHS videotape: specify TV standard in <ProductFormDetail>",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VK",
+            "CodeDescription": "Betamax video",
+            "CodeNotes": "Betamax videotape: specify TV standard in <ProductFormDetail>",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VL",
+            "CodeDescription": "VCD",
+            "CodeNotes": "VideoCD",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VM",
+            "CodeDescription": "SVCD",
+            "CodeNotes": "Super VideoCD",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VN",
+            "CodeDescription": "HD DVD",
+            "CodeNotes": "High definition DVD disc, Toshiba HD DVD format",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VO",
+            "CodeDescription": "Blu-ray",
+            "CodeNotes": "High definition DVD disc, Sony Blu-ray format",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VP",
+            "CodeDescription": "UMD Video",
+            "CodeNotes": "Sony Universal Media disc",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VQ",
+            "CodeDescription": "CBHD",
+            "CodeNotes": "China Blue High-Definition, derivative of HD-DVD",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VZ",
+            "CodeDescription": "Other video format",
+            "CodeNotes": "Other video format not specified by VB to VQ. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XA",
+            "CodeDescription": "Trade-only material",
+            "CodeNotes": "Trade-only material (unspecified). Use only when the form is unknown and no further detail can be provided. Prefer XZ plus <ProductFormDescription> if detail is available but no other X* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XB",
+            "CodeDescription": "Dumpbin \u2013 empty",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XC",
+            "CodeDescription": "Dumpbin \u2013 filled",
+            "CodeNotes": "Dumpbin with contents. ISBN (where applicable) and format of contained items must be given in <ProductPart>",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XD",
+            "CodeDescription": "Counterpack \u2013 empty",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XE",
+            "CodeDescription": "Counterpack \u2013 filled",
+            "CodeNotes": "Counterpack with contents. ISBN (where applicable) and format of contained items must be given in <ProductPart>",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XF",
+            "CodeDescription": "Poster, promotional",
+            "CodeNotes": "Promotional poster for display, not for sale \u2013 see also PK",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XG",
+            "CodeDescription": "Shelf strip",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XH",
+            "CodeDescription": "Window piece",
+            "CodeNotes": "Promotional piece for shop window display",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XI",
+            "CodeDescription": "Streamer",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XJ",
+            "CodeDescription": "Spinner \u2013 empty",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XK",
+            "CodeDescription": "Large book display",
+            "CodeNotes": "Large scale facsimile of book for promotional display",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XL",
+            "CodeDescription": "Shrink-wrapped pack",
+            "CodeNotes": "A quantity pack with its own product code, usually for trade supply only: the retail items it contains are intended for sale individually. ISBN (where applicable) and format of contained items must be given in <ProductPart>. For products or product bundles supplied individually shrink-wrapped for retail sale, use code SD",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XM",
+            "CodeDescription": "Boxed pack",
+            "CodeNotes": "A quantity pack with its own product code, usually for trade supply only: the retail items it contains are intended for sale individually. ISBN (where applicable) and format of contained items must be given in <ProductPart>. For products or product bundles boxed individually for retail sale, use code SB",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XN",
+            "CodeDescription": "Pack (outer packaging unspecified)",
+            "CodeNotes": "A quantity pack with its own product code, usually for trade supply only: the retail items it contains are intended for sale individually. ISBN (where applicable) and format of contained items must be given in <ProductPart>. Use only when the pack is neither shrinp-wrapped nor boxed",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XO",
+            "CodeDescription": "Spinner \u2013 filled",
+            "CodeNotes": "Spinner with contents. ISBN(s) (where applicable) and detail of contained items must be given in <ProductPart>",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XY",
+            "CodeDescription": "Other point of sale \u2013 including retail product",
+            "CodeNotes": "Other point of sale material not specified by XB to XO, supplied with included product(s) for retail sale. The retail product(s) must be described in <ProductPart>. Further detail of the POS material is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 51,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XZ",
+            "CodeDescription": "Other point of sale",
+            "CodeNotes": "Other point of sale material not specified by XB to XY, promotional or decorative. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZA",
+            "CodeDescription": "General merchandise",
+            "CodeNotes": "General merchandise, book accessories and non-book products \u2013 unspecified. Use only when the form is unknown and no further detail can be provided. Prefer ZX, ZY or ZZ, plus <ProductFormDescription> if detail is available but no other Z* code applies",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZB",
+            "CodeDescription": "Doll or figure",
+            "CodeNotes": "Including action figures, figurines",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZC",
+            "CodeDescription": "Soft toy",
+            "CodeNotes": "Soft or plush toy",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZD",
+            "CodeDescription": "Toy",
+            "CodeNotes": "Including educational toys (where no other code is relevant)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZE",
+            "CodeDescription": "Game",
+            "CodeNotes": "Board game, or other game (except computer game: see DE and other D* codes)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZF",
+            "CodeDescription": "T-shirt",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZG",
+            "CodeDescription": "E-book reader",
+            "CodeNotes": "Dedicated e-book reading device, typically with mono screen",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZH",
+            "CodeDescription": "Tablet computer",
+            "CodeNotes": "General purpose tablet computer, typically with color screen",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZI",
+            "CodeDescription": "Audiobook player",
+            "CodeNotes": "Dedicated audiobook player device, typically including book-related features like bookmarking",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZJ",
+            "CodeDescription": "Jigsaw",
+            "CodeNotes": "Jigsaw or similar \u2018shapes\u2019 puzzle",
+            "IssueNumber": 25,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZK",
+            "CodeDescription": "Mug",
+            "CodeNotes": "For example, branded, promotional or tie-in drinking mug, cup etc",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZL",
+            "CodeDescription": "Tote bag",
+            "CodeNotes": "For example, branded, promotional or tie-in bag",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZM",
+            "CodeDescription": "Tableware",
+            "CodeNotes": "For example, branded, promotional or tie-in plates, bowls etc (note for mugs and cups, use code ZK)",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZN",
+            "CodeDescription": "Umbrella",
+            "CodeNotes": "For example, branded, promotional or tie-in umbrella",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZO",
+            "CodeDescription": "Paints, crayons, pencils",
+            "CodeNotes": "Coloring set, including pens, chalks, etc",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZP",
+            "CodeDescription": "Handicraft kit",
+            "CodeNotes": "Handicraft kit or set, eg sewing, crochet, weaving, basketry, beadwork, leather, wood or metalworking, pottery and glassworking, candlemaking etc",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZX",
+            "CodeDescription": "Other toy\/game accessories",
+            "CodeNotes": "Other toy, game and puzzle items not specified by ZB to ZQ, generally accessories to other products etc. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZY",
+            "CodeDescription": "Other apparel",
+            "CodeNotes": "Other apparel items not specified by ZB to ZQ, including branded, promotional or tie-in scarves, caps, aprons, dress-up costumes etc. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 25,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZ",
+            "CodeDescription": "Other merchandise",
+            "CodeNotes": "Other branded, promotional or tie-in merchandise not specified by ZB to ZY. Further detail is expected in <ProductFormDescription>, as <ProductFormDetail> and <ProductFormFeature> are unlikely to be sufficient",
+            "IssueNumber": 0,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

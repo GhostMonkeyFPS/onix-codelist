@@ -1,0 +1,415 @@
+{
+    "CodeListNumber": 81,
+    "CodeListDescription": "Product content type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Text",
+            "CodeNotes": "Readable text of the main content: this value is required, together with applicable <ProductForm> and <ProductFormDetail> values, to designate an e-book or other digital or physical product whose primary content is text. Note \u2018text\u2019 is \u2018text-as-text\u2019, not \u2018text as an image\u2019 or images of text",
+            "IssueNumber": 9,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Extensive links between internal content",
+            "CodeNotes": "E-publication contains a significant number of actionable (clickable) cross-references, hyperlinked notes and annotations, or with other actionable links between largely textual elements (eg quiz\/test questions, \u2018choose your own ending\u2019 etc)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Extensive links to external content",
+            "CodeNotes": "E-publication contains a significant number of actionable (clickable) web links to external content, downloadable resources, supplementary material, etc",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Links to external interactive content",
+            "CodeNotes": "Publication contains actionable (clickable) links to external interactive content. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Additional text not part of main content",
+            "CodeNotes": "Publication contains additional textual content such as an interview, feature article, essay, bibliography, quiz\/test, other background material, or text that is not included in a primary or \u2018unenhanced\u2019 version. Note \u2018text\u2019 is \u2018text-as-text\u2019, not \u2018text as an image\u2019 or images of text",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Text within images ",
+            "CodeNotes": "Including text-as-text embedded in diagrams, charts, or within images containing speech balloons, thought bubbles, captions etc. Note this does not include \u2018text as an image\u2019 or images of text (for which see code 49). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Additional eye-readable links to external content",
+            "CodeNotes": "Publication contains a significant number of web links (printed URLs, QR codes etc). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Promotional text for other book product",
+            "CodeNotes": "Publication contains supplementary text as promotional content such as, for example, a teaser chapter",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Musical notation",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Still images \/ graphics",
+            "CodeNotes": "Includes any type of illustrations. Use only when no more detailed specification is provided",
+            "IssueNumber": 2,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Photographs",
+            "CodeNotes": "Whether in a plate section \/ insert, or not",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Figures, diagrams, charts, graphs",
+            "CodeNotes": "Including other \u2018mechanical\u2019 (ie non-photographic) illustrations",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Additional images \/ graphics not part of main work",
+            "CodeNotes": "Publication is enhanced with additional images or graphical content such as supplementary photographs that are not included in a primary or \u2018unenhanced\u2019 version",
+            "IssueNumber": 13,
+            "ModifiedNumber": 37,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Maps and\/or other cartographic content",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Chemical content",
+            "CodeNotes": "Indicates that the publication contains chemical notations, formulae. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Mathematical content",
+            "CodeNotes": "Indicates that the publication contains mathematical notation, equations, formulae. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Decorative images or graphics",
+            "CodeNotes": "Publication contains visual content that is purely decorative and are not necessary to understanding of the content. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Assessment material",
+            "CodeNotes": "eg Questions or student exercises, problems, quizzes or tests (as an integral part of the work). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Audiobook",
+            "CodeNotes": "Audio recording of a reading of a book or other text",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Performance \u2013 spoken word",
+            "CodeNotes": "Audio recording of a drama or other spoken word performance",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Other speech content",
+            "CodeNotes": "eg an interview, speech, lecture or commentary \/ discussion, not a \u2018reading\u2019 or \u2018performance\u2019)",
+            "IssueNumber": 12,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Music recording",
+            "CodeNotes": "Audio recording of a music performance, including musical drama and opera",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Other audio",
+            "CodeNotes": "Audio recording of other sound, eg birdsong, sound effects, ASMR material",
+            "IssueNumber": 2,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "Images of text",
+            "CodeNotes": "At least some text \u2013 including text within other images \u2013 is \u2018text as an image\u2019 (ie a picture of text). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Partial performance \u2013 spoken word",
+            "CodeNotes": "Audio recording of a reading, performance or dramatization of part of the work",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Additional audio content not part of main content",
+            "CodeNotes": "Product includes additional pre-recorded audio of any supplementary material such as full or partial reading, lecture, performance, dramatization, interview, background documentary or other audio content not included in the primary or \u2018unenhanced\u2019 version",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Promotional audio for other book product",
+            "CodeNotes": "eg Reading of teaser chapter",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Video",
+            "CodeNotes": "Includes Film, video, animation etc. Use only when no more detailed specification is provided. Formerly \u2018Moving images\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Video recording of a reading",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Video content without audio",
+            "CodeNotes": "Publication contains video material with no audio recording or narration (but may have music or textual subtitles) . Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Performance \u2013 visual",
+            "CodeNotes": "Video recording of a drama or other performance, including musical performance",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Animated \/ interactive illustrations",
+            "CodeNotes": "eg animated diagrams, charts, graphs or other illustrations (usually without sound)",
+            "IssueNumber": 13,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Narrative animation",
+            "CodeNotes": "eg cartoon, animatic or CGI animation (usually includes sound)",
+            "IssueNumber": 13,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Other video",
+            "CodeNotes": "Other video content eg interview, not a reading or performance",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Partial performance \u2013 video",
+            "CodeNotes": "Video recording of a reading, performance or dramatization of part of the work",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Additional video content not part of main work",
+            "CodeNotes": "E-publication is enhanced with video recording of full or partial reading, performance, dramatization, interview, background documentary or other content not included in the primary or \u2018unenhanced\u2019 version",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Promotional video for other book product",
+            "CodeNotes": "eg Book trailer",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Game \/ Puzzle",
+            "CodeNotes": "No multi-user functionality. Formerly just \u2018Game\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Contest",
+            "CodeNotes": "Includes some degree of multi-user functionality",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Software",
+            "CodeNotes": "Largely \u2018content free\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Data",
+            "CodeNotes": "Data files",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Data set plus software",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Blank pages or spaces",
+            "CodeNotes": "Entire pages or blank spaces, forms, boxes, write-in pages etc, intended to be filled in by the reader",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Advertising content",
+            "CodeNotes": "Use only where type of advertising content is not stated",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Advertising \u2013 first party",
+            "CodeNotes": "\u2018Back ads\u2019 \u2013 promotional content for other books (that does not include sample content of those books, cf codes 17, 23)",
+            "IssueNumber": 13,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "Advertising \u2013 coupons",
+            "CodeNotes": "Eg to obtain discounts on other products",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "Advertising \u2013 third party display",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "Advertising \u2013 third party textual",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Scripting",
+            "CodeNotes": "E-publication contains microprograms written (eg) in Javascript and executed within the reading system. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Scripted pop-ups",
+            "CodeNotes": "E-publication contains pop-ups or other functionality offering (eg) term definitions, cross-links or glossary entries [Note this should not include (eg) dictionary functionality that is part of the reading system.] Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Sequential art",
+            "CodeNotes": "Or pictorial narrative, usually panel-based. Images displayed in a specific order for the purpose of graphic storytelling or giving information (eg graphic novels, comics and manga). May include text integrated into the image (as speech and thought bubbles, textual \u2018sound\u2019 effects, captions etc). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

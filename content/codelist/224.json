@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 224,
+    "CodeListDescription": "Status detail type severity",
+    "IssueNumber": 28,
+    "Code": [
+        {
+            "CodeValue": "U",
+            "CodeDescription": "Unclassifiable",
+            "CodeNotes": "Use ONLY if the message severity cannot be determined (eg with a legacy system unable to provide detailed error codes)",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "I",
+            "CodeDescription": "Info",
+            "CodeNotes": "For information only, provided to encourage the ONIX data supplier to improve the quality of their data (eg provision of a non-mandatory data element that is currently missing, better conformity with best practice, etc)",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Q",
+            "CodeDescription": "Query",
+            "CodeNotes": "Request for clarification or further detail of the meaning of the data provided",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "W",
+            "CodeDescription": "Warning",
+            "CodeNotes": "The ONIX data has been accepted as provided, but there may be issues in the way it is supplied",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E",
+            "CodeDescription": "Error",
+            "CodeNotes": "Some data in an ONIX data element or message structure caused an error due to not meeting the requirements of the standard. The data in question has been rejected, but processing of the remaining elements in the record (or the remain records in the message, if used within <MessageStatusDetail>) has continued",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "F",
+            "CodeDescription": "Fatal error",
+            "CodeNotes": "Some data in an ONIX data element or message structure caused an unrecoverable error due to not meeting the requirements of the standard. The entire ONIX record has been rejected (or the entire message, if used within <MessageStatusDetail>)",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "CodeListNumber": 34,
+    "CodeListDescription": "Text format",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "02",
+            "CodeDescription": "HTML",
+            "CodeNotes": "Other than XHTML",
+            "IssueNumber": 0,
+            "ModifiedNumber": 2,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "XML",
+            "CodeNotes": "Other than XHTML",
+            "IssueNumber": 0,
+            "ModifiedNumber": 2,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "XHTML",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Default text format",
+            "CodeNotes": "Default: plain text containing no markup tags of any kind, except for the character entities &amp; and &lt; that XML insists must be used to represent ampersand and less-than characters in textual data, and in the encoding declared at the head of the message or in the XML default (UTF-8 or UTF-16) if there is no explicit declaration",
+            "IssueNumber": 4,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Basic ASCII text",
+            "CodeNotes": "Plain text containing no markup tags of any kind, except for the character entities &amp; and &lt; that XML insists must be used to represent ampersand and less-than characters in textual data, and with the character set limited to the ASCII range, i.e. valid characters whose Unicode character numbers lie between 32 (space) and 126 (tilde)",
+            "IssueNumber": 4,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

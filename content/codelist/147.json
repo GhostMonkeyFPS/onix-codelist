@@ -1,0 +1,255 @@
+{
+    "CodeListNumber": 147,
+    "CodeListDescription": "Unit of usage",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Copies",
+            "CodeNotes": "Maximum number of copies that may be made of a permitted extract",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Characters",
+            "CodeNotes": "Maximum number of characters in a permitted extract for a specified usage",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Words",
+            "CodeNotes": "Maximum number of words in a permitted extract for a specified usage",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Pages",
+            "CodeNotes": "Maximum number of pages in a permitted extract for a specified usage",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Percentage",
+            "CodeNotes": "Maximum percentage of total content in a permitted extract for a specified usage",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Devices",
+            "CodeNotes": "Maximum number of devices in \u2018share group\u2019",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Concurrent users",
+            "CodeNotes": "Maximum number of concurrent users. NB where the number of concurrent users is specifically not limited, set the number of concurrent users to zero",
+            "IssueNumber": 9,
+            "ModifiedNumber": 15,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Users",
+            "CodeNotes": "Maximum number of licensed individual users, independent of concurrency of use",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Concurrent classes",
+            "CodeNotes": "Maximum number of licensed concurrent classes of user. A \u2018class\u2019 is a group of learners attending a specific course or lesson and generally taught as a group",
+            "IssueNumber": 45,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Classes",
+            "CodeNotes": "Maximum number of licensed classes of learners, independent of concurrency of use and the number of users per class",
+            "IssueNumber": 45,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Institutions",
+            "CodeNotes": "Maximum number of licensed institutions, independend of concurrency of use and the number of classes or individuals per institution",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Percentage per time period",
+            "CodeNotes": "Maximum percentage of total content which may be used in a specified usage per time period; the time period being specified as another <EpubUsageLimit> Quantity",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Days",
+            "CodeNotes": "Maximum time period in days (beginning from product purchase or activation)",
+            "IssueNumber": 11,
+            "ModifiedNumber": 36,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Weeks",
+            "CodeNotes": "Maximum time period in weeks",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Months",
+            "CodeNotes": "Maximum time period in months",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Hours minutes and seconds",
+            "CodeNotes": "Maximum amount of time in hours, minutes and seconds allowed in a permitted extract for a specified usage, in the format HHHMMSS (7 digits, with leading zeros if necessary)",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Days (fixed start)",
+            "CodeNotes": "Maximum time period in days (beginning from the product publication date). In effect, this defines a fixed end date for the license independent of the purchase or activation date",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Weeks (fixed start)",
+            "CodeNotes": "Maximum time period in weeks",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Months (fixed start)",
+            "CodeNotes": "Maximum time period in months",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Times",
+            "CodeNotes": "Maximum number of times a specified usage event may occur (in the lifetime of the product)",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Times per day",
+            "CodeNotes": "Maximum frequency a specified usage event may occur (per day)",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Times per month",
+            "CodeNotes": "Maximum frequency a specified usage event may occur (per month)",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Times per year",
+            "CodeNotes": "Maximum frequency a specified usage event may occur (per year)",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Dots per inch",
+            "CodeNotes": "Maximum resolution of printed or copy\/pasted extracts",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Dots per cm",
+            "CodeNotes": "Maximum resolution of printed or copy\/pasted extracts",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Allowed usage start page",
+            "CodeNotes": "Page number where allowed usage begins. <Quantity> should contain an absolute page number, counting the cover as page 1. (This type of page numbering should not be used where the e-publication has no fixed pagination). Use with (max number of) Pages, Percentage of content, or End page to specify pages allowed in Preview",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Allowed usage end page",
+            "CodeNotes": "Page number at which allowed usage ends. <Quantity> should contain an absolute page number, counting the cover as page 1. (This type of page numbering should not be used where the e-publication has no fixed pagination). Use with Start page to specify pages allowed in a preview",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Allowed usage start time",
+            "CodeNotes": "Time at which allowed usage begins. <Quantity> should contain an absolute time, counting from the beginning of an audio or video product, in the format HHHMMSS or HHHMMSScc. Use with Time, Percentage of content, or End time to specify time-based extract allowed in Preview",
+            "IssueNumber": 42,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Allowed usage end time",
+            "CodeNotes": "Time at which allowed usage ends. <Quantity> should contain an absolute time, counting from the beginning of an audio or video product, in the format HHHMMSS or HHHMMSScc. Use with Start time to specify time-based extract allowed in Preview",
+            "IssueNumber": 42,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "98",
+            "CodeDescription": "Valid from",
+            "CodeNotes": "The date from which the usage constraint applies. <Quantity> is in the format YYYYMMDD",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "Valid to",
+            "CodeNotes": "The date until which the usage constraint applies. <Quantity> is in the format YYYYMMDD",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

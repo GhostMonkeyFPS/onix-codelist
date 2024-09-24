@@ -1,0 +1,223 @@
+{
+    "CodeListNumber": 99,
+    "CodeListDescription": "Special cover material",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Berkshire leather",
+            "CodeNotes": "Pigskin",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Calfskin",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "French Morocco",
+            "CodeNotes": "Calf split or sheep split",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Morocco",
+            "CodeNotes": "Goatskin",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Bonded buffalo grain",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Bonded calf grain",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Bonded Cordova",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Bonded eelskin",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Bonded Ostraleg",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Bonded ostrich",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Bonded reptile grain",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Bonded leather",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Cowhide",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Eelskin",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Kivar",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Leatherflex",
+            "CodeNotes": "An imitation leather binding material",
+            "IssueNumber": 2,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Moleskin",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Softhide leather",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Metal",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Velvet",
+            "CodeNotes": "(de: \u2018Samt\u2019)",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Mother-of-pearl",
+            "CodeNotes": "(es: \u2018n\u00e1car\u2019)",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Papyrus",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "G\u00e9ltex \/ Wibalin",
+            "CodeNotes": "Proprietary imitation cloth binding material, cellulose-based, usually embossed \/ textured",
+            "IssueNumber": 6,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Guaflex \/ Skivertex",
+            "CodeNotes": "Proprietary imitation leather binding material, cellulose-based, usually embossed \/ textured",
+            "IssueNumber": 6,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Imitation leather",
+            "CodeNotes": "An imitation made of any non-leather material",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Pigskin",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Goatskin",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

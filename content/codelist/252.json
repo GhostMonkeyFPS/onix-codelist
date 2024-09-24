@@ -1,0 +1,199 @@
+{
+    "CodeListNumber": 252,
+    "CodeListDescription": "Resource file detail code",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "A410",
+            "CodeDescription": "Mono",
+            "CodeNotes": "Includes \u2018stereo\u2019 where channels are identical",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A411",
+            "CodeDescription": "22.05kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A412",
+            "CodeDescription": "44.1kHz",
+            "CodeNotes": "44,100 samples per channel per second (CD-quality)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A413",
+            "CodeDescription": "48kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A414",
+            "CodeDescription": "88.2kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A415",
+            "CodeDescription": "96kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A416",
+            "CodeDescription": "16-bits per sample",
+            "CodeNotes": "Bit depth, 16 bits per sample (CD-quality)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A417",
+            "CodeDescription": "20-bits per sample",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A418",
+            "CodeDescription": "24-bits per sample",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A419",
+            "CodeDescription": "32-bits per sample (FP)",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A420",
+            "CodeDescription": "Stereo",
+            "CodeNotes": "Includes \u2018joint stereo\u2019",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A421",
+            "CodeDescription": "Stereo 2.1",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A422",
+            "CodeDescription": "ID3v1",
+            "CodeNotes": "Includes v1.1",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A423",
+            "CodeDescription": "ID3v2",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A441",
+            "CodeDescription": "Surround 4.1",
+            "CodeNotes": "Five-channel audio (including low-frequency channel)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A451",
+            "CodeDescription": "Surround 5.1",
+            "CodeNotes": "Six-channel audio (including low-frequency channel)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B001",
+            "CodeDescription": "With crop marks",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B002",
+            "CodeDescription": "Without crop marks",
+            "CodeNotes": "If page size of the resource file is not equal to final trimmed page size of the product (in <Measure>, then text or image area should be centred on final pages. Note that content may not bleed to the trimmed page edge",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B003",
+            "CodeDescription": "Monochrome",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B004",
+            "CodeDescription": "Preseparated \u2013 2 channels",
+            "CodeNotes": "Two pages in the resource file represent a single page in the product",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B005",
+            "CodeDescription": "Preseparated \u2013 3 channels",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B006",
+            "CodeDescription": "Preseparated \u2013 4 channels",
+            "CodeNotes": "For example, preseparated CMYK",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B010",
+            "CodeDescription": "Composite (CMYK)",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B011",
+            "CodeDescription": "Composite (RGB)",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

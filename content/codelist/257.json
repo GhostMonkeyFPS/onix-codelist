@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 257,
+    "CodeListDescription": "Paper color",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "BRW",
+            "CodeDescription": "Bright white",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WHI",
+            "CodeDescription": "White",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OFW",
+            "CodeDescription": "Off white",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CRE",
+            "CodeDescription": "Cream",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

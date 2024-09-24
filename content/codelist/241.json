@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 241,
+    "CodeListDescription": "AV Item Identifier type",
+    "IssueNumber": 43,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "For example, a publisher\u2019s own identifier. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "GTIN-13",
+            "CodeNotes": "Formerly known as the EAN-13 (unhyphenated)",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "Digital Object Identifier (variable length and character set, beginning \u201810.\u2019 and without https:\/\/doi.org\/ or the older http:\/\/dx.doi.org\/)",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "IMDB",
+            "CodeNotes": "Motion picture work identifier from the International Movie Database",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "ISRC",
+            "CodeNotes": "International Standard Recording Code, 5 alphanumeric characters plus 7 digits",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "ISAN",
+            "CodeNotes": "International Standard Audiovisual Number (17 or 26 characters \u2013 16 or 24 hexadecimal digits, plus one or two alphanumeric check characters, and without spaces or hyphens)",
+            "IssueNumber": 43,
+            "ModifiedNumber": 46,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "EIDR DOI",
+            "CodeNotes": "Entertainment Identifier Registry DOI",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

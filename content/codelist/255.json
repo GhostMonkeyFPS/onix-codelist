@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 255,
+    "CodeListDescription": "Insert point type",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "ALP",
+            "CodeDescription": "Adjacent to logical page",
+            "CodeNotes": "Insert appears after an even numbered or before an odd numbered logical page. <InsertPointValue> is an integer page number",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "APP",
+            "CodeDescription": "Adjacent to physical page",
+            "CodeNotes": "Insert appears after an even numbered or before an odd numbered printed page number. <InsertPointValue> is an integer page number",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ATC",
+            "CodeDescription": "At timecode",
+            "CodeNotes": "Insert appears in the body at a specific timecode (hours, minutes, seconds, counted from the beginning of the product before any inserts are added). <InsertPointValue> is in the format HHHMMSS. Fill with leading zeroes if any elements are missing. If centisecond precision is required, use HHHMMSScc",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AHL",
+            "CodeDescription": "Adjacent to HTML label",
+            "CodeNotes": "Insert appears before the block-level HTML element \u2013 &lt;InsertPointValue> is the value of the id or name attribute of the block-level element (which must be unique within the body of the product)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "CodeListNumber": 97,
+    "CodeListDescription": "Bible text feature",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "RL",
+            "CodeDescription": "Red letter",
+            "CodeNotes": "Words spoken by Christ are printed in red",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

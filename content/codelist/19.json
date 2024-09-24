@@ -1,0 +1,79 @@
+{
+    "CodeListNumber": 19,
+    "CodeListDescription": "Unnamed person(s)",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Unknown",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Anonymous",
+            "CodeNotes": "Note that Anonymous can be interpreted as singular or plural. A real name can be provided using <AlternativeName> where it is generally known",
+            "IssueNumber": 0,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "et al",
+            "CodeNotes": "And others. Use when some but not all contributors are listed",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Various",
+            "CodeNotes": "When there are multiple contributors, and none are listed individually. Use for example when the product is a pack of books by different authors",
+            "IssueNumber": 1,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Synthesised voice \u2013 male",
+            "CodeNotes": "Use with Contributor role code E07 \u2018read by\u2019, eg for audio books with digital narration",
+            "IssueNumber": 8,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Synthesised voice \u2013 female",
+            "CodeNotes": "Use with Contributor role code E07 \u2018read by\u2019, eg for audio books with digital narration",
+            "IssueNumber": 8,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Synthesised voice \u2013 unspecified",
+            "CodeNotes": "Use with Contributor role code E07 \u2018read by\u2019, eg for audio books with digital narration",
+            "IssueNumber": 8,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Synthesised voice \u2013 based on real voice actor",
+            "CodeNotes": "Use with Contributor role code E07 \u2018read by\u2019, eg for audio books with digital narration, and provide name of voice actor in <AlternativeName>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "AI (Artificial intelligence)",
+            "CodeNotes": "Use when the creator (of text, of images etc) is a generative AI model or technique. Note, can also be combined with the role \u2018assisted by\u2019. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

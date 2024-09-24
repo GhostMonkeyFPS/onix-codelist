@@ -1,0 +1,159 @@
+{
+    "CodeListNumber": 77,
+    "CodeListDescription": "US and Canada (excluding Qu\u00e9bec) school or college grade",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "P",
+            "CodeDescription": "Preschool",
+            "CodeNotes": "Age typically 0-4 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "K",
+            "CodeDescription": "Kindergarten",
+            "CodeNotes": "Age typically 5 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "1",
+            "CodeDescription": "First Grade",
+            "CodeNotes": "Age typically 6 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "2",
+            "CodeDescription": "Second Grade",
+            "CodeNotes": "Age typically 7 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "3",
+            "CodeDescription": "Third Grade",
+            "CodeNotes": "Age typically 8 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "4",
+            "CodeDescription": "Fourth Grade",
+            "CodeNotes": "Age typically 9 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "5",
+            "CodeDescription": "Fifth Grade",
+            "CodeNotes": "Age typically 10 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "6",
+            "CodeDescription": "Sixth Grade",
+            "CodeNotes": "Age typically 11 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "7",
+            "CodeDescription": "Seventh Grade",
+            "CodeNotes": "Age typically 12 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "8",
+            "CodeDescription": "Eighth Grade",
+            "CodeNotes": "Age typically 13 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "9",
+            "CodeDescription": "Ninth Grade",
+            "CodeNotes": "High School Freshman \u2013 age typically 14 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Tenth Grade",
+            "CodeNotes": "High School Sophomore \u2013 age typically 15 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Eleventh Grade",
+            "CodeNotes": "High School Junior \u2013 age typically 16 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Twelfth Grade",
+            "CodeNotes": "High School Senior \u2013 age typically 17 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "College Freshman",
+            "CodeNotes": "Age typically 18 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "College Sophomore",
+            "CodeNotes": "Age typically 19 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "College Junior",
+            "CodeNotes": "Age typically 20 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "College Senior",
+            "CodeNotes": "Age typically 21 years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "College Graduate Student",
+            "CodeNotes": "Age typically 22+ years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 260,
+    "CodeListDescription": "Epublication license date role",
+    "IssueNumber": 60,
+    "Code": [
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Valid from",
+            "CodeNotes": "Date on which a license becomes effective",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Valid until",
+            "CodeNotes": "Date on which a license ceases to be effective",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "From\u2026 until date",
+            "CodeNotes": "Combines From date and Until date to define a period (both dates are inclusive). Use for example with dateformat 06",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

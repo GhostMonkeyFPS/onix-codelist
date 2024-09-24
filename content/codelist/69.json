@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 69,
+    "CodeListDescription": "Agent role",
+    "IssueNumber": 3,
+    "Code": [
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Exclusive sales agent",
+            "CodeNotes": "Publisher\u2019s exclusive sales agent in a specified territory",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Non-exclusive sales agent",
+            "CodeNotes": "Publisher\u2019s non-exclusive sales agent in a specified territory",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Local publisher",
+            "CodeNotes": "Publisher for a specified territory",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Sales agent",
+            "CodeNotes": "Publisher\u2019s sales agent in a specific territory. Use only where exclusive \/ non-exclusive status is not known. Prefer 05 or 06 as appropriate, where possible",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

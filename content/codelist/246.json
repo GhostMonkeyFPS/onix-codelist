@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 246,
+    "CodeListDescription": "Event status",
+    "IssueNumber": 47,
+    "Code": [
+        {
+            "CodeValue": "A",
+            "CodeDescription": "Announced",
+            "CodeNotes": "",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C",
+            "CodeDescription": "Cancelled",
+            "CodeNotes": "Abandoned after having previously been announced",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

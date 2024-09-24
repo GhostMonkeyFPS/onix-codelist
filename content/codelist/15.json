@@ -1,0 +1,135 @@
+{
+    "CodeListNumber": 15,
+    "CodeListDescription": "Title type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Undefined",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Distinctive title (book); Cover title (serial); Title of content item, collection, or resource",
+            "CodeNotes": "The full text of the distinctive title of the item, without abbreviation or abridgement. For books, generally taken from the title page (see codes 11\u201315 where an alternative title is provided on cover or spine). Where the item is an omnibus edition containing two or more works by the same author, and there is no separate combined title, a distinctive title may be constructed (by the sender) by concatenating the individual titles, with suitable punctuation, as in \u2018Pride and prejudice \/ Sense and sensibility \/ Northanger Abbey\u2019. Where the title alone is not distinctive, recipients may add elements taken from a collection title and part number etc to create a distinctive title \u2013 but these elements should be provided separately by the sender",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "ISSN key title of serial",
+            "CodeNotes": "Serials only",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Title in original language",
+            "CodeNotes": "Where the subject of the ONIX record is a translated item",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Title acronym or initialism",
+            "CodeNotes": "For serials: an acronym or initialism of Title Type 01, eg \u2018JAMA\u2019, \u2018JACM\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Abbreviated title",
+            "CodeNotes": "An abbreviated form of Title Type 01",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Title in other language",
+            "CodeNotes": "A translation of Title Type 01 or 03, or an independent title, used when the work is translated into another language, sometimes termed a \u2018parallel title\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Thematic title of journal issue",
+            "CodeNotes": "Serials only: when a journal issue is explicitly devoted to a specified topic",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Former title",
+            "CodeNotes": "Books or serials: when an item was previously published under another title",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Distributor\u2019s title",
+            "CodeNotes": "For books: the title carried in a book distributor\u2019s title file: frequently incomplete, and may include elements not properly part of the title",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Alternative title on cover",
+            "CodeNotes": "An alternative title that appears on the cover of a book",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Alternative title on back",
+            "CodeNotes": "An alternative title that appears on the back of a book",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Expanded title",
+            "CodeNotes": "An expanded form of the title, eg the title of a school text book with grade and type and other details added to make the title meaningful, where otherwise it would comprise only the curriculum subject. This title type is required for submissions to the Spanish ISBN Agency",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Alternative title",
+            "CodeNotes": "An alternative title that the book is widely known by, whether it appears on the book or not (including a title used in another market \u2013\u00a0but see code 06 for translations)",
+            "IssueNumber": 25,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Alternative title on spine",
+            "CodeNotes": "An alternative title that appears on the spine of a book. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Translated from title",
+            "CodeNotes": "Where the subject of the ONIX record is a translated item, but has been translated via some intermediate language. Title type 16 is distinct from title type 03. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

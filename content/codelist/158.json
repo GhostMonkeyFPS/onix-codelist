@@ -1,0 +1,431 @@
+{
+    "CodeListNumber": 158,
+    "CodeListDescription": "Resource content type",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Front cover",
+            "CodeNotes": "2D",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Back cover",
+            "CodeNotes": "2D",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Cover \/ pack",
+            "CodeNotes": "Not limited to front or back, including 3D perspective",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Contributor picture",
+            "CodeNotes": "Photograph or portrait of contributor(s)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Series image \/ artwork",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Series logo",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Product image \/ artwork",
+            "CodeNotes": "For example, an isolated image from the front cover (without text), image of a completed jigsaw",
+            "IssueNumber": 10,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Product logo",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Publisher logo",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Imprint logo",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Contributor interview",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Contributor presentation",
+            "CodeNotes": "Contributor presentation and\/or commentary",
+            "IssueNumber": 10,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Contributor reading",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Contributor event schedule",
+            "CodeNotes": "Link to a schedule in iCalendar format",
+            "IssueNumber": 10,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Sample content",
+            "CodeNotes": "For example: a short excerpt, sample text or a complete sample chapter, page images, screenshots etc",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Widget",
+            "CodeNotes": "A \u2018look inside\u2019 feature presented as a small embeddable application",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Review",
+            "CodeNotes": "Review text held in a separate downloadable file, not in the ONIX record. Equivalent of code 06 in List 153. Use the <TextContent> composite for review quotes carried in the ONIX record. Use the <CitedContent> composite for a third-party review which is referenced from the ONIX record. Use <SupportingResource> for review text offered as a separate file resource for reproduction as part of promotional material for the product",
+            "IssueNumber": 10,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Commentary \/ discussion",
+            "CodeNotes": "For example a publisher\u2019s podcast episode, social media message, newsletter issue, other commentary",
+            "IssueNumber": 10,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Reading group guide",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Teacher\u2019s guide",
+            "CodeNotes": "Incuding associated teacher \/ instructor resources",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Feature article",
+            "CodeNotes": "Feature article provided by publisher",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Character \u2018interview\u2019",
+            "CodeNotes": "Fictional character \u2018interview\u2019",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Wallpaper \/ screensaver",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Press release",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Table of contents",
+            "CodeNotes": "A table of contents held in a separate downloadable file, not in the ONIX record. Equivalent of code 04 in List 153. Use the <TextContent> composite for a table of contents carried in the ONIX record. Use <Supporting Resource> for text offered as a separate file resource",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Trailer",
+            "CodeNotes": "A promotional video (or audio), similar to a movie trailer (sometimes referred to as a \u2018book trailer\u2019)",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Cover thumbnail",
+            "CodeNotes": "Intended ONLY for transitional use, where ONIX 2.1 records referencing existing thumbnail assets of unknown pixel size are being re-expressed in ONIX 3.0. Use code 01 for all new cover assets, and where the pixel size of older assets is known",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Full content",
+            "CodeNotes": "The full content of the product (or the product itself), supplied for example to support full-text search or indexing",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Full cover",
+            "CodeNotes": "Includes cover, back cover, spine and \u2013 where appropriate \u2013 any flaps",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Master brand logo",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Description",
+            "CodeNotes": "Descriptive text in a separate downloadable file, not in the ONIX record. Equivalent of code 03 in List 153. Use the <TextContent> composite for descriptions carried in the ONIX record. Use <Supporting Resource> for text offered as a separate file resource for reproduction as part of promotional material for the product",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Index",
+            "CodeNotes": "Index text held in a separate downloadable file, not in the ONIX record. Equivalent of code 15 in List 153. Use the <TextContent> composite for index text carried in the ONIX record. Use <Supporting Resource> for an index offered as a separate file resource",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Student\u2019s guide",
+            "CodeNotes": "Including associated student \/ learner resources",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Publisher\u2019s catalogue",
+            "CodeNotes": "For example a PDF or other digital representation of a publisher\u2019s \u2018new titles\u2019 or range catalog",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Online advertisement panel",
+            "CodeNotes": "For example a banner ad for the product. Pixel dimensions should typically be included in <ResourceVersionFeature>",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "Online advertisement page",
+            "CodeNotes": "(de: \u2018B\u00fahnenbild\u2019)",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Promotional event material",
+            "CodeNotes": "For example, posters, logos, banners, advertising templates for use in connection with a promotional event",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "Digital review copy",
+            "CodeNotes": "Availability of a digital review, evaluation or sample copy, or a digital proof copy, which may be limited to authorised users or account holders, but should otherwise be fully readable and functional",
+            "IssueNumber": 31,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "Instructional material",
+            "CodeNotes": "For example, video showing how to use the product",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Errata",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Introduction",
+            "CodeNotes": "Introduction, preface or other preliminary material in a separate resource file",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Collection description",
+            "CodeNotes": "Descriptive material in a separate resource file, not in the ONIX record. Equivalent of code 17 in List 153. Use the <TextContent> composite for collection descriptions carried in the ONIX record. Use <Supporting Resource> for material (which need not be solely only) offered as a separate file resource for reproduction as part of promotional material for the product and collection",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Bibliography",
+            "CodeNotes": "Complete list of books by the author(s), supplied as a separate resource file",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Abstract",
+            "CodeNotes": "Formal summary of content (normally used with academic and scholarly content only)",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Cover holding image",
+            "CodeNotes": "Image that may be used for promotional purposes in place of a front cover, ONLY where the front cover itself cannot be provided or used for any reason. Typically, holding images may comprise logos, artwork or an unfinished front cover image. Senders should ensure removal of the holding image from the record as soon as a cover image is available. Recipients must ensure replacement of the holding image with the cover image when it is supplied",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Rules or instructions",
+            "CodeNotes": "Eg for a game, kit",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Transcript",
+            "CodeNotes": "Full transcript of audio or video content of the product",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Full cast and credit list",
+            "CodeNotes": "For use with dramatised audiobooks, filmed entertainment etc, for a cast list sent as a separate resource file, not in the ONIX record. Equivalent of code 28 in List 153",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "Image for social media",
+            "CodeNotes": "Image \u2013 not specifically a cover image or artwork, contributor image, or logo \u2013 explicitly intended for use in social media",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Supplementary learning resources",
+            "CodeNotes": "Eg downloadable worksheets, home learning materials",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Cover flap",
+            "CodeNotes": "2D, front or back flap image",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "52",
+            "CodeDescription": "Warning label",
+            "CodeNotes": "Image of any warning label or hazard warning text on product or packaging",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "License",
+            "CodeNotes": "Link to a license covering permitted usage of the product content. Deprecated in favor of <EpubLicense>. This was a temporary workaround in ONIX 3.0, and use of <EpubLicense> is strongly preferred",
+            "IssueNumber": 22,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "CodeListNumber": 82,
+    "CodeListDescription": "Bible contents",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "AP",
+            "CodeDescription": "Apocrypha (Catholic canon)",
+            "CodeNotes": "The seven portions of the Apocrypha added to the Catholic canon at the Council of Trent in 1546: Tobit; Judith; Wisdom of Solomon; Sirach (Ecclesiasticus); Baruch, including the Letter of Jeremiah; I and II Maccabees; Extra portions of Esther and Daniel (Additions to Esther; the Prayer of Azariah; Song of the Three Jews; Susannah; Bel and the Dragon). These are not generally included in the Protestant canon",
+            "IssueNumber": 1,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AQ",
+            "CodeDescription": "Apocrypha (canon unspecified)",
+            "CodeNotes": "A collection of Apocryphal texts, canon not specified",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AX",
+            "CodeDescription": "Additional Apocryphal texts: Greek Orthodox canon",
+            "CodeNotes": "I Esdras; Prayer of Manasseh; Psalm 151; III Maccabees",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AY",
+            "CodeDescription": "Additional Apocryphal texts: Slavonic Orthodox canon",
+            "CodeNotes": "I and II Esdras; Prayer of Manasseh; Psalm 151; III and IV Maccabees",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AZ",
+            "CodeDescription": "Additional Apocryphal texts",
+            "CodeNotes": "Additional Apocryphal texts included in some Bible versions: I and II Esdras; Prayer of Manasseh",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GA",
+            "CodeDescription": "General canon with Apocrypha (Catholic canon)",
+            "CodeNotes": "The 66 books included in the Protestant, Catholic and Orthodox canons, together with the seven portions of the Apocrypha included in the Catholic canon. (Equivalent to OT plus NT plus AP)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GC",
+            "CodeDescription": "General canon with Apocryphal texts (canon unspecified)",
+            "CodeNotes": "The 66 books included in the Protestant, Catholic and Orthodox canons, together with Apocryphal texts, canon not specified. (Equivalent to OT plus NT plus AQ)",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GE",
+            "CodeDescription": "General canon",
+            "CodeNotes": "The 66 books included in the Protestant, Catholic and Orthodox canons, 39 from the Old Testament and 27 from the New Testament. The sequence of books may differ in different canons. (Equivalent to OT plus NT)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GS",
+            "CodeDescription": "Gospels",
+            "CodeNotes": "The books of Matthew, Mark, Luke and John",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OT",
+            "CodeDescription": "Old Testament",
+            "CodeNotes": "Those 39 books which were included in the Jewish canon by the rabbinical academy established at Jamma in 90 CE. Also known as the Jewish or Hebrew scriptures",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NT",
+            "CodeDescription": "New Testament",
+            "CodeNotes": "The 27 books included in the Christian canon through the Easter Letter of Athanasius, Bishop of Alexandria and also by a general council of the Christian church held near the end of the 4th century CE",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NP",
+            "CodeDescription": "New Testament with Psalms and Proverbs",
+            "CodeNotes": "Includes the 27 books of the New Testament plus Psalms and Proverbs from the Old Testament. Equivalent to NT plus PP)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PE",
+            "CodeDescription": "Paul\u2019s Epistles",
+            "CodeNotes": "The books containing the letters of Paul to the various early Christian churches",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PP",
+            "CodeDescription": "Psalms and Proverbs",
+            "CodeNotes": "The book of Psalms and the book of Proverbs combined",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PS",
+            "CodeDescription": "Psalms",
+            "CodeNotes": "The book of Psalms",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PT",
+            "CodeDescription": "Pentateuch",
+            "CodeNotes": "The first five books of the Bible: Genesis, Exodus, Numbers, Leviticus, Deuteronomy. Also applied to the Torah",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZ",
+            "CodeDescription": "Other portions",
+            "CodeNotes": "Selected books of either the OT or NT not otherwise noted",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

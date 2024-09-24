@@ -1,0 +1,95 @@
+{
+    "CodeListNumber": 198,
+    "CodeListDescription": "Product contact role",
+    "IssueNumber": 16,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Metadata contact",
+            "CodeNotes": "For queries and feedback concerning the metadata record itself",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Accessibility request contact",
+            "CodeNotes": "Eg for requests for supply of mutable digital files for conversion to other formats",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Promotional contact",
+            "CodeNotes": "Eg for requests relating to interviews, author events",
+            "IssueNumber": 16,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Advertising contact",
+            "CodeNotes": "Eg for co-op advertising",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Review copy contact",
+            "CodeNotes": "Eg for requests for review copies",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Evaluation copy contact",
+            "CodeNotes": "Eg for requests for approval or evaluation copies (particularly within education)",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Permissions contact",
+            "CodeNotes": "Eg for requests to reproduce or repurpose parts of the publication",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Return authorisation contact",
+            "CodeNotes": "Eg for use where authorisation must be gained from the publisher rather than the distributor or wholesaler",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "CIP \/ Legal deposit contact",
+            "CodeNotes": "Eg for legal deposit or long-term preservation",
+            "IssueNumber": 42,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Rights and licensing contact",
+            "CodeNotes": "Eg for subrights licensing, collective licensing",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Product safety contact",
+            "CodeNotes": "Eg for EU General product safety regulation (GPSR) compliance. See https:\/\/commission.europa.eu\/business-economy-euro\/product-safety-and-requirements\/product-safety\/general-product-safety-regulation_en",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

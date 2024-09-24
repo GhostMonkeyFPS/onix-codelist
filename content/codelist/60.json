@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 60,
+    "CodeListDescription": "Unit of pricing",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Per copy of whole product",
+            "CodeNotes": "Default. Note where the product is a pack of multiple copies, the price is per multi-item product, not per individual copy within the pack",
+            "IssueNumber": 0,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Per page for printed loose-leaf content only",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

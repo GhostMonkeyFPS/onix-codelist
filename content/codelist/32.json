@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 32,
+    "CodeListDescription": "Complexity scheme identifier",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Lexile code",
+            "CodeNotes": "For example AD or HL. Deprecated in ONIX 3 \u2013 use code 06 instead",
+            "IssueNumber": 0,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 12
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Lexile number",
+            "CodeNotes": "For example 880L. Deprecated in ONIX 3 \u2013 use code 06 instead",
+            "IssueNumber": 0,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 12
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Fry Readability score",
+            "CodeNotes": "Fry readability metric based on number of sentences and syllables per 100 words. Expressed as an integer from 1 to 15 in <ComplexityCode>",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "IoE Book Band",
+            "CodeNotes": "UK Institute of Education Book Bands for Guided Reading scheme (see https:\/\/www.ucl.ac.uk\/reading-recovery-europe\/ilc\/publications\/which-book-why). <ComplexityCode> is a color, eg \u2018Pink A\u2019 or \u2018Copper\u2019",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Fountas & Pinnell Text Level Gradient",
+            "CodeNotes": "<ComplexityCode> is a code from \u2018A\u2019 to Z+\u2019. See http:\/\/www.fountasandpinnellleveledbooks.com\/aboutLeveledTexts.aspx",
+            "IssueNumber": 23,
+            "ModifiedNumber": 30,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Lexile measure",
+            "CodeNotes": "The Lexile measure in <ComplexityCode> combines the Lexile number (for example 620L or 880L) and optionally the Lexile code (for example AD or HL). Examples might be \u2018880L\u2019, \u2018AD0L\u2019 or \u2018HL600L\u2019. See https:\/\/lexile.com\/about-lexile\/lexile-overview\/",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "ATOS for Books",
+            "CodeNotes": "Advantage-TASA Open Standard book readability score, used for example within the Renaissance Learning Accelerated Reader scheme. <ComplexityCode> is the \u2018Book Level\u2019, a real number between 0 and 17. See http:\/\/www.renaissance.com\/products\/accelerated-reader\/atos-analyzer",
+            "IssueNumber": 25,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Flesch-Kincaid Grade Level",
+            "CodeNotes": "Flesch-Kincaid Grade Level Formula, a standard readability measure based on the weighted number of syllables per word and words per sentence. <ComplexityCode> is a real number typically between about -1 and 20",
+            "IssueNumber": 26,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Guided Reading Level",
+            "CodeNotes": "Use this code for books levelled by the publisher or a third party using the Fountas and Pinnell Guided Reading methodology",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Reading Recovery Level",
+            "CodeNotes": "Used for books aimed at K-2 literacy intervention. <ComplexityCode> is an integer between 1 and 20",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "LIX",
+            "CodeNotes": "Swedish \u2018l\u00e4sbarhetsindex\u2019 readability index used in Scandinavia. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Lexile Audio measure",
+            "CodeNotes": "Lexile Audio measure from MetaMetrics\u2019 Framework for Listening. The code in <ComplexityCode> indicates the difficulty of comprehension of audio material (for example 600L or 1030L). Only for use in ONIX 3.0 or later. See https:\/\/lexile.global\/the-lexile-framework-for-listening\/",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

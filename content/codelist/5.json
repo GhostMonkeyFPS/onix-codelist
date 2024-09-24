@@ -1,0 +1,183 @@
+{
+    "CodeListNumber": 5,
+    "CodeListDescription": "Product identifier type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "For example, a publisher\u2019s or wholesaler\u2019s product number or SKU. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "ISBN-10",
+            "CodeNotes": "International Standard Book Number, pre-2007 (10 digits, or 9 digits plus X, without spaces or hyphens) \u2013 now Deprecated in ONIX for Books, except where providing historical information for compatibility with legacy systems. It should only be used in relation to products published before 2007 \u2013 when ISBN-13 superseded it \u2013 and should never be used as the ONLY identifier (it should always be accompanied by the correct GTIN-13 \/ ISBN-13)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": 11
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "GTIN-13",
+            "CodeNotes": "GS1 Global Trade Item Number, formerly known as EAN article number (13 digits, without spaces or hyphens)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "UPC",
+            "CodeNotes": "UPC product number (12 digits, without spaces or hyphens)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "ISMN-10",
+            "CodeNotes": "International Standard Music Number, pre-2008 (M plus nine digits, without spaces or hyphens) \u2013 now Deprecated in ONIX for Books, except where providing historical information for compatibility with legacy systems. It should only be used in relation to products published before 2008 \u2013 when ISMN-13 superseded it \u2013 and should never be used as the ONLY identifier (it should always be accompanied by the correct GTIN-12 \/ ISMN-13)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": 12
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "Digital Object Identifier (variable length and character set, beginning \u201810.\u2019 and without https:\/\/doi.org\/ or the older http:\/\/dx.doi.org\/)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "LCCN",
+            "CodeNotes": "Library of Congress Control Number in normalized form (up to 12 characters, alphanumeric)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "GTIN-14",
+            "CodeNotes": "GS1 Global Trade Item Number (14 digits, without spaces or hyphens)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "ISBN-13",
+            "CodeNotes": "International Standard Book Number, from 2007 (13 digits starting 978 or 9791\u20139799, without spaces or hyphens)",
+            "IssueNumber": 4,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Legal deposit number",
+            "CodeNotes": "The number assigned to a publication as part of a national legal deposit process",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "URN",
+            "CodeNotes": "Uniform Resource Name: note that in trade applications an ISBN must be sent as a GTIN-13 and, where required, as an ISBN-13 \u2013 it should not be sent as a URN",
+            "IssueNumber": 8,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "OCLC number",
+            "CodeNotes": "A unique number assigned to a bibliographic item by OCLC",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Co-publisher\u2019s ISBN-13",
+            "CodeNotes": "An ISBN-13 assigned by a co-publisher. The \u2018main\u2019 ISBN sent with <ProductIDType> codes 03 and\/or 15 should always be the ISBN that is used for ordering from the supplier identified in <SupplyDetail>. However, ISBN rules allow a co-published title to carry more than one ISBN. The co-publisher should be identified in an instance of the <Publisher> composite, with the applicable <PublishingRole> code",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "ISMN-13",
+            "CodeNotes": "International Standard Music Number, from 2008 (13-digit number starting 9790, without spaces or hyphens)",
+            "IssueNumber": 12,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "ISBN-A",
+            "CodeNotes": "Actionable ISBN, in fact a special DOI incorporating the ISBN-13 within the DOI syntax. Begins \u201810.978.\u2019 or \u201810.979.\u2019 and includes a \/ character between the registrant element (publisher prefix) and publication element of the ISBN, eg 10.978.000\/1234567. Note the ISBN-A should always be accompanied by the ISBN itself, using <ProductIDType> codes 03 and\/or 15",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "JP e-code",
+            "CodeNotes": "E-publication identifier controlled by JPOIID\u2019s Committee for Research and Management of Electronic Publishing Codes",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "OLCC number",
+            "CodeNotes": "Unique number assigned by the Chinese Online Library Cataloging Center (see http:\/\/olcc.nlc.gov.cn)",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "JP Magazine ID",
+            "CodeNotes": "Japanese magazine identifier, similar in scope to ISSN but identifying a specific issue of a serial publication. Five digits to identify the periodical, plus a hyphen and two digits to identify the issue",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "UPC12+5",
+            "CodeNotes": "Used only with comic books and other products which use the UPC extension to identify individual issues or products. Do not use where the UPC12 itself identifies the specific product, irrespective of any 5-digit extension \u2013 use code 04 instead",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "BNF Control number",
+            "CodeNotes": "Num\u00e9ro de la notice bibliographique BNF",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "ISSN-13",
+            "CodeNotes": "International Standard Serial Number expressed as a GTIN-13, with optional 2- or 5-digit barcode extension (ie 13, 15 or 18 digits starting 977, without spaces or hyphens), and only when the extended ISSN is used specifically as a product identifier (ie when the two publisher-defined \u2018variant\u2019 digits within the ISSN-13 itself and\/or the 2- or 5-digit barcode extension are used to identify a single issue of a serial publication for separate sale). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "ARK",
+            "CodeNotes": "Archival Resource Key, as a URL (including the address of the ARK resolver provided by eg a national library)",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "CodeListNumber": 18,
+    "CodeListDescription": "Person \/ organization name type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "Usually the name as it is presented on the book",
+            "IssueNumber": 0,
+            "ModifiedNumber": 54,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Pseudonym",
+            "CodeNotes": "May be used to give a well-known pseudonym, where the primary name is a \u2018real\u2019 name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Authority-controlled name",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Earlier name",
+            "CodeNotes": "Use only within <AlternativeName>",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "\u2018Real\u2019 name",
+            "CodeNotes": "May be used to identify a well-known real name, where the primary name is a pseudonym",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Transliterated \/ translated form of primary name",
+            "CodeNotes": "Use only within <AlternativeName>, when the primary name type is unspecified, for names in a different script or language",
+            "IssueNumber": 16,
+            "ModifiedNumber": 54,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Later name",
+            "CodeNotes": "Use only within <AlternativeName>",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Fictional character name",
+            "CodeNotes": "Use only within <NameAsSubject> to indicate the subject is fictional, or in <AlternativeName> alongside <UnnamedPersons> to indicate a human-like name for a synthetic voice or AI. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "CodeListNumber": 65,
+    "CodeListDescription": "Product availability",
+    "IssueNumber": 2,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Cancelled",
+            "CodeNotes": "Product was announced, and subsequently abandoned by the publisher. No expected availability date should be included in <SupplyDate>",
+            "IssueNumber": 2,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Not yet available, postponed indefinitely",
+            "CodeNotes": "Not yet available from the supplier, and the publisher indicates that it has been postponed indefinitely. Should be used in preference to code 10 where the publisher has indicated that a previously-announced publication date is no longer correct, and no new date has yet been announced. No expected avalabilty date should be included in <SupplyDate>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Not yet available",
+            "CodeNotes": "Not yet available (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Awaiting stock",
+            "CodeNotes": "Not yet available, but will be a stock item when available (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known). Used particularly for imports which have been published in the country of origin but have not yet arrived in the importing country",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Not yet available, will be POD",
+            "CodeNotes": "Not yet available, to be published as print-on-demand only (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known). May apply either to a POD successor to an existing conventional edition, when the successor will be published under a different ISBN (normally because different trade terms apply); or to a title that is being published as a POD original",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Available",
+            "CodeNotes": "Available from us (form of availability unspecified)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "In stock",
+            "CodeNotes": "Available from us as a stock item",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "To order",
+            "CodeNotes": "Available from the supplier as a non-stock item, by special order. Where possible, an <OrderTime> should be included",
+            "IssueNumber": 2,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "POD",
+            "CodeNotes": "Available from the supplier by print-on-demand. If the fulfillment delay is likely to be more than 24 hours, an <OrderTime> should be included",
+            "IssueNumber": 2,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Temporarily unavailable",
+            "CodeNotes": "Temporarily unavailable: temporarily unavailable from us (reason unspecified) (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Out of stock",
+            "CodeNotes": "Stock item, temporarily out of stock (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Reprinting",
+            "CodeNotes": "Temporarily unavailable, reprinting (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Awaiting reissue",
+            "CodeNotes": "Temporarily unavailable, awaiting reissue (requires expected date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Temporarily withdrawn from sale",
+            "CodeNotes": "May be for quality or technical reasons. Requires expected availability date, either as <ExpectedShipDate> (ONIX 2.1) or as <SupplyDate> with <SupplyDateRole> coded \u201808\u2019 (ONIX 3.0 or later), except in exceptional circumstances where no date is known",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Not available (reason unspecified)",
+            "CodeNotes": "Not available from us (for any reason)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Not available, replaced by new product",
+            "CodeNotes": "This product is unavailable, but a successor product or edition is or will be available from us (identify successor in <RelatedProduct>)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Not available, other format available",
+            "CodeNotes": "This product is unavailable, but the same content is or will be available from us in an alternative format (identify other format product in <RelatedProduct>)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "No longer supplied by us",
+            "CodeNotes": "Identify new supplier in <NewSupplier> if possible",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Apply direct",
+            "CodeNotes": "Not available to trade, apply direct to publisher",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Not sold separately",
+            "CodeNotes": "Must be bought as part of a set or trade pack (identify set or pack in <RelatedProduct> using code 02). Individual copies of the product are not available from the supplier, but packs of copies are available, or individual copies of the product may typically be sold at retail",
+            "IssueNumber": 2,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Withdrawn from sale",
+            "CodeNotes": "May be for legal reasons or to avoid giving offence",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Remaindered",
+            "CodeNotes": "Remaindered",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Not available, replaced by POD",
+            "CodeNotes": "Out of print, but a print-on-demand edition is or will be available under a different ISBN. Use only when the POD successor has a different ISBN, normally because different trade terms apply",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "Recalled",
+            "CodeNotes": "Recalled for reasons of consumer safety",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Not sold as set",
+            "CodeNotes": "Must be bought as individual items (identify contents of set or oack in <RelatedProduct< using code 01. Used when a collection that is not sold as a set nevertheless has its own ONIX record",
+            "IssueNumber": 10,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Not available, publisher indicates OP",
+            "CodeNotes": "This product is unavailable from the supplier, no successor product or alternative format is available or planned. Use this code only when the publisher has indicated the product is out of print",
+            "IssueNumber": 13,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "52",
+            "CodeDescription": "Not available, publisher no longer sells product in this market",
+            "CodeNotes": "This product is unavailable from the supplier in this market, no successor product or alternative format is available or planned. Use this code when a publisher has indicated the product is permanently unavailable (in this market) while remaining available elsewhere",
+            "IssueNumber": 13,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "97",
+            "CodeDescription": "No recent update received",
+            "CodeNotes": "Sender has not received any recent update for this product from the publisher\/supplier (for use when the sender is a data aggregator): the definition of \u2018recent\u2019 must be specified by the aggregator, or by agreement between parties to an exchange",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "98",
+            "CodeDescription": "No longer receiving updates",
+            "CodeNotes": "Sender is no longer receiving any updates from the publisher\/supplier of this product (for use when the sender is a data aggregator)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "Contact supplier",
+            "CodeNotes": "Availability not known to sender",
+            "IssueNumber": 2,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

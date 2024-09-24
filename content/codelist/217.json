@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 217,
+    "CodeListDescription": "Price identifier type",
+    "IssueNumber": 24,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Note that <IDTypeName> is required for proprietary identifiers",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Proprietary price point identifier",
+            "CodeNotes": "Proprietary identifier uniquely identifies price amount and currency. Two unrelated products with the same price amount carry the same identifier, though their price types may be different",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Proprietary price type identifier",
+            "CodeNotes": "Proprietary identifier uniquely identifies price type, qualifier and any constraints and conditions. Two unrelated products with the same price type carry the same identifier, though their price points may be different",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Proprietary price point and type identifier",
+            "CodeNotes": "Proprietary identifier identifies a unique combination of price point and type, though two unrelated products may carry the same identifier if all details of their prices are identical",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Proprietary unique price identifier",
+            "CodeNotes": "Proprietary identifier is unique to a single price point, price type and product. No two products can carry the same identifier, even if all details of their prices are identical",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Proprietary product price point identifier",
+            "CodeNotes": "Proprietary identifier uniquely identifies a specific combination of product, price amount and currency, independent of the price type",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Proprietary product price type identifier",
+            "CodeNotes": "Proprietary identifier uniquely identifies a specific combination of product, price type, qualifier and any constraints and conditions, independent of the price amount and currency. A product with the same product price type identififer may carry differing price amounts, currencies at different points in time",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 61,
+    "CodeListDescription": "Price status",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "Default",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Provisional",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Confirmed",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

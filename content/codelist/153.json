@@ -1,0 +1,303 @@
+{
+    "CodeListNumber": 153,
+    "CodeListDescription": "Text type",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Sender-defined text",
+            "CodeNotes": "To be used only in circumstances where the parties to an exchange have agreed to include text which (a) is not for general distribution, and (b) cannot be coded elsewhere. If more than one type of text is sent, it must be identified by tagging within the text itself",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Short description\/annotation",
+            "CodeNotes": "Of the product. Limited to a maximum of 350 characters. In ONIX 3.0, this is assumed to include markup characters. In ONIX 3.1 and later, this limit does not include markup",
+            "IssueNumber": 10,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Description",
+            "CodeNotes": "Of the product. Length unrestricted",
+            "IssueNumber": 10,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Table of contents",
+            "CodeNotes": "Used for a table of contents sent as a single text field, which may or may not carry structure expressed using XHTML",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Primary cover copy",
+            "CodeNotes": "Primary descriptive blurb usually taken from the back cover or jacket, or occasionally from the cover\/jacket flaps. See also code 27",
+            "IssueNumber": 10,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Review quote",
+            "CodeNotes": "A quote taken from a review of the product or of the work in question where there is no need to take account of different editions",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Review quote: previous edition",
+            "CodeNotes": "A quote taken from a review of a previous edition of the work",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Review quote: previous work",
+            "CodeNotes": "A quote taken from a review of a previous work by the same author(s) or in the same series",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Endorsement",
+            "CodeNotes": "A quote usually provided by a celebrity or another author to promote a new book, not from a review",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Promotional headline",
+            "CodeNotes": "A promotional phrase which is intended to headline a description of the product",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Feature",
+            "CodeNotes": "Text describing a feature of a product to which the publisher wishes to draw attention for promotional purposes. Each separate feature should be described by a separate repeat, so that formatting can be applied at the discretion of the receiver of the ONIX record, or multiple features can be described using appropriate XHTML markup",
+            "IssueNumber": 10,
+            "ModifiedNumber": 22,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Biographical note",
+            "CodeNotes": "A note referring to all contributors to a product \u2013 NOT linked to a single contributor",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Publisher\u2019s notice",
+            "CodeNotes": "A statement included by a publisher in fulfillment of contractual obligations, such as a disclaimer, sponsor statement, or legal notice of any sort. Note that the inclusion of such a notice cannot and does not imply that a user of the ONIX record is obliged to reproduce it",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Excerpt",
+            "CodeNotes": "A short excerpt from the main text of the work",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Index",
+            "CodeNotes": "Used for an index sent as a single text field, which may be structured using XHTML",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Short description\/annotation for collection",
+            "CodeNotes": "(of which the product is a part.) Limited to a maximum of 350 characters",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Description for collection",
+            "CodeNotes": "(of which the product is a part.) Length unrestricted",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "New feature",
+            "CodeNotes": "As code 11 but used for a new feature of this edition or version",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Version history",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Open access statement",
+            "CodeNotes": "Short summary statement of open access status and any related conditions (eg \u2018Open access \u2013 no commercial use\u2019), primarily for marketing purposes. Should always be accompanied by a link to the complete license (see <EpubLicense> or code 99 in List 158)",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Digital exclusivity statement",
+            "CodeNotes": "Short summary statement that the product is available only in digital formats (eg \u2018Digital exclusive\u2019). If a non-digital version is planned, <ContentDate> should be used to specify the date when exclusivity will end (use content date role code 15). If a non-digital version is available, the statement should not be included",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Official recommendation",
+            "CodeNotes": "For example a recommendation or approval provided by a ministry of education or other official body. Use <Text> to provide details and ideally use <TextSourceCorporate> to name the approver",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "JBPA description",
+            "CodeNotes": "Short description in format specified by Japanese Book Publishers Association",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "schema.org snippet",
+            "CodeNotes": "JSON-LD snippet suitable for use within an HTML <script type=\"application\/ld+json\"> tag, containing structured metadata suitable for use with schema.org",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Errata",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Introduction",
+            "CodeNotes": "Introduction, preface or the text of other preliminary material, sent as a single text field, which may be structured using XHTML",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Secondary cover copy",
+            "CodeNotes": "Secondary descriptive blurb taken from the cover\/jacket flaps, or occasionally from the back cover or jacket, used only when there are two separate texts and the primary text is included using code 05",
+            "IssueNumber": 43,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Full cast and credit list",
+            "CodeNotes": "For use with dramatized audiobooks, filmed entertainment etc, for a cast list sent as a single text field, which may or may not carry structure expressed using XHTML",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Bibliography",
+            "CodeNotes": "Complete list of books by the author(s), supplied as a single text field, which may be structured using (X)HTML",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Abstract",
+            "CodeNotes": "Formal summary of content (normally used with academic and scholarly content only)",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Rules or instructions",
+            "CodeNotes": "Eg for a game, kit",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "List of contents",
+            "CodeNotes": "Eg for a game, kit. Note: use code 04 for a Table of Contents of a book",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Short description\/annotation for imprint",
+            "CodeNotes": "Length limited to a maximum of 350 characters",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Description for imprint",
+            "CodeNotes": "Length unrestricted",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Short description\/annotation for publisher",
+            "CodeNotes": "Length limited to a maximum of 350 characters",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "Description for publisher",
+            "CodeNotes": "Length unrestricted",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Cover line",
+            "CodeNotes": "(US) Reading line \u2013 line of usually explanatory copy on cover, somewhat like a subtitle but not on the title page and added by the publisher, eg \u2018with 125 illustrated recipes\u2019",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

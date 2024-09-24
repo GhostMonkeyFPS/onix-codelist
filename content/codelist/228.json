@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 228,
+    "CodeListDescription": "Grant identifier type",
+    "IssueNumber": 33,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "Digital Object Identifier (variable length and character set, beginning \u201810.\u2019 and without https:\/\/doi.org\/ or the older http:\/\/dx.doi.org\/)",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

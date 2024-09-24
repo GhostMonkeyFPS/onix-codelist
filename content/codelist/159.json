@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 159,
+    "CodeListDescription": "Resource mode",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Application",
+            "CodeNotes": "An executable together with data on which it operates",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Audio",
+            "CodeNotes": "A sound recording",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Image",
+            "CodeNotes": "A still image",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Text",
+            "CodeNotes": "Readable text, with or without associated images etc",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Video",
+            "CodeNotes": "Moving images, with or without accompanying sound",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Multi-mode",
+            "CodeNotes": "A website or other supporting resource delivering content in a variety of modes",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

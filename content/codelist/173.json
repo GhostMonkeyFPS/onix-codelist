@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 173,
+    "CodeListDescription": "Price date role",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "14",
+            "CodeDescription": "From date",
+            "CodeNotes": "Date on which a price becomes effective",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Until date",
+            "CodeNotes": "Date on which a price ceases to be effective",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "From\u2026 until date",
+            "CodeNotes": "Combines From date and Until date to define a period (both dates are inclusive). Use for example with dateformat 06",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

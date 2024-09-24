@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 100,
+    "CodeListDescription": "Discount code type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "BIC discount group code",
+            "CodeNotes": "UK publisher\u2019s or distributor\u2019s discount group code in a format specified by BIC to ensure uniqueness (a five-letter prefix allocated by BIC, plus one to three alphanumeric characters \u2013 normally digits \u2013 chosen by the supplier). See https:\/\/bic.org.uk\/resources\/discount-group-codes\/",
+            "IssueNumber": 1,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Proprietary discount code",
+            "CodeNotes": "A publisher\u2019s or supplier\u2019s own code which identifies a trade discount category, as specified in <DiscountCodeTypeName>. The actual discount for each code is set by trading partner agreement (applies to goods supplied on standard trade discounting terms)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Boeksoort",
+            "CodeNotes": "Terms code used in the Netherlands book trade",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "German terms code",
+            "CodeNotes": "Terms code used in German ONIX applications",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Proprietary commission code",
+            "CodeNotes": "A publisher\u2019s or supplier\u2019s own code which identifies a commission rate category, as specified in <DiscountCodeTypeName>. The actual commission rate for each code is set by trading partner agreement (applies to goods supplied on agency terms)",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "BIC commission group code",
+            "CodeNotes": "UK publisher\u2019s or distributor\u2019s commission group code in format specified by BIC to ensure uniqueness. Format is identical to BIC discount group code, but indicates a commission rather than a discount (applies to goods supplied on agency terms)",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "ISNI-based discount group code",
+            "CodeNotes": "ISNI-based discount group scheme devised initially by the German IG ProduktMetadaten, in a format comprised of the supplier\u2019s 16-digit ISNI, followed by a hyphen and one to three alphanumeric characters \u2013 normally digits \u2013 chosen by the supplier. These characters are the index to a discount percentage in a table shared in advance by the supplier with individual customers. In this way, a supplier may maintain individual product-specific discount arrangements with each customer. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

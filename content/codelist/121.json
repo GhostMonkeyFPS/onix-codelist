@@ -1,0 +1,1663 @@
+{
+    "CodeListNumber": 121,
+    "CodeListDescription": "Text script \u2013 based on ISO 15924",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "Adlm",
+            "CodeDescription": "Adlam",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Afak",
+            "CodeDescription": "Afaka",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Aghb",
+            "CodeDescription": "Caucasian Albanian",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ahom",
+            "CodeDescription": "Ahom, Tai Ahom",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Arab",
+            "CodeDescription": "Arabic",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Aran",
+            "CodeDescription": "Arabic (Nastaliq variant)",
+            "CodeNotes": "Typographic variant of Arabic. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Armi",
+            "CodeDescription": "Imperial Aramaic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Armn",
+            "CodeDescription": "Armenian",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Avst",
+            "CodeDescription": "Avestan",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bali",
+            "CodeDescription": "Balinese",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bamu",
+            "CodeDescription": "Bamun",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bass",
+            "CodeDescription": "Bassa Vah",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Batk",
+            "CodeDescription": "Batak",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Beng",
+            "CodeDescription": "Bengali (Bangla)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bhks",
+            "CodeDescription": "Bhaiksuki",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Blis",
+            "CodeDescription": "Blissymbols",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bopo",
+            "CodeDescription": "Bopomofo",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Brah",
+            "CodeDescription": "Brahmi",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Brai",
+            "CodeDescription": "Braille",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Bugi",
+            "CodeDescription": "Buginese",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Buhd",
+            "CodeDescription": "Buhid",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cakm",
+            "CodeDescription": "Chakma",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cans",
+            "CodeDescription": "Unified Canadian Aboriginal Syllabics",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cari",
+            "CodeDescription": "Carian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cham",
+            "CodeDescription": "Cham",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cher",
+            "CodeDescription": "Cherokee",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Chrs",
+            "CodeDescription": "Chorasmian",
+            "CodeNotes": "Khw\u0101rezmian. Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cirt",
+            "CodeDescription": "Cirth",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Copt",
+            "CodeDescription": "Coptic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cpmn",
+            "CodeDescription": "Cypro-Minoan",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cprt",
+            "CodeDescription": "Cypriot",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cyrl",
+            "CodeDescription": "Cyrillic",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Cyrs",
+            "CodeDescription": "Cyrillic (Old Church Slavonic variant)",
+            "CodeNotes": "Ancient\/historic, typographic variant of Cyrillic",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Deva",
+            "CodeDescription": "Devanagari (Nagari)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Diak",
+            "CodeDescription": "Dives Akuru",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Dogr",
+            "CodeDescription": "Dogra",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Dsrt",
+            "CodeDescription": "Deseret (Mormon)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Dupl",
+            "CodeDescription": "Duployan shorthand, Duployan stenography",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Egyd",
+            "CodeDescription": "Egyptian demotic",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Egyh",
+            "CodeDescription": "Egyptian hieratic",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Egyp",
+            "CodeDescription": "Egyptian hieroglyphs",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Elba",
+            "CodeDescription": "Elbasan",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Elym",
+            "CodeDescription": "Elymaic",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ethi",
+            "CodeDescription": "Ethiopic (Ge\u2018ez)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Geok",
+            "CodeDescription": "Khutsuri (Asomtavruli and Khutsuri)",
+            "CodeNotes": "Georgian in Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Geor",
+            "CodeDescription": "Georgian (Mkhedruli and Mtavruli)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Glag",
+            "CodeDescription": "Glagolitic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Gong",
+            "CodeDescription": "Gunjala Gondi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Gonm",
+            "CodeDescription": "Masaram Gondi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Goth",
+            "CodeDescription": "Gothic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Gran",
+            "CodeDescription": "Grantha",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Grek",
+            "CodeDescription": "Greek",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Gujr",
+            "CodeDescription": "Gujarati",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Guru",
+            "CodeDescription": "Gurmukhi",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hanb",
+            "CodeDescription": "Han with Bopomofo",
+            "CodeNotes": "See Hani, Bopo. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hang",
+            "CodeDescription": "Hangul (Hang\u016dl, Hangeul)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hani",
+            "CodeDescription": "Han (Hanzi, Kanji, Hanja)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hano",
+            "CodeDescription": "Hanunoo (Hanun\u00f3o)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hans",
+            "CodeDescription": "Han (Simplified variant)",
+            "CodeNotes": "Subset of Hani",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hant",
+            "CodeDescription": "Han (Traditional variant)",
+            "CodeNotes": "Subset of Hani",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hatr",
+            "CodeDescription": "Hatran",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hebr",
+            "CodeDescription": "Hebrew",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hira",
+            "CodeDescription": "Hiragana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hluw",
+            "CodeDescription": "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hmng",
+            "CodeDescription": "Pahawh Hmong",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hmnp",
+            "CodeDescription": "Nyiakeng Puachue Hmong",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hrkt",
+            "CodeDescription": "Japanese syllabaries (alias for Hiragana + Katakana)",
+            "CodeNotes": "See Hira, Kana",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Hung",
+            "CodeDescription": "Old Hungarian (Hungarian Runic)",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Inds",
+            "CodeDescription": "Indus (Harappan)",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ital",
+            "CodeDescription": "Old Italic (Etruscan, Oscan, etc.)",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Jamo",
+            "CodeDescription": "Jamo (alias for Jamo subset of Hangul)",
+            "CodeNotes": "Subset of Hang. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Java",
+            "CodeDescription": "Javanese",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Jpan",
+            "CodeDescription": "Japanese (alias for Han + Hiragana + Katakana)",
+            "CodeNotes": "See Hani, Hira and Kana",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Jurc",
+            "CodeDescription": "Jurchen",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kali",
+            "CodeDescription": "Kayah Li",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kana",
+            "CodeDescription": "Katakana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kawi",
+            "CodeDescription": "Kawi",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Khar",
+            "CodeDescription": "Kharoshthi",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Khmr",
+            "CodeDescription": "Khmer",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Khoj",
+            "CodeDescription": "Khojki",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kitl",
+            "CodeDescription": "Khitan large script",
+            "CodeNotes": "Script is not supported by Unicode. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kits",
+            "CodeDescription": "Khitan small script",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Knda",
+            "CodeDescription": "Kannada",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kore",
+            "CodeDescription": "Korean (alias for Hangul + Han)",
+            "CodeNotes": "See Hani and Hang",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kpel",
+            "CodeDescription": "Kpelle",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Kthi",
+            "CodeDescription": "Kaithi",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lana",
+            "CodeDescription": "Tai Tham (Lanna)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Laoo",
+            "CodeDescription": "Lao",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Latf",
+            "CodeDescription": "Latin (Fraktur variant)",
+            "CodeNotes": "Typographic variant of Latin",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Latg",
+            "CodeDescription": "Latin (Gaelic variant)",
+            "CodeNotes": "Typographic variant of Latin",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Latn",
+            "CodeDescription": "Latin",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Leke",
+            "CodeDescription": "Leke",
+            "CodeNotes": "Script is not supported by Unicode. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lepc",
+            "CodeDescription": "Lepcha (R\u00f3ng)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Limb",
+            "CodeDescription": "Limbu",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lina",
+            "CodeDescription": "Linear A",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Linb",
+            "CodeDescription": "Linear B",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lisu",
+            "CodeDescription": "Lisu (Fraser)",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Loma",
+            "CodeDescription": "Loma",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lyci",
+            "CodeDescription": "Lycian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Lydi",
+            "CodeDescription": "Lydian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mahj",
+            "CodeDescription": "Mahajani",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Maka",
+            "CodeDescription": "Makasar",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mand",
+            "CodeDescription": "Mandaic, Mandaean",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mani",
+            "CodeDescription": "Manichaean",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Marc",
+            "CodeDescription": "Marchen",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Maya",
+            "CodeDescription": "Mayan hieroglyphs",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Medf",
+            "CodeDescription": "Medefaidrin (Oberi Okaime, Oberi \u0186kaim\u025b)",
+            "CodeNotes": "Script is not supported by Unicode. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mend",
+            "CodeDescription": "Mende Kikakui",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Merc",
+            "CodeDescription": "Meroitic Cursive",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mero",
+            "CodeDescription": "Meroitic Hieroglyphs",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mlym",
+            "CodeDescription": "Malayalam",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Modi",
+            "CodeDescription": "Modi, Mo\u1e0d\u012b",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mong",
+            "CodeDescription": "Mongolian",
+            "CodeNotes": "Includes Clear, Manchu scripts",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Moon",
+            "CodeDescription": "Moon (Moon code, Moon script, Moon type)",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mroo",
+            "CodeDescription": "Mro, Mru",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mtei",
+            "CodeDescription": "Meitei Mayek (Meithei, Meetei)",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mult",
+            "CodeDescription": "Multani",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Mymr",
+            "CodeDescription": "Myanmar (Burmese)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nagm",
+            "CodeDescription": "Nag Mundari",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nand",
+            "CodeDescription": "Nandinagari",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Narb",
+            "CodeDescription": "Old North Arabian (Ancient North Arabian)",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nbat",
+            "CodeDescription": "Nabatean",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Newa",
+            "CodeDescription": "Newa, Newar, Newari, Nep\u0101la lipi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nkgb",
+            "CodeDescription": "Nakhi Geba (\u2019Na-\u2019Khi \u00b2Gg\u014f-\u00b9baw, Naxi Geba)",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nkoo",
+            "CodeDescription": "N\u2019Ko",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Nshu",
+            "CodeDescription": "N\u00fcshu",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ogam",
+            "CodeDescription": "Ogham",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Olck",
+            "CodeDescription": "Ol Chiki (Ol Cemet\u2019, Ol, Santali)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Orkh",
+            "CodeDescription": "Old Turkic, Orkhon Runic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Orya",
+            "CodeDescription": "Oriya (Odia)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Osge",
+            "CodeDescription": "Osage",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Osma",
+            "CodeDescription": "Osmanya",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ougr",
+            "CodeDescription": "Old Uyghur",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Palm",
+            "CodeDescription": "Palmyrene",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Pauc",
+            "CodeDescription": "Pau Cin Hau",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Perm",
+            "CodeDescription": "Old Permic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Phag",
+            "CodeDescription": "Phags-pa",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Phli",
+            "CodeDescription": "Inscriptional Pahlavi",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Phlp",
+            "CodeDescription": "Psalter Pahlavi",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Phlv",
+            "CodeDescription": "Book Pahlavi",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Phnx",
+            "CodeDescription": "Phoenician",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Piqd",
+            "CodeDescription": "Klingon (KLI plqaD)",
+            "CodeNotes": "Script is not supported by Unicode. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Plrd",
+            "CodeDescription": "Miao (Pollard)",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Prti",
+            "CodeDescription": "Inscriptional Parthian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Qaaa",
+            "CodeDescription": "Reserved for private use (start)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Qabp",
+            "CodeDescription": "Picture Communication Symbols (PCS)",
+            "CodeNotes": "ONIX local code for graphical symbols used in augmentative and alternative communication and education, not listed in ISO 15924. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Qabw",
+            "CodeDescription": "Widgit symbols",
+            "CodeNotes": "ONIX local code for graphical symbols used in augmentative and alternative communication and education, not listed in ISO 15924. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Qabx",
+            "CodeDescription": "Reserved for private use (end)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Rjng",
+            "CodeDescription": "Rejang (Redjang, Kaganga)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Roro",
+            "CodeDescription": "Rongorongo",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Runr",
+            "CodeDescription": "Runic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Samr",
+            "CodeDescription": "Samaritan",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sara",
+            "CodeDescription": "Sarati",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sarb",
+            "CodeDescription": "Old South Arabian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Saur",
+            "CodeDescription": "Saurashtra",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sgnw",
+            "CodeDescription": "SignWriting",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Shaw",
+            "CodeDescription": "Shavian (Shaw)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Shrd",
+            "CodeDescription": "Sharada, \u015a\u0101rad\u0101",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sidd",
+            "CodeDescription": "Siddham, Siddha\u1e43, Siddham\u0101t\u1e5bk\u0101",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sind",
+            "CodeDescription": "Khudawadi, Sindhi",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sinh",
+            "CodeDescription": "Sinhala",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sogd",
+            "CodeDescription": "Sogdian",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sogo",
+            "CodeDescription": "Old Sogdian",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sora",
+            "CodeDescription": "Sora Sompeng",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Soyo",
+            "CodeDescription": "Soyombo",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sund",
+            "CodeDescription": "Sundanese",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Sylo",
+            "CodeDescription": "Syloti Nagri",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Syrc",
+            "CodeDescription": "Syriac",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Syre",
+            "CodeDescription": "Syriac (Estrangelo variant)",
+            "CodeNotes": "Typographic variant of Syriac",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Syrj",
+            "CodeDescription": "Syriac (Western variant)",
+            "CodeNotes": "Typographic variant of Syriac",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Syrn",
+            "CodeDescription": "Syriac (Eastern variant)",
+            "CodeNotes": "Typographic variant of Syriac",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tagb",
+            "CodeDescription": "Tagbanwa",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Takr",
+            "CodeDescription": "Takri, \u1e6c\u0101kr\u012b, \u1e6c\u0101\u1e45kr\u012b",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tale",
+            "CodeDescription": "Tai Le",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Talu",
+            "CodeDescription": "New Tai Lue",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Taml",
+            "CodeDescription": "Tamil",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tang",
+            "CodeDescription": "Tangut",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tavt",
+            "CodeDescription": "Tai Viet",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Telu",
+            "CodeDescription": "Telugu",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Teng",
+            "CodeDescription": "Tengwar",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tfng",
+            "CodeDescription": "Tifinagh (Berber)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tglg",
+            "CodeDescription": "Tagalog (Baybayin, Alibata)",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Thaa",
+            "CodeDescription": "Thaana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Thai",
+            "CodeDescription": "Thai",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tibt",
+            "CodeDescription": "Tibetan",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tirh",
+            "CodeDescription": "Tirhuta",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Tnsa",
+            "CodeDescription": "Tangsa",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Toto",
+            "CodeDescription": "Toto",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Ugar",
+            "CodeDescription": "Ugaritic",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Vaii",
+            "CodeDescription": "Vai",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Visp",
+            "CodeDescription": "Visible Speech",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Vith",
+            "CodeDescription": "Vithkuqi",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Wara",
+            "CodeDescription": "Warang Citi (Varang Kshiti)",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Wcho",
+            "CodeDescription": "Wancho",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Wole",
+            "CodeDescription": "Woleai",
+            "CodeNotes": "Script is not supported by Unicode",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Xpeo",
+            "CodeDescription": "Old Persian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Xsux",
+            "CodeDescription": "Cuneiform, Sumero-Akkadian",
+            "CodeNotes": "Ancient\/historic script",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Yezi",
+            "CodeDescription": "Yezidi",
+            "CodeNotes": "Ancient\/historic script. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Yiii",
+            "CodeDescription": "Yi",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zanb",
+            "CodeDescription": "Zanabazar Square (Zanabazarin D\u00f6rb\u00f6ljin Useg, Xewtee D\u00f6rb\u00f6ljin Bicig, Horizontal Square Script)",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zmth",
+            "CodeDescription": "Mathematical notation",
+            "CodeNotes": "Not a script in Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zsye",
+            "CodeDescription": "Symbols (Emoji variant)",
+            "CodeNotes": "Not a script in Unicode. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zsym",
+            "CodeDescription": "Symbols",
+            "CodeNotes": "Not a script in Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zxxx",
+            "CodeDescription": "Code for unwritten documents",
+            "CodeNotes": "Not a script in Unicode",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zinh",
+            "CodeDescription": "Code for inherited script",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zyyy",
+            "CodeDescription": "Code for undetermined script",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Zzzz",
+            "CodeDescription": "Code for uncoded script",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

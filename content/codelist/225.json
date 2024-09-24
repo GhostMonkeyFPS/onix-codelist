@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 225,
+    "CodeListDescription": "Message \/ Record status detail",
+    "IssueNumber": 28,
+    "Code": [
+        {
+            "CodeValue": "000",
+            "CodeDescription": "Unknown error",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "001",
+            "CodeDescription": "Unknown warning",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

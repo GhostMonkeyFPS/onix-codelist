@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 223,
+    "CodeListDescription": "Status detail code type",
+    "IssueNumber": 28,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "ONIX Status detail code",
+            "CodeNotes": "Status detail code is taken from List 225",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

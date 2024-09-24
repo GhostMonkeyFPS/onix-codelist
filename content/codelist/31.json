@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 31,
+    "CodeListDescription": "Audience range precision",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Exact",
+            "CodeNotes": "May only be used in Audience range precision (1), and when no Audience range precision (2) is present",
+            "IssueNumber": 0,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "From",
+            "CodeNotes": "May only be used in Audience range precision (1)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "To",
+            "CodeNotes": "May be used in Audience range precision (1) when no Audience range precision (2) is present, or in Audience range precision (2) when Audience range precision (1) is code 03",
+            "IssueNumber": 0,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

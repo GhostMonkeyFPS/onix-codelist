@@ -1,0 +1,111 @@
+{
+    "CodeListNumber": 259,
+    "CodeListDescription": "Collection frequency code",
+    "IssueNumber": 60,
+    "Code": [
+        {
+            "CodeValue": "u",
+            "CodeDescription": "Unknown",
+            "CodeNotes": "",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "i",
+            "CodeDescription": "Irregular",
+            "CodeNotes": "No fixed publication schedule",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "e",
+            "CodeDescription": "Biennial",
+            "CodeNotes": "Once every two years",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "a",
+            "CodeDescription": "Annual",
+            "CodeNotes": "Yearly",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "b",
+            "CodeDescription": "Biannual",
+            "CodeNotes": "Twice a year, or once per academic semester",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "t",
+            "CodeDescription": "Triannual",
+            "CodeNotes": "Three times a year, or once per academic term",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "q",
+            "CodeDescription": "Quarterly",
+            "CodeNotes": "Four times a year",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "s",
+            "CodeDescription": "Bimonthly",
+            "CodeNotes": "Six times per year",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "m",
+            "CodeDescription": "Monthly",
+            "CodeNotes": "Once every month, or approximately twelve times per year",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "f",
+            "CodeDescription": "Fortnightly",
+            "CodeNotes": "Once every two weeks, or approximately twenty five times per year",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "w",
+            "CodeDescription": "Weekly",
+            "CodeNotes": "Or approximately fifty times per year",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "d",
+            "CodeDescription": "Daily, or more frequently than weekly",
+            "CodeNotes": "At least twice a week",
+            "IssueNumber": 60,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "x",
+            "CodeDescription": "No future publications",
+            "CodeNotes": "Positive indication that the product is the last to be published in the collection, or that no further publications are planned",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 66,
+    "CodeListDescription": "BISAC returnable indicator",
+    "IssueNumber": 2,
+    "Code": [
+        {
+            "CodeValue": "N",
+            "CodeDescription": "No, not returnable",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Y",
+            "CodeDescription": "Yes, returnable, full copies only",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "S",
+            "CodeDescription": "Yes, returnable, stripped cover",
+            "CodeNotes": "Note the product barcode should be repeated (with triangular \u2018strippable\u2019 indicator) on cover 2 (inside front cover) to facilitate scanning of returned stripped covers",
+            "IssueNumber": 2,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C",
+            "CodeDescription": "Conditional",
+            "CodeNotes": "Contact publisher for requirements and\/or authorization",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

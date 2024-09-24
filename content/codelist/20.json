@@ -1,0 +1,79 @@
+{
+    "CodeListNumber": 20,
+    "CodeListDescription": "Event role",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publication linked to conference",
+            "CodeNotes": "For example an academic, professional or political conference",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Complete proceedings of conference",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Selected papers from conference",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Publication linked to sporting event",
+            "CodeNotes": "For example a competitive match, fixture series or championship",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Programme or guide for sporting event",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Publication linked to artistic event",
+            "CodeNotes": "For example a theatrical or musical event or performance, a season of events or performances, or an exhibition of art",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Programme or guide for artistic event",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Publication linked to exposition",
+            "CodeNotes": "For example a commercial exposition",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Programme or guide for exposition",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

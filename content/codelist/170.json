@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 170,
+    "CodeListDescription": "Discount type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Rising discount",
+            "CodeNotes": "Discount applied to all units in a qualifying order. The default if no <DiscountType> is specified",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Rising discount (cumulative)",
+            "CodeNotes": "Additional discount may be applied retrospectively, based on number of units ordered over a specific period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Progressive discount",
+            "CodeNotes": "Discount applied to marginal units in a qualifying order",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Progressive discount (cumulative)",
+            "CodeNotes": "Previous orders within a specific time period are counted when calculating a progressive discount",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

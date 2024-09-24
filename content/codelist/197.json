@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 197,
+    "CodeListDescription": "Collection sequence type",
+    "IssueNumber": 16,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "A short explanatory label for the sequence should be provided in <CollectionSequenceTypeName>",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Title order",
+            "CodeNotes": "Order as specified by the title, eg by volume or part number sequence, provided for confirmation",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Publication order",
+            "CodeNotes": "Order of publication of products within the collection",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Temporal\/narrative order",
+            "CodeNotes": "Order defined by a continuing narrative or temporal sequence within products in the collection. Applicable to either fiction or to non-fiction (eg within a collection of history textbooks)",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Original publication order",
+            "CodeNotes": "Original publication order, for a republished collection or collected works originally published outside a collection",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Suggested reading order",
+            "CodeNotes": "Where it is different from the title order, publication order, narrative order etc",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Suggested display order",
+            "CodeNotes": "Where it is different from the title order, publication order, narrative order, reading order etc",
+            "IssueNumber": 41,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 165,
+    "CodeListDescription": "Supplier own code type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Supplier\u2019s sales classification",
+            "CodeNotes": "A rating applied by a supplier (typically a wholesaler) to indicate its assessment of the expected or actual sales performance of a product",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Supplier\u2019s bonus eligibility",
+            "CodeNotes": "A supplier\u2019s coding of the eligibility of a product for a bonus scheme on overall sales",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Publisher\u2019s sales classification",
+            "CodeNotes": "A rating applied by the publisher to indicate a sales category (eg backlist\/frontlist, core stock etc). Use only when the publisher is not the \u2018supplier\u2019",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Supplier\u2019s pricing restriction classification",
+            "CodeNotes": "A classification applied by a supplier to a product sold on Agency terms, to indicate that retail price restrictions are applicable",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Supplier\u2019s sales expectation",
+            "CodeNotes": "Code is the ISBN of another book that had sales (both in terms of copy numbers and customer profile) comparable to that the distributor or supplier estimates for the product. <SupplierCodeValue> must be an ISBN-13 or GTIN-13",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Publisher\u2019s sales expectation",
+            "CodeNotes": "Code is the ISBN of another book that had sales (both in terms of copy numbers and customer profile) comparable to that the publisher estimates for the product. <SupplierCodeValue> must be an ISBN-13 or GTIN-13",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Supplier\u2019s order routing eligibility",
+            "CodeNotes": "Code indicates whether an order can be placed with the supplier indirectly via an intermediary system. The code name type indicates the specific intermediate order aggregation\/routing platform and the code indicates the eligibility",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

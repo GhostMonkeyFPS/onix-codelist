@@ -1,0 +1,95 @@
+{
+    "CodeListNumber": 160,
+    "CodeListDescription": "Resource feature type",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Required credit",
+            "CodeNotes": "Credit that must be displayed when a resource is used (eg \u2018Photo Jerry Bauer\u2019 or \u2018\u00a9 Magnum Photo\u2019). Credit text should be carried in <FeatureNote>",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Caption",
+            "CodeNotes": "Explanatory caption that may accompany a resource (eg use to identify an author in a photograph). Caption text should be carried in <FeatureNote>",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Copyright holder",
+            "CodeNotes": "Copyright holder of resource (indicative only, as the resource can be used without consultation). Copyright text should be carried in <FeatureNote>",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Length in minutes",
+            "CodeNotes": "Approximate length in minutes of an audio or video resource. <FeatureValue> should contain the length of time as an integer number of minutes",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "ISNI of resource contributor",
+            "CodeNotes": "Use to link resource such as a contributor image to a contributor unambiguously. Use for example with Resource Content types 04, 11\u201314 from List 158, particularly where the product has more than a single contributor. <FeatureValue> contains the 16-digit ISNI, which must match an ISNI given in an instance of <Contributor>",
+            "IssueNumber": 27,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Proprietary ID of resource contributor",
+            "CodeNotes": "Use to link resource such as a contributor image to a contributor unambiguously. Use for example with Resource Content types 04, 11\u201314 from List 158, particularly where the product has more than a single contributor. <FeatureValue> contains the proprietary ID, which must match a proprietary ID given in an instance of <Contributor>",
+            "IssueNumber": 32,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Resource alternative text",
+            "CodeNotes": "<FeatureNote> is Alternative text for the resource, which might be presented to visually-impaired readers",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Background color of image resource",
+            "CodeNotes": "<FeatureValue> is a 24-bit RGB or 32-bit RBGA color in hexadecimal, eg fff2de for an opaque warm cream. Used when the resource \u2013 for example a 3D image of the product \u2013 includes a background, or if used with an alpha channel, when the image is irregularly shaped or contains a semi-transparent shadow thrown against a background",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Attribute of product image resource",
+            "CodeNotes": "<FeatureValue> is an ONIX code from List 256 that describes an attribute of a product image resource (eg perspective of 3D view, content)",
+            "IssueNumber": 52,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Background color of page",
+            "CodeNotes": "<FeatureValue> is a 24-bit RGB color in hexadecimal, eg ffc300 for a rich yellow-orange, used when the resource supplier requests a specific background color be displayed behind the resource on a web page",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "ORCID of resource contributor",
+            "CodeNotes": "Use to link resource such as a contributor image to a contributor unambiguously, for example with Resource Content types 04, 11\u201314 from List 158, particularly where the product has more than a single contributor. <FeatureValue> contains the 16-digit ORCID, which must match an ORCID given in an instance of <Contributor>",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

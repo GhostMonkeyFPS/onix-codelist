@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 261,
+    "CodeListDescription": "Status detail type severity (master files)",
+    "IssueNumber": 62,
+    "Code": [
+        {
+            "CodeValue": "u",
+            "CodeDescription": "Unclassifiable",
+            "CodeNotes": "Use ONLY if the error message severity cannot be determined (eg with a legacy system unable to provide detailed error codes)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "i",
+            "CodeDescription": "Info",
+            "CodeNotes": "For information only, provided to encourage the master file supplier to improve the quality of their files (eg to make rendering of the product more reliable\/interoperable, or to improve accessibility, etc)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "q",
+            "CodeDescription": "Query",
+            "CodeNotes": "Request for clarification or further detail of the meaning of some part of the master file data provided",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "w",
+            "CodeDescription": "Warning",
+            "CodeNotes": "The master files have been accepted as provided, but there may be issues in the way they were supplied",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "e",
+            "CodeDescription": "Error",
+            "CodeNotes": "Some data in the content or structure of a master file caused an error due to not meeting the requirements of the relevant standard. The master file in question has been rejected, but processing of the remaining master files comprising tthe product has continued",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "f",
+            "CodeDescription": "Fatal error",
+            "CodeNotes": "Some data in the content or struture of a master file caused an unrecoverable error due to not meeting the requirements of the relevant standard. The entire set of master files for the product has been rejected",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

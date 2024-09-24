@@ -1,0 +1,191 @@
+{
+    "CodeListNumber": 71,
+    "CodeListDescription": "Sales restriction type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified \u2013 see text",
+            "CodeNotes": "Restriction must be described in <SalesRestrictionDetail> (ONIX 2.1) or <SalesRestrictionNote> (ONIX 3.0 or later)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Retailer exclusive \/ own brand",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales through designated retailer(s), which must be identified or named in an instance of the <SalesOutlet> composite. Use only when it is not possible to assign the more explicit codes 04 or 05",
+            "IssueNumber": 1,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Through office supplies outlets only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales though office supplies channels. Specific outlet(s) may be identified or named in an instance of the <SalesOutlet> composite",
+            "IssueNumber": 1,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Internal publisher use only: do not list",
+            "CodeNotes": "For an ISBN that is assigned for a publisher\u2019s internal purposes",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Retailer exclusive",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales (under the publisher\u2019s brand \/ imprint) through the designated retailer(s), which must be identified or named in an instance of the <SalesOutlet> composite",
+            "IssueNumber": 6,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Retailer own brand",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales (under the retailer\u2019s own brand \/ imprint) through the designated retailer(s), which must be identified or named in an instance of the <SalesOutlet> composite",
+            "IssueNumber": 6,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "To libraries only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies to libraries",
+            "IssueNumber": 6,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "To schools only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies to schools",
+            "IssueNumber": 8,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Indiziert",
+            "CodeNotes": "Indexed for the German market \u2013 in Deutschland indiziert",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Except to libraries",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies other than to libraries",
+            "IssueNumber": 11,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Through news outlets only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales though news outlet channels (newsstands \/ newsagents)",
+            "IssueNumber": 14,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Retailer exception",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales other than through designated retailer(s), which must be identified or named in the <SalesOutlet> composite",
+            "IssueNumber": 23,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Except to subscription services",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies other than to organizations or services offering consumers subscription access to a catalog of books",
+            "IssueNumber": 29,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "To subscription services only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies to organizations or services offering consumers subscription access to a catalog of books",
+            "IssueNumber": 30,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Except through online retail",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales other than through online retail channels",
+            "IssueNumber": 36,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Through online retail only",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to sales through online retail channels",
+            "IssueNumber": 36,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Except to schools",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies other than to schools. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Through Inventoryless POD",
+            "CodeNotes": "POD copies may be manufactured at any time, either to fulfill a customer order immediately or to replace a minimal stockholding (ie near-inventoryless). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Through Stock Protection POD",
+            "CodeNotes": "POD copies may be manfactured only to fulfill a customer order immediately while out of stock and awaiting delivery of further stock from the supplier. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Except through POD",
+            "CodeNotes": "Not eligible for POD. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Except to some subscription services",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to all supplies through retailers, and to the designated subscription services, which must be identified or named in an instance of the <SalesOutlet> composite. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Subscription service exclusive",
+            "CodeNotes": "Sales rights (or market distribution rights) apply to supplies to the designated subscription service(s), which must be identified or named in an instance of the <SalesOutlet> composite. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "No restrictions on sales",
+            "CodeNotes": "Positive indication that no sales restrictions apply, for example to indicate the product may be sold both online and in bricks-and mortar retail, or to subscription services and non-subscription customers. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

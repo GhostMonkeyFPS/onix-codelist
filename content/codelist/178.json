@@ -1,0 +1,295 @@
+{
+    "CodeListNumber": 178,
+    "CodeListDescription": "Supporting resource file format",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "A103",
+            "CodeDescription": "MP3",
+            "CodeNotes": "MPEG 1\/2 Audio Layer III file",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A104",
+            "CodeDescription": "WAV",
+            "CodeNotes": "Waveform Audio file",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A105",
+            "CodeDescription": "Real Audio",
+            "CodeNotes": "Proprietary RealNetworks format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A106",
+            "CodeDescription": "WMA",
+            "CodeNotes": "Windows Media Audio format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A107",
+            "CodeDescription": "AAC",
+            "CodeNotes": "Advanced Audio Coding format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A108",
+            "CodeDescription": "Ogg\/Vorbis",
+            "CodeNotes": "Vorbis audio format in the Ogg container",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A111",
+            "CodeDescription": "AIFF",
+            "CodeNotes": "Audio Interchange File format",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D101",
+            "CodeDescription": "Real Video",
+            "CodeNotes": "Proprietary RealNetworks format. Includes Real Video packaged within a .rm RealMedia container",
+            "IssueNumber": 10,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D102",
+            "CodeDescription": "Quicktime",
+            "CodeNotes": "Quicktime container format (.mov)",
+            "IssueNumber": 10,
+            "ModifiedNumber": 15,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D103",
+            "CodeDescription": "AVI",
+            "CodeNotes": "Audio Video Interleave format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D104",
+            "CodeDescription": "WMV",
+            "CodeNotes": "Windows Media Video format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D105",
+            "CodeDescription": "MPEG-4",
+            "CodeNotes": "MPEG-4 container format (.mp4, .m4a)",
+            "IssueNumber": 10,
+            "ModifiedNumber": 15,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D106",
+            "CodeDescription": "FLV",
+            "CodeNotes": "Flash Video (.flv, .f4v)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D107",
+            "CodeDescription": "SWF",
+            "CodeNotes": "ShockWave (.swf)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D108",
+            "CodeDescription": "3GP",
+            "CodeNotes": "3GPP container format (.3gp, .3g2)",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D109",
+            "CodeDescription": "WebM",
+            "CodeNotes": "WebM container format (includes .mkv)",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D401",
+            "CodeDescription": "PDF",
+            "CodeNotes": "Portable Document File (single page image)",
+            "IssueNumber": 10,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D501",
+            "CodeDescription": "GIF",
+            "CodeNotes": "Graphic Interchange File format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D502",
+            "CodeDescription": "JPEG",
+            "CodeNotes": "Joint Photographic Experts Group format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D503",
+            "CodeDescription": "PNG",
+            "CodeNotes": "Portable Network Graphics format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D504",
+            "CodeDescription": "TIFF",
+            "CodeNotes": "Tagged Image File format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D505",
+            "CodeDescription": "BMP",
+            "CodeNotes": "Windows Bitmap format",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D506",
+            "CodeDescription": "JP2",
+            "CodeNotes": "JPEG 2000, improved Joint Photographic Experts Group format",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D507",
+            "CodeDescription": "PSD",
+            "CodeNotes": "Adobe Photoshop native file format, PSD or PSB",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D508",
+            "CodeDescription": "EPS",
+            "CodeNotes": "Image as Postscript or Encapsulated Postscript file (.ps or .eps)",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D509",
+            "CodeDescription": "WebP",
+            "CodeNotes": "Google-developed image format",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D510",
+            "CodeDescription": "SVG",
+            "CodeNotes": "Scalable vector graphics",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E101",
+            "CodeDescription": "EPUB",
+            "CodeNotes": "The Open Publication Structure \/ OPS Container Format standard of the International Digital Publishing Forum (IDPF) [File extension .epub]",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E105",
+            "CodeDescription": "HTML",
+            "CodeNotes": "HyperText Mark-up Language [File extension .html, .htm]",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E107",
+            "CodeDescription": "PDF",
+            "CodeNotes": "Portable Document Format (ISO 32000-1:2008) [File extension .pdf]",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E112",
+            "CodeDescription": "TXT",
+            "CodeNotes": "Plain text (either ASCII or UTF-8\/16 Unicode)",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E113",
+            "CodeDescription": "XHTML",
+            "CodeNotes": "Extensible Hypertext Markup Language [File extension .xhtml, .xht, .xml, .html, .htm]",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E115",
+            "CodeDescription": "XPS",
+            "CodeNotes": "XML Paper Specification",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E116",
+            "CodeDescription": "Amazon Kindle",
+            "CodeNotes": "A format proprietary to Amazon for use with its Kindle reading devices or software readers [File extensions .azw, .mobi, .prc]",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E139",
+            "CodeDescription": "CEB",
+            "CodeNotes": "Founder Apabi\u2019s proprietary basic e-book format",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E140",
+            "CodeDescription": "CEBX",
+            "CodeNotes": "Founder Apabi\u2019s proprietary XML e-book format",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

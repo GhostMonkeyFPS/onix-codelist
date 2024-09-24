@@ -1,0 +1,159 @@
+{
+    "CodeListNumber": 68,
+    "CodeListDescription": "Market publishing status",
+    "IssueNumber": 3,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "Status is not specified (as distinct from unknown): the default if the <MarketPublishingStatus> element is not sent",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Cancelled",
+            "CodeNotes": "The product was announced for publication in this market, and subsequently abandoned. A market publication date must not be sent",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Forthcoming",
+            "CodeNotes": "Not yet published in this market, should be accompanied by expected local publication date",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Postponed indefinitely",
+            "CodeNotes": "The product was announced for publication in this market, and subsequently postponed with no expected local publication date. A market publication date must not be sent",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Active",
+            "CodeNotes": "The product was published in this market, and is still active in the sense that the publisher will accept orders for it, though it may or may not be immediately available, for which see <SupplyDetail>",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "No longer our product",
+            "CodeNotes": "Responsibility for the product in this market has been transferred elsewhere (with details of acquiring publisher representative in this market if possible in PR.25 (in ONIX 2.1) OR P.25 (in ONIX 3.0 or later))",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Out of stock indefinitely",
+            "CodeNotes": "The product was active in this market, but is now inactive in the sense that (a) the publisher representative (local publisher or sales agent) cannot fulfill orders for it, though stock may still be available elsewhere in the supply chain, and (b) there are no current plans to bring it back into stock in this market. Code 06 does not specifically imply that returns are or are not still accepted",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Out of print",
+            "CodeNotes": "The product was active in this market, but is now permanently inactive in this market in the sense that (a) the publisher representative (local publisher or sales agent) will not accept orders for it, though stock may still be available elsewhere in the supply chain, and (b) the product will not be made available again in this market under the same ISBN. Code 07 normally implies that the publisher will not accept returns beyond a specified date",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Inactive",
+            "CodeNotes": "The product was active in this market, but is now permanently or indefinitely inactive in the sense that the publisher representative (local publisher or sales agent) will not accept orders for it, though stock may still be available elsewhere in the supply chain. Code 08 covers both of codes 06 and 07, and may be used where the distinction between those values is either unnecessary or meaningless",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Unknown",
+            "CodeNotes": "The sender of the ONIX record does not know the current publishing status in this market",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Remaindered",
+            "CodeNotes": "The product is no longer available in this market from the publisher representative (local publisher or sales agent), under the current ISBN, at the current price. It may be available to be traded through another channel, usually at a reduced price",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Withdrawn from sale",
+            "CodeNotes": "Withdrawn from sale in this market, typically for legal reasons or to avoid giving offence",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Not available in this market",
+            "CodeNotes": "Either no rights are held for the product in this market, or for other reasons the publisher has decided not to make it available in this market",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Active, but not sold separately",
+            "CodeNotes": "The product is published and active in this market but, as a publishing decision, its constituent parts are not sold separately \u2013 only in an assembly or as part of a pack, eg with Product composition code 01. Also use with Product composition codes 30, 31 where depending on product composition and pricing, items in the pack may be saleable separately at retail",
+            "IssueNumber": 3,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Active, with market restrictions",
+            "CodeNotes": "The product is published in this market and active, but is not available to all customer types, typically because the market is split between exclusive sales agents for different market segments. In ONIX 2.1, should be accompanied by a free-text statement in <MarketRestrictionDetail> describing the nature of the restriction. In ONIX 3.0 or later, the <SalesRestriction> composite in Group P.24 should be used",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Recalled",
+            "CodeNotes": "Recalled in this market for reasons of consumer safety",
+            "IssueNumber": 12,
+            "ModifiedNumber": 15,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Temporarily withdrawn from sale",
+            "CodeNotes": "Temporarily withdrawn from sale in this market, typically for quality or technical reasons. In ONIX 3.0 or later, must be accompanied by expected availability date coded \u201822\u2019 within the <MarketDate> composite, except in exceptional circumstances where no date is known",
+            "IssueNumber": 15,
+            "ModifiedNumber": 46,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Permanently withdrawn from sale",
+            "CodeNotes": "Withdrawn permanently from sale in this market. Effectively synonymous with \u2018Out of print\u2019 (code 07), but specific to downloadable and online digital products (where no \u2018stock\u2019 would remain in the supply chain). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Active, but not sold as set",
+            "CodeNotes": "The various constituent parts of a product are published and active in this market but, as a publishing decision, they are not sold together as a single product \u2013 eg with Product composition code 11 \u2013 and are only available as a number of individual items. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

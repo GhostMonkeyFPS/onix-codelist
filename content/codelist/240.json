@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 240,
+    "CodeListDescription": "AV Item type code",
+    "IssueNumber": 43,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Audiovisual work",
+            "CodeNotes": "A complete audiovisual work which is published as a content item in a product which carries two or more such works, eg when two or three AV works are published in a single omnibus package",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Front matter",
+            "CodeNotes": "Audiovisual components such as a scene index or introduction which appear before the main content of the product",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Body matter",
+            "CodeNotes": "Audiovisual components such as scenes or \u2018chapters\u2019 which appear as part of the main body of the AV material in the product",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "End matter",
+            "CodeNotes": "Audiovisual components such as advertising which appear after the main content of the product",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

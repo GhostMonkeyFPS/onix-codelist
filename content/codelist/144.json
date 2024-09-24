@@ -1,0 +1,71 @@
+{
+    "CodeListNumber": 144,
+    "CodeListDescription": "E-publication technical protection",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "None",
+            "CodeNotes": "Has no technical protection",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "DRM",
+            "CodeNotes": "Has DRM protection",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Digital watermarking",
+            "CodeNotes": "Has digital watermarking",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Adobe DRM",
+            "CodeNotes": "Has DRM protection applied by the Adobe CS4 Content Server Package or by the Adobe ADEPT hosted service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Apple DRM",
+            "CodeNotes": "Has FairPlay DRM protection applied via Apple proprietary online store",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "OMA DRM",
+            "CodeNotes": "Has OMA v2 DRM protection applied, as used to protect some mobile phone content",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Readium LCP DRM",
+            "CodeNotes": "Has Licensed Content Protection DRM applied by a Readium License Server",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Sony DRM",
+            "CodeNotes": "Has Sony DADC User Rights Management (URMS) DRM protection applied",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

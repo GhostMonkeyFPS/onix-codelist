@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 219,
+    "CodeListDescription": "Rights type",
+    "IssueNumber": 24,
+    "Code": [
+        {
+            "CodeValue": "C",
+            "CodeDescription": "Copyright",
+            "CodeNotes": "Text or image copyright (normally indicated by the \u00a9 symbol). The default if no <CopyrightType> is specified",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P",
+            "CodeDescription": "Phonogram right",
+            "CodeNotes": "Phonogram copyright or neighbouring right (normally indicated by the \u2117 symbol)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D",
+            "CodeDescription": "Database right",
+            "CodeNotes": "Sui generis database right",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

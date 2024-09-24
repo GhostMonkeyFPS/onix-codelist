@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 142,
+    "CodeListDescription": "Position on product",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unknown \/ unspecified",
+            "CodeNotes": "Position unknown or unspecified",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Cover 4",
+            "CodeNotes": "The back cover of a book (or book jacket) \u2013 the recommended position",
+            "IssueNumber": 9,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Cover 3",
+            "CodeNotes": "The inside back cover of a book",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Cover 2",
+            "CodeNotes": "The inside front cover of a book",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Cover 1",
+            "CodeNotes": "The front cover of a book",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "On spine",
+            "CodeNotes": "The spine of a book",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "On box",
+            "CodeNotes": "Used only for boxed products",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "On tag",
+            "CodeNotes": "Used only for products fitted with hanging tags",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "On bottom",
+            "CodeNotes": "Not be used for books unless they are contained within outer packaging",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "On back",
+            "CodeNotes": "Not be used for books unless they are contained within outer packaging",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "On outer sleeve \/ back",
+            "CodeNotes": "Used only for products packaged in outer sleeves",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "On removable wrapping",
+            "CodeNotes": "Used only for products packaged in shrink-wrap or other removable wrapping",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,1047 @@
+{
+    "CodeListNumber": 27,
+    "CodeListDescription": "Subject scheme identifier",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Dewey",
+            "CodeNotes": "Dewey Decimal Classification",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Abridged Dewey",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "LC classification",
+            "CodeNotes": "US Library of Congress classification",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "LC subject heading",
+            "CodeNotes": "US Library of Congress subject heading",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "NLM classification",
+            "CodeNotes": "US National Library of Medicine medical classification",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "MeSH heading",
+            "CodeNotes": "US National Library of Medicine Medical subject heading",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "NAL subject heading",
+            "CodeNotes": "US National Agricultural Library subject heading",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "AAT",
+            "CodeNotes": "Getty Art and Architecture Thesaurus heading",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "UDC",
+            "CodeNotes": "Universal Decimal Classification",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "BISAC Subject Heading",
+            "CodeNotes": "BISAC Subject Headings are used in the North American market to categorize books based on topical content. They serve as a guideline for shelving books in physical stores and browsing books in online stores. See https:\/\/www.bisg.org\/complete-bisac-subject-headings-list",
+            "IssueNumber": 0,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "BISAC Regional theme",
+            "CodeNotes": "A geographical qualifier used with a BISAC subject category",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "BIC subject category",
+            "CodeNotes": "For all BIC subject codes and qualifiers, see https:\/\/bic.org.uk\/resources\/BIC-Standard-Subject-Categories\/",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "BIC geographical qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "BIC language qualifier (language as subject)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "BIC time period qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "BIC educational purpose qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "BIC reading level and special interest qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "DDC-Sachgruppen der Deutschen Nationalbibliografie",
+            "CodeNotes": "Used for German National Bibliography since 2004 (100 subjects). Is different from value 30. See http:\/\/www.dnb.de\/service\/pdf\/ddc_wv_aktuell.pdf (in German) or http:\/\/www.dnb.de\/eng\/service\/pdf\/ddc_wv_aktuell_eng.pdf (English)",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "LC fiction genre heading",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Keywords",
+            "CodeNotes": "For indexing and search purposes, not normally intended for display. Where multiple keywords or keyword phrases are sent, this should be in a single instance of the <SubjectHeadingText> element, and it is recommended that they should be separated by semi-colons (this is consistent with Library of Congress preferred practice)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "BIC children\u2019s book marketing category",
+            "CodeNotes": "See PA\/BIC CBMC guidelines at https:\/\/bic.org.uk\/resources\/childrens-books-marketing-classifications\/",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "BISAC Merchandising Theme",
+            "CodeNotes": "BISAC Merchandising Themes are used in addition to BISAC Subject Headings to denote an audience to which a work may be of particular appeal, a time of year or event for which a work may be especially appropriate, or to further describe fictional works that have been subject-coded by genre",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Publisher\u2019s own category code",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Proprietary subject scheme",
+            "CodeNotes": "As specified in <SubjectSchemeName>",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Tabla de materias ISBN",
+            "CodeNotes": "Latin America",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Warengruppen-Systematik des deutschen Buchhandels",
+            "CodeNotes": "See https:\/\/vlb.de\/assets\/images\/wgsneuversion2_0.pdf (in German)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "SWD",
+            "CodeNotes": "Schlagwortnormdatei \u2013 Subject Headings Authority File in the German-speaking countries. See http:\/\/www.dnb.de\/standardisierung\/normdateien\/swd.htm (in German) and http:\/\/www.dnb.de\/eng\/standardisierung\/normdateien\/swd.htm (English). Deprecated in favor of the GND",
+            "IssueNumber": 0,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": 18
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Th\u00e8mes Electre",
+            "CodeNotes": "Subject classification used by Electre (France)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "CLIL Classification th\u00e9matique",
+            "CodeNotes": "France. A four-digit number, see https:\/\/clil.centprod.com\/listeActive.html (in French)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "DNB-Sachgruppen",
+            "CodeNotes": "Deutsche Bibliothek subject groups. Used for German National Bibliography until 2003 (65 subjects). Is different from value 18. See http:\/\/www.dnb.de\/service\/pdf\/ddc_wv_alt_neu.pdf (in German)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "NUGI",
+            "CodeNotes": "Nederlandse Uniforme Genre-Indeling (former Dutch book trade classification)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "NUR",
+            "CodeNotes": "Nederlandstalige Uniforme Rubrieksindeling (Dutch book trade classification, from 2002), see http:\/\/www.boek.nl\/nur (in Dutch)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "ECPA Christian Book Category",
+            "CodeNotes": "Former ECPA Christian Product Category Book Codes, consisting of up to three x 3-letter blocks, for Super Category, Primary Category and Sub-Category, previously at http:\/\/www.ecpa.org\/ECPA\/cbacategories.xls. No longer maintained by the ECPA. Deprecated",
+            "IssueNumber": 1,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 60
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "SISO",
+            "CodeNotes": "Schema Indeling Systematische Catalogus Openbare Bibliotheken (Dutch library classification)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Korean Decimal Classification (KDC)",
+            "CodeNotes": "A modified Dewey Decimal Classification used in the Republic of Korea",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "DDC Deutsch 22",
+            "CodeNotes": "German Translation of Dewey Decimal Classification 22. Also known as DDC 22 ger. See http:\/\/www.ddc-deutsch.de\/produkte\/uebersichten\/",
+            "IssueNumber": 2,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Bokgrupper",
+            "CodeNotes": "Norwegian book trade product categories (Bokgrupper) administered by the Norwegian Publishers Association (http:\/\/www.forleggerforeningen.no\/)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "Varegrupper",
+            "CodeNotes": "Norwegian bookselling subject categories (Bokhandelens varegrupper) administered by the Norwegian Booksellers Association (http:\/\/bokhandlerforeningen.no\/)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "L\u00e6replaner-KL06",
+            "CodeNotes": "Norwegian school curriculum version. Deprecated",
+            "IssueNumber": 6,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": 28
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Nippon Decimal Classification",
+            "CodeNotes": "Japanese subject classification scheme",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "BSQ",
+            "CodeNotes": "BookSelling Qualifier: Russian book trade classification",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "ANELE Materias",
+            "CodeNotes": "Spain: subject coding scheme of the Asociaci\u00f3n Nacional de Editores de Libros y Material de Ense\u00f1anza",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Utdanningsprogram",
+            "CodeNotes": "Codes for Norwegian \u2018utdanningsprogram\u2019 used in secondary education. See: http:\/\/www.udir.no\/. (Formerly labelled \u2018Skolefag\u2019)",
+            "IssueNumber": 6,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Programomr\u00e5de",
+            "CodeNotes": "Codes for Norwegian \u2018programomr\u00e5de\u2019 used in secondary education. See http:\/\/www.udir.no\/. (Formerly labelled \u2018Videreg\u00e5ende\u2019 or \u2018Programfag\u2019)",
+            "IssueNumber": 6,
+            "ModifiedNumber": 32,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Undervisningsmateriell",
+            "CodeNotes": "Norwegian list of categories for books and other material used in education",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Norsk DDK",
+            "CodeNotes": "Norwegian version of Dewey Decimal Classification",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Varugrupper",
+            "CodeNotes": "Swedish bookselling subject categories",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "SAB",
+            "CodeNotes": "Swedish classification scheme",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "L\u00e4romedelstyp",
+            "CodeNotes": "Swedish bookselling educational subject type",
+            "IssueNumber": 7,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "F\u00f6rhandsbeskrivning",
+            "CodeNotes": "Swedish publishers preliminary subject classification",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Spanish ISBN UDC subset",
+            "CodeNotes": "Controlled subset of UDC codes used by the Spanish ISBN Agency",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "52",
+            "CodeDescription": "ECI subject categories",
+            "CodeNotes": "Subject categories defined by El Corte Ingl\u00e9s and used widely in the Spanish book trade",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "53",
+            "CodeDescription": "Soggetto CCE",
+            "CodeNotes": "Classificazione commerciale editoriale (Italian book trade subject category based on BIC). CCE documentation available at https:\/\/www.ie-online.it\/CCE2_2.0.pdf",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "54",
+            "CodeDescription": "Qualificatore geografico CCE",
+            "CodeNotes": "CCE Geographical qualifier",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "55",
+            "CodeDescription": "Qualificatore di lingua CCE",
+            "CodeNotes": "CCE Language qualifier",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "56",
+            "CodeDescription": "Qualificatore di periodo storico CCE",
+            "CodeNotes": "CCE Time Period qualifier",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "57",
+            "CodeDescription": "Qualificatore di livello scolastico CCE",
+            "CodeNotes": "CCE Educational Purpose qualifier",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "58",
+            "CodeDescription": "Qualificatore di et\u00e0 di lettura CCE",
+            "CodeNotes": "CCE Reading Level Qualifier",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "59",
+            "CodeDescription": "VdS Bildungsmedien F\u00e4cher",
+            "CodeNotes": "Subject code list of the German association of educational media publishers, formerly at http:\/\/www.bildungsmedien.de\/service\/onixlisten\/unterrichtsfach_onix_codelist27_value59_0408.pdf. Deprecated \u2013 use Thema subject category (eg YPA \u2013 Educational: Arts, general) instead, and add a Thema language qualifier (eg 2ACB \u2013\u00a0English) for language teaching",
+            "IssueNumber": 7,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 59
+        },
+        {
+            "CodeValue": "60",
+            "CodeDescription": "Fagkoder",
+            "CodeNotes": "Norwegian primary and secondary school subject categories (fagkoder), see http:\/\/www.udir.no\/",
+            "IssueNumber": 7,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "61",
+            "CodeDescription": "JEL classification",
+            "CodeNotes": "Journal of Economic Literature classification scheme",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "62",
+            "CodeDescription": "CSH",
+            "CodeNotes": "National Library of Canada subject heading (English)",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "63",
+            "CodeDescription": "RVM",
+            "CodeNotes": "R\u00e9pertoire de vedettes-mati\u00e8re Biblioth\u00e8que de l\u2019Universit\u00e9 Laval) (French)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "64",
+            "CodeDescription": "YSA",
+            "CodeNotes": "Finnish General Thesaurus (Finnish: Yleinen suomalainen asiasanasto). See https:\/\/finto.fi\/ysa\/fi\/ (in Finnish). Deprecated. No longer updated, and replaced by YSO (see code 71)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "65",
+            "CodeDescription": "All\u00e4rs",
+            "CodeNotes": "Swedish translation of the Finnish General Thesaurus (Swedish: Allm\u00e4n tesaurus p\u00e5 svenska). See https:\/\/finto.fi\/allars\/sv\/ (in Swedish). Deprecated. No longer updated, and replaced by YSO (see code 71)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "66",
+            "CodeDescription": "YKL",
+            "CodeNotes": "Finnish Public Libraries Classification System (Finnish: Yleisten kirjastojen luokitusj\u00e4rjestelm\u00e4). See https:\/\/finto.fi\/ykl\/fi\/ (in Finnish), https:\/\/finto.fi\/ykl\/sv\/ (in Swedish), https:\/\/finto.fi\/ykl\/en\/ (in English)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "67",
+            "CodeDescription": "MUSA",
+            "CodeNotes": "Finnish Music Thesaurus (Finnish: Musiikin asiasanasto). See https:\/\/finto.fi\/musa\/fi\/ (in Finnish). Deprecated, and replaced by YSO (see code 71)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "68",
+            "CodeDescription": "CILLA",
+            "CodeNotes": "Swedish translation of the Finnish Music Thesaurus (Swedish: Specialtesaurus f\u00f6r musik). See https:\/\/finto.fi\/musa\/sv\/ (in Swedish). Deprecated, and replaced by YSO (see code 71)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "69",
+            "CodeDescription": "Kaunokki",
+            "CodeNotes": "Finnish thesaurus for fiction (Finnish: Fiktiivisen aineiston asiasanasto). See https:\/\/finto.fi\/kaunokki\/fi\/ (in Finnish). Deprecated. No longer updated, and replaced by Kauno and SLM (see codes D0 and D1)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "70",
+            "CodeDescription": "Bella",
+            "CodeNotes": "Swedish translation of the Finnish thesaurus for fiction (Swedish: Specialtesaurus f\u00f6r fiktivt material:). See https:\/\/finto.fi\/kaunokki\/sv\/ (in Swedish). Deprecated. No longer updated, and replaced by Kauno and SLM (see codes D0 and D1)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "71",
+            "CodeDescription": "YSO",
+            "CodeNotes": "General Finnish Ontology (Finnish: Yleinen suomalainen ontologia). See https:\/\/finto.fi\/yso\/fi\/ (in Finnish), https:\/\/finto.fi\/yso\/sv\/ (in Swedish), https:\/\/finto.fi\/yso\/en\/ (in English)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "72",
+            "CodeDescription": "PTO",
+            "CodeNotes": "Finnish Geospatial Domain Ontology (Finnish: Paikkatieto ontologia). See https:\/\/finto.fi\/pto\/fi\/ (in Finnish), https:\/\/finto.fi\/pto\/sv\/ (in Swedish), https:\/\/finto.fi\/pto\/en\/ (in English)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "73",
+            "CodeDescription": "Suomalainen kirja-alan luokitus",
+            "CodeNotes": "Finnish book trade categorisation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "74",
+            "CodeDescription": "Sears",
+            "CodeNotes": "Sears List of Subject Headings",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "75",
+            "CodeDescription": "BIC E4L",
+            "CodeNotes": "BIC E4Libraries Category Headings, formerly at http:\/\/www.bic.org.uk\/51\/E4libraries-Subject-Category-Headings\/ but replaced by UK Standard Library Categories (code 92). Deprecated",
+            "IssueNumber": 9,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": 61
+        },
+        {
+            "CodeValue": "76",
+            "CodeDescription": "CSR",
+            "CodeNotes": "Code Sujet Rayon: subject categories used by bookstores in France",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "77",
+            "CodeDescription": "Suomalainen oppiaineluokitus",
+            "CodeNotes": "Finnish school subject categories. See https:\/\/www.onixkeskus.fi\/media\/f\/5722",
+            "IssueNumber": 11,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "78",
+            "CodeDescription": "Japanese book trade C-Code",
+            "CodeNotes": "See https:\/\/isbn.jpo.or.jp\/doc\/08.pdf#page=44 (in Japanese)",
+            "IssueNumber": 12,
+            "ModifiedNumber": 54,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "79",
+            "CodeDescription": "Japanese book trade Genre Code",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "80",
+            "CodeDescription": "Fiktiivisen aineiston lis\u00e4luokitus",
+            "CodeNotes": "Finnish fiction genre classification. See https:\/\/finto.fi\/ykl\/fi\/page\/fiktioluokka (in Finnish), https:\/\/finto.fi\/ykl\/sv\/page\/fiktioluokka (in Swedish), https:\/\/finto.fi\/ykl\/en\/page\/fiktioluokka (in English)",
+            "IssueNumber": 13,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "81",
+            "CodeDescription": "Arabic Subject heading scheme",
+            "CodeNotes": "",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "82",
+            "CodeDescription": "Arabized BIC subject category",
+            "CodeNotes": "Arabized version of BIC subject category scheme developed by ElKotob.com",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "83",
+            "CodeDescription": "Arabized LC subject headings",
+            "CodeNotes": "Arabized version of Library of Congress scheme",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "84",
+            "CodeDescription": "Bibliotheca Alexandrina Subject Headings",
+            "CodeNotes": "Classification scheme used by Library of Alexandria",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "85",
+            "CodeDescription": "Postal code",
+            "CodeNotes": "Location defined by postal code. Format is two-letter country code (from List 91), space, postal code. Note some postal codes themselves contain spaces, eg \u2018GB N7 9DP\u2019 or \u2018US 10125\u2019",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "86",
+            "CodeDescription": "GeoNames ID",
+            "CodeNotes": "ID number for geographical place, as defined at http:\/\/www.geonames.org (eg 2825297 is Stuttgart, Germany, see http:\/\/www.geonames.org\/2825297)",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "87",
+            "CodeDescription": "NewBooks Subject Classification",
+            "CodeNotes": "Used for classification of academic and specialist publication in German-speaking countries. See http:\/\/www.newbooks-services.com\/de\/top\/unternehmensportrait\/klassifikation-und-mapping.html (German) and http:\/\/www.newbooks-services.com\/en\/top\/about-newbooks\/classification-mapping.html (English)",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "88",
+            "CodeDescription": "Chinese Library Classification",
+            "CodeNotes": "Subject classification maintained by the Editorial Board of Chinese Library Classification. See http:\/\/cct.nlc.gov.cn for access to details of the scheme",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "89",
+            "CodeDescription": "NTCPDSAC Classification",
+            "CodeNotes": "Subject classification for Books, Audiovisual products and E-publications formulated by China National Technical Committee 505",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "90",
+            "CodeDescription": "Season and Event Indicator",
+            "CodeNotes": "German code scheme indicating association with seasons, holidays, events (eg Autumn, Back to School, Easter)",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "91",
+            "CodeDescription": "GND",
+            "CodeNotes": "(de: Gemeinsame Normdatei) Integrated Authority File used in the German-speaking countries. See https:\/\/www.dnb.de\/DE\/Professionell\/Standardisierung\/GND\/gnd_node.html (German) and https:\/\/www.dnb.de\/EN\/Professionell\/Standardisierung\/GND\/gnd_node.html (English). Combines the PND, SWD and GKD into a single authority file, and should be used in preference to the older codes",
+            "IssueNumber": 18,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "92",
+            "CodeDescription": "BIC UKSLC",
+            "CodeNotes": "UK Standard Library Categories, the successor to BIC\u2019s E4L classification scheme. See https:\/\/bic.org.uk\/resources\/uk-standard-library-categories\/",
+            "IssueNumber": 19,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "93",
+            "CodeDescription": "Thema subject category",
+            "CodeNotes": "International multilingual subject category scheme \u2013 see https:\/\/ns.editeur.org\/thema",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "94",
+            "CodeDescription": "Thema place qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "95",
+            "CodeDescription": "Thema language qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "96",
+            "CodeDescription": "Thema time period qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "97",
+            "CodeDescription": "Thema educational purpose qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "98",
+            "CodeDescription": "Thema interest age \/ special interest qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": 21,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "Thema style qualifier",
+            "CodeNotes": "",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A2",
+            "CodeDescription": "\u00c4mnesord",
+            "CodeNotes": "Swedish subject categories maintained by Bokrondellen",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A3",
+            "CodeDescription": "Statystyka Ksi\u0105\u017cek Papierowych, M\u00f3wionych I Elektronicznych",
+            "CodeNotes": "Polish Statistical Book and E-book Classification",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A4",
+            "CodeDescription": "CCSS",
+            "CodeNotes": "Common Core State Standards curriculum alignment, for links to US educational standards. <SubjectCode> uses the full dot notation. See http:\/\/www.corestandards.org\/developers-and-publishers",
+            "IssueNumber": 26,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A5",
+            "CodeDescription": "Rameau",
+            "CodeNotes": "French library subject headings",
+            "IssueNumber": 24,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A6",
+            "CodeDescription": "Nomenclature discipline scolaire",
+            "CodeNotes": "French educational subject classification, URI http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-015GTPX",
+            "IssueNumber": 24,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A7",
+            "CodeDescription": "ISIC",
+            "CodeNotes": "International Standard Industry Classification, a classification of economic activities. Use for books that are about a particular industry or economic activity. <SubjectCode> should be a single letter denoting an ISIC section OR a 2-, 3- or 4-digit number denoting an ISIC division, group or class. See http:\/\/unstats.un.org\/unsd\/cr\/registry\/isic-4.asp",
+            "IssueNumber": 26,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A8",
+            "CodeDescription": "LC Children\u2019s Subject Headings",
+            "CodeNotes": "Library of Congress Children\u2019s Subject Headings: LCSHAC supplementary headings for Children\u2019s books",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A9",
+            "CodeDescription": "Ny L\u00e4romedel",
+            "CodeNotes": "Swedish bookselling educational subject",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B0",
+            "CodeDescription": "EuroVoc",
+            "CodeNotes": "EuroVoc multilingual thesaurus. <SubjectCode> should be a EuroVoc concept dc:identifier (for example, 2777, \u2018refrigerated products\u2019). See http:\/\/eurovoc.europa.eu",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B1",
+            "CodeDescription": "BISG Educational Taxonomy",
+            "CodeNotes": "Controlled vocabulary for educational objectives. See https:\/\/www.bisg.org\/products\/recommendations-for-citing-educational-standards-and-objectives-in-metadata",
+            "IssueNumber": 29,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B2",
+            "CodeDescription": "Keywords (not for display)",
+            "CodeNotes": "For indexing and search purposes, MUST not be displayed. Where multiple keywords or keyword phrases are sent, this should be in a single instance of the <SubjectHeadingText> element, and it is recommended that they should be separated by semi-colons. Use of code B2 should be very rare: use B2 in preference to code 20 only where it is important to show the keyword list is specifically NOT for display to purchasers (eg some keywords for a medical textbook may appear offensive if displayed out of context)",
+            "IssueNumber": 33,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B3",
+            "CodeDescription": "Nomenclature Dipl\u00f4me",
+            "CodeNotes": "French higher and vocational educational subject classification, URI http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-029",
+            "IssueNumber": 34,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B4",
+            "CodeDescription": "Key character names",
+            "CodeNotes": "For fiction and non-fiction, one or more key names, provided \u2013 like keywords \u2013 for indexing and search purposes. Where multiple character names are sent, this should be in a single instance of <SubjectHeadingText>, and multiple names should be separated by semi-colons. Note <NameAsSubject> should be used for people who are the central subject of the book. Code B4 may be used for names of lesser importance",
+            "IssueNumber": 35,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B5",
+            "CodeDescription": "Key place names",
+            "CodeNotes": "For fiction and non-fiction, one or more key names, provided \u2013 like keywords \u2013 for indexing and search purposes. Where multiple place names are sent, this should in a single instance of <SubjectHeadingText>, and multiple names should be separated by semi-colons. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B6",
+            "CodeDescription": "FAST",
+            "CodeNotes": "Faceted Application of Subject Terminology, OCLC subject scheme derived from LCSH (see code 04). See https:\/\/fast.oclc.org\/fast\/. Codes are up to 8 digits, for example 1726640 for Historical fiction (see https:\/\/id.worldcat.org\/fast\/1726640). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B7",
+            "CodeDescription": "NGSS",
+            "CodeNotes": "Next Generation Science Standards for K-12 education in the USA (https:\/\/www.nextgenscience.org). <SubjectCode> is a code such as 4-PS3-2. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B8",
+            "CodeDescription": "MVB-Lesemotive",
+            "CodeNotes": "MVB classification of \u2018reading rationales\u2019, which classify unconscious motives that lead to a book purchase. Categories are assigned and maintained by MVB. Only for use in ONIX 3.0 or later. See https:\/\/vlb.de\/lesemotive",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B9",
+            "CodeDescription": "LOPS21 Subject module",
+            "CodeNotes": "Finnish Suomalainen oppiaineluokitus. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C0",
+            "CodeDescription": "L\u00e6replaner-LK20",
+            "CodeNotes": "Codes for Norwegian curriculum for primary and secondary education. Only for use in ONIX 3.0 or later. See L\u00e6replaner-LK20 at https:\/\/www.udir.no\/om-udir\/data\/kl06-grep\/",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C1",
+            "CodeDescription": "Kompetansem\u00e5l-LK20",
+            "CodeNotes": "Codes for competency aims in the Norwegian curriculum for primary and secondary education. Only for use in ONIX 3.0 or later. See Kompetansem\u00e5l-LK20 at https:\/\/www.udir.no\/om-udir\/data\/kl06-grep\/",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C2",
+            "CodeDescription": "Kompetansem\u00e5lsett-LK20",
+            "CodeNotes": "Codes for sets of competency aims in the Norwegian curriculum for primary and secondary education. Only for use in ONIX 3.0 or later. See Kompetansem\u00e5lsett-LK20 at https:\/\/www.udir.no\/om-udir\/data\/kl06-grep\/",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C3",
+            "CodeDescription": "Tverrfaglige temaer-LK20",
+            "CodeNotes": "Codes for interdisciplinary topics in the Norwegian curriculum for primary and secondary education. Only for use in ONIX 3.0 or later. See Tverrfaglige temaer-LK20 at https:\/\/www.udir.no\/om-udir\/data\/kl06-grep\/",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C4",
+            "CodeDescription": "CLIL \u2013 Type d\u2019article scolaire",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C5",
+            "CodeDescription": "GAR \u2013 Type p\u00e9dagogique",
+            "CodeNotes": "Gestionnaire d\u2019Acc\u00e8s aux resources \u2013 see https:\/\/gar.education.fr\/ Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C6",
+            "CodeDescription": "ISCED-F",
+            "CodeNotes": "UNESCO ISCED Fields of education and training (2013), eg <SubjectCode> 0222 is \u2018History and archaeology\u2019. Only for use in ONIX 3.0 or later. See http:\/\/uis.unesco.org\/sites\/default\/files\/documents\/international-standard-classification-of-education-fields-of-education-and-training-2013-detailed-field-descriptions-2015-en.pdf",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C7",
+            "CodeDescription": "Klassifikationen von Spielen, Puzzles und Spielwaren",
+            "CodeNotes": "German category scheme for games, puzzles and toys. Only for use in ONIX 3.0 or later. See https:\/\/www.ludologie.de\/fileadmin\/user_upload\/PDFs\/211126_Kategorisierung_von_Spielen_Puzzles_und_Spielwaren.pdf",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C8",
+            "CodeDescription": "NBVok NTSF",
+            "CodeNotes": "National Library of Norway genre and form thesaurus. Only for use in ONIX 3.0 or later. See https:\/\/www.nb.no\/nbvok\/ntsf",
+            "IssueNumber": 57,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C9",
+            "CodeDescription": "JPRO Genre",
+            "CodeNotes": "Subject \/ genre code used in Japan. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D0",
+            "CodeDescription": "KAUNO",
+            "CodeNotes": "Finnish Ontology for fiction (Finnish: Fiktiivisen aineiston ontologia). See https:\/\/finto.fi\/kauno\/fi\/ (in Finnish), https:\/\/finto.fi\/kauno\/sv\/ (in Swedish), https:\/\/finto.fi\/kauno\/en\/ (in English). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D1",
+            "CodeDescription": "SLM",
+            "CodeNotes": "Finnish genre and form vocabulary (Finnish: Suomalainen lajityyppi ja muotosanasto). See https:\/\/finto.fi\/slm\/fi\/ (in Finnish), https:\/\/finto.fi\/slm\/sv\/ (in Swedish), https:\/\/finto.fi\/slm\/en\/ (in English). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D2",
+            "CodeDescription": "YSO-places",
+            "CodeNotes": "General Finnish Ontology for Places (Finnish: Yleinen suomalainen ontologia \u2013 paikat). See https:\/\/finto.fi\/yso-paikat\/fi\/ (in Finnish), https:\/\/finto.fi\/yso-paikat\/sv\/ (in Swedish), https:\/\/finto.fi\/yso-paikat\/en\/ (in English). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

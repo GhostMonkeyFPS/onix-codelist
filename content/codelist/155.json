@@ -1,0 +1,87 @@
+{
+    "CodeListNumber": 155,
+    "CodeListDescription": "Content date role",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publication date",
+            "CodeNotes": "Nominal date of publication (of the content item or supporting resource)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Broadcast date",
+            "CodeNotes": "Date when a TV or radio program was \/ will be broadcast",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "From date",
+            "CodeNotes": "Date from which a content item or supporting resource may be referenced or used. The content is embargoed until this date",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Until date",
+            "CodeNotes": "Date until which a content item or supporting resource may be referenced or used",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Last updated",
+            "CodeNotes": "Date when a resource was last changed or updated",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "From\u2026 until date",
+            "CodeNotes": "Combines From date and Until date to define a period (both dates are inclusive). Use for example with dateformat 06",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Available from",
+            "CodeNotes": "Date from which a supporting resource is available for download. Note that this date also implies that it can be immediately displayed to the intended audience, unless a From date (code 14) is also supplied and is later than the Available from date",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Available until",
+            "CodeNotes": "Date until which a supporting resource is available for download. Note that this date does not imply it must be removed from display to the intended audience on this date \u2013 for this, use Until date (code 15)",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Associated start date",
+            "CodeNotes": "Start date referenced by the supporting resource, for example, the \u2018earliest exam date\u2019 for an official recommendation",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Associated end date",
+            "CodeNotes": "End date referenced by the supporting resource, for example, the \u2018latest exam date\u2019 for an official recommendation",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

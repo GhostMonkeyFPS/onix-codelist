@@ -1,0 +1,87 @@
+{
+    "CodeListNumber": 162,
+    "CodeListDescription": "Resource version feature type",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "File format",
+            "CodeNotes": "Resource Version Feature Value carries a code from List 178",
+            "IssueNumber": 10,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Image height in pixels",
+            "CodeNotes": "Resource Version Feature Value carries an integer",
+            "IssueNumber": 10,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Image width in pixels",
+            "CodeNotes": "Resource Version Feature Value carries an integer",
+            "IssueNumber": 10,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Filename",
+            "CodeNotes": "Resource Version Feature Value carries the filename of the supporting resource, necessary only when it is different from the last part of the path provided in <ResourceLink>",
+            "IssueNumber": 11,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Approximate download file size in megabytes",
+            "CodeNotes": "Resource Version Feature Value carries a decimal number only, suggested no more than 2 or 3 significant digits (eg 1.7, not 1.7462 or 1.75MB)",
+            "IssueNumber": 11,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "MD5 hash value",
+            "CodeNotes": "MD5 hash value of the resource file. <ResourceVersionFeatureValue> should contain the 128-bit digest value (as 32 hexadecimal digits). Can be used as a cryptographic check on the integrity of a resource after it has been retrieved",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Exact download file size in bytes",
+            "CodeNotes": "Resource Version Feature Value carries a integer number only (eg 1831023)",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "SHA-256 hash value",
+            "CodeNotes": "SHA-256 hash value of the resource file. <ResourceVersionFeatureValue> should contain the 256-bit digest value (as 64 hexadecimal digits). Can be used as a cryptographic check on the integrity of a resource after it has been retrieved",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "ISCC",
+            "CodeNotes": "International Standard Content Code, a \u2018similarity hash\u2019 derived algorithmically from the resource content itself (see https:\/\/iscc.codes). <IDValue> is the ISCC-CODE generated from a digital manifestation of the work, as a variable-length case-insensitive alphanumeric string (or 55 characters including three hyphens if using ISCC v1.0, but this is deprecated). Note alphabetic characters in v1.x ISCCs use Base32 encoding and are conventionally upper case. The \u2018ISCC:\u2019 prefix is omitted",
+            "IssueNumber": 50,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Previous filename",
+            "CodeNotes": "<ResourceVersionFeatureValue> carries the previous filename of the supporting resource, necessary only when it is different from the last part of the path provided in <ResourceLink> and from the filename provided using <ResourceVersionFeatureType> code 04, and when the data sender suggests the recipient delete this old file. Note that the \u2018trigger\u2019 to update the resource and delete the old file is provided by the Resource version\u2019s <ContentDate>",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

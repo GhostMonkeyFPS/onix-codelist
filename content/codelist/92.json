@@ -1,0 +1,87 @@
+{
+    "CodeListNumber": 92,
+    "CodeListDescription": "Supplier identifier type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Deprecated \u2013 use code 01",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": 11
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "B\u00f6rsenverein Verkehrsnummer",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "German ISBN Agency publisher identifier",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "GLN",
+            "CodeNotes": "GS1 global location number (formerly EAN location number)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "SAN",
+            "CodeNotes": "Book trade Standard Address Number \u2013 US, UK etc",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Distributeurscode Boekenbank",
+            "CodeNotes": "Flemish supplier code",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Fondscode Boekenbank",
+            "CodeNotes": "Flemish publisher code",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "ISNI",
+            "CodeNotes": "International Standard Name Identifier (used here to identify an organization). Only for use in ONIX 3.0 or later. See https:\/\/isni.org\/",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "VAT Identity Number",
+            "CodeNotes": "Identifier for a business organization for VAT purposes, eg within the EU\u2019s VIES system. See http:\/\/ec.europa.eu\/taxation_customs\/vies\/faqvies.do for EU VAT ID formats, which vary from country to country. Generally these consist of a two-letter country code followed by the 8\u201312 digits of the national VAT ID. Some countries include one or two letters within their VAT ID. See http:\/\/en.wikipedia.org\/wiki\/VAT_identification_number for non-EU countries that maintain similar identifiers. Spaces, dashes etc should be omitted",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

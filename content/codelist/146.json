@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 146,
+    "CodeListDescription": "Usage status",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Permitted unlimited",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Permitted subject to limit",
+            "CodeNotes": "Limit should be specified in <EpubUsageLimit> or <PriceConstraintLimit>",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Prohibited",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

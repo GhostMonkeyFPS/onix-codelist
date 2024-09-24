@@ -1,0 +1,335 @@
+{
+    "CodeListNumber": 44,
+    "CodeListDescription": "Name identifier type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Deprecated \u2013 use code 01",
+            "IssueNumber": 0,
+            "ModifiedNumber": 10,
+            "DeprecatedNumber": 10
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "DNB publisher identifier",
+            "CodeNotes": "Deutsche Nationalbibliothek publisher identifier",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "B\u00f6rsenverein Verkehrsnummer",
+            "CodeNotes": "(de: Verkehrsnummer ded B\u00f6rsenverein des deutschen Buchhandels)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "German ISBN Agency publisher identifier",
+            "CodeNotes": "(de: MVB-Kennnummer)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "GLN",
+            "CodeNotes": "GS1 global location number (formerly EAN location number)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "SAN",
+            "CodeNotes": "Book trade Standard Address Number \u2013 US, UK etc",
+            "IssueNumber": 1,
+            "ModifiedNumber": 6,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "MARC organization code",
+            "CodeNotes": "MARC code list for organizations \u2013 see http:\/\/www.loc.gov\/marc\/organizations\/orgshome.html",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Centraal Boekhuis Relatie ID",
+            "CodeNotes": "Trading party identifier used in the Netherlands",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Distributeurscode Boekenbank",
+            "CodeNotes": "Flemish supplier code. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Fondscode Boekenbank",
+            "CodeNotes": "Flemish publisher code",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Y-tunnus",
+            "CodeNotes": "Business Identity Code (Finland). See http:\/\/www.ytj.fi\/ (in Finnish)",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "ISNI",
+            "CodeNotes": "International Standard Name Identifier. A sixteen digit number. Usually presented with spaces or hyphens dividing the number into four groups of four digits, but in ONIX the spaces or hyphens should be omitted. See https:\/\/isni.org\/",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "PND",
+            "CodeNotes": "Personennamendatei \u2013 person name authority file used by Deutsche Nationalbibliothek and in other German-speaking countries. See http:\/\/www.dnb.de\/standardisierung\/normdateien\/pnd.htm (German) or http:\/\/www.dnb.de\/eng\/standardisierung\/normdateien\/pnd.htm (English). Deprecated in favor of the GND",
+            "IssueNumber": 10,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": 18
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "NACO",
+            "CodeNotes": "A control number assigned to a Library of Congress Control Number (LCCN) Name Authority \/ NACO record",
+            "IssueNumber": 10,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Japanese Publisher identifier",
+            "CodeNotes": "Publisher identifier administered by Japanese ISBN Agency",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "GKD",
+            "CodeNotes": "Gemeinsame K\u00f6rperschaftsdatei \u2013 Corporate Body Authority File in the German-speaking countries. See http:\/\/www.dnb.de\/standardisierung\/normdateien\/gkd.htm (German) or http:\/\/www.dnb.de\/eng\/standardisierung\/normdateien\/gkd.htm (English). Deprecated in favor of the GND",
+            "IssueNumber": 13,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": 18
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "ORCID",
+            "CodeNotes": "Open Researcher and Contributor ID. A sixteen digit number. Usually presented with hyphens dividing the number into four groups of four digits, but in ONIX the hyphens should be omitted. See http:\/\/www.orcid.org\/",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "GAPP Publisher Identifier",
+            "CodeNotes": "Publisher identifier maintained by the Chinese ISBN Agency (GAPP)",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "VAT Identity Number",
+            "CodeNotes": "Identifier for a business organization for VAT purposes, eg within the EU\u2019s VIES system. See http:\/\/ec.europa.eu\/taxation_customs\/vies\/faqvies.do for EU VAT ID formats, which vary from country to country. Generally these consist of a two-letter country code followed by the 8\u201312 digits of the national VAT ID. Some countries include one or two letters within their VAT ID. See http:\/\/en.wikipedia.org\/wiki\/VAT_identification_number for non-EU countries that maintain similar identifiers. Spaces, dashes etc should be omitted",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "JP Distribution Identifier",
+            "CodeNotes": "4-digit business organization identifier controlled by the Japanese Publication Wholesalers Association",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "GND",
+            "CodeNotes": "Gemeinsame Normdatei \u2013 Joint Authority File in the German-speaking countries. See http:\/\/www.dnb.de\/EN\/gnd (English). Combines the PND, SWD and GKD into a single authority file, and should be used in preference",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "DUNS",
+            "CodeNotes": "Dunn and Bradstreet Universal Numbering System, see http:\/\/www.dnb.co.uk\/dandb-duns-number",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Ringgold ID",
+            "CodeNotes": "Ringgold organizational identifier, see http:\/\/www.ringgold.com\/identify.html",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Identifiant Editeur Electre",
+            "CodeNotes": "French Electre publisher identifier",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "EIDR Party DOI",
+            "CodeNotes": "DOI used in EIDR party registry, for example \u201810.5237\/C9F6-F41F\u2019 (Sam Raimi). See http:\/\/eidr.org",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Identifiant Marque Electre",
+            "CodeNotes": "French Electre imprint Identifier",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "VIAF ID",
+            "CodeNotes": "Virtual Internet Authority File. <IDValue> should be a number. The URI form of the identifier can be created by prefixing the number with \u2018https:\/\/viaf.org\/viaf\/\u2019. See https:\/\/viaf.org",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "FundRef DOI",
+            "CodeNotes": "DOI used in CrossRef\u2019s Open Funder Registry list of academic research funding bodies, for example \u201810.13039\/100004440\u2019 (Wellcome Trust). See https:\/\/www.crossref.org\/services\/funder-registry\/",
+            "IssueNumber": 27,
+            "ModifiedNumber": 65,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "BNE CN",
+            "CodeNotes": "Control number assigned to a Name Authority record by the Biblioteca Nacional de Espa\u00f1a",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "BNF Control Number",
+            "CodeNotes": "Num\u00e9ro de la notice de personne BNF",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "ARK",
+            "CodeNotes": "Archival Resource Key, as a URL (including the address of the ARK resolver provided by eg a national library)",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "Nasjonalt autoritetsregister",
+            "CodeNotes": "Nasjonalt autoritetsregister for navn \u2013 Norwegian national authority file for personal and corporate names. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "GRID",
+            "CodeNotes": "Global Research Identifier Database ID (see https:\/\/www.grid.ac). Only for use in ONIX 3.0 or later. Deprecated \u2013 ROR is now generally preferred",
+            "IssueNumber": 39,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 60
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "IDRef",
+            "CodeNotes": "Party ID from Identifiers and Standards for Higher Education and Research (fr: Identifiants et R\u00e9f\u00e9rentiels pour l\u2019enseignement sup\u00e9rieur et la recherche). Only for use in ONIX 3.0 or later. See https:\/\/www.idref.fr",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "IPI",
+            "CodeNotes": "Party ID from CISAC\u2019s proprietary Interested Party Information scheme, used primarily in rights and royalies administration. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "ROR",
+            "CodeNotes": "Research organization registry identifier (see https:\/\/ror.org), leading 0 followed by 8 alphanumeric characters (including 2-digit checksum). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "EORI",
+            "CodeNotes": "Economic Operators Registration and Identification, identifier for businesses that import into or export from the EU. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "LEI",
+            "CodeNotes": "Legal Entity Identifier, administered by the Global LEI Foundation, as 20 alphanumeric characters without spaces or hyphens. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "SIREN",
+            "CodeNotes": "French business identifier, issued by the National Institute of Statistics and Economic Studies (INSEE). 9 digits, without spaces. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "SIRET",
+            "CodeNotes": "French business and location identifier, issued by the National Institute of Statistics and Economic Studies (INSEE). 14 digits (the SIREN plus a further five digits), without spaces, or occasionally an alphanumeric code. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

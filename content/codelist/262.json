@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 262,
+    "CodeListDescription": "Carbon\/GHG emissions certification scheme",
+    "IssueNumber": 62,
+    "Code": [
+        {
+            "CodeValue": "101",
+            "CodeDescription": "Blue Angel",
+            "CodeNotes": "Product carries \u2013 or is eligible to carry \u2013 Blue Angel labelling. See https:\/\/www.blauer-engel.de",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "102",
+            "CodeDescription": "Cradle to Cradle",
+            "CodeNotes": "Product carries \u2013 or is eligible to carry \u2013 C2C labelling. Has bronze, silver, gold and platinum levels. See c2ccertified.org",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "103",
+            "CodeDescription": "Nordic Swan",
+            "CodeNotes": "See https:\/\/www.nordic-swan-ecolabel.org",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "104",
+            "CodeDescription": "ClimatePartner",
+            "CodeNotes": "See https:\/\/www.climatepartner.com\/en\/take-action\/measure-carbon-footprints\/product-carbon-footprint-pcf",
+            "IssueNumber": 62,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "105",
+            "CodeDescription": "EU Ecolabel",
+            "CodeNotes": "See www.ecolabel.eu",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "501",
+            "CodeDescription": "V-Label",
+            "CodeNotes": "Indicates the product is certified as vegan (does not use animal products, for example in binding or adhesives). See v-label.com",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

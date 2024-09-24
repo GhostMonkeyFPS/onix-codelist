@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 247,
+    "CodeListDescription": "Event occurrence date role",
+    "IssueNumber": 47,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Date of occurrence",
+            "CodeNotes": "Date and (with the default dateformat) time the event occurrence begins",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Date of occurrence end",
+            "CodeNotes": "Date and (with the default dateformat) time the event occurrence ends",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 152,
+    "CodeListDescription": "Illustrated \/ not illustrated",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "No",
+            "CodeNotes": "Not illustrated",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Yes",
+            "CodeNotes": "Illustrated",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

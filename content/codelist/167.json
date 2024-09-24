@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 167,
+    "CodeListDescription": "Price condition type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "No conditions",
+            "CodeNotes": "Allows positive indication that there are no conditions (the default if <PriceCondition> is omitted)",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Includes updates",
+            "CodeNotes": "Purchase at this price includes specified updates",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Must also purchase updates",
+            "CodeNotes": "Purchase at this price requires commitment to purchase specified updates, not included in price",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Updates available",
+            "CodeNotes": "Updates may be purchased separately, no minimum commitment required",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Linked subsequent purchase price",
+            "CodeNotes": "Use with <PriceConditionQuantity> and <ProductIdentifier>. Purchase at this price requires commitment to purchase the specified linked product, which is not included in the price",
+            "IssueNumber": 43,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Linked prior purchase price",
+            "CodeNotes": "Use with <PriceConditionQuantity> and <ProductIdentifier>. Purchase at this price requires prior purchase of the specified linked product",
+            "IssueNumber": 24,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Linked price",
+            "CodeNotes": "Use with <PriceConditionQuantity> and <ProductIdentifier>. Purchase at this price requires simultaneous purchase of the specified linked product, which is not included in the price",
+            "IssueNumber": 24,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Auto-renewing",
+            "CodeNotes": "The rental or subscription will automatically renew at the end of the period unless actively cancelled",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Combined price",
+            "CodeNotes": "Purchase at this price includes the price of the specified other product",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Rental duration",
+            "CodeNotes": "The duration of the rental to which the price applies. Deprecated, use <PriceConstraint> instead",
+            "IssueNumber": 20,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": 34
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Rental to purchase",
+            "CodeNotes": "Purchase at this price requires prior rental of the product. <PriceConditionQuantity> gives minimum prior rental period, and <ProductIdentifier> may be used if rental uses a different product identifier",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Rental extension",
+            "CodeNotes": "Upgrade to longer rental duration. <PriceConditionQuantity> gives minimum prior rental duration, and <ProductIdentifier> may be used if rental uses a different product identifier. Separate price constraint with time limited license duration (code 07) specifies the new combined rental duration",
+            "IssueNumber": 26,
+            "ModifiedNumber": 34,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

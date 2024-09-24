@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 14,
+    "CodeListDescription": "Text case flag",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Undefined",
+            "CodeNotes": "Default",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Sentence case",
+            "CodeNotes": "Initial capitals on first word and subsequently on proper names only, eg \u2018The conquest of Mexico\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Title case",
+            "CodeNotes": "Initial capitals on first word and subsequently on all significant words (nouns, pronouns, adjectives, verbs, adverbs, subordinate conjunctions) thereafter. Unless they appear as the first word, articles, prepositions and coordinating conjunctions remain lower case, eg \u2018The Conquest of Mexico\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "All capitals",
+            "CodeNotes": "For example, \u2018THE CONQUEST OF MEXICO\u2019. Use only when Sentence or Title case are not possible (for example because of system limitations). Do NOT use simply because title is (correctly) in all caps (eg \u2018BBQ USA\u2019)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

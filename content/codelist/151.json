@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 151,
+    "CodeListDescription": "Contributor place relator",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Associated with",
+            "CodeNotes": "To express unknown relationship types (for use when expressing legacy ONIX 2.1 data in ONIX 3.0)",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Born in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Died in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Formerly resided in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Currently resides in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Educated in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Worked in",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Flourished in",
+            "CodeNotes": "(\u2018Floruit\u2019)",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Citizen of",
+            "CodeNotes": "Or nationality. For use with country codes only",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Registered in",
+            "CodeNotes": "The place of legal registration of an organization",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Operating from",
+            "CodeNotes": "The place an organization or part of an organization is based or operates from",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Eligible for geographical marketing programs",
+            "CodeNotes": "Contributor is eligible for national, regional or local marketing support. Use with country code, region code or country\/region plus location, as appropriate",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

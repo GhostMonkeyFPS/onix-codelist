@@ -1,0 +1,15 @@
+{
+    "CodeListNumber": 244,
+    "CodeListDescription": "Event identifier type",
+    "IssueNumber": 47,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

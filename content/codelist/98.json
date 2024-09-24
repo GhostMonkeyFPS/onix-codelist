@@ -1,0 +1,207 @@
+{
+    "CodeListNumber": 98,
+    "CodeListDescription": "Binding or page edge color",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "BLK",
+            "CodeDescription": "Black",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLU",
+            "CodeDescription": "Blue",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BRN",
+            "CodeDescription": "Brown",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BUR",
+            "CodeDescription": "Burgundy\/Maroon",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEL",
+            "CodeDescription": "Celadon\/Pale green",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CPR",
+            "CodeDescription": "Copper",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CRE",
+            "CodeDescription": "Cream",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FCO",
+            "CodeDescription": "Four-color",
+            "CodeNotes": "Use <ProductFormFeatureDescription> to add brief details if required",
+            "IssueNumber": 8,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FCS",
+            "CodeDescription": "Four-color and spot-color",
+            "CodeNotes": "Use <ProductFormFeatureDescription> to add brief details if required",
+            "IssueNumber": 8,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GLD",
+            "CodeDescription": "Gold",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GRN",
+            "CodeDescription": "Green",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GRY",
+            "CodeDescription": "Grey",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MUL",
+            "CodeDescription": "Multicolor",
+            "CodeNotes": "Use <ProductFormFeatureDescription> to add brief details if required",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NAV",
+            "CodeDescription": "Navy\/Dark blue",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ORG",
+            "CodeDescription": "Orange",
+            "CodeNotes": "",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PNK",
+            "CodeDescription": "Pink",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PUR",
+            "CodeDescription": "Purple",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RED",
+            "CodeDescription": "Red",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SKY",
+            "CodeDescription": "Sky\/Pale blue",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SLV",
+            "CodeDescription": "Silver",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TAN",
+            "CodeDescription": "Tan\/Light brown",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TEA",
+            "CodeDescription": "Teal\/Turquoise green",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WHI",
+            "CodeDescription": "White",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YEL",
+            "CodeDescription": "Yellow",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZZ",
+            "CodeDescription": "Other",
+            "CodeNotes": "Use <ProductFormFeatureDescription> to add brief details if required",
+            "IssueNumber": 1,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

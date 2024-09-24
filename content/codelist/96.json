@@ -1,0 +1,1591 @@
+{
+    "CodeListNumber": 96,
+    "CodeListDescription": "Currency code \u2013 based on ISO 4217",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "AED",
+            "CodeDescription": "UAE Dirham",
+            "CodeNotes": "United Arab Emirates",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AFA",
+            "CodeDescription": "Afghani",
+            "CodeNotes": "Afghanistan. Deprecated, replaced by AFN",
+            "IssueNumber": 0,
+            "ModifiedNumber": 4,
+            "DeprecatedNumber": 4
+        },
+        {
+            "CodeValue": "AFN",
+            "CodeDescription": "Afghani",
+            "CodeNotes": "Afghanistan (prices normally quoted as integers)",
+            "IssueNumber": 4,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ALL",
+            "CodeDescription": "Lek",
+            "CodeNotes": "Albania (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AMD",
+            "CodeDescription": "Armenian Dram",
+            "CodeNotes": "Armenia (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ANG",
+            "CodeDescription": "Netherlands Antillian Guilder",
+            "CodeNotes": "Cura\u00e7ao, Sint Maarten",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AOA",
+            "CodeDescription": "Kwanza",
+            "CodeNotes": "Angola",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ARS",
+            "CodeDescription": "Argentine Peso",
+            "CodeNotes": "Argentina",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ATS",
+            "CodeDescription": "Schilling",
+            "CodeNotes": "Austria. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "AUD",
+            "CodeDescription": "Australian Dollar",
+            "CodeNotes": "Australia, Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AWG",
+            "CodeDescription": "Aruban Florin",
+            "CodeNotes": "Aruba",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AZN",
+            "CodeDescription": "Azerbaijan Manat",
+            "CodeNotes": "Azerbaijan",
+            "IssueNumber": 7,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BAM",
+            "CodeDescription": "Convertible Marks",
+            "CodeNotes": "Bosnia and Herzegovina",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BBD",
+            "CodeDescription": "Barbados Dollar",
+            "CodeNotes": "Barbados",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BDT",
+            "CodeDescription": "Taka",
+            "CodeNotes": "Bangladesh",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BEF",
+            "CodeDescription": "Belgian Franc",
+            "CodeNotes": "Belgium. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "BGL",
+            "CodeDescription": "Bulgarian Lev",
+            "CodeNotes": "Deprecated, replaced by BGN",
+            "IssueNumber": 0,
+            "ModifiedNumber": 4,
+            "DeprecatedNumber": 4
+        },
+        {
+            "CodeValue": "BGN",
+            "CodeDescription": "Bulgarian Lev",
+            "CodeNotes": "Bulgaria",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BHD",
+            "CodeDescription": "Bahraini Dinar",
+            "CodeNotes": "Bahrain (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BIF",
+            "CodeDescription": "Burundi Franc",
+            "CodeNotes": "Burundi (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BMD",
+            "CodeDescription": "Bermudian Dollar",
+            "CodeNotes": "Bermuda",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BND",
+            "CodeDescription": "Brunei Dollar",
+            "CodeNotes": "Brunei Darussalam",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BOB",
+            "CodeDescription": "Boliviano",
+            "CodeNotes": "Bolivia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BRL",
+            "CodeDescription": "Brazilian Real",
+            "CodeNotes": "Brazil",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BSD",
+            "CodeDescription": "Bahamian Dollar",
+            "CodeNotes": "Bahamas",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BTN",
+            "CodeDescription": "Ngultrun",
+            "CodeNotes": "Bhutan",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BWP",
+            "CodeDescription": "Pula",
+            "CodeNotes": "Botswana",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BYR",
+            "CodeDescription": "(Old) Belarussian Ruble",
+            "CodeNotes": "Belarus (prices normally quoted as integers). Deprecated \u2013 now replaced by new Belarussian Ruble (BYN): use only for historical prices that pre-date the introduction of the new Belarussian Ruble",
+            "IssueNumber": 0,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "BYN",
+            "CodeDescription": "Belarussian Ruble",
+            "CodeNotes": "Belarus",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BZD",
+            "CodeDescription": "Belize Dollar",
+            "CodeNotes": "Belize",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CAD",
+            "CodeDescription": "Canadian Dollar",
+            "CodeNotes": "Canada",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CDF",
+            "CodeDescription": "Franc Congolais",
+            "CodeNotes": "Congo (Democratic Republic of the)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CHF",
+            "CodeDescription": "Swiss Franc",
+            "CodeNotes": "Switzerland, Liechtenstein",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CLP",
+            "CodeDescription": "Chilean Peso",
+            "CodeNotes": "Chile (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CNY",
+            "CodeDescription": "Yuan Renminbi",
+            "CodeNotes": "China",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "COP",
+            "CodeDescription": "Colombian Peso",
+            "CodeNotes": "Colombia (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CRC",
+            "CodeDescription": "Costa Rican Colon",
+            "CodeNotes": "Costa Rica (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CSD",
+            "CodeDescription": "Serbian Dinar",
+            "CodeNotes": "Deprecated, replaced by RSD",
+            "IssueNumber": 4,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "CUC",
+            "CodeDescription": "Cuban Convertible Peso",
+            "CodeNotes": "Cuba (alternative currency)",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CUP",
+            "CodeDescription": "Cuban Peso",
+            "CodeNotes": "Cuba",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CVE",
+            "CodeDescription": "Cabo Verde Escudo",
+            "CodeNotes": "Cabo Verde (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CYP",
+            "CodeDescription": "Cyprus Pound",
+            "CodeNotes": "Cyprus. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "CZK",
+            "CodeDescription": "Czech Koruna",
+            "CodeNotes": "Czechia",
+            "IssueNumber": 0,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DEM",
+            "CodeDescription": "Mark",
+            "CodeNotes": "Germany. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "DJF",
+            "CodeDescription": "Djibouti Franc",
+            "CodeNotes": "Djibouti (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DKK",
+            "CodeDescription": "Danish Krone",
+            "CodeNotes": "Denmark, Faroe Islands, Greenland",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DOP",
+            "CodeDescription": "Dominican Peso",
+            "CodeNotes": "Dominican Republic",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DZD",
+            "CodeDescription": "Algerian Dinar",
+            "CodeNotes": "Algeria",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EEK",
+            "CodeDescription": "Kroon",
+            "CodeNotes": "Estonia.Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "EGP",
+            "CodeDescription": "Egyptian Pound",
+            "CodeNotes": "Egypt",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ERN",
+            "CodeDescription": "Nakfa",
+            "CodeNotes": "Eritrea",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ESP",
+            "CodeDescription": "Peseta",
+            "CodeNotes": "Spain. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "ETB",
+            "CodeDescription": "Ethiopian Birr",
+            "CodeNotes": "Ethiopia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EUR",
+            "CodeDescription": "Euro",
+            "CodeNotes": "Eurozone: Andorra, Austria, Belgium, Croatia, Cyprus, Estonia, Finland, France, Fr Guiana, Fr S Territories, Germany, Greece, Guadeloupe, Holy See (Vatican City), Ireland, Italy, Latvia, Lithuania, Luxembourg, Martinique, Malta, Mayotte, Monaco, Montenegro, Netherlands, Portugal, R\u00e9union, St Barthelemy, St Martin, St Pierre and Miquelon, San Marino, Slovakia, Slovenia, Spain",
+            "IssueNumber": 5,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FIM",
+            "CodeDescription": "Markka",
+            "CodeNotes": "Finland. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "FJD",
+            "CodeDescription": "Fiji Dollar",
+            "CodeNotes": "Fiji",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FKP",
+            "CodeDescription": "Falkland Islands Pound",
+            "CodeNotes": "Falkland Islands (Malvinas)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FRF",
+            "CodeDescription": "Franc",
+            "CodeNotes": "France. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "GBP",
+            "CodeDescription": "Pound Sterling",
+            "CodeNotes": "United Kingdom, Isle of Man, Channel Islands, South Georgia, South Sandwich Islands, British Indian Ocean Territory (de jure)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GEL",
+            "CodeDescription": "Lari",
+            "CodeNotes": "Georgia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GHC",
+            "CodeDescription": "Ghana Cedi",
+            "CodeNotes": "Deprecated, replaced by GHS",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "GHS",
+            "CodeDescription": "Ghana Cedi",
+            "CodeNotes": "Ghana",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GIP",
+            "CodeDescription": "Gibraltar Pound",
+            "CodeNotes": "Gibraltar",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GMD",
+            "CodeDescription": "Dalasi",
+            "CodeNotes": "Gambia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GNF",
+            "CodeDescription": "Guinean Franc",
+            "CodeNotes": "Guinea (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GRD",
+            "CodeDescription": "Drachma",
+            "CodeNotes": "Greece. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "GTQ",
+            "CodeDescription": "Quetzal",
+            "CodeNotes": "Guatemala",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GWP",
+            "CodeDescription": "Guinea-Bissau Peso",
+            "CodeNotes": "Now replaced by the CFA Franc BCEAO XOF use only for historical prices that pre-date use of the CFA Franc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GYD",
+            "CodeDescription": "Guyana Dollar",
+            "CodeNotes": "Guyana (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HKD",
+            "CodeDescription": "Hong Kong Dollar",
+            "CodeNotes": "Hong Kong",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HNL",
+            "CodeDescription": "Lempira",
+            "CodeNotes": "Honduras",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HRK",
+            "CodeDescription": "Kuna",
+            "CodeNotes": "Croatia. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 60
+        },
+        {
+            "CodeValue": "HTG",
+            "CodeDescription": "Gourde",
+            "CodeNotes": "Haiti",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HUF",
+            "CodeDescription": "Forint",
+            "CodeNotes": "Hungary (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IDR",
+            "CodeDescription": "Rupiah",
+            "CodeNotes": "Indonesia (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IEP",
+            "CodeDescription": "Punt",
+            "CodeNotes": "Ireland. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "ILS",
+            "CodeDescription": "New Israeli Sheqel",
+            "CodeNotes": "Israel",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "INR",
+            "CodeDescription": "Indian Rupee",
+            "CodeNotes": "India, Bhutan (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IQD",
+            "CodeDescription": "Iraqi Dinar",
+            "CodeNotes": "Iraq (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IRR",
+            "CodeDescription": "Iranian Rial",
+            "CodeNotes": "Iran (Islamic Republic of) (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ISK",
+            "CodeDescription": "Iceland Krona",
+            "CodeNotes": "Iceland (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ITL",
+            "CodeDescription": "Lira",
+            "CodeNotes": "Italy. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "JMD",
+            "CodeDescription": "Jamaican Dollar",
+            "CodeNotes": "Jamaica",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "JOD",
+            "CodeDescription": "Jordanian Dinar",
+            "CodeNotes": "Jordan (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "JPY",
+            "CodeDescription": "Yen",
+            "CodeNotes": "Japan (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KES",
+            "CodeDescription": "Kenyan Shilling",
+            "CodeNotes": "Kenya",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KGS",
+            "CodeDescription": "Som",
+            "CodeNotes": "Kyrgyzstan",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KHR",
+            "CodeDescription": "Riel",
+            "CodeNotes": "Cambodia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KMF",
+            "CodeDescription": "Comorian Franc",
+            "CodeNotes": "Comoros (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KPW",
+            "CodeDescription": "North Korean Won",
+            "CodeNotes": "Korea (Democratic People\u2019s Republic of) (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KRW",
+            "CodeDescription": "Won",
+            "CodeNotes": "Korea (Republic of) (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KWD",
+            "CodeDescription": "Kuwaiti Dinar",
+            "CodeNotes": "Kuwait (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KYD",
+            "CodeDescription": "Cayman Islands Dollar",
+            "CodeNotes": "Cayman Islands",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KZT",
+            "CodeDescription": "Tenge",
+            "CodeNotes": "Kazakstan",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LAK",
+            "CodeDescription": "Lao Kip",
+            "CodeNotes": "Lao People\u2019s Democratic Republic (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LBP",
+            "CodeDescription": "Lebanese Pound",
+            "CodeNotes": "Lebanon (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LKR",
+            "CodeDescription": "Sri Lanka Rupee",
+            "CodeNotes": "Sri Lanka",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LRD",
+            "CodeDescription": "Liberian Dollar",
+            "CodeNotes": "Liberia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LSL",
+            "CodeDescription": "Loti",
+            "CodeNotes": "Lesotho",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LTL",
+            "CodeDescription": "Litus",
+            "CodeNotes": "Lithuania. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "LUF",
+            "CodeDescription": "Luxembourg Franc",
+            "CodeNotes": "Luxembourg. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "LVL",
+            "CodeDescription": "Latvian Lats",
+            "CodeNotes": "Latvia. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "LYD",
+            "CodeDescription": "Libyan Dinar",
+            "CodeNotes": "Libyan Arab Jamahiriya (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MAD",
+            "CodeDescription": "Moroccan Dirham",
+            "CodeNotes": "Morocco, Western Sahara",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MDL",
+            "CodeDescription": "Moldovan Leu",
+            "CodeNotes": "Moldova, Republic of",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MGA",
+            "CodeDescription": "Malagasy Ariary",
+            "CodeNotes": "Madagascar (prices normally quoted with 0 or 1 decimal place \u2013 1 iraimbilanja = Ar0.2)",
+            "IssueNumber": 4,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MGF",
+            "CodeDescription": "Malagasy Franc",
+            "CodeNotes": "Now replaced by the Ariary (MGA) (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MKD",
+            "CodeDescription": "Denar",
+            "CodeNotes": "North Macedonia (formerly FYR Macedonia)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 46,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MMK",
+            "CodeDescription": "Kyat",
+            "CodeNotes": "Myanmar (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MNT",
+            "CodeDescription": "Tugrik",
+            "CodeNotes": "Mongolia (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MOP",
+            "CodeDescription": "Pataca",
+            "CodeNotes": "Macau",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MRO",
+            "CodeDescription": "(Old) Ouguiya",
+            "CodeNotes": "Mauritania (prices normally quoted with 0 or 1 decimal place \u2013 1 khoums = UM0.2). Was interchangeable with MRU (New) Ouguiya at rate of 10:1 until June 2018. Deprecated, use MRU instead",
+            "IssueNumber": 0,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "MRU",
+            "CodeDescription": "Ouguiya",
+            "CodeNotes": "Mauritania (prices normally quoted with 0 or 1 decimal place \u2013 1 khoums = UM0.2). Replaced MRO (old) Ouguiya at rate of 10:1 in June 2018. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MTL",
+            "CodeDescription": "Maltese Lira",
+            "CodeNotes": "Malta. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "MUR",
+            "CodeDescription": "Mauritius Rupee",
+            "CodeNotes": "Mauritius (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MVR",
+            "CodeDescription": "Rufiyaa",
+            "CodeNotes": "Maldives",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MWK",
+            "CodeDescription": "Malawi Kwacha",
+            "CodeNotes": "Malawi",
+            "IssueNumber": 0,
+            "ModifiedNumber": 33,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MXN",
+            "CodeDescription": "Mexican Peso",
+            "CodeNotes": "Mexico",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MYR",
+            "CodeDescription": "Malaysian Ringgit",
+            "CodeNotes": "Malaysia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MZN",
+            "CodeDescription": "Mozambique Metical",
+            "CodeNotes": "Mozambique",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NAD",
+            "CodeDescription": "Namibia Dollar",
+            "CodeNotes": "Namibia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NGN",
+            "CodeDescription": "Naira",
+            "CodeNotes": "Nigeria",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NIO",
+            "CodeDescription": "Cordoba Oro",
+            "CodeNotes": "Nicaragua",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NLG",
+            "CodeDescription": "Guilder",
+            "CodeNotes": "Netherlands. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "NOK",
+            "CodeDescription": "Norwegian Krone",
+            "CodeNotes": "Norway, Bouvet Island, Svalbard and Jan Mayen",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NPR",
+            "CodeDescription": "Nepalese Rupee",
+            "CodeNotes": "Nepal",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NZD",
+            "CodeDescription": "New Zealand Dollar",
+            "CodeNotes": "New Zealand, Cook Islands, Niue, Pitcairn, Tokelau",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OMR",
+            "CodeDescription": "Rial Omani",
+            "CodeNotes": "Oman (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PAB",
+            "CodeDescription": "Balboa",
+            "CodeNotes": "Panama",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PEN",
+            "CodeDescription": "Sol",
+            "CodeNotes": "Peru (formerly Nuevo Sol)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 33,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PGK",
+            "CodeDescription": "Kina",
+            "CodeNotes": "Papua New Guinea",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PHP",
+            "CodeDescription": "Philippine Peso",
+            "CodeNotes": "Philippines",
+            "IssueNumber": 0,
+            "ModifiedNumber": 43,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PKR",
+            "CodeDescription": "Pakistan Rupee",
+            "CodeNotes": "Pakistan (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PLN",
+            "CodeDescription": "Z\u0142oty",
+            "CodeNotes": "Poland",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PTE",
+            "CodeDescription": "Escudo",
+            "CodeNotes": "Portugal. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "PYG",
+            "CodeDescription": "Guarani",
+            "CodeNotes": "Paraguay (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "QAR",
+            "CodeDescription": "Qatari Rial",
+            "CodeNotes": "Qatar",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ROL",
+            "CodeDescription": "Romanian Old Leu",
+            "CodeNotes": "Deprecated, replaced by RON",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "RON",
+            "CodeDescription": "Romanian Leu",
+            "CodeNotes": "Romania",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RSD",
+            "CodeDescription": "Serbian Dinar",
+            "CodeNotes": "Serbia (prices normally quoted as integers)",
+            "IssueNumber": 17,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RUB",
+            "CodeDescription": "Russian Ruble",
+            "CodeNotes": "Russian Federation",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RUR",
+            "CodeDescription": "Russian Ruble",
+            "CodeNotes": "Deprecated, replaced by RUB",
+            "IssueNumber": 0,
+            "ModifiedNumber": 4,
+            "DeprecatedNumber": 4
+        },
+        {
+            "CodeValue": "RWF",
+            "CodeDescription": "Rwanda Franc",
+            "CodeNotes": "Rwanda (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SAR",
+            "CodeDescription": "Saudi Riyal",
+            "CodeNotes": "Saudi Arabia",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SBD",
+            "CodeDescription": "Solomon Islands Dollar",
+            "CodeNotes": "Solomon Islands",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SCR",
+            "CodeDescription": "Seychelles Rupee",
+            "CodeNotes": "Seychelles",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SDD",
+            "CodeDescription": "Sudanese Dinar",
+            "CodeNotes": "Now replaced by the Sudanese Pound (SDG)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SDG",
+            "CodeDescription": "Sudanese Pound",
+            "CodeNotes": "Sudan",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SEK",
+            "CodeDescription": "Swedish Krona",
+            "CodeNotes": "Sweden",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SGD",
+            "CodeDescription": "Singapore Dollar",
+            "CodeNotes": "Singapore",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SHP",
+            "CodeDescription": "Saint Helena Pound",
+            "CodeNotes": "Saint Helena",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SIT",
+            "CodeDescription": "Tolar",
+            "CodeNotes": "Slovenia. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "SKK",
+            "CodeDescription": "Slovak Koruna",
+            "CodeNotes": "Slovakia. Now replaced by the Euro (EUR). Deprecated \u2013 use only for historical prices that pre-date the introduction of the Euro",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "SLE",
+            "CodeDescription": "Leone",
+            "CodeNotes": "Sierra Leone (from April 2022). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SLL",
+            "CodeDescription": "Leone",
+            "CodeNotes": "Sierra Leone (prices normally quoted as integers). Deprecated \u2013 gradually replaced by SLE from April 2022, but SLL Leone still usable until December 2023 (SLE is a redenomination of the Leone by a factor of 1,000)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "SOS",
+            "CodeDescription": "Somali Shilling",
+            "CodeNotes": "Somalia (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SRD",
+            "CodeDescription": "Surinam Dollar",
+            "CodeNotes": "Suriname",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SRG",
+            "CodeDescription": "Suriname Guilder",
+            "CodeNotes": "DEPRECATED, replaced by SRD",
+            "IssueNumber": 0,
+            "ModifiedNumber": 4,
+            "DeprecatedNumber": 4
+        },
+        {
+            "CodeValue": "STD",
+            "CodeDescription": "(Old) Dobra",
+            "CodeNotes": "S\u00e3o Tome and Principe (prices normally quoted as integers). Was interchangeable with STN (New) Dobra at rate of 1000:1 until June 2018. Deprecated, use STN instead",
+            "IssueNumber": 0,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": 42
+        },
+        {
+            "CodeValue": "STN",
+            "CodeDescription": "Dobra",
+            "CodeNotes": "S\u00e3o Tome and Principe. Replaced STD (old) Dobra at rate of 1000:1 in June 2018. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SVC",
+            "CodeDescription": "El Salvador Colon",
+            "CodeNotes": "El Salvador",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SYP",
+            "CodeDescription": "Syrian Pound",
+            "CodeNotes": "Syrian Arab Republic (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SZL",
+            "CodeDescription": "Lilangeni",
+            "CodeNotes": "Eswatini (formerly known as Swaziland)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 43,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "THB",
+            "CodeDescription": "Baht",
+            "CodeNotes": "Thailand",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TJS",
+            "CodeDescription": "Somoni",
+            "CodeNotes": "Tajikistan",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TMM",
+            "CodeDescription": "Turkmenistan Manat",
+            "CodeNotes": "Deprecated, replaced by TMT (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "TMT",
+            "CodeDescription": "Turkmenistan New Manat",
+            "CodeNotes": "Turkmenistan",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TND",
+            "CodeDescription": "Tunisian Dinar",
+            "CodeNotes": "Tunisia (prices normally quoted with 3 decimal places)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TOP",
+            "CodeDescription": "Pa\u2019anga",
+            "CodeNotes": "Tonga",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TPE",
+            "CodeDescription": "Timor Escudo",
+            "CodeNotes": "Deprecated. Timor-Leste now uses the US Dollar",
+            "IssueNumber": 0,
+            "ModifiedNumber": 7,
+            "DeprecatedNumber": 7
+        },
+        {
+            "CodeValue": "TRL",
+            "CodeDescription": "Turkish Lira (old)",
+            "CodeNotes": "Deprecated, replaced by TRY (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "TRY",
+            "CodeDescription": "Turkish Lira",
+            "CodeNotes": "T\u00fcrkiye, from 1 January 2005",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TTD",
+            "CodeDescription": "Trinidad and Tobago Dollar",
+            "CodeNotes": "Trinidad and Tobago",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TWD",
+            "CodeDescription": "New Taiwan Dollar",
+            "CodeNotes": "Taiwan (Province of China)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TZS",
+            "CodeDescription": "Tanzanian Shilling",
+            "CodeNotes": "Tanzania (United Republic of) (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "UAH",
+            "CodeDescription": "Hryvnia",
+            "CodeNotes": "Ukraine",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "UGX",
+            "CodeDescription": "Uganda Shilling",
+            "CodeNotes": "Uganda (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "USD",
+            "CodeDescription": "US Dollar",
+            "CodeNotes": "United States, American Samoa, Bonaire, Sint Eustatius and Saba, British Indian Ocean Territory, Ecuador, El Salvador, Guam, Haiti, Marshall Is, Micronesia (Federated States of), Northern Mariana Is, Palau, Panama, Puerto Rico, Timor-Leste, Turks and Caicos Is, US Minor Outlying Is, Virgin Is (British), Virgin Is (US)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "UYU",
+            "CodeDescription": "Peso Uruguayo",
+            "CodeNotes": "Uruguay",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "UZS",
+            "CodeDescription": "Uzbekistan Sum",
+            "CodeNotes": "Uzbekistan (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VEB",
+            "CodeDescription": "Bol\u00edvar",
+            "CodeNotes": "Deprecated, replaced by VEF",
+            "IssueNumber": 0,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "VEF",
+            "CodeDescription": "Bol\u00edvar",
+            "CodeNotes": "Venezuela (formerly Bol\u00edvar fuerte). Deprecated, replaced by VES",
+            "IssueNumber": 17,
+            "ModifiedNumber": 43,
+            "DeprecatedNumber": 43
+        },
+        {
+            "CodeValue": "VES",
+            "CodeDescription": "Bol\u00edvar Soberano",
+            "CodeNotes": "Venezuela (replaced VEF from August 2018 at rate of 100,000:1, and was redenominated by a further factor of 1,000,000:1 in late 2021). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 42,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VND",
+            "CodeDescription": "Dong",
+            "CodeNotes": "Viet Nam (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VUV",
+            "CodeDescription": "Vatu",
+            "CodeNotes": "Vanuatu (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WST",
+            "CodeDescription": "Tala",
+            "CodeNotes": "Samoa",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XAF",
+            "CodeDescription": "CFA Franc BEAC",
+            "CodeNotes": "Cameroon, Central African Republic, Chad, Congo, Equatorial Guinea, Gabon (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XCD",
+            "CodeDescription": "East Caribbean Dollar",
+            "CodeNotes": "Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XOF",
+            "CodeDescription": "CFA Franc BCEAO",
+            "CodeNotes": "Benin, Burkina Faso, C\u00f4te D\u2019Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "XPF",
+            "CodeDescription": "CFP Franc",
+            "CodeNotes": "French Polynesia, New Caledonia, Wallis and Futuna (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YER",
+            "CodeDescription": "Yemeni Rial",
+            "CodeNotes": "Yemen (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YUM",
+            "CodeDescription": "Yugoslavian Dinar",
+            "CodeNotes": "Deprecated, replaced by CSD",
+            "IssueNumber": 0,
+            "ModifiedNumber": 4,
+            "DeprecatedNumber": 4
+        },
+        {
+            "CodeValue": "ZAR",
+            "CodeDescription": "Rand",
+            "CodeNotes": "South Africa, Namibia, Lesotho",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZMK",
+            "CodeDescription": "Kwacha",
+            "CodeNotes": "Zambia. Deprecated, replaced with ZMW (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 27
+        },
+        {
+            "CodeValue": "ZMW",
+            "CodeDescription": "Zambian Kwacha",
+            "CodeNotes": "Zambia",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZWD",
+            "CodeDescription": "Zimbabwe Dollar",
+            "CodeNotes": "Deprecated, replaced with ZWL (prices normally quoted as integers)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 27,
+            "DeprecatedNumber": 17
+        },
+        {
+            "CodeValue": "ZWG",
+            "CodeDescription": "Zimbabwe Gold",
+            "CodeNotes": "Zimbabwe. Also known as ZiG. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZWL",
+            "CodeDescription": "Zimbabwe Dollar",
+            "CodeNotes": "Deprecated, replaced by ZWG",
+            "IssueNumber": 17,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": 66
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "CodeListNumber": 59,
+    "CodeListDescription": "Price type qualifier",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unqualified price",
+            "CodeNotes": "Price applies to all customers that do not fall within any other group with a specified group-specific qualified price",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Member\/subscriber price",
+            "CodeNotes": "Price applies to a designated group membership",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Export price",
+            "CodeNotes": "Price applies to sales outside the territory in which the supplier is located",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Reduced price applicable when the item is purchased as part of a set (or series, or collection)",
+            "CodeNotes": "Use in cases where there is no combined price, but a lower price is offered for each part if the whole set \/ series \/ collection is purchased (either at one time, as part of a continuing commitment, or in a single purchase)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Voucher price",
+            "CodeNotes": "In the Netherlands (or any other market where similar arrangements exist): a reduced fixed price available for a limited time on presentation of a voucher or coupon published in a specified medium, eg a newspaper. Should be accompanied by Price Type code 13 and additional detail in <PriceTypeDescription>, and by validity dates in <PriceEffectiveFrom> and <PriceEffectiveUntil> (ONIX 2.1) or in the <PriceDate> composite (ONIX 3.0 or later)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Consumer price",
+            "CodeNotes": "Price for individual consumer sale only",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Corporate \/ Library \/ Education price",
+            "CodeNotes": "Price for sale to libraries or other corporate or institutional customers",
+            "IssueNumber": 11,
+            "ModifiedNumber": 29,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Reservation order price",
+            "CodeNotes": "Price valid for a specified period prior to publication. Orders placed prior to the end of the period are guaranteed to be delivered to the retailer before the nominal publication date. The price may or may not be different from the \u2018normal\u2019 price, which carries no such delivery guarantee. Must be accompanied by a <PriceEffectiveUntil> date (or equivalent <PriceDate> composite in ONIX 3.0 or later), and should also be accompanied by a \u2018normal\u2019 price",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Promotional offer price",
+            "CodeNotes": "Temporary \u2018Special offer\u2019 price. Must be accompanied by <PriceEffectiveFrom> and <PriceEffectiveUntil> dates (or equivalent <PriceDate> composites in ONIX 3.0 or later), and may also be accompanied by a \u2018normal\u2019 price",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Linked price",
+            "CodeNotes": "Price requires purchase with, or proof of ownership of another product. Further details of purchase or ownership requirements must be given in <PriceTypeDescription>",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Library price",
+            "CodeNotes": "Price for sale only to libraries (including public, school and academic libraries)",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Education price",
+            "CodeNotes": "Price for sale only to educational institutions (including school and academic libraries), educational buying consortia, government and local government bodies purchasing for use in education",
+            "IssueNumber": 29,
+            "ModifiedNumber": 32,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Corporate price",
+            "CodeNotes": "Price for sale to corporate customers only",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Subscription service price",
+            "CodeNotes": "Price for sale to organizations or services offering consumers subscription access to a library of books",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "School library price",
+            "CodeNotes": "Price for primary and secondary education",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Academic library price",
+            "CodeNotes": "Price for higher education and scholarly institutions",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Public library price",
+            "CodeNotes": "",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Introductory price",
+            "CodeNotes": "Initial \u2018Introductory offer\u2019 price. Must be accompanied by an Effective until date in a <PriceDate> composite in ONIX 3, and may also be accompanied by a \u2018normal\u2019 price valid after the introductory offer expires (Fr. Prix de lancement). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Consortial price",
+            "CodeNotes": "Price for library consortia. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Education price for alternative provision",
+            "CodeNotes": "(fr: \u00ab\u00a0prix pour l\u2019education specialis\u00e9e\u00a0\u00bb) Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

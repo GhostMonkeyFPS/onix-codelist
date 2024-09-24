@@ -1,0 +1,199 @@
+{
+    "CodeListNumber": 143,
+    "CodeListDescription": "US CPSIA or other international hazard warning type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "No known hazards or warnings",
+            "CodeNotes": "Product assessed but no known hazards or warnings applicable. May be applied to both digital and physical products. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 Small parts | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 Children under 8 yrs. can choke or suffocate on uninflated or broken balloons. Adult supervision required | Keep uninflated balloons from children. Discard broken balloons at once.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 This toy is a small ball | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 Toy contains a small ball | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 This toy is a marble | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "WARNING: CHOKING HAZARD \u2013 Toy contains a marble | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "No choking hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "WARNING: STRANGULATION HAZARD \u2013 Long cord | Not for children under 3 yrs.",
+            "CodeNotes": "Required on applicable products sold in the US",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "No strangulation hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "WARNING: MAGNET HAZARD \u2013 Product contains (a) small magnet(s)",
+            "CodeNotes": "Required on applicable products sold in the US. Should be accompanied by additional text: Swallowed magnets can stick together across intestines causing serious infections and death. Seek immediate medical attention if magnet(s) are swallowed or inhaled",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "No magnet hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "WARNING \u2013 Flashing hazard",
+            "CodeNotes": "Product flashes, flickers or includes high-contrast static or moving patterns which may cause discomfort or seizures in people with photosensitive epilepsy",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "No flashing hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "WARNING \u2013 Sound hazard",
+            "CodeNotes": "Product makes loud, sudden, repetitive or other sounds which may trigger seizures in sensitive people",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "No sound hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "WARNING \u2013 Motion simulation hazard",
+            "CodeNotes": "Products simulates (via visual effects) the experience of motion, which may cause nausea in sensitive people",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "No motion simulation hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "WARNING \u2013 California Proposition 65 carcinogenic, teratogenic or other reproductively harmful chemical hazard",
+            "CodeNotes": "Required on applicable products sold in California. Must be accompanied in <ProductFormFeatureDescription> by specific additional text as displayed on product or packaging. For example, \u201cWARNING: This product can expose you to chemicals including [chemical name], which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov\u201d. Note long-form warnings should be used here, even if a short form warning is used on the product or packaging",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "No California Proposition 65 hazard warning necessary",
+            "CodeNotes": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "California Proposition 65 chemical name",
+            "CodeNotes": "<ProductFormFeatureDescripton> carries the name of chemical that is the subject of a warning, taken from the list at www.p65warnings.ca.gov\/chemicals",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Flashing risk unknown",
+            "CodeNotes": "Flashing present but risk unknown or unassessed",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Sound risk unknown",
+            "CodeNotes": "Sound present but risk unknown or unassessed",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Motion simulation risk unknown",
+            "CodeNotes": "Motion simulation present but risk unknown or unassessed",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

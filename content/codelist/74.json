@@ -1,0 +1,4583 @@
+{
+    "CodeListNumber": 74,
+    "CodeListDescription": "Language \u2013 based on ISO 639-2\/B",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "abk",
+            "CodeDescription": "Abkhazian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ace",
+            "CodeDescription": "Achinese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ach",
+            "CodeDescription": "Acoli",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ada",
+            "CodeDescription": "Adangme",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ady",
+            "CodeDescription": "Adygei; Adyghe",
+            "CodeNotes": "(West Circassian)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aar",
+            "CodeDescription": "Afar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "afh",
+            "CodeDescription": "Afrihili",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "afr",
+            "CodeDescription": "Afrikaans",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "afa",
+            "CodeDescription": "Afro-Asiatic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ain",
+            "CodeDescription": "Ainu",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aka",
+            "CodeDescription": "Akan",
+            "CodeNotes": "Macrolanguage. See also fat (Fanti), twi (Twi)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "akk",
+            "CodeDescription": "Akkadian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "alb",
+            "CodeDescription": "Albanian",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ale",
+            "CodeDescription": "Aleut",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "alg",
+            "CodeDescription": "Algonquian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "alq",
+            "CodeDescription": "Algonquin",
+            "CodeNotes": "Alginkin. ONIX local code, equivalent to alq in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tut",
+            "CodeDescription": "Altaic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "amh",
+            "CodeDescription": "Amharic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "anp",
+            "CodeDescription": "Angika",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "apa",
+            "CodeDescription": "Apache languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ara",
+            "CodeDescription": "Arabic",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arg",
+            "CodeDescription": "Aragonese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qar",
+            "CodeDescription": "Aran\u00e9s",
+            "CodeNotes": "ONIX local code, distinct dialect of Occitan (not distinguished from oci by ISO 639-3)",
+            "IssueNumber": 6,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arp",
+            "CodeDescription": "Arapaho",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arw",
+            "CodeDescription": "Arawak",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arm",
+            "CodeDescription": "Armenian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rup",
+            "CodeDescription": "Aromanian; Arumanian; Macedo-Romanian",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "art",
+            "CodeDescription": "Artificial languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "asm",
+            "CodeDescription": "Assamese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ast",
+            "CodeDescription": "Asturian; Bable; Leonese; Asturleonese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ath",
+            "CodeDescription": "Athapascan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "atj",
+            "CodeDescription": "Atikamekw",
+            "CodeNotes": "ONIX local code, equivalent to atj in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aus",
+            "CodeDescription": "Australian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aav",
+            "CodeDescription": "Austro-Asiatic languages",
+            "CodeNotes": "Collective name. ONIX local code, equivalent of aav in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "map",
+            "CodeDescription": "Austronesian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ava",
+            "CodeDescription": "Avaric",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ave",
+            "CodeDescription": "Avestan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "awa",
+            "CodeDescription": "Awadhi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aym",
+            "CodeDescription": "Aymara",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "aze",
+            "CodeDescription": "Azerbaijani",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ban",
+            "CodeDescription": "Balinese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bat",
+            "CodeDescription": "Baltic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bal",
+            "CodeDescription": "Baluchi",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bam",
+            "CodeDescription": "Bambara",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bai",
+            "CodeDescription": "Bamileke languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bad",
+            "CodeDescription": "Banda languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bnt",
+            "CodeDescription": "Bantu languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bas",
+            "CodeDescription": "Basa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bak",
+            "CodeDescription": "Bashkir",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "baq",
+            "CodeDescription": "Basque",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "btk",
+            "CodeDescription": "Batak languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bej",
+            "CodeDescription": "Beja; Bedawiyet",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bel",
+            "CodeDescription": "Belarusian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bem",
+            "CodeDescription": "Bemba",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ben",
+            "CodeDescription": "Bengali",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ber",
+            "CodeDescription": "Berber languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bho",
+            "CodeDescription": "Bhojpuri",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bih",
+            "CodeDescription": "Bihari languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bik",
+            "CodeDescription": "Bikol",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bin",
+            "CodeDescription": "Bini; Edo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bis",
+            "CodeDescription": "Bislama",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "byn",
+            "CodeDescription": "Blin; Bilin",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zbl",
+            "CodeDescription": "Blissymbols; Blissymbolics; Bliss",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "brx",
+            "CodeDescription": "Bodo (India)",
+            "CodeNotes": "Boro. ONIX local code, equivalent to brx in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bos",
+            "CodeDescription": "Bosnian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bra",
+            "CodeDescription": "Braj",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bre",
+            "CodeDescription": "Breton",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bug",
+            "CodeDescription": "Buginese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bul",
+            "CodeDescription": "Bulgarian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bum",
+            "CodeDescription": "Bulu (Cameroon)",
+            "CodeNotes": "ONIX local code, equivalent to bum in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bua",
+            "CodeDescription": "Buriat",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bur",
+            "CodeDescription": "Burmese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cad",
+            "CodeDescription": "Caddo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sro",
+            "CodeDescription": "Campidanese",
+            "CodeNotes": "ONIX local code for Sardinian dialect, equivalent to sro in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "yue",
+            "CodeDescription": "Cantonese",
+            "CodeNotes": "ONIX local code, equivalent to yue in ISO 639-3",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cat",
+            "CodeDescription": "Catalan",
+            "CodeNotes": "See also qav (Valencian)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cau",
+            "CodeDescription": "Caucasian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cay",
+            "CodeDescription": "Cayuga",
+            "CodeNotes": "ONIX local code, equivalent to cay in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ceb",
+            "CodeDescription": "Cebuano",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cel",
+            "CodeDescription": "Celtic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cai",
+            "CodeDescription": "Central American Indian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tzm",
+            "CodeDescription": "Central Atlas Tamazight",
+            "CodeNotes": "ONIX local code, equivalent to tzm in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "khm",
+            "CodeDescription": "Central Khmer",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ckb",
+            "CodeDescription": "Central Kurdish (Sorani)",
+            "CodeNotes": "ONIX local code, equivalent to ckb in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chg",
+            "CodeDescription": "Chagatai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cmc",
+            "CodeDescription": "Chamic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cha",
+            "CodeDescription": "Chamorro",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "che",
+            "CodeDescription": "Chechen",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chr",
+            "CodeDescription": "Cherokee",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chy",
+            "CodeDescription": "Cheyenne",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chb",
+            "CodeDescription": "Chibcha",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nya",
+            "CodeDescription": "Chichewa; Chewa; Nyanja",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cic",
+            "CodeDescription": "Chickasaw",
+            "CodeNotes": "ONIX local code, equivalent to cic in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chi",
+            "CodeDescription": "Chinese",
+            "CodeNotes": "Macrolanguage. See also cmn (Mandarin), yue (Cantonese)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chn",
+            "CodeDescription": "Chinook jargon",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chp",
+            "CodeDescription": "Chipewyan; Dene Suline",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cho",
+            "CodeDescription": "Choctaw",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chu",
+            "CodeDescription": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chk",
+            "CodeDescription": "Chuukese (Truk)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chv",
+            "CodeDescription": "Chuvash",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nwc",
+            "CodeDescription": "Classical Newari; Old Newari; Classical Nepal Bhasa",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "syc",
+            "CodeDescription": "Classical Syriac",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cop",
+            "CodeDescription": "Coptic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cor",
+            "CodeDescription": "Cornish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cos",
+            "CodeDescription": "Corsican",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cre",
+            "CodeDescription": "Cree",
+            "CodeNotes": "Macrolanguage. See also crj (Southern East Cree), crk (plains Cree), crl (Northern East Cree), crm (Moose Cree), csw (Swampy Cree), cwd (Woods Cree)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mus",
+            "CodeDescription": "Creek",
+            "CodeNotes": "Seminole",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crp",
+            "CodeDescription": "Creoles and pidgins",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cpe",
+            "CodeDescription": "Creoles and pidgins, English-based",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cpf",
+            "CodeDescription": "Creoles and pidgins, French-based",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cpp",
+            "CodeDescription": "Creoles and pidgins, Portuguese-based",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crh",
+            "CodeDescription": "Crimean Turkish; Crimean Tatar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hrv",
+            "CodeDescription": "Croatian",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "scr",
+            "CodeDescription": "Croatian",
+            "CodeNotes": "Deprecated \u2013 use hrv",
+            "IssueNumber": 0,
+            "ModifiedNumber": 10,
+            "DeprecatedNumber": 10
+        },
+        {
+            "CodeValue": "cus",
+            "CodeDescription": "Cushitic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cze",
+            "CodeDescription": "Czech",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dak",
+            "CodeDescription": "Dakota",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dan",
+            "CodeDescription": "Danish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dar",
+            "CodeDescription": "Dargwa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "prs",
+            "CodeDescription": "Dari; Afghan Persian",
+            "CodeNotes": "ONIX local code, equivalent to prs in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "del",
+            "CodeDescription": "Delaware",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "din",
+            "CodeDescription": "Dinka",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "div",
+            "CodeDescription": "Divehi; Dhivehi; Maldivian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "doi",
+            "CodeDescription": "Dogri",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dgr",
+            "CodeDescription": "Dogrib",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dra",
+            "CodeDescription": "Dravidian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dua",
+            "CodeDescription": "Duala",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dum",
+            "CodeDescription": "Dutch, Middle (ca. 1050-1350)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dut",
+            "CodeDescription": "Dutch; Flemish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dyu",
+            "CodeDescription": "Dyula",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dzo",
+            "CodeDescription": "Dzongkha",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ike",
+            "CodeDescription": "Eastern Canadian Inuktitut",
+            "CodeNotes": "ONIX local code, equivalent to ike in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "frs",
+            "CodeDescription": "Eastern Frisian",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "efi",
+            "CodeDescription": "Efik",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "egy",
+            "CodeDescription": "Egyptian (Ancient)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "eka",
+            "CodeDescription": "Ekajuk",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "elx",
+            "CodeDescription": "Elamite",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "egl",
+            "CodeDescription": "Emilian",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to egl in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "eng",
+            "CodeDescription": "English",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "enm",
+            "CodeDescription": "English, Middle (1100-1500)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ang",
+            "CodeDescription": "English, Old (ca. 450-1100)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "myv",
+            "CodeDescription": "Erzya",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "esx",
+            "CodeDescription": "Eskaleut languages",
+            "CodeNotes": "Inuit-Yupik-Unangan languages. Collective name. ONIX local code, equivalent of esx in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "epo",
+            "CodeDescription": "Esperanto",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "est",
+            "CodeDescription": "Estonian",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gez",
+            "CodeDescription": "Ethiopic (Ge\u2019ez)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ewe",
+            "CodeDescription": "Ewe",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ewo",
+            "CodeDescription": "Ewondo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fan",
+            "CodeDescription": "Fang",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fat",
+            "CodeDescription": "Fanti",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fao",
+            "CodeDescription": "Faroese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fij",
+            "CodeDescription": "Fijian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fil",
+            "CodeDescription": "Filipino; Pilipino",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fin",
+            "CodeDescription": "Finnish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fiu",
+            "CodeDescription": "Finno-Ugrian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fon",
+            "CodeDescription": "Fon",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fre",
+            "CodeDescription": "French",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "frm",
+            "CodeDescription": "French, Middle (ca. 1400-1600)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fro",
+            "CodeDescription": "French, Old (ca. 842-1400)",
+            "CodeNotes": "See also qgl (Gallo)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fur",
+            "CodeDescription": "Friulian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ful",
+            "CodeDescription": "Fulah",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gaa",
+            "CodeDescription": "G\u00e3",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "car",
+            "CodeDescription": "Galibi Carib",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "glg",
+            "CodeDescription": "Galician",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qgl",
+            "CodeDescription": "Gallo",
+            "CodeNotes": "ONIX local code, distinct variant of langue d\u2019o\u00efl (old northern French), not distinguished from fro, or from frm, fre, nrf by ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sdn",
+            "CodeDescription": "Gallurese",
+            "CodeNotes": "ONIX local code for Sardinian dialect, equivalent to sdn in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lug",
+            "CodeDescription": "Ganda",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "grt",
+            "CodeDescription": "Garo",
+            "CodeNotes": "ONIX local code, equivalent to grt in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gay",
+            "CodeDescription": "Gayo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gba",
+            "CodeDescription": "Gbaya",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "geo",
+            "CodeDescription": "Georgian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ger",
+            "CodeDescription": "German",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gmh",
+            "CodeDescription": "German, Middle High (ca. 1050-1500)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "goh",
+            "CodeDescription": "German, Old High (ca. 750-1050)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gem",
+            "CodeDescription": "Germanic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gil",
+            "CodeDescription": "Gilbertese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "git",
+            "CodeDescription": "Gitxsan",
+            "CodeNotes": "ONIX local code, equivalent to git in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gon",
+            "CodeDescription": "Gondi",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gor",
+            "CodeDescription": "Gorontalo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "got",
+            "CodeDescription": "Gothic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "grb",
+            "CodeDescription": "Grebo",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "grc",
+            "CodeDescription": "Greek, Ancient (to 1453)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gre",
+            "CodeDescription": "Greek, Modern (1453-)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "grn",
+            "CodeDescription": "Guarani",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nrf",
+            "CodeDescription": "Guern\u00e9siais, J\u00e8rriais",
+            "CodeNotes": "ONIX local code, equivalent to nrf in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "guj",
+            "CodeDescription": "Gujarati",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gwi",
+            "CodeDescription": "Gwich\u2019in",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hai",
+            "CodeDescription": "Haida",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hat",
+            "CodeDescription": "Haitian; Haitian Creole",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hau",
+            "CodeDescription": "Hausa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "haw",
+            "CodeDescription": "Hawaiian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "heb",
+            "CodeDescription": "Hebrew",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "her",
+            "CodeDescription": "Herero",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hil",
+            "CodeDescription": "Hiligaynon",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "him",
+            "CodeDescription": "Himachali languages; Western Pahari languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hin",
+            "CodeDescription": "Hindi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hmo",
+            "CodeDescription": "Hiri Motu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hit",
+            "CodeDescription": "Hittite",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hmx",
+            "CodeDescription": "Hmong-Mien languages",
+            "CodeNotes": "Collective name. ONIX local code, equivalent of hmx in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hmn",
+            "CodeDescription": "Hmong; Mong",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hop",
+            "CodeDescription": "Hopi",
+            "CodeNotes": "ONIX local code, equivalent to hop in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hun",
+            "CodeDescription": "Hungarian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hup",
+            "CodeDescription": "Hupa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "iba",
+            "CodeDescription": "Iban",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ice",
+            "CodeDescription": "Icelandic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ido",
+            "CodeDescription": "Ido",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ibo",
+            "CodeDescription": "Igbo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ijo",
+            "CodeDescription": "Ijo languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ilo",
+            "CodeDescription": "Iloko",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "smn",
+            "CodeDescription": "Inari Sami",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "inc",
+            "CodeDescription": "Indic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ine",
+            "CodeDescription": "Indo-European languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ind",
+            "CodeDescription": "Indonesian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "inh",
+            "CodeDescription": "Ingush",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "moe",
+            "CodeDescription": "Innu, Montagnais",
+            "CodeNotes": "ONIX local code, equivalent to moe in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ina",
+            "CodeDescription": "Interlingua (International Auxiliary Language Association)",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ile",
+            "CodeDescription": "Interlingue; Occidental",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ikt",
+            "CodeDescription": "Inuinnaqtun",
+            "CodeNotes": "Western Canadian Inuktitut. ONIX local code, equivalent to ikt in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "iku",
+            "CodeDescription": "Inuktitut",
+            "CodeNotes": "Macrolanguage. See also ike (Eastern Canadian Inuktitut), ikt (Inuinnaqtun)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ipk",
+            "CodeDescription": "Inupiaq",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qiv",
+            "CodeDescription": "Inuvialuktun",
+            "CodeNotes": "ONIX local code, distinct dialect of Inuktitut (not distinguished from iku, ike, ikt by ISO 639-3). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ira",
+            "CodeDescription": "Iranian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pes",
+            "CodeDescription": "Iranian Persian; Parsi",
+            "CodeNotes": "ONIX local code, equivalent to pes in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gle",
+            "CodeDescription": "Irish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mga",
+            "CodeDescription": "Irish, Middle (ca. 1100-1550)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sga",
+            "CodeDescription": "Irish, Old (to 1100)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "iro",
+            "CodeDescription": "Iroquoian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ita",
+            "CodeDescription": "Italian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jpn",
+            "CodeDescription": "Japanese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jpx",
+            "CodeDescription": "Japanese languages",
+            "CodeNotes": "Japonic. Collective name. ONIX local code, equivalent of jpx in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jav",
+            "CodeDescription": "Javanese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jow",
+            "CodeDescription": "Jowulu",
+            "CodeNotes": "ONIX local code, equivalent to jow in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jrb",
+            "CodeDescription": "Judeo-Arabic",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jpr",
+            "CodeDescription": "Judeo-Persian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kbd",
+            "CodeDescription": "Kabardian",
+            "CodeNotes": "(East Circassian)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kbp",
+            "CodeDescription": "Kabiy\u00e8",
+            "CodeNotes": "ONIX local code, equivalent to kbp in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kab",
+            "CodeDescription": "Kabyle",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kac",
+            "CodeDescription": "Kachin; Jingpho",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kal",
+            "CodeDescription": "Kal\u00e2tdlisut; Greenlandic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "xal",
+            "CodeDescription": "Kalmyk; Oirat",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kam",
+            "CodeDescription": "Kamba",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kan",
+            "CodeDescription": "Kannada",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kau",
+            "CodeDescription": "Kanuri",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kaa",
+            "CodeDescription": "Kara-Kalpak",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "krc",
+            "CodeDescription": "Karachay-Balkar",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kdr",
+            "CodeDescription": "Karaim",
+            "CodeNotes": "ONIX local code, equivalent to kdr in ISO 639-3",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "krl",
+            "CodeDescription": "Karelian",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kar",
+            "CodeDescription": "Karen languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kas",
+            "CodeDescription": "Kashmiri",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "csb",
+            "CodeDescription": "Kashubian",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kaw",
+            "CodeDescription": "Kawi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kaz",
+            "CodeDescription": "Kazakh",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kha",
+            "CodeDescription": "Khasi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "khi",
+            "CodeDescription": "Khoisan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kho",
+            "CodeDescription": "Khotanese; Sakan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "xuu",
+            "CodeDescription": "Khwedam, Kxoe",
+            "CodeNotes": "ONIX local code, equivalent to xuu in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kik",
+            "CodeDescription": "Kikuyu; Gikuyu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kmb",
+            "CodeDescription": "Kimbundu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kin",
+            "CodeDescription": "Kinyarwanda",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kir",
+            "CodeDescription": "Kirghiz; Kyrgyz",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kqs",
+            "CodeDescription": "Kissi, Northern",
+            "CodeNotes": "Kisi (Guinean language). ONIX local code, equivalent to kqs in ISO 639-3. Only for use in ONIX 3.0 or later. Do not confuse with Kisi (Tanzanian language)",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kss",
+            "CodeDescription": "Kissi, Southern",
+            "CodeNotes": "Kisi (Liberian language). ONIX local code, equivalent to kss in ISO 639-3. Only for use in ONIX 3.0 or later. Do not confuse with Kisi (Tanzanian language)",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tlh",
+            "CodeDescription": "Klingon; tlhIngan-Hol",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kom",
+            "CodeDescription": "Komi",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kon",
+            "CodeDescription": "Kongo",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kok",
+            "CodeDescription": "Konkani",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kor",
+            "CodeDescription": "Korean",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kpe",
+            "CodeDescription": "Kpelle",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kro",
+            "CodeDescription": "Kru languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kua",
+            "CodeDescription": "Kuanyama; Kwanyama",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kum",
+            "CodeDescription": "Kumyk",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kur",
+            "CodeDescription": "Kurdish",
+            "CodeNotes": "Macrolanguage. See also ckb (Central Kurdish)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kru",
+            "CodeDescription": "Kurukh",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kos",
+            "CodeDescription": "Kusaiean (Caroline Islands)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kut",
+            "CodeDescription": "Kutenai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fkv",
+            "CodeDescription": "Kvensk",
+            "CodeNotes": "ONIX local code, equivalent to fkv in ISO 639-3",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kwk",
+            "CodeDescription": "Kwakiutl",
+            "CodeNotes": "ONIX local code, equivalent to kwk in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lad",
+            "CodeDescription": "Ladino",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lah",
+            "CodeDescription": "Lahnda",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lkt",
+            "CodeDescription": "Lakota",
+            "CodeNotes": "Teton, Teton Sioux. ONIX local code, equivalent to lkt in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lam",
+            "CodeDescription": "Lamba",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "day",
+            "CodeDescription": "Land Dayak languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lao",
+            "CodeDescription": "Lao",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lat",
+            "CodeDescription": "Latin",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lav",
+            "CodeDescription": "Latvian",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qlk",
+            "CodeDescription": "Lemko",
+            "CodeNotes": "ONIX local code, distinct dialect of of Rusyn (not distinguished from rue by ISO 639-3). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lez",
+            "CodeDescription": "Lezgian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lij",
+            "CodeDescription": "Ligurian",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to lij in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lim",
+            "CodeDescription": "Limbergan; Limburger; Limburgish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lin",
+            "CodeDescription": "Lingala",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lit",
+            "CodeDescription": "Lithuanian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "jbo",
+            "CodeDescription": "Lojban",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lmo",
+            "CodeDescription": "Lombard",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to lmo in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nds",
+            "CodeDescription": "Low German; Low Saxon",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "dsb",
+            "CodeDescription": "Lower Sorbian",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "loz",
+            "CodeDescription": "Lozi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lub",
+            "CodeDescription": "Luba-Katanga",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lua",
+            "CodeDescription": "Luba-Lulua",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lui",
+            "CodeDescription": "Luise\u00f1o",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "smj",
+            "CodeDescription": "Lule Sami",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lun",
+            "CodeDescription": "Lunda",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "luo",
+            "CodeDescription": "Luo (Kenya and Tanzania)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lus",
+            "CodeDescription": "Lushai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ltz",
+            "CodeDescription": "Luxembourgish; Letzeburgesch",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mac",
+            "CodeDescription": "Macedonian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mad",
+            "CodeDescription": "Madurese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mag",
+            "CodeDescription": "Magahi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mai",
+            "CodeDescription": "Maithili",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mak",
+            "CodeDescription": "Makasar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mlg",
+            "CodeDescription": "Malagasy",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "may",
+            "CodeDescription": "Malay",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mal",
+            "CodeDescription": "Malayalam",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "poz",
+            "CodeDescription": "Malayo-Polynesian languages",
+            "CodeNotes": "Collective name. ONIX local code, equivalent of poz in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mlt",
+            "CodeDescription": "Maltese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mnc",
+            "CodeDescription": "Manchu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mdr",
+            "CodeDescription": "Mandar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cmn",
+            "CodeDescription": "Mandarin",
+            "CodeNotes": "ONIX local code, equivalent to cmn in ISO 639-3",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "man",
+            "CodeDescription": "Mandingo",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mni",
+            "CodeDescription": "Manipuri",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mno",
+            "CodeDescription": "Manobo languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "glv",
+            "CodeDescription": "Manx",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "swb",
+            "CodeDescription": "Maore Comorian",
+            "CodeNotes": "Shimaore. ONIX local code, equivalent to swb in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mao",
+            "CodeDescription": "Maori",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arn",
+            "CodeDescription": "Mapudungun; Mapuche",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mar",
+            "CodeDescription": "Marathi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "chm",
+            "CodeDescription": "Mari",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mah",
+            "CodeDescription": "Marshallese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mwr",
+            "CodeDescription": "Marwari",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mas",
+            "CodeDescription": "Masai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "myn",
+            "CodeDescription": "Mayan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fit",
+            "CodeDescription": "Me\u00e4nkieli \/ Tornedalen Finnish",
+            "CodeNotes": "ONIX local code, equivalent to fit in ISO 639-3",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "men",
+            "CodeDescription": "Mende",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mic",
+            "CodeDescription": "Mi\u2019kmaq; Micmac; Mi\u2019gmaw",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crg",
+            "CodeDescription": "Michif",
+            "CodeNotes": "ONIX local code, equivalent to crg in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gml",
+            "CodeDescription": "Middle Low German",
+            "CodeNotes": "ONIX local code, equivalent to gml in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "min",
+            "CodeDescription": "Minangkabau",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mwl",
+            "CodeDescription": "Mirandese",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "moh",
+            "CodeDescription": "Mohawk",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mdf",
+            "CodeDescription": "Moksha",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mol",
+            "CodeDescription": "Moldavian; Moldovan",
+            "CodeNotes": "Deprecated \u2013 use rum",
+            "IssueNumber": 0,
+            "ModifiedNumber": 10,
+            "DeprecatedNumber": 10
+        },
+        {
+            "CodeValue": "mkh",
+            "CodeDescription": "Mon-Khmer languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lol",
+            "CodeDescription": "Mongo-Nkundu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mon",
+            "CodeDescription": "Mongolian",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cnr",
+            "CodeDescription": "Montenegrin",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mos",
+            "CodeDescription": "Moor\u00e9; Mossi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crm",
+            "CodeDescription": "Moose Cree",
+            "CodeNotes": "ONIX local code, equivalent to crm in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mun",
+            "CodeDescription": "Munda languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mwf",
+            "CodeDescription": "Murrinh-Patha",
+            "CodeNotes": "ONIX local code, equivalent to mwf in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nqo",
+            "CodeDescription": "N\u2019Ko",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nah",
+            "CodeDescription": "Nahuatl languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nsk",
+            "CodeDescription": "Naskapi",
+            "CodeNotes": "ONIX local code, equivalent to nsk in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nau",
+            "CodeDescription": "Nauruan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nav",
+            "CodeDescription": "Navajo; Navaho",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nde",
+            "CodeDescription": "Ndebele, North",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nbl",
+            "CodeDescription": "Ndebele, South",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ndo",
+            "CodeDescription": "Ndonga",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nap",
+            "CodeDescription": "Neapolitan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nep",
+            "CodeDescription": "Nepali",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qls",
+            "CodeDescription": "Neutral Latin American Spanish",
+            "CodeNotes": "ONIX local code, distinct and exclusively spoken variation of Spanish, not distinguished from spa (Spanish, Castilian) by ISO 639-3. Neutral Latin American Spanish should be considered a \u2018shorthand\u2019 for spa plus a \u2018country code\u2019 for Latin America \u2013 but prefer spa plus the relevant country code for specifically Mexican Spanish, Argentine (Rioplatense) Spanish, Puerto Rican Spanish etc. Neutral Latin American Spanish must only be used with audio material (including the audio tracks of TV, video and film) to indicate use of accent, vocabulary and construction suitable for broad use across Latin America. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "new",
+            "CodeDescription": "Newari; Nepal Bhasa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nia",
+            "CodeDescription": "Nias",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nic",
+            "CodeDescription": "Niger-Kordofanian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ssa",
+            "CodeDescription": "Nilo-Saharan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "niu",
+            "CodeDescription": "Niuean",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nog",
+            "CodeDescription": "Nogai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qnf",
+            "CodeDescription": "Norman French",
+            "CodeNotes": "Normand, of which Guern\u00e9siais, J\u00e8rriais are distinct dialects. ONIX local code (not distinguished from nrf in ISO 639-3). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nai",
+            "CodeDescription": "North American Indian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crl",
+            "CodeDescription": "Northern East Cree",
+            "CodeNotes": "ONIX local code, equivalent to crl in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "frr",
+            "CodeDescription": "Northern Frisian",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sme",
+            "CodeDescription": "Northern Sami",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nor",
+            "CodeDescription": "Norwegian",
+            "CodeNotes": "Macrolanguage. See also nob (Bokm\u00e5l), nno (Nynorsk)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nob",
+            "CodeDescription": "Norwegian Bokm\u00e5l",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nno",
+            "CodeDescription": "Norwegian Nynorsk",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nub",
+            "CodeDescription": "Nubian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nym",
+            "CodeDescription": "Nyamwezi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nyn",
+            "CodeDescription": "Nyankole",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nyo",
+            "CodeDescription": "Nyoro",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nzi",
+            "CodeDescription": "Nzima",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "oci",
+            "CodeDescription": "Occitan (post-1500)",
+            "CodeNotes": "See also qar (Aran\u00e9s)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "arc",
+            "CodeDescription": "Official Aramaic; Imperial Aramaic (700-300 BCE)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "oji",
+            "CodeDescription": "Ojibwa",
+            "CodeNotes": "Macrolanguage. See also ojs (Severn Ojibwa)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "odt",
+            "CodeDescription": "Old Dutch \/ Old Low Franconian (ca. 400\u20131050)",
+            "CodeNotes": "ONIX local code, equivalent to odt in ISO 639-3",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "non",
+            "CodeDescription": "Old Norse",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "peo",
+            "CodeDescription": "Old Persian (ca. 600-400 B.C.)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ori",
+            "CodeDescription": "Oriya",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "orm",
+            "CodeDescription": "Oromo",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "osa",
+            "CodeDescription": "Osage",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "oss",
+            "CodeDescription": "Ossetian; Ossetic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "omq",
+            "CodeDescription": "Oto-Manguean languages",
+            "CodeNotes": "ONIX local code, equivalent to omq in ISO 639-5. Collective name",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "oto",
+            "CodeDescription": "Otomian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pal",
+            "CodeDescription": "Pahlavi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pau",
+            "CodeDescription": "Palauan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pli",
+            "CodeDescription": "Pali",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pam",
+            "CodeDescription": "Pampanga; Kapampangan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pag",
+            "CodeDescription": "Pangasinan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pan",
+            "CodeDescription": "Panjabi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pap",
+            "CodeDescription": "Papiamento",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "paa",
+            "CodeDescription": "Papuan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "nso",
+            "CodeDescription": "Pedi; Sepedi; Northern Sotho",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "per",
+            "CodeDescription": "Persian",
+            "CodeNotes": "Macrolanguage. See also pes (Iranian Persian, Farsi), prs (Dari)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "phi",
+            "CodeDescription": "Philippine languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "phn",
+            "CodeDescription": "Phoenician",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pcd",
+            "CodeDescription": "Picard",
+            "CodeNotes": "ONIX local code, distinct variant of langue d\u2019o\u00efl (old northern French), equivalent to pcd in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qsp",
+            "CodeDescription": "Picture Communication Symbols (PCS)",
+            "CodeNotes": "ONIX local code for graphical symbols used in augmentative and alternative communication and education, not listed in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pms",
+            "CodeDescription": "Piedmontese",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to pms in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crk",
+            "CodeDescription": "Plains Cree",
+            "CodeNotes": "ONIX local code, equivalent to crk in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pol",
+            "CodeDescription": "Polish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pon",
+            "CodeDescription": "Ponapeian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "por",
+            "CodeDescription": "Portuguese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pra",
+            "CodeDescription": "Prakrit languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pro",
+            "CodeDescription": "Proven\u00e7al, Old (to 1500); Occitan, Old (to 1500)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fuf",
+            "CodeDescription": "Pular",
+            "CodeNotes": "ONIX local code, equivalent to fuf in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "pus",
+            "CodeDescription": "Pushto; Pashto",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "que",
+            "CodeDescription": "Quechua",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "raj",
+            "CodeDescription": "Rajasthani",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rap",
+            "CodeDescription": "Rapanui",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rar",
+            "CodeDescription": "Rarotongan; Cook Islands Maori",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rcf",
+            "CodeDescription": "R\u00e9union Creole French",
+            "CodeNotes": "ONIX local code, equivalent to rcf in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rgn",
+            "CodeDescription": "Romagnol",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to rgl in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "roa",
+            "CodeDescription": "Romance languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rum",
+            "CodeDescription": "Romanian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "roh",
+            "CodeDescription": "Romansh",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rom",
+            "CodeDescription": "Romany",
+            "CodeNotes": "Romani. Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "run",
+            "CodeDescription": "Rundi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rus",
+            "CodeDescription": "Russian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sal",
+            "CodeDescription": "Salishan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sam",
+            "CodeDescription": "Samaritan Aramaic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "smi",
+            "CodeDescription": "Sami languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "smo",
+            "CodeDescription": "Samoan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sad",
+            "CodeDescription": "Sandawe",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sag",
+            "CodeDescription": "Sango",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "san",
+            "CodeDescription": "Sanskrit",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sat",
+            "CodeDescription": "Santali",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "srm",
+            "CodeDescription": "Saramaccan",
+            "CodeNotes": "ONIX local code for Saramaccan language, equivalent to srm in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "srd",
+            "CodeDescription": "Sardinian",
+            "CodeNotes": "Macrolanguage. See also sdc (Sassarese), sdn (Gallurese), sro (Campidanese)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sas",
+            "CodeDescription": "Sasak",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sdc",
+            "CodeDescription": "Sassarese",
+            "CodeNotes": "ONIX local code for Sardinian dialect, equivalent to sdc in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sco",
+            "CodeDescription": "Scots",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gla",
+            "CodeDescription": "Scottish Gaelic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sel",
+            "CodeDescription": "Selkup",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sem",
+            "CodeDescription": "Semitic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "scc",
+            "CodeDescription": "Serbian",
+            "CodeNotes": "Deprecated \u2013 use srp",
+            "IssueNumber": 0,
+            "ModifiedNumber": 10,
+            "DeprecatedNumber": 10
+        },
+        {
+            "CodeValue": "srp",
+            "CodeDescription": "Serbian",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "srr",
+            "CodeDescription": "Serer",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ojs",
+            "CodeDescription": "Severn Ojibwa",
+            "CodeNotes": "ONIX local code, equivalent to ojs in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "shn",
+            "CodeDescription": "Shan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sna",
+            "CodeDescription": "Shona",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "shs",
+            "CodeDescription": "Shuswap",
+            "CodeNotes": "ONIX local code, equivalent to shs in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "iii",
+            "CodeDescription": "Sichuan Yi; Nuosu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "scn",
+            "CodeDescription": "Sicilian",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sid",
+            "CodeDescription": "Sidamo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sgn",
+            "CodeDescription": "Sign languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "bla",
+            "CodeDescription": "Siksika",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "szl",
+            "CodeDescription": "Silesian",
+            "CodeNotes": "ONIX local code, equivalent to szl in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "snd",
+            "CodeDescription": "Sindhi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sin",
+            "CodeDescription": "Sinhala; Sinhalese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zhx",
+            "CodeDescription": "Sinitic languages",
+            "CodeNotes": "Chinese (family) languages. Collective name. ONIX local code, equivalent of zhx in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sit",
+            "CodeDescription": "Sino-Tibetan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sio",
+            "CodeDescription": "Siouan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sms",
+            "CodeDescription": "Skolt Sami",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "den",
+            "CodeDescription": "Slave (Athapascan)",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sla",
+            "CodeDescription": "Slavic languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "slo",
+            "CodeDescription": "Slovak",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "slv",
+            "CodeDescription": "Slovenian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sog",
+            "CodeDescription": "Sogdian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "som",
+            "CodeDescription": "Somali",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "son",
+            "CodeDescription": "Songhai languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "snk",
+            "CodeDescription": "Soninke",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wen",
+            "CodeDescription": "Sorbian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sot",
+            "CodeDescription": "Sotho; Sesotho",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sai",
+            "CodeDescription": "South American Indian languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "alt",
+            "CodeDescription": "Southern Altai",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "crj",
+            "CodeDescription": "Southern East Cree",
+            "CodeNotes": "ONIX local code, equivalent to crj in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sma",
+            "CodeDescription": "Southern Sami",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "spa",
+            "CodeDescription": "Spanish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "srn",
+            "CodeDescription": "Sranan Tongo",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zgh",
+            "CodeDescription": "Standard Moroccan Tamazight",
+            "CodeNotes": "",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sto",
+            "CodeDescription": "Stoney",
+            "CodeNotes": "ONIX local code, equivalent to sto in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "suk",
+            "CodeDescription": "Sukuma",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sux",
+            "CodeDescription": "Sumerian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sun",
+            "CodeDescription": "Sundanese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sus",
+            "CodeDescription": "Susu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "swa",
+            "CodeDescription": "Swahili",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "csw",
+            "CodeDescription": "Swampy Cree",
+            "CodeNotes": "ONIX local code, equivalent to csw in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ssw",
+            "CodeDescription": "Swazi; Swati",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "swe",
+            "CodeDescription": "Swedish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gsw",
+            "CodeDescription": "Swiss German; Alemannic; Alsatian",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": 55,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "syr",
+            "CodeDescription": "Syriac",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tgl",
+            "CodeDescription": "Tagalog",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tah",
+            "CodeDescription": "Tahitian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tai",
+            "CodeDescription": "Tai languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tgk",
+            "CodeDescription": "Tajik; Tajiki Persian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tmh",
+            "CodeDescription": "Tamashek",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tam",
+            "CodeDescription": "Tamil",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "shi",
+            "CodeDescription": "Tashelhit; Shilha",
+            "CodeNotes": "ONIX local code, equivalent to shi in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tat",
+            "CodeDescription": "Tatar",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tel",
+            "CodeDescription": "Telugu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tem",
+            "CodeDescription": "Temne; Time",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ter",
+            "CodeDescription": "Terena",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tet",
+            "CodeDescription": "Tetum",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tha",
+            "CodeDescription": "Thai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "thp",
+            "CodeDescription": "Thompson",
+            "CodeNotes": "Nla\u2019kapamux. ONIX local code, equivalent to thp in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tib",
+            "CodeDescription": "Tibetan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tig",
+            "CodeDescription": "Tigr\u00e9",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tir",
+            "CodeDescription": "Tigrinya",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tiv",
+            "CodeDescription": "Tiv",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tli",
+            "CodeDescription": "Tlingit",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tpi",
+            "CodeDescription": "Tok Pisin",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tkl",
+            "CodeDescription": "Tokelauan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tog",
+            "CodeDescription": "Tonga (Nyasa)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ton",
+            "CodeDescription": "Tongan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "rmg",
+            "CodeDescription": "Traveler Norwegian",
+            "CodeNotes": "ONIX local code for Norwegian Scandoromani variant, equivalent to rmg in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tsd",
+            "CodeDescription": "Tsakonian",
+            "CodeNotes": "ONIX local code, equivalent to tsd in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tsi",
+            "CodeDescription": "Tsimshian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tso",
+            "CodeDescription": "Tsonga",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tsn",
+            "CodeDescription": "Tswana",
+            "CodeNotes": "AKA Setswana",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tum",
+            "CodeDescription": "Tumbuka",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tup",
+            "CodeDescription": "Tupi languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tur",
+            "CodeDescription": "Turkish",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ota",
+            "CodeDescription": "Turkish, Ottoman",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tuk",
+            "CodeDescription": "Turkmen",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tvl",
+            "CodeDescription": "Tuvaluan",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tyv",
+            "CodeDescription": "Tuvinian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "twi",
+            "CodeDescription": "Twi",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "tzo",
+            "CodeDescription": "Tzotzil",
+            "CodeNotes": "ONIX local code, equivalent to tzo in ISO 639-3",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "udm",
+            "CodeDescription": "Udmurt",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "uga",
+            "CodeDescription": "Ugaritic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "uig",
+            "CodeDescription": "Uighur; Uyghur",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ukr",
+            "CodeDescription": "Ukrainian",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "umb",
+            "CodeDescription": "Umbundu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "hsb",
+            "CodeDescription": "Upper Sorbian",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "urj",
+            "CodeDescription": "Uralic languages",
+            "CodeNotes": "Collective name. ONIX local code, equivalent of urj in ISO 639-5. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "urd",
+            "CodeDescription": "Urdu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "uzb",
+            "CodeDescription": "Uzbek",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "vai",
+            "CodeDescription": "Vai",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qav",
+            "CodeDescription": "Valencian",
+            "CodeNotes": "ONIX local code, distinct dialect of Catalan (not distinguished from cat by ISO 639-3)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ven",
+            "CodeDescription": "Venda",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "vec",
+            "CodeDescription": "Venetian\/Venetan",
+            "CodeNotes": "ONIX local code for Italian dialect, equivalent to vec in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "vie",
+            "CodeDescription": "Vietnamese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "vol",
+            "CodeDescription": "Volap\u00fck",
+            "CodeNotes": "Artificial language",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "vot",
+            "CodeDescription": "Votic",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wak",
+            "CodeDescription": "Wakashan languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wls",
+            "CodeDescription": "Wallisian",
+            "CodeNotes": "East Uvean. ONIX local code, equivalent to wls in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wln",
+            "CodeDescription": "Walloon",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "war",
+            "CodeDescription": "Waray",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "was",
+            "CodeDescription": "Washo",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "guc",
+            "CodeDescription": "Wayuu",
+            "CodeNotes": "Guajiro. ONIX local code, equivalent of guc in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wel",
+            "CodeDescription": "Welsh",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "fry",
+            "CodeDescription": "Western Frisian",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "qsw",
+            "CodeDescription": "Widgit symbols",
+            "CodeNotes": "ONIX local code for graphical symbols used in augmentative and alternative communication and education, not listed in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wal",
+            "CodeDescription": "Wolaitta; Wolaytta",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wol",
+            "CodeDescription": "Wolof",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "cwd",
+            "CodeDescription": "Woods Cree",
+            "CodeNotes": "ONIX local code, equivalent to cwd in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "wym",
+            "CodeDescription": "Wymysorys",
+            "CodeNotes": "Vilamovian. ONIX local code, equivalent to wym in ISO 639-3. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "xho",
+            "CodeDescription": "Xhosa",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "sah",
+            "CodeDescription": "Yakut",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "yao",
+            "CodeDescription": "Yao",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "yap",
+            "CodeDescription": "Yapese",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "yid",
+            "CodeDescription": "Yiddish",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "yor",
+            "CodeDescription": "Yoruba",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ypk",
+            "CodeDescription": "Yupik languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "znd",
+            "CodeDescription": "Zande languages",
+            "CodeNotes": "Collective name",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zap",
+            "CodeDescription": "Zapotec",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zza",
+            "CodeDescription": "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zen",
+            "CodeDescription": "Zenaga",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zha",
+            "CodeDescription": "Zhuang; Chuang",
+            "CodeNotes": "Macrolanguage",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zul",
+            "CodeDescription": "Zulu",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zun",
+            "CodeDescription": "Zuni",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mis",
+            "CodeDescription": "Uncoded language",
+            "CodeNotes": "Use where no suitable code is available",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "und",
+            "CodeDescription": "Undetermined language",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mul",
+            "CodeDescription": "Multiple languages",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "zxx",
+            "CodeDescription": "No linguistic content",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

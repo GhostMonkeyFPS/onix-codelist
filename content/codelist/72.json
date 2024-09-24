@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 72,
+    "CodeListDescription": "Thesis type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Habilitationsschrift",
+            "CodeNotes": "Professorial dissertation (thesis for postdoctoral lecturing qualification)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Dissertationsschrift",
+            "CodeNotes": "Doctoral thesis",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Staatsexamensarbeit",
+            "CodeNotes": "State examination thesis",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Magisterarbeit",
+            "CodeNotes": "Magisters degree thesis",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Diplomarbeit",
+            "CodeNotes": "Diploma degree thesis",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Bachelorarbeit",
+            "CodeNotes": "Bachelors degree thesis",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Masterarbeit",
+            "CodeNotes": "Masters degree thesis",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "CodeListNumber": 55,
+    "CodeListDescription": "Date format",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "YYYYMMDD",
+            "CodeNotes": "Common Era year, month and day (default for most dates)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "YYYYMM",
+            "CodeNotes": "Year and month",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "YYYYWW",
+            "CodeNotes": "Year and week number",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "YYYYQ",
+            "CodeNotes": "Year and quarter (Q = 1, 2, 3, 4, with 1 = Jan to Mar)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "YYYYS",
+            "CodeNotes": "Year and season (S = 1, 2, 3, 4, with 1 = \u2018Spring\u2019)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "YYYY",
+            "CodeNotes": "Year (default for some dates)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "YYYYMMDDYYYYMMDD",
+            "CodeNotes": "Spread of exact dates",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "YYYYMMYYYYMM",
+            "CodeNotes": "Spread of months",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "YYYYWWYYYYWW",
+            "CodeNotes": "Spread of week numbers",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "YYYYQYYYYQ",
+            "CodeNotes": "Spread of quarters",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "YYYYSYYYYS",
+            "CodeNotes": "Spread of seasons",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "YYYYYYYY",
+            "CodeNotes": "Spread of years",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Text string",
+            "CodeNotes": "For complex, approximate or uncertain dates, or dates BCE. Suggested maximum length 100 characters",
+            "IssueNumber": 1,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "YYYYMMDDThhmm",
+            "CodeNotes": "Exact time. Use ONLY when exact times with hour\/minute precision are relevant. By default, time is local. Alternatively, the time may be suffixed with an optional \u2018Z\u2019 for UTC times, or with \u2018+\u2019 or \u2018-\u2019 and an hhmm timezone offset from UTC. Times without a timezone are \u2018rolling\u2019 local times, times qualified with a timezone (using Z, + or -) specify a particular instant in time",
+            "IssueNumber": 17,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "YYYYMMDDThhmmss",
+            "CodeNotes": "Exact time. Use ONLY when exact times with second precision are relevant. By default, time is local. Alternatively, the time may be suffixed with an optional \u2018Z\u2019 for UTC times, or with \u2018+\u2019 or \u2018-\u2019 and an hhmm timezone offset from UTC. Times without a timezone are \u2018rolling\u2019 local times, times qualified with a timezone (using Z, + or -) specify a particular instant in time",
+            "IssueNumber": 17,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "YYYYMMDD (H)",
+            "CodeNotes": "Year month day (Hijri calendar)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "YYYYMM (H)",
+            "CodeNotes": "Year and month (Hijri calendar)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "YYYY (H)",
+            "CodeNotes": "Year (Hijri calendar)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Text string (H)",
+            "CodeNotes": "For complex, approximate or uncertain dates (Hijri calendar), text would usually be in Arabic script. Suggested maximum length 100 characters",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

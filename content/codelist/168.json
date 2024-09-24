@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 168,
+    "CodeListDescription": "Price condition quantity type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Time period",
+            "CodeNotes": "The price condition quantity represents a time period",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Number of updates",
+            "CodeNotes": "The price condition quantity is a number of updates",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Number of linked products",
+            "CodeNotes": "Use with Price condition type 06 and a Quantity of units. Price is valid when purchased with a specific number of products from a list of product identifiers provided in the associated <ProductIdentifier> composites. Use for example when describing a price for this product which is valid if it is purchased along with any two from a list of other products",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Number of copies of this product",
+            "CodeNotes": "Use with Price condition type 06 and a Quantity of units. Meeting the Price condition qualifies for purchase of a specified number of copies of this product at this price. Use for example when describing a price that applies to the specified number of units of this product which is valid if they are purchased along with a number of copies of another product",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Minimum number of linked products",
+            "CodeNotes": "Use with Price condition type 06 and a Quantity of units. Price is valid when purchased with at least a specific number of products from a list of product identifiers provided in the associated <ProductIdentifier> composites. Use for example when describing a price for this product which is valid if it is purchased along with any two from a list of other products",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Maximum number of copies of this product",
+            "CodeNotes": "(at this price). Use with Price condition type 06 and a Quantity of units. Meeting the Price condition qualifies for purchase of up to the specified number of copies of this product at this price. Use for example when describing a price that applies to the specified number of units of this product which is valid if they are purchased along with a number of copies of another product",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

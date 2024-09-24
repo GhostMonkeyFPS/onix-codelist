@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 62,
+    "CodeListDescription": "Tax rate type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "H",
+            "CodeDescription": "Higher rate",
+            "CodeNotes": "Specifies that tax is applied at a higher rate than standard",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P",
+            "CodeDescription": "Tax paid at source (Italy)",
+            "CodeNotes": "Under Italian tax rules, VAT on books may be paid at source by the publisher, and subsequent transactions through the supply chain are tax-exempt",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "R",
+            "CodeDescription": "Lower rate",
+            "CodeNotes": "Specifies that tax is applied at a lower rate than standard. In the EU, use code R for \u2018Reduced rates\u2019, and for rates lower than 5%, use code T (\u2018Super-reduced\u2019) or Z (Zero-rated)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "S",
+            "CodeDescription": "Standard rate",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "T",
+            "CodeDescription": "Super-low rate",
+            "CodeNotes": "Specifies that tax is applied at a rate lower than the Lower rate(s). In the EU, use code T for \u2018Super-reduced rates\u2019, and for Reduced rates (5% or above) use code R (Lower rate). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z",
+            "CodeDescription": "Zero-rated",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

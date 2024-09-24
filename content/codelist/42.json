@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 42,
+    "CodeListDescription": "Text item type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Textual work",
+            "CodeNotes": "A complete work which is published as a content item in a product which carries two or more such works, eg when two or three novels are published in a single omnibus volume",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Front matter",
+            "CodeNotes": "Text components such as Preface, Introduction etc which appear as preliminaries to the main body of text content in a product",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Body matter",
+            "CodeNotes": "Text components such as Part, Chapter, Section etc which appear as part of the main body of text content in a product",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Back matter",
+            "CodeNotes": "Text components such as Index which appear after the main body of text in a product",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

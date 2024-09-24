@@ -1,0 +1,47 @@
+{
+    "CodeListNumber": 86,
+    "CodeListDescription": "Bible text organization",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "CHR",
+            "CodeDescription": "Chronological",
+            "CodeNotes": "A Bible with the text organized in the order in which events are believed to have happened",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CHA",
+            "CodeDescription": "Chain reference",
+            "CodeNotes": "A Bible which explores keywords or themes by referring text to preceding or following text",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "INT",
+            "CodeDescription": "Interlinear",
+            "CodeNotes": "A Bible or other text in which different versions are printed one line above the other, so that the variations can easily be detected",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PAR",
+            "CodeDescription": "Parallel",
+            "CodeNotes": "A Bible with two or more versions printed side by side",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "STN",
+            "CodeDescription": "Standard",
+            "CodeNotes": "A Bible in which the text is presented in the traditional order",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

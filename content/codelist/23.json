@@ -1,0 +1,167 @@
+{
+    "CodeListNumber": 23,
+    "CodeListDescription": "Extent type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Main content page count",
+            "CodeNotes": "The highest-numbered page in a single numbered sequence of main content, usually the highest Arabic-numbered page in a book; or, for books without page numbers or (rarely) with multiple numbered sequences of main content, the total number of pages that carry the main content of the book. Note that this may include numbered but otherwise blank pages (eg pages inserted to ensure chapters start on a recto page) and may exclude unnumbered (but contentful) pages such as those in inserts\/plate sections. It should exclude pages of back matter (eg any index) even when their numbering sequence continues from the main content. Either this or the Content Page count is the preferred page count for most books for the general reader. For books with substantial front and\/or back matter, include also Front matter (03) and Back matter (04) page counts, or Total numbered pages (05). For books with inserts (plate sections), also include Total unnumbered insert page count whenever possible",
+            "IssueNumber": 9,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Total text length",
+            "CodeNotes": "Number of words or characters of natural language text",
+            "IssueNumber": 2,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Front matter page count",
+            "CodeNotes": "The total number of numbered (usually Roman-numbered) pages that precede the main content of a book. This usually consists of various title and imprint pages, table of contents, an introduction, preface, foreword, etc",
+            "IssueNumber": 9,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Back matter page count",
+            "CodeNotes": "The total number of numbered (often Roman-numbered) pages that follow the main content of a book. This usually consists of an afterword, appendices, endnotes, index, etc. It excludes extracts or \u2018teaser\u2019 material from other works, and blank (or advertising) pages that are present only for convenience of printing and binding",
+            "IssueNumber": 9,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Total numbered pages",
+            "CodeNotes": "The sum of all Roman- and Arabic-numbered pages. Note that this may include numbered but otherwise blank pages (eg pages inserted to ensure chapters start on a recto page) and may exclude unnumbered (but contentful) pages such as those in inserts\/plate sections. It is the sum of the main content (00), front matter (03) and back matter (04) page counts",
+            "IssueNumber": 9,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Production page count",
+            "CodeNotes": "The total number of pages in a book, including unnumbered pages, front matter, back matter, etc. This includes any extracts or \u2018teaser\u2019 material from other works, and blank pages at the back that carry no content and are present only for convenience of printing and binding",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Absolute page count",
+            "CodeNotes": "The total number of pages of the book counting the cover as page 1. This page count type should be used only for digital publications delivered with fixed pagination",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Number of pages in print counterpart",
+            "CodeNotes": "The total number of pages (equivalent to the Content page count, code 11) in the print counterpart of a digital product delivered without fixed pagination, or of an audio product",
+            "IssueNumber": 11,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Duration",
+            "CodeNotes": "Total duration in time, expressed in the specified extent unit. This is the \u2018running time\u2019 equivalent of code 11",
+            "IssueNumber": 0,
+            "ModifiedNumber": 20,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Notional number of pages in digital product",
+            "CodeNotes": "An estimate of the number of \u2018pages\u2019 in a digital product delivered without fixed pagination, and with no print counterpart, given as an indication of the size of the work. Equivalent to code 08, but exclusively for digital or audio products",
+            "IssueNumber": 11,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Content page count",
+            "CodeNotes": "The sum of all Roman- and Arabic-numbered and contentful unnumbered pages. Sum of page counts with codes 00, 03, 04 and 12, and also the sum of 05 and 12",
+            "IssueNumber": 13,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Total unnumbered insert page count",
+            "CodeNotes": "The total number of unnumbered pages with content inserted within the main content of a book \u2013 for example inserts\/plate sections that are not numbered",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Duration of introductory matter",
+            "CodeNotes": "Duration in time, expressed in the specified extent units, of introductory matter. This is the \u2018running time\u2019 equivalent of code 03, and comprises any significant amount of running time represented by a musical intro, announcements, titles, introduction or other material prefacing the main content",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Duration of main content",
+            "CodeNotes": "Duration in time, expressed in the specified extent units, of the main content. This is the \u2018running time\u2019 equivalent of code 00, and excludes time represented by announcements, titles, introduction or other prefatory material or \u2018back matter\u2019",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Duration of back matter",
+            "CodeNotes": "Duration in time, expressed in the specified extent units, of any content that follows the main content of a book. This may consist of an afterword, appendices, endnotes, end music etc. It excludes extracts or \u2018teaser\u2019 material from other works. This is the \u2018running time\u2019 equivalent of code 04",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Production duration",
+            "CodeNotes": "Duration in time, expressed in the specified extent units, of the complete content of a book. This is the \u2018running time\u2019 equivalent of code 06, and includes time represented by musical themes, announcements, titles, introductory and other prefatory material, plus \u2018back matter\u2019 such as any afterword, appendices, plus any extracts or \u2018teaser\u2019 material from other works",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Number of cards",
+            "CodeNotes": "In a pack of educational flash cards, playing cards, postcards, greeting cards etc. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Number of write-in pages",
+            "CodeNotes": "Count of the number of pages within the main content page count that are blank or substantially blank, intended for the reader to fill in (eg in a journal). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Filesize",
+            "CodeNotes": "Approximate size of a digital file or package (in the form it is downloaded), expressed in the specified extent unit",
+            "IssueNumber": 0,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Storage filesize",
+            "CodeNotes": "Approximate size of storage space required for a digital file or package in the form in which it is usually stored for use on a device, where this is different from the download filesize (see code 22), and expressed in the specified extent unit. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

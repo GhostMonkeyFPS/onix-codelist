@@ -1,0 +1,95 @@
+{
+    "CodeListNumber": 90,
+    "CodeListDescription": "Religious text feature",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Academic year",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Catechistic year",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Liturgical year",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Advent and Christmas",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Blessings",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Scholastic cycles",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Confirmation and Holy Communion",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Summer activites",
+            "CodeNotes": "For example, summer camps and other youth recreational activities: use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Easter",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Lent",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Marian themes",
+            "CodeNotes": "Use with code 01 in <ReligiousTextFeatureType>",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

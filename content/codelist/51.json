@@ -1,0 +1,375 @@
+{
+    "CodeListNumber": 51,
+    "CodeListDescription": "Product relation",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "<Product> is related to <RelatedProduct> in a way that cannot be specified by another code value",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Includes",
+            "CodeNotes": "<Product> includes <RelatedProduct> (inverse of code 02)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Is part of",
+            "CodeNotes": "<Product> is part of <RelatedProduct>: use for \u2018also available as part of\u2019 (inverse of code 01)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Replaces",
+            "CodeNotes": "<Product> replaces, or is new edition of, <RelatedProduct> (inverse of code 05)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Has companion product",
+            "CodeNotes": "<Product> and <RelatedProduct> are companion products, intended to be used, or are usable, together (is own inverse). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Replaced by",
+            "CodeNotes": "<Product> is replaced by, or has new edition, <RelatedProduct> (inverse of code 03)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Alternative format",
+            "CodeNotes": "<Product> is available in an alternative format as <RelatedProduct> \u2013 indicates an alternative format of the same content which is or may be available (is own inverse)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Has ancillary product",
+            "CodeNotes": "<Product> has an ancillary or supplementary product <RelatedProduct> (inverse of code 08)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Is ancillary to",
+            "CodeNotes": "<Product> is ancillary or supplementary to <RelatedProduct> (inverse of code 07)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Is remaindered as",
+            "CodeNotes": "<Product> is remaindered as <RelatedProduct>, when a remainder merchant assigns its own identifier to the product (inverse of code 10)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Is remainder of",
+            "CodeNotes": "<Product> was originally sold as <RelatedProduct>, indicating the publisher\u2019s original identifier for a title which is offered as a remainder under a different identifier (inverse of code 09)",
+            "IssueNumber": 1,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Is other-language version of",
+            "CodeNotes": "<Product> is an other-language version of <RelatedProduct> (is own inverse)",
+            "IssueNumber": 6,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Publisher\u2019s suggested alternative",
+            "CodeNotes": "<Product> has a publisher\u2019s suggested alternative <RelatedProduct>, which does not, however, carry the same content (cf 05 and 06)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Epublication based on (print product)",
+            "CodeNotes": "<Product> is an epublication based on printed product <RelatedProduct>. The related product is the source of any print-equivalent page numbering present in the epublication (inverse of code 27)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 40,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "POD replacement for",
+            "CodeNotes": "<Product> is a POD replacement for <RelatedProduct>. <RelatedProduct> is an out-of-print product replaced by a print-on-demand version under a new ISBN (inverse of code 17)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Replaced by POD",
+            "CodeNotes": "<Product> is replaced by POD <RelatedProduct>. <RelatedProduct> is a print-on-demand replacement, under a new ISBN, for an out-of-print <Product> (inverse of code 16)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Is special edition of",
+            "CodeNotes": "<Product> is a special edition of <RelatedProduct>. Used for a special edition (de: \u2018Sonderausgabe\u2019) with different cover, binding, premium content etc \u2013 more than \u2018alternative format\u2019 \u2013 which may be available in limited quantity and for a limited time (inverse of code 19)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Has special edition",
+            "CodeNotes": "<Product> has a special edition <RelatedProduct> (inverse of code 18)",
+            "IssueNumber": 8,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Is prebound edition of",
+            "CodeNotes": "<Product> is a prebound edition of <RelatedProduct> (In the US, a \u2018prebound\u2019 edition is \u2018a book that was previously bound and has been rebound with a library quality hardcover binding. In almost all commercial cases, the book in question began as a paperback. This might also be termed \u2018re-bound\u2019) (inverse of code 21)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Is original of prebound edition",
+            "CodeNotes": "<Product> is the regular edition of which <RelatedProduct> is a prebound edition (inverse of code 20)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Product by same author",
+            "CodeNotes": "<Product> and <RelatedProduct> have a common author",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Similar product",
+            "CodeNotes": "<RelatedProduct> is another product that is suggested as similar to <Product> (\u2018if you liked <Product>, you may also like <RelatedProduct>\u2019, or vice versa)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Is facsimile of",
+            "CodeNotes": "<Product> is a facsimile edition of <RelatedProduct> (inverse of code 25)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Is original of facsimile",
+            "CodeNotes": "<Product> is the original edition from which a facsimile edition <RelatedProduct> is taken (inverse of code 24)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Is license for",
+            "CodeNotes": "<Product> is a license for a digital <RelatedProduct>, traded or supplied separately",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Electronic version available as",
+            "CodeNotes": "<RelatedProduct> is an electronic version of print <Product> (inverse of code 13)",
+            "IssueNumber": 9,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Enhanced version available as",
+            "CodeNotes": "<RelatedProduct> is an \u2018enhanced\u2019 version of <Product>, with additional content. Typically used to link an enhanced e-book to its original \u2018unenhanced\u2019 equivalent, but not specifically limited to linking e-books \u2013 for example, may be used to link illustrated and non-illustrated print books. <Product> and <RelatedProduct> should share the same <ProductForm> (inverse of code 29)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Basic version available as",
+            "CodeNotes": "<RelatedProduct> is a basic version of <Product>. <Product> and <RelatedProduct> should share the same <ProductForm> (inverse of code 28)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Product in same collection",
+            "CodeNotes": "<RelatedProduct> and <Product> are part of the same collection (eg two products in same series or set) (is own inverse)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Has alternative in a different market sector",
+            "CodeNotes": "<RelatedProduct> is an alternative product in another sector (of the same geographical market). Indicates an alternative that carries the same content, but available to a different set of customers, as one or both products are retailer-, channel- or market sector-specific (is own inverse)",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "Has equivalent intended for a different market",
+            "CodeNotes": "<RelatedProduct> is an equivalent product, often intended for another (geographical) market. Indicates an alternative that carries essentially the same content, though slightly adapted for local circumstances (as opposed to a translation \u2013 use code 11) (is own inverse)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Has alternative intended for different market",
+            "CodeNotes": "<RelatedProduct> is an alternative product, often intended for another (geographical) market. Indicates the content of the alternative is identical in all respects (is own inverse)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Cites",
+            "CodeNotes": "<Product> cites <RelatedProduct> (inverse of code 35)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Is cited by",
+            "CodeNotes": "<Product> is the object of a citation in <RelatedProduct> (inverse of code 34)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Is signed version of",
+            "CodeNotes": "<Product> is a signed copy of <RelatedProduct>. Use where signed copies are given a distinct product identifier and can be ordered separately, but are otherwise identical (inverse of code 38)",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "Has signed version",
+            "CodeNotes": "<Product> is an unsigned copy of <RelatedProduct>. Use where signed copies are given a distinct product identifier and can be ordered separately, but are otherwise identical (inverse of code 37)",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "Has related student material",
+            "CodeNotes": "<Product> is intended for teacher use, and the related product is for student use",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "Has related teacher material",
+            "CodeNotes": "<Product> is intended for student use, and the related product is for teacher use",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Some content shared with",
+            "CodeNotes": "<Product> includes some content shared with <RelatedProduct>. Note the shared content does not form the whole of either product. Compare with the \u2018includes\u2019 \/ \u2018is part of\u2019 relationship pair (codes 01 and 02), where the shared content forms the whole of one of the products, and with the \u2018alternative format\u2019 relationship (code 06), where the shared content forms the whole of both products (code 41 is own inverse)",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Is later edition of first edition",
+            "CodeNotes": "<Product> is a later edition of <RelatedProduct>, where the related product is the first edition",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Adapted from",
+            "CodeNotes": "<Product> is an adapted (dramatized, abridged, novelized etc) version of <RelatedProduct> (inverse of code 44). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Adapted as",
+            "CodeNotes": "<Product> is the original from which <RelatedProduct> is adapted (dramatized etc) (inverse of code 43). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Has linked product offer",
+            "CodeNotes": "Purchases of <Product> may qualify for one or more copies of <RelatedProduct> either free of charge or at a reduced price (inverse of code 48). This may be dependent on retailer participation, upon price and upon the quantity of the <Product> purchased. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "May be substituted by",
+            "CodeNotes": "If ordered, <Product> may (at the supplier\u2019s discretion) be substituted and the <RelatedProduct> supplied instead (inverse of code 47). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "May be substituted for",
+            "CodeNotes": "If ordered, <RelatedProduct> may (at the supplier\u2019s discretion) be substituted and the <Product> supplied instead (inverse of code 46). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Is linked product offer",
+            "CodeNotes": "Purchases of <RelatedProduct> may qualify for one or more copies of <Product> either free of charge or at a reduced price (inverse of code 45). This may be dependent on retailer participation, upon price and upon the quantity of the <RelatedProduct> purchased. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

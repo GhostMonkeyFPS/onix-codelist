@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 41,
+    "CodeListDescription": "Prize or award achievement",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Winner",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Runner-up",
+            "CodeNotes": "Named as being in second place",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Commended",
+            "CodeNotes": "Cited as being worthy of special attention at the final stage of the judging process, but not named specifically as winner or runner-up. Possible terminology used by a particular prize includes \u2018specially commended\u2019 or \u2018honored\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": 23,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Short-listed",
+            "CodeNotes": "Title named by the judging process to be one of the final list of candidates, such as a \u2018short-list\u2019 from which the winner is selected, or a title named as \u2018finalist\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": 23,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Long-listed",
+            "CodeNotes": "Title named by the judging process to be one of the preliminary list of candidates, such as a \u2018long-list\u2019 from which first a shorter list or set of finalists is selected, and then the winner is announced",
+            "IssueNumber": 3,
+            "ModifiedNumber": 23,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Joint winner",
+            "CodeNotes": "Or co-winner",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Nominated",
+            "CodeNotes": "Selected by judging panel or an official nominating process for final consideration for a prize, award or honour for which no \u2018short-list\u2019 or \u2018long list\u2019 exists",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

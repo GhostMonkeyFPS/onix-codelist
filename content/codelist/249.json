@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 249,
+    "CodeListDescription": "Specification feature type",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Filename",
+            "CodeNotes": "Specification Feature Value carries the filename of the final product",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Audio loudness",
+            "CodeNotes": "Specification Feature Value is the target loudness in LKFS (LUFS) used for audio normalisation \u2013 see ITU-R BS.1770",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Paper type",
+            "CodeNotes": "Specification Feature Description is the paper or card type, eg Coated, uncoated",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Paper weight",
+            "CodeNotes": "Specification Feature Value is the paper or card weight in GSM",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Paper color",
+            "CodeNotes": "Specification Feature Value is the paper or card color code selected from List 257",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Ink color(s)",
+            "CodeNotes": "Specification Feature Description lists the ink color(s) required. Do not use if mono or conventional CMYK",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Special finish",
+            "CodeNotes": "Specification Feature Value lists a special finish required, from List 258",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

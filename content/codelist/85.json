@@ -1,0 +1,191 @@
+{
+    "CodeListNumber": 85,
+    "CodeListDescription": "Bible purpose",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "AW",
+            "CodeDescription": "Award",
+            "CodeNotes": "A Bible (or selected Biblical text) designed for presentation from a religious organization",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BB",
+            "CodeDescription": "Baby",
+            "CodeNotes": "A Bible (or selected Biblical text) designed to be a gift to commemorate a child\u2019s birth",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BR",
+            "CodeDescription": "Bride",
+            "CodeNotes": "A special gift Bible (or selected Biblical text) designed for the bride on her wedding day. Usually white",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CF",
+            "CodeDescription": "Confirmation",
+            "CodeNotes": "A Bible (or selected Biblical text) designed to be used in the confirmation reading or as a gift to a confirmand",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CH",
+            "CodeDescription": "Children\u2019s",
+            "CodeNotes": "A text Bible (or selected Biblical text) designed in presentation and readability for a child",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CM",
+            "CodeDescription": "Compact",
+            "CodeNotes": "A small Bible (or selected Biblical text) with a trim height of five inches or less",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CR",
+            "CodeDescription": "Cross-reference",
+            "CodeNotes": "A Bible (or selected Biblical text) which includes text conveying cross-references to related scripture passages",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DR",
+            "CodeDescription": "Daily readings",
+            "CodeNotes": "A Bible (or selected Biblical text) laid out to provide readings for each day of the year",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DV",
+            "CodeDescription": "Devotional",
+            "CodeNotes": "A Bible (or selected Biblical text) containing devotional content together with the scripture",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FM",
+            "CodeDescription": "Family",
+            "CodeNotes": "A Bible (or selected Biblical text) containing family record pages and\/or additional study material for family devotion",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GT",
+            "CodeDescription": "General\/Text",
+            "CodeNotes": "A standard Bible (or selected Biblical text) of any version with no distinguishing characteristics beyond the canonical text",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GF",
+            "CodeDescription": "Gift",
+            "CodeNotes": "A Bible (or selected Biblical text) designed for gift or presentation, often including a presentation page",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LP",
+            "CodeDescription": "Lectern\/Pulpit",
+            "CodeNotes": "A large Bible (or selected Biblical text) with large print designed for use in reading scriptures in public worship from either the pulpit or lectern",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MN",
+            "CodeDescription": "Men\u2019s",
+            "CodeNotes": "A Bible (or selected Biblical text) especially designed with helps and study guides oriented to the adult male",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PS",
+            "CodeDescription": "Primary school",
+            "CodeNotes": "A Bible (or selected Biblical text) designed for use in primary school",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PW",
+            "CodeDescription": "Pew",
+            "CodeNotes": "Usually inexpensive but sturdy, a Bible (or selected Biblical text) designed for use in church pews",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SC",
+            "CodeDescription": "Scholarly",
+            "CodeNotes": "A Bible (or selected Biblical text) including texts in Greek and\/or Hebrew and designed for scholarly study",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SL",
+            "CodeDescription": "Slimline",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ST",
+            "CodeDescription": "Student",
+            "CodeNotes": "A Bible (or selected Biblical text) with study articles and helps especially for use in the classroom",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SU",
+            "CodeDescription": "Study",
+            "CodeNotes": "A Bible (or selected Biblical text) with many extra features, e.g. book introductions, dictionary, concordance, references, maps, etc., to help readers better understand the scripture",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WG",
+            "CodeDescription": "Wedding gift",
+            "CodeNotes": "A special gift Bible (or selected Biblical text) designed as a gift to the couple on their wedding day",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WM",
+            "CodeDescription": "Women\u2019s",
+            "CodeNotes": "A devotional or study Bible (or selected Biblical text) with helps targeted at the adult woman",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YT",
+            "CodeDescription": "Youth",
+            "CodeNotes": "A Bible (or selected Biblical text) containing special study and devotional helps designed specifically for the needs of teenagers",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "CodeListNumber": 80,
+    "CodeListDescription": "Product packaging type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "No outer packaging",
+            "CodeNotes": "No packaging, or all smaller items enclosed inside largest item",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Slip-sleeve",
+            "CodeNotes": "Thin card or soft plastic sleeve, much less rigid than a slip case",
+            "IssueNumber": 1,
+            "ModifiedNumber": 21,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Clamshell",
+            "CodeNotes": "Packaging consisting of formed plastic sealed around each side of the product. Not to be confused with single-sided Blister pack",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Keep case",
+            "CodeNotes": "Typical DVD-style packaging, sometimes known as an \u2018Amaray\u2019 case",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Jewel case",
+            "CodeNotes": "Typical CD-style packaging",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Digipak",
+            "CodeNotes": "Common CD-style packaging, a card folder with one or more panels incorporating a tray, hub or pocket to hold the disc(s)",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Shrink-wrapped (biodegradable)",
+            "CodeNotes": "Use for products or product bundles supplied for retail sale in shrink-wrapped packaging, where the shrink-wrap film is biodegradable. For non-degradable film, see code 21. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "In box (with lid)",
+            "CodeNotes": "Individual item, items or set in card box with separate or hinged lid: not to be confused with the commonly-used \u2018boxed set\u2019 which is more likely to be packaged in a slip case",
+            "IssueNumber": 2,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Slip-cased",
+            "CodeNotes": "Slip-case for single item only (de: \u2018Schuber\u2019)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Slip-cased set",
+            "CodeNotes": "Slip-case for multi-volume set, also commonly referred to as \u2018boxed set\u2019 (de: \u2018Kassette\u2019)",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Tube",
+            "CodeNotes": "Rolled in tube or cylinder: eg sheet map or poster",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Binder",
+            "CodeNotes": "Use for miscellaneous items such as slides, microfiche, when presented in a binder",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "In wallet or folder",
+            "CodeNotes": "Use for miscellaneous items such as slides, microfiche, when presented in a wallet or folder",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Long triangular package",
+            "CodeNotes": "Long package with triangular cross-section used for rolled sheet maps, posters etc",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Long square package",
+            "CodeNotes": "Long package with square cross-section used for rolled sheet maps, posters, etc",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Softbox (for DVD)",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Pouch",
+            "CodeNotes": "In pouch, eg teaching materials in a plastic bag or pouch",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Rigid plastic case",
+            "CodeNotes": "In duroplastic or other rigid plastic case, eg for a class set",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Cardboard case",
+            "CodeNotes": "In cardboard case, eg for a class set",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Shrink-wrapped",
+            "CodeNotes": "Use for products or product bundles supplied for retail sale in shrink-wrapped packaging. For biodegradable shrink-wrap film, prefer code 08. For shrink-wrapped packs of multiple products for trade supply only, see code XL in List 7",
+            "IssueNumber": 8,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Blister pack",
+            "CodeNotes": "A pack comprising a pre-formed plastic blister and a printed card with a heat-seal coating",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Carry case",
+            "CodeNotes": "A case with carrying handle, typically for a set of educational books and\/or learning materials",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "In tin",
+            "CodeNotes": "Individual item, items or set in metal box or can with separate or hinged lid",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "With browse-prevention tape",
+            "CodeNotes": "(ja: koguchi tome) Peelable sticker or tape sealing the foredge of a book to prevent pre-purchase reading of the content. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

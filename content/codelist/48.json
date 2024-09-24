@@ -1,0 +1,247 @@
+{
+    "CodeListNumber": 48,
+    "CodeListDescription": "Measure type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Height",
+            "CodeNotes": "For a book, the overall height when standing on a shelf. For a folded map, the height when folded. For packaged products, the height of the retail packaging, and for trade-only products, the height of the trade packaging. In general, the height of a product in the form in which it is presented or packaged for retail sale",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Width",
+            "CodeNotes": "For a book, the overall horizontal dimension of the cover when standing upright. For a folded map, the width when folded. For packaged products, the width of the retail packaging, and for trade-only products, the width of the trade packaging. In general, the width of a product in the form in which it is presented or packaged for retail sale",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Thickness",
+            "CodeNotes": "For a book, the overall thickness of the spine. For a folded map, the thickness when folded. For packaged products, the depth of the retail packaging, and for trade-only products, the depth of the trade packaging. In general, the thickness or depth of a product in the form in which it is presented or packaged for retail sale",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Page trim height",
+            "CodeNotes": "Overall height (code 01) is preferred for general use, as it includes the board overhang for hardbacks",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Page trim width",
+            "CodeNotes": "Overall width (code 02) is preferred for general use, as it includes the board overhang and spine thickness for hardbacks",
+            "IssueNumber": 0,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Unit volume",
+            "CodeNotes": "The volume of the product, including any retail packaging. Note the <MeasureUnit> is interpreted as a volumetric unit \u2013 for example code cm = cubic centimetres (ie millilitres), and code oz = (US) fluid ounces. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Unit capacity",
+            "CodeNotes": "Volume of the internal (fluid) contents of a product (eg of paint in a can). Note the <MeasureUnit> is interpreted as a volumetric unit \u2013 for example code cm = cubic centimetres (ie millilitres), and code oz = (US) fluid ounces. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Unit weight",
+            "CodeNotes": "The overall weight of the product, including any retail packaging",
+            "IssueNumber": 0,
+            "ModifiedNumber": 45,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Diameter (sphere)",
+            "CodeNotes": "Of a globe, for example",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Unfolded\/unrolled sheet height",
+            "CodeNotes": "The height of a folded or rolled sheet map, poster etc when unfolded",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Unfolded\/unrolled sheet width",
+            "CodeNotes": "The width of a folded or rolled sheet map, poster etc when unfolded",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Diameter (tube or cylinder)",
+            "CodeNotes": "The diameter of the cross-section of a tube or cylinder, usually carrying a rolled sheet product. Use 01 \u2018Height\u2019 for the height or length of the tube",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Rolled sheet package side measure",
+            "CodeNotes": "The length of a side of the cross-section of a long triangular or square package, usually carrying a rolled sheet product. Use 01 \u2018Height\u2019 for the height or length of the package",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Unpackaged height",
+            "CodeNotes": "As height, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 01). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Unpackaged width",
+            "CodeNotes": "As width, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 02). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Unpackaged thickness",
+            "CodeNotes": "As thickness, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 03). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Total battery weight",
+            "CodeNotes": "Weight of batteries built-in, pre-installed or supplied with the product. Details of the batteries should be provided using <ProductFormFeature>. A per-battery unit weight may be calculated from the number of batteries if required. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Total weight of Lithium",
+            "CodeNotes": "Mass or equivalent mass of elemental Lithium within the batteries built-in, pre-installed or supplied with the product (eg a Lithium Iron phosphate battery with 160g of cathode material would have a total of around 7g of Lithium). Details of the batteries must be provided using ProductFormFeature. A per-battery unit mass of Lithium may be calculated from the number of batteries if required. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Assembled length",
+            "CodeNotes": "For use where product or part of product requires assembly, for example the size of a completed kit, puzzle or assembled display piece. The assembled dimensions may be larger than the product size as supplied. Use only when the unassembled dimensions as supplied (including any retail or trade packaging) are also provided using codes 01, 02 and 03. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Assembled width",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Assembled height",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Unpackaged unit weight",
+            "CodeNotes": "Overall unit weight (code 08) is preferred for general use, as it includes the weight of any packaging. Use Unpackaged unit weight only for products supplied in retail packaging, and must also supply overall unit weight. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 61,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Carton length",
+            "CodeNotes": "Includes packaging. See <PackQuantity> for number of copies of the product per pack, and used only when dimensions of individual copies (codes 01, 02, 03) AND <PackQuantity> are supplied. Note that neither orders nor deliveries have to be aligned with multiples of the pack quantity, but such orders and deliveries may be more convenient to handle. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Carton width",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Carton height",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Carton weight",
+            "CodeNotes": "Includes the weight of product(s) within the carton. See <PackQuantity> for number of copies per pack, and used only when the weight of individual copies (code 08) AND <PackQuantity> are supplied. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Pallet length",
+            "CodeNotes": "Includes pallet and packaging. See <PalletQuantity> for number of copies of the product per pallet, and used only when dimensions of individual copies (codes 01, 02, 03) AND <PalletQuantity> are supplied. Note that neither orders nor deliveries have to be aligned with multiples of the pallet quantity, but such orders and deliveries may be more convenient to handle. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Pallet width",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Pallet height",
+            "CodeNotes": "",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Pallet weight",
+            "CodeNotes": "Includes the weight of product(s) and cartons stacked on the pallet. See <PalletQuantity> for the number of copies per pallet, and used only when the weight of individual copies (code 08) AND <PalletQuantity> are supplied.Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

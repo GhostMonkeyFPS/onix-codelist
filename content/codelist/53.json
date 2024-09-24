@@ -1,0 +1,47 @@
+{
+    "CodeListNumber": 53,
+    "CodeListDescription": "Returns conditions code type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "As specified in <ReturnsCodeTypeName>. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "French book trade returns conditions code",
+            "CodeNotes": "Maintained by CLIL (Commission Interprofessionnel du Livre). Returns conditions values in <ReturnsCode> should be taken from the CLIL list",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "BISAC Returnable Indicator code",
+            "CodeNotes": "Maintained by BISAC: Returns conditions values in <ReturnsCode> should be taken from List 66",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "UK book trade returns conditions code",
+            "CodeNotes": "NOT CURRENTLY USED \u2013 BIC has decided that it will not maintain a code list for this purpose, since returns conditions are usually at least partly based on the trading relationship",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "ONIX Returns conditions code",
+            "CodeNotes": "Returns conditions values in <ReturnsCode> should be taken from List 204",
+            "IssueNumber": 19,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

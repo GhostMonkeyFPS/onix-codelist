@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 171,
+    "CodeListDescription": "Tax type",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "VAT (Value-added tax)",
+            "CodeNotes": "TVA, IVA, MwSt, GST etc, levied incrementally at all parts of the supply chain",
+            "IssueNumber": 9,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "GST (Sales tax)",
+            "CodeNotes": "General sales tax, levied on retail sales",
+            "IssueNumber": 9,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "ECO",
+            "CodeNotes": "\u2018Green\u2019 or eco-tax, levied to encourage responsible production or disposal, used only where this is identified separately from value-added or sales taxes",
+            "IssueNumber": 31,
+            "ModifiedNumber": 35,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

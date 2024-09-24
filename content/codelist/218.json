@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 218,
+    "CodeListDescription": "License expression type",
+    "IssueNumber": 24,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Human readable",
+            "CodeNotes": "Document (eg Word file, PDF or web page) Intended for the lay reader",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Professional readable",
+            "CodeNotes": "Document (eg Word file, PDF or web page) Intended for the legal specialist reader",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "ONIX-PL",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "ODRL",
+            "CodeNotes": "Open Digital Rights Language (ODRL) in JSON-LD format. Used for example to express TDM licenses using the W3C TDM Reservation Protocol",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

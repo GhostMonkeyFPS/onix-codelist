@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 177,
+    "CodeListDescription": "Person \/ organization date role",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Date of birth",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Date of death",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "56",
+            "CodeDescription": "Flourished around",
+            "CodeNotes": "(\u2018Floruit\u2019). To date the height of or most productive period during a career",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

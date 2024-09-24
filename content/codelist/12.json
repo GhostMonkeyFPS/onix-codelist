@@ -1,0 +1,167 @@
+{
+    "CodeListNumber": 12,
+    "CodeListDescription": "Trade category",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "UK open market edition",
+            "CodeNotes": "An edition from a UK publisher sold only in territories where exclusive rights are not held. Rights details should be carried in PR.21 (in ONIX 2.1) OR P.21 (in ONIX 3.0 or later) as usual",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Airport edition",
+            "CodeNotes": "In UK, an edition intended primarily for airside sales in UK airports, though it may be available for sale in other territories where exclusive rights are not held. Rights details should be carried in PR.21 (in ONIX 2.1) OR P.21 (in ONIX 3.0 or later) as usual",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Sonderausgabe",
+            "CodeNotes": "In Germany, a special printing sold at a lower price than the regular hardback",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Pocket book",
+            "CodeNotes": "In countries where recognised as a distinct trade category, eg France \u00ab\u00a0livre de poche\u00a0\u00bb, Germany ,Taschenbuch\u2018, Italy \u00abtascabile\u00bb, Spain \u00ablibro de bolsillo\u00bb",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "International edition (US)",
+            "CodeNotes": "Edition produced solely for sale in designated export markets",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Library audio edition",
+            "CodeNotes": "Audio product sold in special durable packaging and with a replacement guarantee for the contained cassettes or CDs for a specified shelf-life",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "US open market edition",
+            "CodeNotes": "An edition from a US publisher sold only in territories where exclusive rights are not held. Rights details should be carried in PR.21 (in ONIX 2.1) OR P.21 (in ONIX 3.0 or later) as usual",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Livre scolaire, d\u00e9clar\u00e9 par l\u2019\u00e9diteur",
+            "CodeNotes": "In France, a category of book that has a particular legal status, claimed by the publisher",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Livre scolaire (non sp\u00e9cifi\u00e9)",
+            "CodeNotes": "In France, a category of book that has a particular legal status, designated independently of the publisher",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Supplement to newspaper",
+            "CodeNotes": "Edition published for sale only with a newspaper or periodical",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Precio libre textbook",
+            "CodeNotes": "In Spain, a school textbook for which there is no fixed or suggested retail price and which is supplied by the publisher on terms individually agreed with the bookseller",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "News outlet edition",
+            "CodeNotes": "For editions sold only through newsstands\/newsagents",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "US textbook",
+            "CodeNotes": "In the US and Canada, a book that is published primarily for use by students in school or college education as a basis for study. Textbooks published for the elementary and secondary school markets are generally purchased by school districts for the use of students. Textbooks published for the higher education market are generally adopted for use in particular classes by the instructors of those classes. Textbooks are usually not marketed to the general public, which distinguishes them from trade books. Note that trade books adopted for course use are not considered to be textbooks (though a specific education edition of a trade title may be)",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "E-book short",
+            "CodeNotes": "\u2018Short\u2019 e-book (sometimes also called a \u2018single\u2019), typically containing a single short story, an essay or piece of long-form journalism",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Superpocket book",
+            "CodeNotes": "In countries where recognised as a distinct trade category, eg Italy \u00absupertascabile\u00bb. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Beau-livre",
+            "CodeNotes": "Category of books, usually hardcover and of a large format (A4 or larger) and printed on high-quality paper, where the primary features are illustrations, and these are more important than text. Sometimes called \u2018coffee-table books\u2019 or \u2018art books\u2019 in English. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Podcast",
+            "CodeNotes": "Category of audio products typically distinguished by being free of charge (but which may be monetised through advertising content) and episodic. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Periodical",
+            "CodeNotes": "Category of books or e-books which are single issues of a periodical publication, sold as independent products. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Catalog",
+            "CodeNotes": "Publisher\u2019s or supplier\u2019s catalog (when treated as a product in its own right). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Atlas",
+            "CodeNotes": "Category of books containing a linked group of plates, tables, diagrams, lists, often but not always combined with maps or a geographical theme or approach. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

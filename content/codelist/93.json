@@ -1,0 +1,135 @@
+{
+    "CodeListNumber": 93,
+    "CodeListDescription": "Supplier role",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified",
+            "CodeNotes": "Default",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publisher to resellers",
+            "CodeNotes": "Publisher as supplier to retail trade outlets",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Publisher\u2019s exclusive distributor to resellers",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Publisher\u2019s non-exclusive distributor to resellers",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Wholesaler to retailers",
+            "CodeNotes": "Wholesaler supplying retail trade outlets",
+            "IssueNumber": 1,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Sales agent",
+            "CodeNotes": "Deprecated \u2013 use <MarketRepresentation> (ONIX 2.1) or <MarketPublishingDetail> (ONIX 3.0 or later) to specify a sales agent",
+            "IssueNumber": 1,
+            "ModifiedNumber": 5,
+            "DeprecatedNumber": 5
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Publisher\u2019s distributor to retailers",
+            "CodeNotes": "In a specified supply territory. Use only where exclusive\/non-exclusive status is not known. Prefer 02 or 03 as appropriate, where possible",
+            "IssueNumber": 6,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "POD supplier",
+            "CodeNotes": "Where a POD product is supplied to retailers and\/or consumers direct from a POD source",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Retailer",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Publisher to end-customers",
+            "CodeNotes": "Publisher as supplier direct to consumers and\/or institutional customers",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Exclusive distributor to end-customers",
+            "CodeNotes": "Intermediary as exclusive distributor direct to consumers and\/or institutional customers",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Non-exclusive distributor to end-customers",
+            "CodeNotes": "Intermediary as non-exclusive distributor direct to consumers and\/or institutional customers",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Distributor to end-customers",
+            "CodeNotes": "Use only where exclusive\/non-exclusive status is not known. Prefer 10 or 11 as appropriate, where possible",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Exclusive distributor to resellers and end-customers",
+            "CodeNotes": "Intermediary as exclusive distributor to retailers and direct to consumers and\/or institutional customers. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Non-exclusive distributor to resellers and end-customers",
+            "CodeNotes": "Intermediary as non-exclusive distributor to retailers and direct to consumers and\/or institutional customers. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Distributor to resellers and end-customers",
+            "CodeNotes": "Use only where exclusive\/non-exclusive status is not known. Prefer codes 13 or 14 as appropriate whenever possible. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

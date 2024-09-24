@@ -1,0 +1,111 @@
+{
+    "CodeListNumber": 248,
+    "CodeListDescription": "Specification detail code",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "A411",
+            "CodeDescription": "22.05kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A412",
+            "CodeDescription": "44.1kHz",
+            "CodeNotes": "44,100 samples per channel per second (CD quality)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A413",
+            "CodeDescription": "48kHz",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A416",
+            "CodeDescription": "16-bits per sample",
+            "CodeNotes": "Bit depth, 16 bits per sample (CD-quality)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A418",
+            "CodeDescription": "24-bits per sample",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A424",
+            "CodeDescription": "ID3v1",
+            "CodeNotes": "Includes v1.1",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A425",
+            "CodeDescription": "ID3v2",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B001",
+            "CodeDescription": "Printed long grain",
+            "CodeNotes": "Grain of paper parallel to spine",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B002",
+            "CodeDescription": "Printed short grain",
+            "CodeNotes": "Grain of paper perpendicular to spine",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B003",
+            "CodeDescription": "Monochrome",
+            "CodeNotes": "Usually B\/W",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B004",
+            "CodeDescription": "Printed CMYK",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B005",
+            "CodeDescription": "Printed higher-quality CMYK",
+            "CodeNotes": "Printed \u2018premium\u2019 or high-fidelity \/ high resolution CMYK (where different from \u2018Printed CMYK\u2019, and the manufacturer offers two quality settings)",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B006",
+            "CodeDescription": "Printed with bleed",
+            "CodeNotes": "At least some content bleeds to or beyond trimmed page edge",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

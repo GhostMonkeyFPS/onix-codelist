@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 179,
+    "CodeListDescription": "Price code type",
+    "IssueNumber": 12,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "A publisher or retailer\u2019s proprietary code list as specified in <PriceCodeTypeName> which identifies particular codes with particular price points, price tiers or bands",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Finnish Pocket Book price code",
+            "CodeNotes": "Price Code scheme for Finnish Pocket Books (Pokkareiden hintaryhm\u00e4). Price codes expressed as letters A\u2013J in <PriceCode>",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Finnish Miki Book price code",
+            "CodeNotes": "Price Code scheme for Finnish Miki Books (Miki-kirjojen hintaryhm\u00e4). Price codes expressed as an integer 1\u2013n in <PriceCode>",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

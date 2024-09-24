@@ -1,0 +1,71 @@
+{
+    "CodeListNumber": 43,
+    "CodeListDescription": "Text item identifier type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "For example, a publisher\u2019s own identifier. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "GTIN-13",
+            "CodeNotes": "Formerly known as the EAN-13 (unhyphenated)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "PII",
+            "CodeNotes": "Publisher item identifier",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "SICI",
+            "CodeNotes": "For serial items only",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "ISTC",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "ISBN-13",
+            "CodeNotes": "(Unhyphenated)",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "ISCC",
+            "CodeNotes": "International Standard Content Code, a \u2018similarity hash\u2019 derived algorithmically from the content itself (see https:\/\/iscc.codes). <IDValue> is a sequence comprising the Meta-Code and Content-Code ISCC-UNITSs generated from a digital manifestation of the work, as a variable-length case-insensitive alphanumeric string (or 27 characters including one hyphen if using ISCC v1.0, but this is deprecated). Note alphabetic characters in v1.x ISCCs use Base32 encoding and are conventionally upper case. The \u2018ISCC:\u2019 prefix is omitted. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

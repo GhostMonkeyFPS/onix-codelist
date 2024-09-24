@@ -1,0 +1,79 @@
+{
+    "CodeListNumber": 46,
+    "CodeListDescription": "Sales rights type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Sales rights unknown or unstated for any reason",
+            "CodeNotes": "May only be used with the <ROWSalesRightsType> element",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "For sale with exclusive rights in the specified countries or territories",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "For sale with non-exclusive rights in the specified countries or territories",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Not for sale in the specified countries or territories (reason unspecified)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Not for sale in the specified countries (but publisher holds exclusive rights in those countries or territories)",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Not for sale in the specified countries (publisher holds non-exclusive rights in those countries or territories)",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Not for sale in the specified countries (because publisher does not hold rights in those countries or territories)",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "For sale with exclusive rights in the specified countries or territories (sales restriction applies)",
+            "CodeNotes": "Only for use with ONIX 3.0. Deprecated",
+            "IssueNumber": 12,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "For sale with non-exclusive rights in the specified countries or territories (sales restriction applies)",
+            "CodeNotes": "Only for use with ONIX 3.0. Deprecated",
+            "IssueNumber": 12,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        }
+    ]
+}

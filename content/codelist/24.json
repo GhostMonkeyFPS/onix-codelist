@@ -1,0 +1,135 @@
+{
+    "CodeListNumber": 24,
+    "CodeListDescription": "Extent unit",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Physical pieces",
+            "CodeNotes": "Unbound sheets or leaves, where \u2018pages\u2019 is not appropriate. For example a count of the individual number of cards in a pack. Only for use in ONIX 3.0 or later. For number of pieces in eg a jigsaw, kit, board game, see <ProductFormFeature> and code 22 from list 79",
+            "IssueNumber": 54,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Characters",
+            "CodeNotes": "Approximate number of characters (including spaces) of natural language text. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Words",
+            "CodeNotes": "Approximate number of words of natural language text",
+            "IssueNumber": 2,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Pages",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Hours (integer and decimals)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Minutes (integer and decimals)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Seconds (integer only)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Tracks",
+            "CodeNotes": "Of an audiobook on CD (or a similarly divided selection of audio files). Conventionally, each track is 3\u20136 minutes of running time, and track counts are misleading and inappropriate if the average track duration is significantly more or less than this. Note that track breaks are not necessarily aligned with structural breaks in the text (eg chapter breaks)",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Discs",
+            "CodeNotes": "Of an audiobook on multiple Red Book audio CDs. Conventionally, each disc is 60\u201370 minutes of running time, and disc counts are misleading and inappropriate if the average disc duration is significantly more or less than this (for example if the discs are Yellow Book CDs containing mp3 files). Note that disc breaks are not necessarily aligned with structural breaks in the text (eg chapter breaks). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Hours HHH",
+            "CodeNotes": "Fill with leading zeroes if any elements are missing",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Hours and minutes HHHMM",
+            "CodeNotes": "Fill with leading zeroes if any elements are missing",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Hours minutes seconds HHHMMSS",
+            "CodeNotes": "Fill with leading zeroes if any elements are missing. If centisecond precision is required, use HHHMMSScc. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 0,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Bytes",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Kbytes",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Mbytes",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Chapters",
+            "CodeNotes": "Number of chapters (or other similar subdivisions) of the content. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

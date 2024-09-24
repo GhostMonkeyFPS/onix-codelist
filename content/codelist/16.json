@@ -1,0 +1,79 @@
+{
+    "CodeListNumber": 16,
+    "CodeListDescription": "Work identifier type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "ISBN-10",
+            "CodeNotes": "10-character ISBN of manifestation of work, when this is the only work identifier available \u2013 now Deprecated in ONIX for Books, except where providing historical information for compatibility with legacy systems. It should only be used in relation to products published before 2007 \u2013 when ISBN-13 superseded it \u2013 and should never be used as the ONLY identifier (it should always be accompanied by the correct GTIN-13 \/ ISBN-13 of the manifestation of the work)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": 11
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "DOI",
+            "CodeNotes": "Digital Object Identifier (variable length and character set, beginning \u201810.\u2019 and without https:\/\/doi.org\/ or the older http:\/\/dx.doi.org\/)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 65,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "ISTC",
+            "CodeNotes": "International Standard Text Code (16 characters: numerals and letters A-F, unhyphenated)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "ISBN-13",
+            "CodeNotes": "13-character ISBN of a manifestation of work, when this is the only work identifier available (13 digits, without spaces or hyphens)",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "ISRC",
+            "CodeNotes": "International Standard Recording Code",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "GLIMIR",
+            "CodeNotes": "Global Library Manifestation Identifier, OCLC\u2019s \u2018manifestation cluster\u2019 ID",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "OWI",
+            "CodeNotes": "OCLC Work Identifier",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "ISCC",
+            "CodeNotes": "International Standard Content Code, a \u2018similarity hash\u2019 derived algorithmically from the content itself (see https:\/\/iscc.codes). <IDValue> is a sequence comprising the Meta-Code and Content-Code ISCC-UNITSs generated from a digital manifestation of the work, as a variable-length case-insensitive alphanumeric string (or 27 characters including one hyphen if using ISCC v1.0, but this is deprecated). Note alphabetic characters in v1.x ISCCs use Base32 encoding and are conventionally upper case. The \u2018ISCC:\u2019 prefix is omitted. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

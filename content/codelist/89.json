@@ -1,0 +1,15 @@
+{
+    "CodeListNumber": 89,
+    "CodeListDescription": "Religious text feature type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Church season or activity",
+            "CodeNotes": "A church season or activity for which a religious text is intended. Religious text feature code must be taken from List 90",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

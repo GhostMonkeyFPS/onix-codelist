@@ -1,0 +1,615 @@
+{
+    "CodeListNumber": 83,
+    "CodeListDescription": "Bible version",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "ALV",
+            "CodeDescription": "Alberto Vaccari",
+            "CodeNotes": "Alberto Vaccari \u2013 Pontificio Istituto Biblico",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AMP",
+            "CodeDescription": "Amplified",
+            "CodeNotes": "A translation based on the American Standard Version and showing multiple options for the translation of ancient text. Published in full in 1965. Sponsored by the Lockman Foundation",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ANM",
+            "CodeDescription": "Antonio Martini",
+            "CodeNotes": "Most popular Catholic Bible translation in Italian prior to the CEI translation in 1971",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ASV",
+            "CodeDescription": "American Standard",
+            "CodeNotes": "A 1901 translation using verbal equivalence techniques with the purpose of Americanizing the REV",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLA",
+            "CodeDescription": "Biblia de las Americas",
+            "CodeNotes": "(LBLA) Spanish translation by the Lockman Foundation, first published in 1986 and updated in 1995, 1997. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLB",
+            "CodeDescription": "Nueva Biblia de las Americas",
+            "CodeNotes": "(NBLA) Updated Spanish translation by the Lockman Foundation, first published in 2005. Also known as Nueva Biblia Latinoamericana de Hoy (NBLH), Nueva Biblia de los Hispanos (NBH), and Nueva Biblia Latinoamericana (NBL). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEB",
+            "CodeDescription": "Common English Bible",
+            "CodeNotes": "2011 contemporary English translation of the Bible sponsored by the US-based Christian Resources Development Corporation. The translation includes Old Testament, Apocrypha and New Testament, and is aimed to be accessible to most English readers (minimum 7th grade reading age)",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEI",
+            "CodeDescription": "Conferenza Episcopale Italiana",
+            "CodeNotes": "Italian Episcopal Conference 1971 translation suitable for Italian Catholic liturgy. (Includes minor 1974 revision)",
+            "IssueNumber": 7,
+            "ModifiedNumber": 9,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEN",
+            "CodeDescription": "Conferenza Episcopale Italiana 2008",
+            "CodeNotes": "New translation of the C.E.I. first published in 2008 \u2013 the version most widely used by the Italian Catholic Church",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEV",
+            "CodeDescription": "Contemporary English",
+            "CodeNotes": "A translation completed in 1995 and sponsored by the American Bible Society under the leadership of Barclay Newman",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CNC",
+            "CodeDescription": "Concordata",
+            "CodeNotes": "1968 Interfaith version promoted by the Italian Bible Society. Has a Catholic \u2018imprimateur\u2019, but its ecumenical approach has Jewish, Protestant and Christian Orthodox approval",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DDI",
+            "CodeDescription": "Diodati",
+            "CodeNotes": "Version based on original documents, edited by Giovanni Diodati in 1607, revised by Diodati in 1641 and again in 1894. It is the reference version for many Italian Protestants",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DDN",
+            "CodeDescription": "Nuova Diodati",
+            "CodeNotes": "Revision of the Diodati Bible dating to the 1990s, aiming at highest fidelity to original ancient Greek (New Testament) and Hebrew (Old Testament) texts",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DOU",
+            "CodeDescription": "Douay-Rheims",
+            "CodeNotes": "An early (1580-1609) English translation from the Latin Vulgate designed for Catholics and performed by George Martin",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EIN",
+            "CodeDescription": "Einheits\u00fcbersetzung",
+            "CodeNotes": "A German translation of the Bible for use in Roman Catholic churches",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ESV",
+            "CodeDescription": "English Standard",
+            "CodeNotes": "An update of the Revised Standard Version that makes \u2018modest\u2019 use of gender-free terminology",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FBB",
+            "CodeDescription": "Biblia (1776)",
+            "CodeNotes": "Finnish Bible translation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FRA",
+            "CodeDescription": "Raamattu (1933\/1938)",
+            "CodeNotes": "Finnish Bible translation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FRK",
+            "CodeDescription": "Raamattu kansalle",
+            "CodeNotes": "Finnish Bible translation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FRM",
+            "CodeDescription": "Raamattu (1992)",
+            "CodeNotes": "Finnish Bible translation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GDW",
+            "CodeDescription": "God\u2019s Word",
+            "CodeNotes": "A 1995 translation by the World Bible Publishing Company using the English language in a manner to communicate to the late 20th century American",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GEN",
+            "CodeDescription": "Geneva",
+            "CodeNotes": "An early (1560) English version of the Bible translated by William Whittingham with strong Protestant leanings",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GNB",
+            "CodeDescription": "Good News",
+            "CodeNotes": "A translation sponsored by the American Bible Society. The New Testament was first published (as \u2018Today\u2019s English Version\u2019 TEV) in 1966. The Old Testament was completed in 1976, and the whole was published as the \u2018Good News Bible\u2019",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GPR",
+            "CodeDescription": "Galbiati, Penna, Rossano \u2013 UTET",
+            "CodeNotes": "Version edited by E. Galbiati, A. Penna and P. Rossano, and published by UTET. This version, based on original texts, is rich in notes and has been used as the basis for CEI translation",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GRK",
+            "CodeDescription": "Original Greek",
+            "CodeNotes": "New Testament text in an original Greek version",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GRM",
+            "CodeDescription": "Garofano, Rinaldi \u2013 Marietti",
+            "CodeNotes": "Richly annotated 1963 Version edited by S. Garofano and S. Rinaldi, and published by Marietti",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HBR",
+            "CodeDescription": "Original Hebrew",
+            "CodeNotes": "Old Testament text in an original Hebrew version",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HCS",
+            "CodeDescription": "Holman Christian Standard",
+            "CodeNotes": "Published by Broadman and Holman this translation rejects all forms of gender-neutral wording and is written with strong influences from the Southern Baptist perspective of biblical scholarship",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ICB",
+            "CodeDescription": "International Children\u2019s",
+            "CodeNotes": "A translation completed in 1986 targeting readability at the US third grade level",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ILC",
+            "CodeDescription": "Traduzione Interconfessionale in Lingua Corrente",
+            "CodeNotes": "Interconfessional translation resulting from 1985 effort by Catholic and Protestant scholars, aimed at delivering an easy-to-understand message",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "JER",
+            "CodeDescription": "Jerusalem",
+            "CodeNotes": "A translation designed for English speaking Catholics based on the original languages. It is based on French as well as ancient texts and was first published in 1966",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KJV",
+            "CodeDescription": "King James",
+            "CodeNotes": "A translation commissioned by King James I of England and first published in 1611",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KJT",
+            "CodeDescription": "21st Century King James",
+            "CodeNotes": "A verbal translation led by William Prindele. Published in 1994, it was designed to modernize the language of the King James Version based on Webster\u2019s New International Dictionary, 2nd edition, unabridged",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LVB",
+            "CodeDescription": "Living Bible",
+            "CodeNotes": "A paraphrase translation led by Kenneth N Taylor and first published in 1972",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LZZ",
+            "CodeDescription": "Luzzi",
+            "CodeNotes": "1924 translation by Giovanni Luzzi, Professor at the Waldensian Faculty of Theology in Rome, who revised the 17th Century Diodati version",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MSG",
+            "CodeDescription": "Message Bible",
+            "CodeNotes": "A paraphrase translation of the New Testament by Eugene Peterson first published in 1993",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NAB",
+            "CodeDescription": "New American",
+            "CodeNotes": "A translation aimed at Catholic readers first published in its entirety in 1970. A revised New Testament was issued in 1986 as the 2nd Edition. The 3rd Edtion was published in 1991 with a revision to Psalms. The 4th Edition (also known as the New American Bible Revised Edition) was published in 2011, incorporating revisions to the Old Testament",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NAS",
+            "CodeDescription": "New American Standard",
+            "CodeNotes": "A translation commissioned by the Lockman Foundation. The New Testament was published in 1960 followed by the entire Bible in 1971",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NAU",
+            "CodeDescription": "New American Standard, Updated",
+            "CodeNotes": "A 1995 translation using more modern language than the NASB",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBA",
+            "CodeDescription": "Bibelen 1895",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBB",
+            "CodeDescription": "Bibelen 1930",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBC",
+            "CodeDescription": "Bibelen 1938",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBD",
+            "CodeDescription": "Bibelen 1978-85",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBE",
+            "CodeDescription": "Bibelen 1978",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBF",
+            "CodeDescription": "Bibelen 1985",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBG",
+            "CodeDescription": "Norsk Bibel 88",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBH",
+            "CodeDescription": "Bibelen 1978-85\/rev. 2005",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBI",
+            "CodeDescription": "Bibelen 2011",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBJ",
+            "CodeDescription": "Norsk Bibel 88\/rev. 2007",
+            "CodeNotes": "Norwegian Bible translation. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBK",
+            "CodeDescription": "Fauskanger 2015",
+            "CodeNotes": "Norwegian Bible translation with commentary. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBL",
+            "CodeDescription": "Bibelen 2011\/rev. 2024",
+            "CodeNotes": "Norwegian Bible translation, 2024 update of Bibelen 2011. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NBP",
+            "CodeDescription": "Pollestad 2023",
+            "CodeNotes": "Norwegian Bible translation. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NCV",
+            "CodeDescription": "New Century",
+            "CodeNotes": "A translation inspired by the International Children\u2019s version. First published by World Publishing in 1991",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NEB",
+            "CodeDescription": "New English",
+            "CodeNotes": "A translation first issued in 1961 (New Testament) and 1970 (complete Bible) as a result of a proposal at the 1946 General Assembly of the Church of Scotland",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NGO",
+            "CodeDescription": "Bibelen Guds ord",
+            "CodeNotes": "Norwegian Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NIV",
+            "CodeDescription": "New International",
+            "CodeNotes": "A translation underwritten by Biblica (formerly the International Bible Society, and previously the New York Bible Society). The New Testament was published in 1973 followed by the entire Bible in 1978. The NIV text was revised in 1984 and again in 2011",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NIR",
+            "CodeDescription": "New International Reader\u2019s",
+            "CodeNotes": "A 1996 translation designed for people with limited literacy in English and based on the NIV",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NJB",
+            "CodeDescription": "New Jerusalem",
+            "CodeNotes": "A revision of the Jerusalem Bible. First published in 1986",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NKJ",
+            "CodeDescription": "New King James",
+            "CodeNotes": "A version issued by Thomas Nelson Publishers in 1982-83 designed to update the language of the King James Version while maintaining the phrasing and rhythm and using the same sources as its predecessor",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NNK",
+            "CodeDescription": "Bibelen, nynorsk",
+            "CodeNotes": "Norwegian \u2018nynorsk\u2019 Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NLV",
+            "CodeDescription": "New Living",
+            "CodeNotes": "A translation sponsored by Tyndale House and first released in 1996. It is considered a revision and updating of the Living Bible",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NRS",
+            "CodeDescription": "New Revised Standard",
+            "CodeNotes": "A revision of the Revised Standard based on ancient texts but updating language to American usage of the 1980s",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NTV",
+            "CodeDescription": "Nueva Traducci\u00f3n Viviente",
+            "CodeNotes": "A Spanish translation from the original Greek and Hebrew, sponsored by Tyndale House",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NVB",
+            "CodeDescription": "Novissima Versione della Bibbia",
+            "CodeNotes": "Nuovissima version \u2013 a Catholic-oriented translation in modern Italian, edited by a group including Carlo Martini, Gianfranco Ravasi and Ugo Vanni and first published (in 48 volumes, 1967-1980) by Edizioni San Paolo",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NVD",
+            "CodeDescription": "Nueva Biblia al Dia",
+            "CodeNotes": "A Spanish translation from the original Greek and Hebrew, sponsored by the International Bible Society\/Sociedad B\u00edblica Internacional",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NVI",
+            "CodeDescription": "Nueva Version Internacional",
+            "CodeNotes": "A Spanish translation underwritten by the International Bible Society",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PHP",
+            "CodeDescription": "New Testament in Modern English (Phillips)",
+            "CodeNotes": "An idiomatic translation by J B Phillips, first completed in 1966",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "REB",
+            "CodeDescription": "Revised English",
+            "CodeNotes": "A 1989 revision of the NEB. A significant effort was made to reduce the British flavor present in the NEB",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "REV",
+            "CodeDescription": "Revised Version",
+            "CodeNotes": "The first major revision of the King James Version, the Revised Version incorporates insights from early manuscripts discovered between 1611 and 1870, and corrects readings in the KJV which nineteenth-century scholarship deemed mistaken. The New Testament was published in 1881, the Old Testament in 1885, and the Apocrypha in 1895",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RSV",
+            "CodeDescription": "Revised Standard",
+            "CodeNotes": "A translation authorized by the National Council of Churches of Christ in the USA. The New Testament was published in 1946 followed by a complete Protestant canon in 1951",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RVL",
+            "CodeDescription": "Reina Valera",
+            "CodeNotes": "A Spanish translation based on the original texts",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SBB",
+            "CodeDescription": "Bibel 2000",
+            "CodeNotes": "Swedish Bible translation",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SMK",
+            "CodeDescription": "Bibelen, samisk",
+            "CodeNotes": "Norwegian \u2018samisk\u2019 Bible translation",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TEV",
+            "CodeDescription": "Today\u2019s English",
+            "CodeNotes": "A translation of the New Testament sponsored by the American Bible Society and first published in 1966. It was incorporated into the \u2018Good News Bible\u2019 (GNB) in 1976",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TNI",
+            "CodeDescription": "Today\u2019s New International",
+            "CodeNotes": "An updating of the New International Version. The New Testament was published in 2002, and the entire Bible in 2005. Superseded by the 2011 NIV update",
+            "IssueNumber": 1,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZZ",
+            "CodeDescription": "Other",
+            "CodeNotes": "Other translations not otherwise noted",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

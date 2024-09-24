@@ -1,0 +1,2823 @@
+{
+    "CodeListNumber": 49,
+    "CodeListDescription": "Region \u2013 based on ISO 3166-2",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "AU-CT",
+            "CodeDescription": "Australian Capital Territory",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-NS",
+            "CodeDescription": "New South Wales",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-NT",
+            "CodeDescription": "Northern Territory",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-QL",
+            "CodeDescription": "Queensland",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-SA",
+            "CodeDescription": "South Australia",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-TS",
+            "CodeDescription": "Tasmania",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-VI",
+            "CodeDescription": "Victoria",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AU-WA",
+            "CodeDescription": "Western Australia",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BE-BRU",
+            "CodeDescription": "Brussels-Capital Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BE-VLG",
+            "CodeDescription": "Flemish Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BE-WAL",
+            "CodeDescription": "Walloon Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-AB",
+            "CodeDescription": "Alberta",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-BC",
+            "CodeDescription": "British Columbia",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-MB",
+            "CodeDescription": "Manitoba",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-NB",
+            "CodeDescription": "New Brunswick",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-NL",
+            "CodeDescription": "Newfoundland and Labrador",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-NS",
+            "CodeDescription": "Nova Scotia",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-NT",
+            "CodeDescription": "Northwest Territories",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-NU",
+            "CodeDescription": "Nunavut",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-ON",
+            "CodeDescription": "Ontario",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-PE",
+            "CodeDescription": "Prince Edward Island",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-QC",
+            "CodeDescription": "Quebec",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-SK",
+            "CodeDescription": "Saskatchewan",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CA-YT",
+            "CodeDescription": "Yukon Territory",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-BJ",
+            "CodeDescription": "Beijing Municipality",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-TJ",
+            "CodeDescription": "Tianjin Municipality",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HE",
+            "CodeDescription": "Hebei Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-SX",
+            "CodeDescription": "Shanxi Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-NM",
+            "CodeDescription": "Nei Mongol Autonomous Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-LN",
+            "CodeDescription": "Liaoning Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-JL",
+            "CodeDescription": "Jilin Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HL",
+            "CodeDescription": "Heilongjiang Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-SH",
+            "CodeDescription": "Shanghai Municipality",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-JS",
+            "CodeDescription": "Jiangsu Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-ZJ",
+            "CodeDescription": "Zhejiang Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-AH",
+            "CodeDescription": "Anhui Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-FJ",
+            "CodeDescription": "Fujian Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-JX",
+            "CodeDescription": "Jiangxi Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-SD",
+            "CodeDescription": "Shandong Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HA",
+            "CodeDescription": "Henan Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HB",
+            "CodeDescription": "Hubei Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HN",
+            "CodeDescription": "Hunan Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-GD",
+            "CodeDescription": "Guangdong Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-GX",
+            "CodeDescription": "Guangxi Zhuangzu Autonomous Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HI",
+            "CodeDescription": "Hainan Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-CQ",
+            "CodeDescription": "Chongqing Municipality",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-SC",
+            "CodeDescription": "Sichuan Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-GZ",
+            "CodeDescription": "Guizhou Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-YN",
+            "CodeDescription": "Yunnan Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-XZ",
+            "CodeDescription": "Tibet Autonomous Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-SN",
+            "CodeDescription": "Shaanxi Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-GS",
+            "CodeDescription": "Gansu Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-QH",
+            "CodeDescription": "Qinghai Province",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-NX",
+            "CodeDescription": "Ningxia Huizu Autonomous Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-XJ",
+            "CodeDescription": "Xinjiang Uygur Autonomous Region",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-TW",
+            "CodeDescription": "Taiwan Province",
+            "CodeNotes": "Prefer code TW (Taiwan, Province of China) from List 91. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-HK",
+            "CodeDescription": "Hong Kong Special Administrative Region",
+            "CodeNotes": "Prefer code HK (Hong Kong) from List 91. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-MO",
+            "CodeDescription": "Macau Special Administrative Region",
+            "CodeNotes": "Prefer code MO (Macao) from List 91. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CN-11",
+            "CodeDescription": "Beijing Municipality",
+            "CodeNotes": "Deprecated in favor of CN-BJ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-12",
+            "CodeDescription": "Tianjin Municipality",
+            "CodeNotes": "Deprecated in favor of CN-TJ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-13",
+            "CodeDescription": "Hebei Province",
+            "CodeNotes": "Deprecated in favor of CN-HE",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-14",
+            "CodeDescription": "Shanxi Province",
+            "CodeNotes": "Deprecated in favor of CN-SX",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-15",
+            "CodeDescription": "Inner Mongolia Autonomous Region",
+            "CodeNotes": "Deprecated in favor of CN-NM",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-21",
+            "CodeDescription": "Liaoning Province",
+            "CodeNotes": "Deprecated in favor of CN-LN",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-22",
+            "CodeDescription": "Jilin Province",
+            "CodeNotes": "Deprecated in favor of CN-JL",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-23",
+            "CodeDescription": "Heilongjiang Province",
+            "CodeNotes": "Deprecated in favor of CN-HL",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-31",
+            "CodeDescription": "Shanghai Municipality",
+            "CodeNotes": "Deprecated in favor of CN-SH",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-32",
+            "CodeDescription": "Jiangsu Province",
+            "CodeNotes": "Deprecated in favor of CN-JS",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-33",
+            "CodeDescription": "Zhejiang Province",
+            "CodeNotes": "Deprecated in favor of CN-ZJ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-34",
+            "CodeDescription": "Anhui Province",
+            "CodeNotes": "Deprecated in favor of CN-AH",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-35",
+            "CodeDescription": "Fujian Province",
+            "CodeNotes": "Deprecated in favor of CN-FJ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-36",
+            "CodeDescription": "Jiangxi Province",
+            "CodeNotes": "Deprecated in favor of CN-JX",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-37",
+            "CodeDescription": "Shandong Province",
+            "CodeNotes": "Deprecated in favor of CN-SD",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-41",
+            "CodeDescription": "Henan Province",
+            "CodeNotes": "Deprecated in favor of CN-HA",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-42",
+            "CodeDescription": "Hubei Province",
+            "CodeNotes": "Deprecated in favor of CN-HB",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-43",
+            "CodeDescription": "Hunan Province",
+            "CodeNotes": "Deprecated in favor of CN-HN",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-44",
+            "CodeDescription": "Guangdong Province",
+            "CodeNotes": "Deprecated in favor of CN-GD",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-45",
+            "CodeDescription": "Guangxi Zhuang Autonomous Region",
+            "CodeNotes": "Deprecated in favor of CN-GX",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-46",
+            "CodeDescription": "Hainan Province",
+            "CodeNotes": "Deprecated in favor of CN-HI",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-50",
+            "CodeDescription": "Chongqing Municipality",
+            "CodeNotes": "Deprecated in favor of CN-CQ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-51",
+            "CodeDescription": "Sichuan Province",
+            "CodeNotes": "Deprecated in favor of CN-SC",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-52",
+            "CodeDescription": "Guizhou Province",
+            "CodeNotes": "Deprecated in favor of CN-GZ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-53",
+            "CodeDescription": "Yunnan Province",
+            "CodeNotes": "Deprecated in favor of CN-YN",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-54",
+            "CodeDescription": "Tibet Autonomous Region",
+            "CodeNotes": "Deprecated in favor of CN-XZ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-61",
+            "CodeDescription": "Shaanxi Province",
+            "CodeNotes": "Deprecated in favor of CN-SN",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-62",
+            "CodeDescription": "Gansu Province",
+            "CodeNotes": "Deprecated in favor of CN-GS",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-63",
+            "CodeDescription": "Qinghai Province",
+            "CodeNotes": "Deprecated in favor of CN-QH",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-64",
+            "CodeDescription": "Ningxia Hui Autonomous Region",
+            "CodeNotes": "Deprecated in favor of CN-NX",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-65",
+            "CodeDescription": "Xinjiang Uyghur Autonomous Region",
+            "CodeNotes": "Deprecated in favor of CN-XJ",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-71",
+            "CodeDescription": "Taiwan Province",
+            "CodeNotes": "Deprecated in favor of CN-TW, but prefer code TW (Taiwan, Province of China) from List 91",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-91",
+            "CodeDescription": "Hong Kong Special Administrative Region",
+            "CodeNotes": "Deprecated in favor of CN-HK, but prefer code HK (Hong Kong) from List 91",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "CN-92",
+            "CodeDescription": "Macau Special Administrative Region",
+            "CodeNotes": "Deprecated in favor of CN-MO, but prefer code MO (Macao) from List 91",
+            "IssueNumber": 30,
+            "ModifiedNumber": 44,
+            "DeprecatedNumber": 44
+        },
+        {
+            "CodeValue": "ES-CN",
+            "CodeDescription": "Canary Islands",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FR-H",
+            "CodeDescription": "Corsica",
+            "CodeNotes": "",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-AIR",
+            "CodeDescription": "UK airside",
+            "CodeNotes": "Airside outlets at UK international airports only",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-APS",
+            "CodeDescription": "UK airports",
+            "CodeNotes": "All UK airports, including both airside and other outlets",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-CHA",
+            "CodeDescription": "Channel Islands",
+            "CodeNotes": "Deprecated, replaced by country codes GG \u2013 Guernsey, and JE \u2013 Jersey from List 91",
+            "IssueNumber": 1,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 13
+        },
+        {
+            "CodeValue": "GB-ENG",
+            "CodeDescription": "England",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-EWS",
+            "CodeDescription": "England, Wales, Scotland",
+            "CodeNotes": "UK excluding Northern Ireland. Deprecated \u2013 use separate region codes GB-ENG, GB-SCT, GB-WLS instead",
+            "IssueNumber": 1,
+            "ModifiedNumber": 40,
+            "DeprecatedNumber": 40
+        },
+        {
+            "CodeValue": "GB-IOM",
+            "CodeDescription": "Isle of Man",
+            "CodeNotes": "Deprecated, replaced by country code IM \u2013 Isle of Man from List 91",
+            "IssueNumber": 1,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 13
+        },
+        {
+            "CodeValue": "GB-NIR",
+            "CodeDescription": "Northern Ireland",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-SCT",
+            "CodeDescription": "Scotland",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GB-WLS",
+            "CodeDescription": "Wales",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IE-AIR",
+            "CodeDescription": "Ireland airside",
+            "CodeNotes": "Airside outlets at Irish international airports only",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AG",
+            "CodeDescription": "Agrigento",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AL",
+            "CodeDescription": "Alessandria",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AN",
+            "CodeDescription": "Ancona",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AO",
+            "CodeDescription": "Aosta",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AR",
+            "CodeDescription": "Arezzo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AP",
+            "CodeDescription": "Ascoli Piceno",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AT",
+            "CodeDescription": "Asti",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AV",
+            "CodeDescription": "Avellino",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BA",
+            "CodeDescription": "Bari",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BT",
+            "CodeDescription": "Barletta-Andria-Trani",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BL",
+            "CodeDescription": "Belluno",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BN",
+            "CodeDescription": "Benevento",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BG",
+            "CodeDescription": "Bergamo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BI",
+            "CodeDescription": "Biella",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BO",
+            "CodeDescription": "Bologna",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BZ",
+            "CodeDescription": "Bolzano",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BS",
+            "CodeDescription": "Brescia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-BR",
+            "CodeDescription": "Brindisi",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CA",
+            "CodeDescription": "Cagliari",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CL",
+            "CodeDescription": "Caltanissetta",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CB",
+            "CodeDescription": "Campobasso",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CI",
+            "CodeDescription": "Carbonia-Iglesias",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CE",
+            "CodeDescription": "Caserta",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CT",
+            "CodeDescription": "Catania",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CZ",
+            "CodeDescription": "Catanzaro",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CH",
+            "CodeDescription": "Chieti",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CO",
+            "CodeDescription": "Como",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CS",
+            "CodeDescription": "Cosenza",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CR",
+            "CodeDescription": "Cremona",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-KR",
+            "CodeDescription": "Crotone",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-CN",
+            "CodeDescription": "Cuneo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-EN",
+            "CodeDescription": "Enna",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FM",
+            "CodeDescription": "Fermo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FE",
+            "CodeDescription": "Ferrara",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FI",
+            "CodeDescription": "Firenze",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FG",
+            "CodeDescription": "Foggia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FC",
+            "CodeDescription": "Forl\u00ec-Cesena",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-FR",
+            "CodeDescription": "Frosinone",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-GE",
+            "CodeDescription": "Genova",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-GO",
+            "CodeDescription": "Gorizia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-GR",
+            "CodeDescription": "Grosseto",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-IM",
+            "CodeDescription": "Imperia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-IS",
+            "CodeDescription": "Isernia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SP",
+            "CodeDescription": "La Spezia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-AQ",
+            "CodeDescription": "L\u2019Aquila",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LT",
+            "CodeDescription": "Latina",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LE",
+            "CodeDescription": "Lecce",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LC",
+            "CodeDescription": "Lecco",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LI",
+            "CodeDescription": "Livorno",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LO",
+            "CodeDescription": "Lodi",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-LU",
+            "CodeDescription": "Lucca",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MC",
+            "CodeDescription": "Macerata",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MN",
+            "CodeDescription": "Mantova",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MS",
+            "CodeDescription": "Massa-Carrara",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MT",
+            "CodeDescription": "Matera",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VS",
+            "CodeDescription": "Medio Campidano",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-ME",
+            "CodeDescription": "Messina",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MI",
+            "CodeDescription": "Milano",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MO",
+            "CodeDescription": "Modena",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-MB",
+            "CodeDescription": "Monza e Brianza",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-NA",
+            "CodeDescription": "Napoli",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-NO",
+            "CodeDescription": "Novara",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-NU",
+            "CodeDescription": "Nuoro",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-OG",
+            "CodeDescription": "Ogliastra",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-OT",
+            "CodeDescription": "Olbia-Tempio",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-OR",
+            "CodeDescription": "Oristano",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PD",
+            "CodeDescription": "Padova",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PA",
+            "CodeDescription": "Palermo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PR",
+            "CodeDescription": "Parma",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PV",
+            "CodeDescription": "Pavia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PG",
+            "CodeDescription": "Perugia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PU",
+            "CodeDescription": "Pesaro e Urbino",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PE",
+            "CodeDescription": "Pescara",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PC",
+            "CodeDescription": "Piacenza",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PI",
+            "CodeDescription": "Pisa",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PT",
+            "CodeDescription": "Pistoia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PN",
+            "CodeDescription": "Pordenone",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PZ",
+            "CodeDescription": "Potenza",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-PO",
+            "CodeDescription": "Prato",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RG",
+            "CodeDescription": "Ragusa",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RA",
+            "CodeDescription": "Ravenna",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RC",
+            "CodeDescription": "Reggio Calabria",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RE",
+            "CodeDescription": "Reggio Emilia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RI",
+            "CodeDescription": "Rieti",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RN",
+            "CodeDescription": "Rimini",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RM",
+            "CodeDescription": "Roma",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-RO",
+            "CodeDescription": "Rovigo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SA",
+            "CodeDescription": "Salerno",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SS",
+            "CodeDescription": "Sassari",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SV",
+            "CodeDescription": "Savona",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SI",
+            "CodeDescription": "Siena",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SR",
+            "CodeDescription": "Siracusa",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-SO",
+            "CodeDescription": "Sondrio",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TA",
+            "CodeDescription": "Taranto",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TE",
+            "CodeDescription": "Teramo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TR",
+            "CodeDescription": "Terni",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TO",
+            "CodeDescription": "Torino",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TP",
+            "CodeDescription": "Trapani",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TN",
+            "CodeDescription": "Trento",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TV",
+            "CodeDescription": "Treviso",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-TS",
+            "CodeDescription": "Trieste",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-UD",
+            "CodeDescription": "Udine",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VA",
+            "CodeDescription": "Varese",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VE",
+            "CodeDescription": "Venezia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VB",
+            "CodeDescription": "Verbano-Cusio-Ossola",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VC",
+            "CodeDescription": "Vercelli",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VR",
+            "CodeDescription": "Verona",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VV",
+            "CodeDescription": "Vibo Valentia",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VI",
+            "CodeDescription": "Vicenza",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IT-VT",
+            "CodeDescription": "Viterbo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RS-KM",
+            "CodeDescription": "Kosovo-Metohija",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RS-VO",
+            "CodeDescription": "Vojvodina",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-AD",
+            "CodeDescription": "Republic of Adygeya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-AL",
+            "CodeDescription": "Republic of Altay",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-BA",
+            "CodeDescription": "Republic of Bashkortostan",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-BU",
+            "CodeDescription": "Republic of Buryatiya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-CE",
+            "CodeDescription": "Chechenskaya Republic",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-CU",
+            "CodeDescription": "Chuvashskaya Republic",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-DA",
+            "CodeDescription": "Republic of Dagestan",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-IN",
+            "CodeDescription": "Republic of Ingushetiya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KB",
+            "CodeDescription": "Kabardino-Balkarskaya Republic",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KL",
+            "CodeDescription": "Republic of Kalmykiya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KC",
+            "CodeDescription": "Karachayevo-Cherkesskaya Republic",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KR",
+            "CodeDescription": "Republic of Kareliya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KK",
+            "CodeDescription": "Republic of Khakasiya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KO",
+            "CodeDescription": "Republic of Komi",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ME",
+            "CodeDescription": "Republic of Mariy El",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-MO",
+            "CodeDescription": "Republic of Mordoviya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SA",
+            "CodeDescription": "Republic of Sakha (Yakutiya)",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SE",
+            "CodeDescription": "Republic of Severnaya Osetiya-Alaniya",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TA",
+            "CodeDescription": "Republic of Tatarstan",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TY",
+            "CodeDescription": "Republic of Tyva (Tuva)",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-UD",
+            "CodeDescription": "Udmurtskaya Republic",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ALT",
+            "CodeDescription": "Altayskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KAM",
+            "CodeDescription": "Kamchatskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KHA",
+            "CodeDescription": "Khabarovskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KDA",
+            "CodeDescription": "Krasnodarskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KYA",
+            "CodeDescription": "Krasnoyarskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-PER",
+            "CodeDescription": "Permskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-PRI",
+            "CodeDescription": "Primorskiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-STA",
+            "CodeDescription": "Stavropol\u2019skiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ZAB",
+            "CodeDescription": "Zabaykal\u2019skiy Administrative Territory",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-AMU",
+            "CodeDescription": "Amurskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ARK",
+            "CodeDescription": "Arkhangel\u2019skaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-AST",
+            "CodeDescription": "Astrakhanskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-BEL",
+            "CodeDescription": "Belgorodskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-BRY",
+            "CodeDescription": "Bryanskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-CHE",
+            "CodeDescription": "Chelyabinskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-IRK",
+            "CodeDescription": "Irkutskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-IVA",
+            "CodeDescription": "Ivanovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KGD",
+            "CodeDescription": "Kaliningradskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KLU",
+            "CodeDescription": "Kaluzhskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KEM",
+            "CodeDescription": "Kemerovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KIR",
+            "CodeDescription": "Kirovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KOS",
+            "CodeDescription": "Kostromskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KGN",
+            "CodeDescription": "Kurganskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KRS",
+            "CodeDescription": "Kurskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-LEN",
+            "CodeDescription": "Leningradskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-LIP",
+            "CodeDescription": "Lipetskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-MAG",
+            "CodeDescription": "Magadanskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-MOS",
+            "CodeDescription": "Moskovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-MUR",
+            "CodeDescription": "Murmanskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-NIZ",
+            "CodeDescription": "Nizhegorodskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-NGR",
+            "CodeDescription": "Novgorodskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-NVS",
+            "CodeDescription": "Novosibirskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-OMS",
+            "CodeDescription": "Omskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ORE",
+            "CodeDescription": "Orenburgskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ORL",
+            "CodeDescription": "Orlovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-PNZ",
+            "CodeDescription": "Penzenskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-PSK",
+            "CodeDescription": "Pskovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ROS",
+            "CodeDescription": "Rostovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-RYA",
+            "CodeDescription": "Ryazanskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SAK",
+            "CodeDescription": "Sakhalinskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SAM",
+            "CodeDescription": "Samarskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SAR",
+            "CodeDescription": "Saratovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SMO",
+            "CodeDescription": "Smolenskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SVE",
+            "CodeDescription": "Sverdlovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TAM",
+            "CodeDescription": "Tambovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TOM",
+            "CodeDescription": "Tomskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TUL",
+            "CodeDescription": "Tul\u2019skaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TVE",
+            "CodeDescription": "Tverskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-TYU",
+            "CodeDescription": "Tyumenskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-ULY",
+            "CodeDescription": "Ul\u2019yanovskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-VLA",
+            "CodeDescription": "Vladimirskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-VGG",
+            "CodeDescription": "Volgogradskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-VLG",
+            "CodeDescription": "Vologodskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-VOR",
+            "CodeDescription": "Voronezhskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-YAR",
+            "CodeDescription": "Yaroslavskaya Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-MOW",
+            "CodeDescription": "Moskva City",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-SPE",
+            "CodeDescription": "Sankt-Peterburg City",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-YEV",
+            "CodeDescription": "Yevreyskaya Autonomous Administrative Region",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-CHU",
+            "CodeDescription": "Chukotskiy Autonomous District",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-KHM",
+            "CodeDescription": "Khanty-Mansiyskiy Autonomous District",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-NEN",
+            "CodeDescription": "Nenetskiy Autonomous District",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RU-YAN",
+            "CodeDescription": "Yamalo-Nenetskiy Autonomous District",
+            "CodeNotes": "",
+            "IssueNumber": 22,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-AK",
+            "CodeDescription": "Alaska",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-AL",
+            "CodeDescription": "Alabama",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-AR",
+            "CodeDescription": "Arkansas",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-AZ",
+            "CodeDescription": "Arizona",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-CA",
+            "CodeDescription": "California",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-CO",
+            "CodeDescription": "Colorado",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-CT",
+            "CodeDescription": "Connecticut",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-DC",
+            "CodeDescription": "District of Columbia",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-DE",
+            "CodeDescription": "Delaware",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-FL",
+            "CodeDescription": "Florida",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-GA",
+            "CodeDescription": "Georgia",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-HI",
+            "CodeDescription": "Hawaii",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-IA",
+            "CodeDescription": "Iowa",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-ID",
+            "CodeDescription": "Idaho",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-IL",
+            "CodeDescription": "Illinois",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-IN",
+            "CodeDescription": "Indiana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-KS",
+            "CodeDescription": "Kansas",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-KY",
+            "CodeDescription": "Kentucky",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-LA",
+            "CodeDescription": "Louisiana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MA",
+            "CodeDescription": "Massachusetts",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MD",
+            "CodeDescription": "Maryland",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-ME",
+            "CodeDescription": "Maine",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MI",
+            "CodeDescription": "Michigan",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MN",
+            "CodeDescription": "Minnesota",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MO",
+            "CodeDescription": "Missouri",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MS",
+            "CodeDescription": "Mississippi",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-MT",
+            "CodeDescription": "Montana",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NC",
+            "CodeDescription": "North Carolina",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-ND",
+            "CodeDescription": "North Dakota",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NE",
+            "CodeDescription": "Nebraska",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NH",
+            "CodeDescription": "New Hampshire",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NJ",
+            "CodeDescription": "New Jersey",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NM",
+            "CodeDescription": "New Mexico",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NV",
+            "CodeDescription": "Nevada",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-NY",
+            "CodeDescription": "New York",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-OH",
+            "CodeDescription": "Ohio",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-OK",
+            "CodeDescription": "Oklahoma",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-OR",
+            "CodeDescription": "Oregon",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-PA",
+            "CodeDescription": "Pennsylvania",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-RI",
+            "CodeDescription": "Rhode Island",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-SC",
+            "CodeDescription": "South Carolina",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-SD",
+            "CodeDescription": "South Dakota",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-TN",
+            "CodeDescription": "Tennessee",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-TX",
+            "CodeDescription": "Texas",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-UT",
+            "CodeDescription": "Utah",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-VA",
+            "CodeDescription": "Virginia",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-VT",
+            "CodeDescription": "Vermont",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-WA",
+            "CodeDescription": "Washington",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-WI",
+            "CodeDescription": "Wisconsin",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-WV",
+            "CodeDescription": "West Virginia",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "US-WY",
+            "CodeDescription": "Wyoming",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ECZ",
+            "CodeDescription": "Eurozone",
+            "CodeNotes": "Countries geographically within continental Europe which use the Euro as their sole currency. At the time of writing, this is a synonym for \u2018AT BE CY EE FI FR DE ES GR HR IE IT LT LU LV MT NL PT SI SK\u2019 (the official Eurozone 20), plus \u2018AD MC SM VA ME\u2019 and Kosovo (other Euro-using countries in continental Europe). Note some other territories using the Euro, but outside continental Europe are excluded from this list, and may need to be specified separately. ONLY valid in ONIX 3.0, and ONLY within P.26 \u2013 and this use is itself Deprecated. Use of an explicit list of countries instead of ECZ is strongly encouraged",
+            "IssueNumber": 13,
+            "ModifiedNumber": 35,
+            "DeprecatedNumber": 35
+        },
+        {
+            "CodeValue": "WORLD",
+            "CodeDescription": "World",
+            "CodeNotes": "In ONIX 3.0 and later, may ONLY be used in <RegionsIncluded>",
+            "IssueNumber": 1,
+            "ModifiedNumber": 35,
+            "DeprecatedNumber": ""
+        }
+    ]
+}

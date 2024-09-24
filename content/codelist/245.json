@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 245,
+    "CodeListDescription": "Event type",
+    "IssueNumber": 47,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified \u2013 see description",
+            "CodeNotes": "",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Book signing",
+            "CodeNotes": "",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Book reading",
+            "CodeNotes": "",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

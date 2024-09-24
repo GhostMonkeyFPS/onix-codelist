@@ -1,0 +1,31 @@
+{
+    "CodeListNumber": 239,
+    "CodeListDescription": "Supply contact role",
+    "IssueNumber": 39,
+    "Code": [
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Return authorisation contact",
+            "CodeNotes": "Eg for use where authorisation must be gained from the supplier (distributor or wholesaler)",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Product safety contact",
+            "CodeNotes": "Eg for EU General product safety regulation (GPSR) compliance where the supplier acts on behalf of the publisher or publisher representative as an importer into the EU. See https:\/\/commission.europa.eu\/business-economy-euro\/product-safety-and-requirements\/product-safety\/general-product-safety-regulation_en",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "99",
+            "CodeDescription": "Customer services contact",
+            "CodeNotes": "For general enquiries",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,391 @@
+{
+    "CodeListNumber": 73,
+    "CodeListDescription": "Website role",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unspecified, see website description",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publisher\u2019s corporate website",
+            "CodeNotes": "See also codes 17 and 18",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Publisher\u2019s website for a specified work",
+            "CodeNotes": "A publisher\u2019s informative and\/or promotional webpage relating to a specified work (book, journal, online resource or other publication type)",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Online hosting service home page",
+            "CodeNotes": "A webpage giving access to an online content hosting service as a whole",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Journal home page",
+            "CodeNotes": "A webpage giving general information about a serial, in print or electronic format or both",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Online resource \u2018available content\u2019 page",
+            "CodeNotes": "A webpage giving direct access to the content that is available online for a specified resource version. Generally used for content available online under subscription terms",
+            "IssueNumber": 5,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Contributor\u2019s own website",
+            "CodeNotes": "A webpage maintained by an author or other contributor about their publications and personal background",
+            "IssueNumber": 5,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Publisher\u2019s website relating to specified contributor",
+            "CodeNotes": "A publisher\u2019s webpage devoted to a specific author or other contributor",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Other publisher\u2019s website relating to specified contributor",
+            "CodeNotes": "A webpage devoted to a specific author or other contributor, and maintained by a publisher other than the publisher of the item described in the ONIX record",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Third-party website relating to specified contributor",
+            "CodeNotes": "A webpage devoted to a specific author or other contributor, and maintained by a third party (eg a fan site)",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Contributor\u2019s own website for specified work",
+            "CodeNotes": "A webpage maintained by an author or other contributor and specific to an individual work",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Other publisher\u2019s website relating to specified work",
+            "CodeNotes": "A webpage devoted to an individual work, and maintained by a publisher other than the publisher of the item described in the ONIX record",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Third-party website relating to specified work",
+            "CodeNotes": "A webpage devoted to an individual work, and maintained by a third party (eg a fan site)",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Contributor\u2019s own website for group or series of works",
+            "CodeNotes": "A webpage maintained by an author or other contributor and specific to a group or series of works",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Publisher\u2019s website relating to group or series of works",
+            "CodeNotes": "A publisher\u2019s webpage devoted to a group or series of works",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Other publisher\u2019s website relating to group or series of works",
+            "CodeNotes": "A webpage devoted to a group or series of works, and maintained by a publisher other than the publisher of the item described in the ONIX record",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Third-party website relating to group or series of works (eg a fan site)",
+            "CodeNotes": "A webpage devoted to a group or series of works, and maintained by a third party (eg a fan site)",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Publisher\u2019s B2B website",
+            "CodeNotes": "Use instead of code 01 to specify a publisher\u2019s website for trade users",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Publisher\u2019s B2C website",
+            "CodeNotes": "Use instead of code 01 to specify a publisher\u2019s website for end customers (consumers)",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Author blog",
+            "CodeNotes": "For example, a Blogger or Tumblr URL, a Wordpress website or other blog URL",
+            "IssueNumber": 8,
+            "ModifiedNumber": 16,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Web page for author presentation \/ commentary",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Web page for author interview",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Web page for author reading",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Web page for cover material",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Web page for sample content",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Web page for full content",
+            "CodeNotes": "Use this value in the <Website> composite (typically within <Publisher> or <SupplyDetail>) when sending a link to a webpage at which a digital product is available for download and\/or online access",
+            "IssueNumber": 8,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "Web page for other commentary \/ discussion",
+            "CodeNotes": "For example a subscribable podcast hosting site, social media message, newsletter issue, other commentary",
+            "IssueNumber": 8,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Transfer-URL",
+            "CodeNotes": "URL needed by the German National Library for direct access, harvesting and storage of an electronic resource",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "DOI Website Link",
+            "CodeNotes": "Link needed by German Books in Print (VLB) for DOI registration and ONIX DOI conversion",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Supplier\u2019s corporate website",
+            "CodeNotes": "A corporate website operated by a distributor or other supplier (not the publisher)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Supplier\u2019s B2B website",
+            "CodeNotes": "A website operated by a distributor or other supplier (not the publisher) and aimed at trade customers",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "Supplier\u2019s B2C website",
+            "CodeNotes": "A website operated by a distributor or other supplier (not the publisher) and aimed at consumers",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "Supplier\u2019s website for a specified work",
+            "CodeNotes": "A distributor or supplier\u2019s webpage describing a specified work",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "37",
+            "CodeDescription": "Supplier\u2019s B2B website for a specified work",
+            "CodeNotes": "A distributor or supplier\u2019s webpage describing a specified work, and aimed at trade customers",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "38",
+            "CodeDescription": "Supplier\u2019s B2C website for a specified work",
+            "CodeNotes": "A distributor or supplier\u2019s webpage describing a specified work, and aimed at consumers",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "39",
+            "CodeDescription": "Supplier\u2019s website for a group or series of works",
+            "CodeNotes": "A distributor or supplier\u2019s webpage describing a group or series of works",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "40",
+            "CodeDescription": "URL of full metadata description",
+            "CodeNotes": "For example an ONIX or MARC record for the product, available online",
+            "IssueNumber": 14,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "Social networking URL for specific work or product",
+            "CodeNotes": "For example, a Facebook, Instagram, Youtube, Pinterest, Tiktok (including Booktok), Twitter (latterly, X) or similar URL for the product or work",
+            "IssueNumber": 16,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "Author\u2019s social networking URL",
+            "CodeNotes": "For example, a Facebook, Instagram, Youtube, Pinterest, Tiktok (including Booktok), Twitter (latterly, X) or similar page for the contributor",
+            "IssueNumber": 16,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "Publisher\u2019s social networking URL",
+            "CodeNotes": "For example, a Facebook, Instagram, Youtube, Pinterest, Tiktok (including Booktok), Twitter (latterly, X) or similar page",
+            "IssueNumber": 16,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "44",
+            "CodeDescription": "Social networking URL for specific article, chapter or content item",
+            "CodeNotes": "For example, a Facebook, Instagram, Youtube, Pinterest, Tiktok (including Booktok), Twitter (latterly, X) or similar page. Use only in the context of a specific content item (eg within <ContentItem>)",
+            "IssueNumber": 17,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "45",
+            "CodeDescription": "Publisher\u2019s or third party website for permissions requests",
+            "CodeNotes": "For example, a service offering click-through licensing of extracts",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "46",
+            "CodeDescription": "Publisher\u2019s or third party website for privacy statement",
+            "CodeNotes": "For example, a page providing details related to GDPR. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "Publisher\u2019s website for digital preservation",
+            "CodeNotes": "The URL of the publisher\u2019s preservation service, or a more specific URL for access to its preservation metadata, to provide confirmation of the preservation status of the product. <WebsiteDescription> may contain the name of the service. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "Third-party website for digital preservation",
+            "CodeNotes": "The URL of the preservation service (eg https:\/\/clockss.org), or a more specific URL for access to its preservation metadata, to provide confirmation of the preservation status of the product. <WebsiteDescription> may contain the name of the service. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "Product website for environmental responsibility statement",
+            "CodeNotes": "The URL of a web page describing the environmental and sustainability policy, or carbon neutrality status, that applies to the specific product. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "Organization\u2019s website for environmental responsibility statement",
+            "CodeNotes": "The URL of a web page describing the environmental and sustainability policies, carbon neutrality status, etc of the organization (publisher, supplier etc). For environmental sustainability of the product itself, see List 79. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "51",
+            "CodeDescription": "Legal deposit website for digital preservation",
+            "CodeNotes": "The URL of a digital legal deposit service (eg https:\/\/www.legaldeposit.org.uk), or a more specific URL for access to its preservation metadata, to provide confirmation of the digital legal deposit status of the product. <WebsiteDescription> may contain the name of the service. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "CodeListNumber": 227,
+    "CodeListDescription": "Chinese School Grade",
+    "IssueNumber": 30,
+    "Code": [
+        {
+            "CodeValue": "P",
+            "CodeDescription": "Preschool",
+            "CodeNotes": "Typical age less than 3",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "K",
+            "CodeDescription": "Kindergarten",
+            "CodeNotes": "Typical age 3\u20135",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "1",
+            "CodeDescription": "Primary school First grade",
+            "CodeNotes": "Typical age 6",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "2",
+            "CodeDescription": "Primary school Second grade",
+            "CodeNotes": "Typical age 7",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "3",
+            "CodeDescription": "Primary school Third grade",
+            "CodeNotes": "Typical age 8",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "4",
+            "CodeDescription": "Primary school Fourth grade",
+            "CodeNotes": "Typical age 9",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "5",
+            "CodeDescription": "Primary school Fifth grade",
+            "CodeNotes": "Typical age 10",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "6",
+            "CodeDescription": "Primary school Sixth grade",
+            "CodeNotes": "Typical age 11",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "7",
+            "CodeDescription": "Junior secondary school Seventh grade",
+            "CodeNotes": "Typical age 12",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "8",
+            "CodeDescription": "Junior secondary school Eighth grade",
+            "CodeNotes": "Typical age 13",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "9",
+            "CodeDescription": "Junior secondary school Ninth grade",
+            "CodeNotes": "Typical age 14",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Senior secondary school Tenth grade",
+            "CodeNotes": "Typical age 15",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Senior secondary school Eleventh grade",
+            "CodeNotes": "Typical age 16",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Senior secondary school Twelfth grade",
+            "CodeNotes": "Typical age 17",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "University first year",
+            "CodeNotes": "Typical age 18",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "University second year",
+            "CodeNotes": "Typical age 19",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "University third year",
+            "CodeNotes": "Typical age 20",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "University fourth year",
+            "CodeNotes": "Typical age 21",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Graduate level",
+            "CodeNotes": "Typical age 22+",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

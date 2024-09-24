@@ -1,0 +1,2799 @@
+{
+    "CodeListNumber": 175,
+    "CodeListDescription": "Product form detail",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "A101",
+            "CodeDescription": "CD standard audio format",
+            "CodeNotes": "CD \u2018red book\u2019 format",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A102",
+            "CodeDescription": "SACD super audio format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A103",
+            "CodeDescription": "MP3 format",
+            "CodeNotes": "MPEG-1\/2 Audio Layer III file",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A104",
+            "CodeDescription": "WAV format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A105",
+            "CodeDescription": "Real Audio format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A106",
+            "CodeDescription": "WMA",
+            "CodeNotes": "Windows Media Audio format",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A107",
+            "CodeDescription": "AAC",
+            "CodeNotes": "Advanced Audio Coding format",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A108",
+            "CodeDescription": "Ogg\/Vorbis",
+            "CodeNotes": "Vorbis audio format in the Ogg container",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A109",
+            "CodeDescription": "Audible",
+            "CodeNotes": "Audio format proprietary to Audible.com",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A110",
+            "CodeDescription": "FLAC",
+            "CodeNotes": "Free lossless audio codec",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A111",
+            "CodeDescription": "AIFF",
+            "CodeNotes": "Audio Interchangeable File Format",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A112",
+            "CodeDescription": "ALAC",
+            "CodeNotes": "Apple Lossless Audio Codec",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A113",
+            "CodeDescription": "W3C Audiobook format",
+            "CodeNotes": "Audiobook package format",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A201",
+            "CodeDescription": "DAISY 2: full audio with title only (no navigation)",
+            "CodeNotes": "Deprecated, as does not meet DAISY 2 standard. Use conventional audiobook codes instead",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 13
+        },
+        {
+            "CodeValue": "A202",
+            "CodeDescription": "DAISY 2: full audio with navigation (no text)",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A203",
+            "CodeDescription": "DAISY 2: full audio with navigation and partial text",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A204",
+            "CodeDescription": "DAISY 2: full audio with navigation and full text",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A205",
+            "CodeDescription": "DAISY 2: full text with navigation and partial audio",
+            "CodeNotes": "Reading systems may provide full audio via text-to-speech",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A206",
+            "CodeDescription": "DAISY 2: full text with navigation and no audio",
+            "CodeNotes": "Reading systems may provide full audio via text-to-speech",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A207",
+            "CodeDescription": "DAISY 3: full audio with title only (no navigation)",
+            "CodeNotes": "Deprecated, as does not meet DAISY 3 standard. Use conventional audiobook codes instead",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": 13
+        },
+        {
+            "CodeValue": "A208",
+            "CodeDescription": "DAISY 3: full audio with navigation (no text)",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A209",
+            "CodeDescription": "DAISY 3: full audio with navigation and partial text",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A210",
+            "CodeDescription": "DAISY 3: full audio with navigation and full text",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A211",
+            "CodeDescription": "DAISY 3: full text with navigation and partial audio",
+            "CodeNotes": "Reading systems may provide full audio via text-to-speech",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A212",
+            "CodeDescription": "DAISY 3: full text with navigation and no audio",
+            "CodeNotes": "Reading systems may provide full audio via text-to-speech",
+            "IssueNumber": 8,
+            "ModifiedNumber": 13,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A301",
+            "CodeDescription": "Standalone audio",
+            "CodeNotes": "",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A302",
+            "CodeDescription": "Readalong audio",
+            "CodeNotes": "Audio intended exclusively for use alongside a printed copy of the book. Most often a children\u2019s product. Normally contains instructions such as \u2018turn the page now\u2019 and other references to the printed item, and is usually sold packaged together with a printed copy",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A303",
+            "CodeDescription": "Playalong audio",
+            "CodeNotes": "Audio intended for musical accompaniment, eg \u2018Music minus one\u2019, etc, often used for music learning. Includes singalong backing audio for musical learning or for Karaoke-style entertainment",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A304",
+            "CodeDescription": "Speakalong audio",
+            "CodeNotes": "Audio intended for language learning, which includes speech plus gaps intended to be filled by the listener",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A305",
+            "CodeDescription": "Synchronised audio",
+            "CodeNotes": "Audio synchronised to text within an e-publication, for example an EPUB3 with audio overlay. Synchronisation at least at paragraph level, and covering the full content",
+            "IssueNumber": 26,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A310",
+            "CodeDescription": "Sound effects",
+            "CodeNotes": "Incidental sounds added to the audiobook narration (eg background environmental sounds)",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A311",
+            "CodeDescription": "Background music",
+            "CodeNotes": "Incidental music added to the audiobook narration (eg to heighten atmosphere). Do not use where the music is a primary part of the audio",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A312",
+            "CodeDescription": "Without background sounds",
+            "CodeNotes": "Pre-recorded audiobook narration does not contain any background sounds, including music, sound effects, etc, though music and effects may be present if isolated from the speech (ie the sounds do not overlap)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A400",
+            "CodeDescription": "64kbits\/s",
+            "CodeNotes": "Constant or average bit rate (eg of an mp3 or AAC audio file) 64kbits\/second or more. Note the bit rate is the total across all channels, not a per channel rate",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A401",
+            "CodeDescription": "128kbits\/s",
+            "CodeNotes": "Constant or average bit rate 128bbits\/second or more",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A402",
+            "CodeDescription": "192kbits\/s",
+            "CodeNotes": "",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A403",
+            "CodeDescription": "256kbits\/s",
+            "CodeNotes": "",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A404",
+            "CodeDescription": "320kbits\/s",
+            "CodeNotes": "",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A410",
+            "CodeDescription": "Mono",
+            "CodeNotes": "Includes \u2018stereo\u2019 where channels are identical",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A420",
+            "CodeDescription": "Stereo",
+            "CodeNotes": "Includes \u2018joint stereo\u2019",
+            "IssueNumber": 29,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A421",
+            "CodeDescription": "Stereo 2.1",
+            "CodeNotes": "Stereo plus low-frequency channel",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A441",
+            "CodeDescription": "Surround 4.1",
+            "CodeNotes": "Five-channel audio (including low-frequency channel)",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A451",
+            "CodeDescription": "Surround 5.1",
+            "CodeNotes": "Six-channel audio (including low-frequency channel)",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A471",
+            "CodeDescription": "Dolby Atmos",
+            "CodeNotes": "Multi-channel \u2018spatial\u2019 audio (eg for 7.1.4 speaker arrangements or processed for headphone delivery)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B101",
+            "CodeDescription": "Mass market (rack) paperback",
+            "CodeNotes": "In North America, a category of paperback characterized partly by page size (typically from 6\u00be up to 7\u215b x 4\u00bc inches) and partly by target market and terms of trade. Use with Product Form code BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B102",
+            "CodeDescription": "Trade paperback (US)",
+            "CodeNotes": "In North America, a category of paperback characterized partly by page size (larger than rack-sized) and partly by target market and terms of trade. AKA \u2018quality paperback\u2019, and including textbooks. Most paperback books sold in North America except \u2018mass-market\u2019 (B101) and \u2018tall rack\u2019 (B107) are correctly described with this code. Use with Product Form code BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B103",
+            "CodeDescription": "Digest format paperback",
+            "CodeNotes": "In North America, a category of paperback characterized by page size (typically 7 x 5 inches) and generally used for children\u2019s books; use with Product Form code BC. Note: was wrongly shown as B102 (duplicate entry) in Issue 3",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B104",
+            "CodeDescription": "A-format paperback",
+            "CodeNotes": "In UK and IE, a category of paperback characterized by page size (normally 178 x 111 mm approx); use with Product Form code BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B105",
+            "CodeDescription": "B-format paperback",
+            "CodeNotes": "In UK and IE, a category of paperback characterized by page size (normally 198 x 129 mm approx); use with Product Form code BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B106",
+            "CodeDescription": "Trade paperback (UK)",
+            "CodeNotes": "In UK and IE, a category of paperback characterized largely by size (usually in traditional hardback dimensions), and often used for paperback originals or retailer\/travel\/export-exclusives; use with Product Form code BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B107",
+            "CodeDescription": "Tall rack paperback (US)",
+            "CodeNotes": "In North America, a category of paperback characterised partly by page size (typically 7\u00bd x 4\u00bc inches) and partly by target market and terms of trade; use with Product Form code BC",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B108",
+            "CodeDescription": "A5 size Tankobon",
+            "CodeNotes": "Japanese A-series size, 210 x 148mm. A tankobon is a complete collected story originally published in serialised form (eg in a magazine)",
+            "IssueNumber": 5,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B109",
+            "CodeDescription": "JIS B5 size Tankobon",
+            "CodeNotes": "Japanese B-series size, 257 x 182mm",
+            "IssueNumber": 5,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B110",
+            "CodeDescription": "JIS B6 size Tankobon",
+            "CodeNotes": "Japanese B-series size, 182 x 128mm",
+            "IssueNumber": 5,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B111",
+            "CodeDescription": "A6 size Bunko",
+            "CodeNotes": "Japanese A-series size, 148 x 105mm",
+            "IssueNumber": 5,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B112",
+            "CodeDescription": "B40-dori Shinsho",
+            "CodeNotes": "Japanese format, 182x103mm or 173x105mm",
+            "IssueNumber": 5,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B113",
+            "CodeDescription": "Pocket (Sweden, Norway, France)",
+            "CodeNotes": "A Swedish, Norwegian, French paperback format, of no particular fixed size. Use with Product Form Code BC",
+            "IssueNumber": 7,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B114",
+            "CodeDescription": "Storpocket (Sweden)",
+            "CodeNotes": "A Swedish paperback format, use with Product Form Code BC. In Finnish, J\u00e4ttipokkari",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B115",
+            "CodeDescription": "Kartonnage (Sweden)",
+            "CodeNotes": "A Swedish hardback format, use with Product Form Code BB",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B116",
+            "CodeDescription": "Flexband (Sweden)",
+            "CodeNotes": "A Swedish softback format, use with Product Form Code BC",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B117",
+            "CodeDescription": "Mook \/ Bookazine",
+            "CodeNotes": "A softback book in the format of a magazine, usually sold like a book. Use with Product Form code BC",
+            "IssueNumber": 11,
+            "ModifiedNumber": 30,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B118",
+            "CodeDescription": "Dwarsligger",
+            "CodeNotes": "Also called \u2018Flipback\u2019. A softback book in a specially compact proprietary format with pages printed in landscape on very thin paper and bound along the long (top) edge (ie parallel with the lines of text). Use with Product Form code BC \u2013 see www.dwarsligger.com",
+            "IssueNumber": 11,
+            "ModifiedNumber": 14,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B119",
+            "CodeDescription": "46 size",
+            "CodeNotes": "Japanese format, 188 x 127mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B120",
+            "CodeDescription": "46-Henkei size",
+            "CodeNotes": "Japanese format, approximately 188 x 127mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B121",
+            "CodeDescription": "A4",
+            "CodeNotes": "297 x 210mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B122",
+            "CodeDescription": "A4-Henkei size",
+            "CodeNotes": "Japanese format, approximately 297 x 210mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B123",
+            "CodeDescription": "A5-Henkei size",
+            "CodeNotes": "Japanese format, approximately 210 x 146mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B124",
+            "CodeDescription": "B5-Henkei size",
+            "CodeNotes": "Japanese format, approximately 257 x 182mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B125",
+            "CodeDescription": "B6-Henkei size",
+            "CodeNotes": "Japanese format, approximately 182 x 128mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B126",
+            "CodeDescription": "AB size",
+            "CodeNotes": "257 x 210mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B127",
+            "CodeDescription": "JIS B7 size",
+            "CodeNotes": "Japanese B-series size, 128 x 91mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B128",
+            "CodeDescription": "Kiku size",
+            "CodeNotes": "Japanese format, 218 x 152mm or 227 x 152mm",
+            "IssueNumber": 12,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B129",
+            "CodeDescription": "Kiku-Henkei size",
+            "CodeNotes": "Japanese format",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B130",
+            "CodeDescription": "JIS B4 size",
+            "CodeNotes": "Japanese B-series size, 364 x 257 mm",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B131",
+            "CodeDescription": "Paperback (DE)",
+            "CodeNotes": "German large paperback format, greater than about 205mm high, with flaps. Use with Product form code BC",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B132",
+            "CodeDescription": "Libro de bolsillo",
+            "CodeNotes": "Spanish pocket paperback. Use with Product form code BC",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B133",
+            "CodeDescription": "Pocket-sized",
+            "CodeNotes": "Pocket-sized format, usually less than about 205mm high, without necessarily implying a particular trade category (de: ,Taschenbuch\u2018; it: \u00abTascabile \/ Supertascabile\u00bb; es: \u00ablibro de bolsillo\u00bb; fr: \u00ab\u00a0livre de poche\u00a0\u00bb etc). Use with Product form code BB or BC. See also List 12 code 04",
+            "IssueNumber": 38,
+            "ModifiedNumber": 61,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B134",
+            "CodeDescription": "A5",
+            "CodeNotes": "210 x 148mm",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B135",
+            "CodeDescription": "Mass market max paperback",
+            "CodeNotes": "In North America, a category of paperback characterized partly by page size (typically 7\u215b x 4\u00be inches) and partly by target market and terms of trade. Use with Product Form code BC",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B139",
+            "CodeDescription": "Comic book size (US)",
+            "CodeNotes": "Standard 10.25 x 6.625in size approx (260 x 170mm)",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B140",
+            "CodeDescription": "Comic album size (Euro)",
+            "CodeNotes": "Standard 240 x 320mm size approx",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B141",
+            "CodeDescription": "B4-Henkei size",
+            "CodeNotes": "Japanese format, approximately 364 x 257 mm",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B201",
+            "CodeDescription": "Coloring \/ join-the-dot book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B202",
+            "CodeDescription": "Lift-the-flap book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B204",
+            "CodeDescription": "Miniature book",
+            "CodeNotes": "",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B205",
+            "CodeDescription": "Moving picture \/ flicker book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B206",
+            "CodeDescription": "Pop-up book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B207",
+            "CodeDescription": "Scented \/ \u2018smelly\u2019 book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B208",
+            "CodeDescription": "Sound story \/ \u2018noisy\u2019 book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B209",
+            "CodeDescription": "Sticker book",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B210",
+            "CodeDescription": "Touch-and-feel book",
+            "CodeNotes": "A book whose pages have a variety of textured inserts designed to stimulate tactile exploration: see also B214 and B215",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B212",
+            "CodeDescription": "Die-cut book",
+            "CodeNotes": "A book which is cut into a distinctive non-rectilinear shape and\/or in which holes or shapes have been cut internally. (\u2018Die-cut\u2019 is used here as a convenient shorthand, and does not imply strict limitation to a particular production process)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B213",
+            "CodeDescription": "Book-as-toy",
+            "CodeNotes": "A book which is also a toy, or which incorporates a toy as an integral part. (Do not, however, use B213 for a multiple-item product which includes a book and a toy as separate items)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B214",
+            "CodeDescription": "Soft-to-touch book",
+            "CodeNotes": "A book whose cover has a soft textured finish, typically over board",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B215",
+            "CodeDescription": "Fuzzy-felt book",
+            "CodeNotes": "A book with detachable felt pieces and textured pages on which they can be arranged",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B216",
+            "CodeDescription": "Press-out puzzle pieces",
+            "CodeNotes": "A book containing pages with die-cut or press-out pieces that can be used as a jigsaw, puzzle pieces, etc",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B221",
+            "CodeDescription": "Picture book",
+            "CodeNotes": "Picture book, generally for children, with few words per illustration: use with applicable Product Form code",
+            "IssueNumber": 2,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B222",
+            "CodeDescription": "\u2018Carousel\u2019 book",
+            "CodeNotes": "(aka \u2018Star\u2019 book). Tax treatment of products may differ from that of products with similar codes such as Book as toy or Pop-up book)",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B223",
+            "CodeDescription": "Pull-the-tab book",
+            "CodeNotes": "A book with movable card \u2018tabs\u2019 within the pages. Pull a tab to reveal or animate part of a picture (distinct from a \u2018lift-the-flap\u2019 book, where flaps simply reveal hidden pictures, and not a \u2018pop-up\u2019 book with 3D paper engineering)",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B224",
+            "CodeDescription": "\u2018Wordless\u2019 book",
+            "CodeNotes": "Picture book, generally for children though also used in augmentative and alternative education, without text in the body of the book. Also \u2018silent books\u2019, wordless graphic novels and comic books: use with applicable Product Form code",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B301",
+            "CodeDescription": "Loose leaf or partwork \u2013 sheets \/ parts and binder \/ wallet",
+            "CodeNotes": "Use with Product Form code BD, BN or PM",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B302",
+            "CodeDescription": "Loose leaf or partwork \u2013 binder \/ wallet only",
+            "CodeNotes": "Use with Product Form code BD, BN or PM",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B303",
+            "CodeDescription": "Loose leaf or partwork \u2013 sheets \/ parts only",
+            "CodeNotes": "Use with Product Form code BD, BN or PM",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B304",
+            "CodeDescription": "Sewn",
+            "CodeNotes": "AKA stitched; for \u2018saddle-sewn\u2019, see code B310",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B305",
+            "CodeDescription": "Unsewn \/ adhesive bound",
+            "CodeNotes": "Including \u2018perfect bound\u2019, \u2018glued\u2019",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B306",
+            "CodeDescription": "Library binding",
+            "CodeNotes": "Strengthened cloth-over-boards binding intended for libraries: use with Product form code BB",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B307",
+            "CodeDescription": "Reinforced binding",
+            "CodeNotes": "Strengthened binding, not specifically intended for libraries: use with Product form code BB or BC",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B308",
+            "CodeDescription": "Half bound",
+            "CodeNotes": "Highest qualiy material used on spine and corners only. Must be accompanied by a code specifiying a material, eg \u2018half-bound real leather\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B309",
+            "CodeDescription": "Quarter bound",
+            "CodeNotes": "Highest qualiy material used on spine only. Must be accompanied by a code specifiying a material, eg \u2018quarter bound real leather\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B310",
+            "CodeDescription": "Saddle-sewn",
+            "CodeNotes": "AKA \u2018saddle-stitched\u2019 or \u2018wire-stitched\u2019",
+            "IssueNumber": 3,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B311",
+            "CodeDescription": "Comb bound",
+            "CodeNotes": "Round or oval plastic forms in a clamp-like configuration: use with Product Form code BE",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B312",
+            "CodeDescription": "Wire-O",
+            "CodeNotes": "Twin loop metal wire spine: use with Product Form code BE",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B313",
+            "CodeDescription": "Concealed wire",
+            "CodeNotes": "Cased over Coiled or Wire-O binding: use with Product Form code BE and Product Form Detail code B312 or B314",
+            "IssueNumber": 6,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B314",
+            "CodeDescription": "Coiled wire bound",
+            "CodeNotes": "Spiral wire bound. Use with product form code BE. The default if a spiral binding type is not stated. Cf. Comb and Wire-O binding",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B315",
+            "CodeDescription": "Trade binding",
+            "CodeNotes": "Hardcover binding intended for general consumers rather than libraries, use with Product form code BB. The default if a hardcover binding detail is not stated. cf. Library binding",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B316",
+            "CodeDescription": "Swiss binding",
+            "CodeNotes": "Cover is attached to the book block along only one edge of the spine, allowing the cover to lay flat",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B317",
+            "CodeDescription": "Notched binding",
+            "CodeNotes": "Refinement of perfect binding, with notches cut in the spine of the book block prior to glueing, to improve adhesion and durability",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B318",
+            "CodeDescription": "Lay-flat binding",
+            "CodeNotes": "Hardcover or softcover where interior spreads lay flat across the spine",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B400",
+            "CodeDescription": "Self-covered",
+            "CodeNotes": "Covers do not use a distinctive stock, but are the same as the body pages. Use for example with Product form BF, to indicate a pamphlet does not use a card or distinct paper cover. See also B416 (for card covers) and B418 (for distinct paper covers)",
+            "IssueNumber": 29,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B401",
+            "CodeDescription": "Cloth over boards",
+            "CodeNotes": "Cotton, linen or other woven fabric over boards. Use with <ProductForm> BB",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B402",
+            "CodeDescription": "Paper over boards",
+            "CodeNotes": "Cellulose-based or similar non-woven material, which may be printed and may be embossed with an artificial cloth or leather-like texture, over boards. Use with <ProductForm> BB",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B403",
+            "CodeDescription": "Leather, real",
+            "CodeNotes": "Covered with leather created by tanning animal hide. May be \u2018full-grain\u2019 using the entire thickness of the hide, \u2018top grain\u2019 using the outer layer of the hide, or \u2018split\u2019 using the inner layers of the hide. Split leather may be embossed with an artificial grain or texture. Use with <ProductForm> BG, and if appropriate with codes B308 or B309 (otherwise \u2018full-bound\u2019 is implied)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B404",
+            "CodeDescription": "Leather, imitation",
+            "CodeNotes": "Covered with synthetic leather-like material \u2013 polymer or non-animal fibre over a textile backing, usually coated and embossed with an artificial grain or texture. Leatherette, pleather etc. Use with <ProductForm> BB (or BG if particularly high-quality), and if appropriate with codes B308 or B309 (otherwise \u2018full-bound\u2019 is implied)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B405",
+            "CodeDescription": "Leather, bonded",
+            "CodeNotes": "Covered with leather reconstituted from a pulp made from shredded animal hide, layered on a fibre or textile backing, coated and usually embossed with an artificial grain or texture. Use with <ProductForm> BG, and if appropriate with codes B308 or B309 (otherwise \u2018full-bound\u2019 is implied)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B406",
+            "CodeDescription": "Vellum",
+            "CodeNotes": "Pages made with prepared but untanned animal skin (usually calf, occasionally goat or sheep). Includes parchment, a thicker and less refined form of animal skin, but not \u2018paper vellum\u2019 or vegetable parchment made from synthetic or plant fibres",
+            "IssueNumber": 2,
+            "ModifiedNumber": 39,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B407",
+            "CodeDescription": "Head and tail bands",
+            "CodeNotes": "Decorative or functional",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B408",
+            "CodeDescription": "Decorated endpapers",
+            "CodeNotes": "Illustrated or abstract printed endpapers, but not those solely of colored paper",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B409",
+            "CodeDescription": "Cloth",
+            "CodeNotes": "Cloth, not necessarily over boards \u2013 cf B401",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B410",
+            "CodeDescription": "Imitation cloth",
+            "CodeNotes": "Spanish \u2018simil-tela\u2019",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B411",
+            "CodeDescription": "Velvet",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B412",
+            "CodeDescription": "Flexible plastic \/ vinyl cover",
+            "CodeNotes": "AKA \u2018flexibound\u2019: use with Product Form code BC",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B413",
+            "CodeDescription": "Plastic-covered",
+            "CodeNotes": "Separate outer plastic cover, often transparent and allowing the cover to show through. Typically has pockets into which the cover tucks. See also B412, where the cover itself is plastic or vinyl",
+            "IssueNumber": 8,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B414",
+            "CodeDescription": "Vinyl-covered",
+            "CodeNotes": "Separate outer vinyl cover. See also B412, where the cover itself is plastic or vinyl",
+            "IssueNumber": 8,
+            "ModifiedNumber": 57,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B415",
+            "CodeDescription": "Laminated cover",
+            "CodeNotes": "Book, laminating material unspecified, often termed PLC or PPC (printed laminated case, printed paper case) when used with Product form BB. Use L101 for \u2018whole product laminated\u2019, eg a laminated sheet map or wallchart",
+            "IssueNumber": 8,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B416",
+            "CodeDescription": "Card cover",
+            "CodeNotes": "With card cover (like a typical paperback). As distinct from a self-cover or more elaborate binding. Use for example with Product form BF, to indicate a pamphlet is bound within a card cover. See also B400 (for self-covers) and B418 (for distinct paper covers)",
+            "IssueNumber": 29,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B417",
+            "CodeDescription": "Duplex-printed cover",
+            "CodeNotes": "Printed both inside and outside the front and\/or back cover",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B418",
+            "CodeDescription": "Paper cover",
+            "CodeNotes": "Cover uses a distinct, usually heavier (thicker) paper than the interior pages. Use for example with Product form BF, to indicate a pamphlet is bound within a paper cover. See also B400 (for self-covers) and B416 (for card covers)",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B420",
+            "CodeDescription": "Delicate cover \/ jacket finish",
+            "CodeNotes": "Cover or jacket finish may merit special handling or packaging during distribution and fulfilment, for example because of gloss varnish which may hold fingerprints or matt laminate liable to scuffing",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B501",
+            "CodeDescription": "With dust jacket",
+            "CodeNotes": "Type unspecified",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B502",
+            "CodeDescription": "With printed dust jacket",
+            "CodeNotes": "Used to distinguish from B503",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B503",
+            "CodeDescription": "With translucent dust cover",
+            "CodeNotes": "With translucent paper or plastic protective cover",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B504",
+            "CodeDescription": "With flaps",
+            "CodeNotes": "For paperback with flaps",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B505",
+            "CodeDescription": "With thumb index",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B506",
+            "CodeDescription": "With ribbon marker(s)",
+            "CodeNotes": "If the number of markers is significant, it can be stated as free text in <ProductFormDescription>",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B507",
+            "CodeDescription": "With zip fastener",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B508",
+            "CodeDescription": "With button snap fastener",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B509",
+            "CodeDescription": "With leather edge lining",
+            "CodeNotes": "AKA yapp edge?",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B510",
+            "CodeDescription": "Rough front",
+            "CodeNotes": "With edge trimming such that the front edge is ragged, not neatly and squarely trimmed: AKA deckle edge, feather edge, uncut edge, rough cut",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B511",
+            "CodeDescription": "Foldout",
+            "CodeNotes": "With one or more gatefold or foldout sections bound in",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B512",
+            "CodeDescription": "Wide margin",
+            "CodeNotes": "Pages include extra-wide margin specifically intended for hand-written annotations",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B513",
+            "CodeDescription": "With fastening strap",
+            "CodeNotes": "Book with attached loop for fixing to baby stroller, cot, chair etc",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B514",
+            "CodeDescription": "With perforated pages",
+            "CodeNotes": "With one or more pages perforated and intended to be torn out for use",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B515",
+            "CodeDescription": "Acid-free paper",
+            "CodeNotes": "Printed on acid-free or alkaline buffered paper conforming with ISO 9706",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B516",
+            "CodeDescription": "Archival paper",
+            "CodeNotes": "Printed on acid-free or alkaline buffered paper with a high cotton content, conforming with ISO 11108",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B517",
+            "CodeDescription": "With elasticated strap",
+            "CodeNotes": "Strap acts as closure or as page marker",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B518",
+            "CodeDescription": "With serialized authenticity token",
+            "CodeNotes": "For example, holographic sticker such as the banderol used in the Turkish book trade",
+            "IssueNumber": 43,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B519",
+            "CodeDescription": "With dust jacket poster",
+            "CodeNotes": "Jacket in the form of a pamphlet or poster, specifically intended to be removed and read or used separately from the book",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B520",
+            "CodeDescription": "Rounded corners",
+            "CodeNotes": "Usually die-cut rounding to foredge corners of cover (and\/or to foredge page corners). See B212 for elaborate die-cutting",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B521",
+            "CodeDescription": "Splashproof",
+            "CodeNotes": "Water-resistant or \u2018waterproof\u2019 cover and pages",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B522",
+            "CodeDescription": "Mineral paper",
+            "CodeNotes": "Pages composed of \u2018mineral paper\u2019 comprised of HDPE plastic and ground calcium carbonate, eg Stonepaper",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B523",
+            "CodeDescription": "With accessibility claim ticket",
+            "CodeNotes": "For example, cut-out claim form such as the \u2018text data request ticket\u2019 used in the Japanese book trade",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B601",
+            "CodeDescription": "Turn-around book",
+            "CodeNotes": "A book in which half the content is printed upside-down, to be read the other way round. Also known as a \u2018flip-book\u2019 or \u2018t\u00eate-b\u00eache\u2019 (Fr) binding, it has two front covers and a single spine. Usually an omnibus of two works",
+            "IssueNumber": 7,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B602",
+            "CodeDescription": "Unflipped manga format",
+            "CodeNotes": "Manga with pages and panels in the sequence of (right-to-left flowing) Japanese-style design",
+            "IssueNumber": 8,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B603",
+            "CodeDescription": "Back-to-back book",
+            "CodeNotes": "A book in which half the content is printed so as to be read from the other cover. All content is printed the same way up. Also known as \u2018dos-\u00e0-dos\u2019 (Fr) binding, it has two front covers and two spines. Usually an omnibus of two works",
+            "IssueNumber": 42,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B604",
+            "CodeDescription": "Flipped manga format",
+            "CodeNotes": "Manga with pages and panels in the sequence mirrored from Japanese-style design (thus flowing left-to-right)",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B605",
+            "CodeDescription": "Variant turn-around book",
+            "CodeNotes": "A book in which half the content is read the other way round from \u2018back\u2019 to \u2018front\u2019. A variant on \u2018flip-book\u2019 or \u2018t\u00eate-b\u00eache\u2019 (fr) binding where the text is in two languages with different page progression (eg English and Arabic) and neither needs to be upside down, it has two front covers and a single spine. Usually an omnibus of a work and a derived translated work",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B606",
+            "CodeDescription": "Page progression LTR",
+            "CodeNotes": "Pages are ordered left to right (the left page in a spread is read before the right). Note this does not specifically mean text on the page is also read left to right",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B607",
+            "CodeDescription": "Page progression RTL",
+            "CodeNotes": "Pages are ordered right to left",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B608",
+            "CodeDescription": "Page progression TTB",
+            "CodeNotes": "Pages are ordered top to bottom, with the spine oriented horizontally. See also Dwarsligger (code B118), a proprietary variation of this format",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B609",
+            "CodeDescription": "Page progression other",
+            "CodeNotes": "Pages are ordered bottom to top, with the spine oriented horizontally, or in a way for which there is no other code",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B610",
+            "CodeDescription": "Syllabification",
+            "CodeNotes": "Text shows syllable breaks",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B611",
+            "CodeDescription": "Upper case only",
+            "CodeNotes": "For bicameral scripts, body text is upper case only",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B701",
+            "CodeDescription": "UK Uncontracted Braille",
+            "CodeNotes": "Single letters only. Was formerly identified as UK Braille Grade 1",
+            "IssueNumber": 8,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B702",
+            "CodeDescription": "UK Contracted Braille",
+            "CodeNotes": "With some letter combinations. Was formerly identified as UK Braille Grade 2",
+            "IssueNumber": 8,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B703",
+            "CodeDescription": "US Braille",
+            "CodeNotes": "For US Braille, prefer codes B704 and B705 as appropriate",
+            "IssueNumber": 8,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B704",
+            "CodeDescription": "US Uncontracted Braille",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B705",
+            "CodeDescription": "US Contracted Braille",
+            "CodeNotes": "",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B706",
+            "CodeDescription": "Unified English Braille",
+            "CodeNotes": "For UEB, prefer codes B708 and B709 as appropriate",
+            "IssueNumber": 12,
+            "ModifiedNumber": 36,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B707",
+            "CodeDescription": "Moon",
+            "CodeNotes": "Moon embossed alphabet, used by some print-impaired readers who have difficulties with Braille",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B708",
+            "CodeDescription": "Unified English Uncontracted Braille",
+            "CodeNotes": "",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B709",
+            "CodeDescription": "Unified English Contracted Braille",
+            "CodeNotes": "",
+            "IssueNumber": 36,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B750",
+            "CodeDescription": "Tactile images",
+            "CodeNotes": "Eg charts, diagrams, maps, that are embossed or textured for accessibility purposes",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B751",
+            "CodeDescription": "Lenticular images",
+            "CodeNotes": "Image-changing effect, \u20183D\u2019 images, \u2018tilt cards\u2019, printed with tiny lenses",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B752",
+            "CodeDescription": "Anaglyph images",
+            "CodeNotes": "Stereoscopic 3D effect (eg of images) as viewed through red\/green filters",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C750",
+            "CodeDescription": "Raised 3D relief",
+            "CodeNotes": "Physical 3D relief (eg of a map, globe) reflects height of terrain etc",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D101",
+            "CodeDescription": "Real Video format",
+            "CodeNotes": "Proprietary RealNetworks format. Includes Real Video packaged within a .rm RealMedia container",
+            "IssueNumber": 2,
+            "ModifiedNumber": 18,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D102",
+            "CodeDescription": "Quicktime format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D103",
+            "CodeDescription": "AVI format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D104",
+            "CodeDescription": "Windows Media Video format",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D105",
+            "CodeDescription": "MPEG-4",
+            "CodeNotes": "",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D201",
+            "CodeDescription": "MS-DOS",
+            "CodeNotes": "Use with an applicable Product Form code D*; note that more detail of operating system requirements can be given in a Product Form Feature composite",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D202",
+            "CodeDescription": "Windows",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D203",
+            "CodeDescription": "Macintosh",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D204",
+            "CodeDescription": "UNIX \/ LINUX",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D205",
+            "CodeDescription": "Other operating system(s)",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D206",
+            "CodeDescription": "Palm OS",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D207",
+            "CodeDescription": "Windows Mobile",
+            "CodeNotes": "Use with an applicable Product Form code D*; see note on D201",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D301",
+            "CodeDescription": "Microsoft XBox",
+            "CodeNotes": "Use with Product Form code DB or DI as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D302",
+            "CodeDescription": "Nintendo Gameboy Color",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D303",
+            "CodeDescription": "Nintendo Gameboy Advanced",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D304",
+            "CodeDescription": "Nintendo Gameboy",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D305",
+            "CodeDescription": "Nintendo Gamecube",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D306",
+            "CodeDescription": "Nintendo 64",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D307",
+            "CodeDescription": "Sega Dreamcast",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D308",
+            "CodeDescription": "Sega Genesis\/Megadrive",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D309",
+            "CodeDescription": "Sega Saturn",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D310",
+            "CodeDescription": "Sony PlayStation 1",
+            "CodeNotes": "Use with Product Form code DB as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D311",
+            "CodeDescription": "Sony PlayStation 2",
+            "CodeNotes": "Use with Product Form code DB or DI as applicable",
+            "IssueNumber": 2,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D312",
+            "CodeDescription": "Nintendo Dual Screen",
+            "CodeNotes": "Use with Product Form code DE as applicable",
+            "IssueNumber": 6,
+            "ModifiedNumber": 52,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D313",
+            "CodeDescription": "Sony PlayStation 3",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable",
+            "IssueNumber": 7,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D314",
+            "CodeDescription": "Microsoft Xbox 360",
+            "CodeNotes": "Use with Product Form code DB, DI or VN as applicable",
+            "IssueNumber": 7,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D315",
+            "CodeDescription": "Nintendo Wii",
+            "CodeNotes": "Use with Product Form code DA or E* as applicable",
+            "IssueNumber": 7,
+            "ModifiedNumber": 52,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D316",
+            "CodeDescription": "Sony PlayStation Portable (PSP)",
+            "CodeNotes": "Use with Product Form code DL or VL as applicable",
+            "IssueNumber": 7,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D317",
+            "CodeDescription": "Sony PlayStation 3",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable. Deprecated \u2013 use D313",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": 51
+        },
+        {
+            "CodeValue": "D318",
+            "CodeDescription": "Sony PlayStation 4",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D319",
+            "CodeDescription": "Sony PlayStation Vita",
+            "CodeNotes": "Use with Product Form code DA or E* as applicable",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D320",
+            "CodeDescription": "Microsoft Xbox One",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable",
+            "IssueNumber": 47,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D321",
+            "CodeDescription": "Nintendo Switch",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D322",
+            "CodeDescription": "Nintendo Wii U",
+            "CodeNotes": "Use with Product Form code DE or DB as applicable",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D323",
+            "CodeDescription": "Sony PlayStation 5",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D324",
+            "CodeDescription": "Microsoft Xbox Series X \/ S",
+            "CodeNotes": "Use with Product Form code DB, DI, DO or E* as applicable",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E100",
+            "CodeDescription": "Other",
+            "CodeNotes": "No code allocated for this e-publication format yet",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E101",
+            "CodeDescription": "EPUB",
+            "CodeNotes": "The Open Publication Structure \/ OPS Container Format standard of the International Digital Publishing Forum (IDPF) [File extension .epub]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E102",
+            "CodeDescription": "OEB",
+            "CodeNotes": "The Open EBook format of the IDPF, a predecessor of the full EPUB format, still (2008) supported as part of the latter [File extension .opf]. Includes EPUB format up to and including version 2 \u2013 but prefer code E101 for EPUB 2, and always use code E101 for EPUB 3",
+            "IssueNumber": 10,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E103",
+            "CodeDescription": "DOC",
+            "CodeNotes": "Microsoft Word binary document format [File extension .doc]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E104",
+            "CodeDescription": "DOCX",
+            "CodeNotes": "Office Open XML \/ Microsoft Word XML document format (ISO\/IEC 29500:2008) [File extension .docx]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E105",
+            "CodeDescription": "HTML",
+            "CodeNotes": "HyperText Mark-up Language [File extension .html, .htm]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E106",
+            "CodeDescription": "ODF",
+            "CodeNotes": "Open Document Format [File extension .odt]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E107",
+            "CodeDescription": "PDF",
+            "CodeNotes": "Portable Document Format (ISO 32000-1:2008) [File extension .pdf]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E108",
+            "CodeDescription": "PDF\/A",
+            "CodeNotes": "PDF archiving format defined by ISO 19005-1:2005 [File extension .pdf]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E109",
+            "CodeDescription": "RTF",
+            "CodeNotes": "Rich Text Format [File extension .rtf]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E110",
+            "CodeDescription": "SGML",
+            "CodeNotes": "Standard Generalized Mark-up Language",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E111",
+            "CodeDescription": "TCR",
+            "CodeNotes": "A compressed text format mainly used on Psion handheld devices [File extension .tcr]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E112",
+            "CodeDescription": "TXT",
+            "CodeNotes": "Text file format [File extension .txt]. Typically ASCII or Unicode UTF-8\/16",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E113",
+            "CodeDescription": "XHTML",
+            "CodeNotes": "Extensible Hypertext Markup Language [File extension .xhtml, .xht, .xml, .html, .htm]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E114",
+            "CodeDescription": "zTXT",
+            "CodeNotes": "A compressed text format mainly used on Palm handheld devices [File extension .pdb \u2013 see also E121, E125, E130]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E115",
+            "CodeDescription": "XPS",
+            "CodeNotes": "XML Paper Specification format [File extension .xps]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E116",
+            "CodeDescription": "Amazon Kindle",
+            "CodeNotes": "A format proprietary to Amazon for use with its Kindle reading devices or software readers [File extensions .azw, .mobi, .prc etc]. Prefer code E148 for Print Replica files",
+            "IssueNumber": 10,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E117",
+            "CodeDescription": "BBeB",
+            "CodeNotes": "A Sony proprietary format for use with the Sony Reader and LIBRI\u00e9 reading devices [File extension .lrf]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E118",
+            "CodeDescription": "DXReader",
+            "CodeNotes": "A proprietary format for use with DXReader software",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E119",
+            "CodeDescription": "EBL",
+            "CodeNotes": "A format proprietary to the Ebook Library service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E120",
+            "CodeDescription": "Ebrary",
+            "CodeNotes": "A format proprietary to the Ebrary service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E121",
+            "CodeDescription": "eReader",
+            "CodeNotes": "A proprietary format for use with eReader (AKA \u2018Palm Reader\u2019) software on various hardware platforms [File extension .pdb \u2013 see also E114, E125, E130]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E122",
+            "CodeDescription": "Exebook",
+            "CodeNotes": "A proprietary format with its own reading system for Windows platforms [File extension .exe]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E123",
+            "CodeDescription": "Franklin eBookman",
+            "CodeNotes": "A proprietary format for use with the Franklin eBookman reader",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E124",
+            "CodeDescription": "Gemstar Rocketbook",
+            "CodeNotes": "A proprietary format for use with the Gemstar Rocketbook reader [File extension .rb]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E125",
+            "CodeDescription": "iSilo",
+            "CodeNotes": "A proprietary format for use with iSilo software on various hardware platforms [File extension .pdb \u2013 see also E114, E121, E130]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E126",
+            "CodeDescription": "Microsoft Reader",
+            "CodeNotes": "A proprietary format for use with Microsoft Reader software on Windows and Pocket PC platforms [File extension .lit]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E127",
+            "CodeDescription": "Mobipocket",
+            "CodeNotes": "A proprietary format for use with Mobipocket software on various hardware platforms [File extensions .mobi, .prc]. Includes Amazon Kindle formats up to and including version 7 \u2013 but prefer code E116 for version 7, and always use E116 for KF8",
+            "IssueNumber": 10,
+            "ModifiedNumber": 17,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E128",
+            "CodeDescription": "MyiLibrary",
+            "CodeNotes": "A format proprietary to the MyiLibrary service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E129",
+            "CodeDescription": "NetLibrary",
+            "CodeNotes": "A format proprietary to the NetLibrary service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E130",
+            "CodeDescription": "Plucker",
+            "CodeNotes": "A proprietary format for use with Plucker reader software on Palm and other handheld devices [File extension .pdb \u2013 see also E114, E121, E125]",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E131",
+            "CodeDescription": "VitalBook",
+            "CodeNotes": "A format proprietary to the VitalSource service",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E132",
+            "CodeDescription": "Vook",
+            "CodeNotes": "A proprietary digital product combining text and video content and available to be used online or as a downloadable application for a mobile device \u2013 see www.vook.com",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E133",
+            "CodeDescription": "Google Edition",
+            "CodeNotes": "An epublication made available by Google in association with a publisher; readable online on a browser-enabled device and offline on designated ebook readers",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E134",
+            "CodeDescription": "Book \u2018app\u2019 for iOS",
+            "CodeNotes": "Epublication packaged as application for iOS (eg Apple iPhone, iPad etc), containing both executable code and content. Use <ProductContentType> to describe content, and <ProductFormFeatureType> to list detailed technical requirements",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E135",
+            "CodeDescription": "Book \u2018app\u2019 for Android",
+            "CodeNotes": "Epublication packaged as application for Android (eg Android phone or tablet), containing both executable code and content. Use <ProductContentType> to describe content, and <ProductFormFeatureType> to list detailed technical requirements",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E136",
+            "CodeDescription": "Book \u2018app\u2019 for other operating system",
+            "CodeNotes": "Epublication packaged as application, containing both executable code and content. Use where other \u2018app\u2019 codes are not applicable. Technical requirements such as target operating system and\/or device should be provided eg in <ProductFormFeatureType>. Content type (text or text plus various \u2018enhancements\u2019) may be described with <ProductContentType>",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E139",
+            "CodeDescription": "CEB",
+            "CodeNotes": "Founder Apabi\u2019s proprietary basic e-book format",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E140",
+            "CodeDescription": "CEBX",
+            "CodeNotes": "Founder Apabi\u2019s proprietary XML e-book format",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E141",
+            "CodeDescription": "iBook",
+            "CodeNotes": "Apple\u2019s iBook format (a proprietary extension of EPUB), can only be read on Apple iOS devices",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E142",
+            "CodeDescription": "ePIB",
+            "CodeNotes": "Proprietary format based on EPUB used by Barnes and Noble for fixed-format e-books, readable on NOOK devices and Nook reader software",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E143",
+            "CodeDescription": "SCORM",
+            "CodeNotes": "Sharable Content Object Reference Model, standard content and packaging format for e-learning objects",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E144",
+            "CodeDescription": "EBP",
+            "CodeNotes": "E-book Plus (proprietary Norwegian e-book format)",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E145",
+            "CodeDescription": "Page Perfect",
+            "CodeNotes": "Proprietary format based on PDF used by Barnes and Noble for fixed-format e-books, readable on some NOOK devices and Nook reader software",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E146",
+            "CodeDescription": "BRF",
+            "CodeNotes": "(Braille-ready file) Electronic Braille file",
+            "IssueNumber": 37,
+            "ModifiedNumber": 51,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E147",
+            "CodeDescription": "Erudit",
+            "CodeNotes": "Proprietary XML format for articles, see for example https:\/\/www.cairn.info\/services-aux-editeurs.php",
+            "IssueNumber": 41,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E148",
+            "CodeDescription": "Amazon Kindle Print Replica",
+            "CodeNotes": "A format proprietary to Amazon for use with its Kindle reading devices or software readers. Essentially a PDF embedded within a KF8 format file",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E149",
+            "CodeDescription": "Comic Book Archive",
+            "CodeNotes": "Format for comic books, consisting primarily of sequentially-named PNG or JPEG images in a zip container",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E150",
+            "CodeDescription": "EPUB\/A",
+            "CodeNotes": "",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E200",
+            "CodeDescription": "Reflowable",
+            "CodeNotes": "Use this and\/or code E201 when a particular e-publication type (specified using codes E100 and upwards) is reflowable or has both fixed layout and reflowable sections or variants, to indicate which option is included in this product",
+            "IssueNumber": 15,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E201",
+            "CodeDescription": "Fixed format",
+            "CodeNotes": "Use this and\/or code E200 when a particular e-publication type (specified using codes E100 and upwards) is fixed layout or has both fixed layout and reflowable sections or variants, to indicate which option is included in this product",
+            "IssueNumber": 15,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E202",
+            "CodeDescription": "Readable offline",
+            "CodeNotes": "All e-publication resources are included within the e-publication package",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E203",
+            "CodeDescription": "Requires network connection",
+            "CodeNotes": "E-publication requires a network connection to access some resources (eg an enhanced e-book where video clips are not stored within the e-publication package itself, but are delivered via an internet connection)",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E204",
+            "CodeDescription": "Content removed",
+            "CodeNotes": "Resources (eg images) present in other editions have been removed from this product, eg due to rights issues",
+            "IssueNumber": 19,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E205",
+            "CodeDescription": "Visible page numbering",
+            "CodeNotes": "(Mostly fixed-format) e-publication contains visible page numbers. Use with List 196 code 19 if numbering has a print-equivalent",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E206",
+            "CodeDescription": "No preferred page progression",
+            "CodeNotes": "For e-publications only, pages may be rendered LTR or RTL (see B606 to B609)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E210",
+            "CodeDescription": "Landscape",
+            "CodeNotes": "Use for fixed-format e-books optimised for landscape display. Also include an indication of the optimal screen aspect ratio",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E211",
+            "CodeDescription": "Portrait",
+            "CodeNotes": "Use for fixed-format e-books optimised for portrait display. Also include an indication of the optimal screen aspect ratio",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E212",
+            "CodeDescription": "Square",
+            "CodeNotes": "Use for fixed-format e-books optimised for a square display.",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E213",
+            "CodeDescription": "Vertical scrolling",
+            "CodeNotes": "Use for fixed-format e-publications optimised for vertical scrolling display (\u2018webtoon format\u2019)",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E221",
+            "CodeDescription": "5:4",
+            "CodeNotes": "(1.25:1) Use for fixed-format e-books optimised for displays with a 5:4 aspect ratio (eg 1280x1024 pixels etc, assuming square pixels). Note that aspect ratio codes are NOT specific to actual screen dimensions or pixel counts, but to the ratios between two dimensions or two pixel counts",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E222",
+            "CodeDescription": "4:3",
+            "CodeNotes": "(1.33:1) Use for fixed-format e-books optimised for displays with a 4:3 aspect ratio (eg 800x600, 1024x768, 2048x1536 pixels etc)",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E223",
+            "CodeDescription": "3:2",
+            "CodeNotes": "(1.5:1) Use for fixed-format e-books optimised for displays with a 3:2 aspect ratio (eg 960x640, 3072x2048 pixels etc)",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E224",
+            "CodeDescription": "16:10",
+            "CodeNotes": "(1.6:1) Use for fixed-format e-books optimised for displays with a 16:10 aspect ratio (eg 1440x900, 2560x1600 pixels etc)",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E225",
+            "CodeDescription": "16:9",
+            "CodeNotes": "(1.77:1) Use for fixed-format e-books optimised for displays with a 16:9 aspect ratio (eg 1024x576, 1920x1080, 2048x1152 pixels etc)",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E226",
+            "CodeDescription": "18:9",
+            "CodeNotes": "(2:1) Use for fixed-format e-books optimised for displays with an 18:9 aspect ratio (eg 2160x1080, 2880x1440 pixels etc)",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E227",
+            "CodeDescription": "21:9",
+            "CodeNotes": "(2.37:1) Use for fixed-format e-books optimised for displays with an 21:9 (or 64:27) aspect ratio (eg 3840x1644 pixels etc)",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "L101",
+            "CodeDescription": "Laminated",
+            "CodeNotes": "Whole product laminated (eg laminated map, fold-out chart, wallchart, etc): use B415 for book with laminated cover",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P091",
+            "CodeDescription": "Calendar with write-in space",
+            "CodeNotes": "(de: Nutzkalendarium) Calendar or diary has spaces intended for entering birthdays, appointments, notes etc. Use with other calendar \/ diary type codes",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P092",
+            "CodeDescription": "Calendar without write-in space",
+            "CodeNotes": "(de: Schmuckkalendarium) Calendar or diary has no spaces intended for entering birthdays, appointments, notes etc. Use with other calendar \/ diary type codes",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P096",
+            "CodeDescription": "Multiple months per page",
+            "CodeNotes": "(de: Mehrmonatskalender) Calendar has multiple months (but not whole year) per page or view. Use with other calendar \/ diary type codes when the time period per sheet, page or view is not the expected arrangement",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P097",
+            "CodeDescription": "One month per page",
+            "CodeNotes": "(de: Monatskalender) Calendar has one month per page or view",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P098",
+            "CodeDescription": "One week per page",
+            "CodeNotes": "(de: Wochenkalender) Calendar has one week per page or view",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P099",
+            "CodeDescription": "One day per page",
+            "CodeNotes": "(de: Tageskalender) Calendar has one day per page or view",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P101",
+            "CodeDescription": "Desk calendar or diary",
+            "CodeNotes": "Large format, usually one week per page or view. Use with Product Form code PC or PF",
+            "IssueNumber": 2,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P102",
+            "CodeDescription": "Mini calendar or pocket diary",
+            "CodeNotes": "Small format, usually one week per page or view. Use with Product Form code PC or PF",
+            "IssueNumber": 2,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P103",
+            "CodeDescription": "Engagement calendar or Appointment diary",
+            "CodeNotes": "Day planner. Usually one day per page or view, with time-of-day subdivisions (rather than just days) or adequate space to add them. Use with Product Form code PC or PF",
+            "IssueNumber": 2,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P104",
+            "CodeDescription": "Day by day calendar",
+            "CodeNotes": "Eg tear-off calendars (one day per sheet). Use with Product Form code PC",
+            "IssueNumber": 2,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P105",
+            "CodeDescription": "Poster calendar",
+            "CodeNotes": "Large single-sheet calendar intended for hanging. Use with Product Form code PC or PK",
+            "IssueNumber": 2,
+            "ModifiedNumber": 49,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P106",
+            "CodeDescription": "Wall calendar",
+            "CodeNotes": "Large calendar usually intended for hanging from the spine, typically one page per view and one month per view, with illustrations. See also P134. Use with Product Form code PC",
+            "IssueNumber": 2,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P107",
+            "CodeDescription": "Perpetual calendar or diary",
+            "CodeNotes": "Usually undated. Use with Product Form code PC or PF, and can be combined with other calendar\/diary type codes",
+            "IssueNumber": 6,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P108",
+            "CodeDescription": "Advent calendar",
+            "CodeNotes": "Use with Product Form code PC, and can be combined with other calendar\/diary type codes",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P109",
+            "CodeDescription": "Bookmark calendar",
+            "CodeNotes": "Use with Product Form code PC or PT",
+            "IssueNumber": 8,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P110",
+            "CodeDescription": "Student or Academic calendar or diary",
+            "CodeNotes": "Mid-year diary, start and end aligned with the academic year. Use with Product Form code PC or PF, and can be combined with other calendar\/diary type codes",
+            "IssueNumber": 8,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P111",
+            "CodeDescription": "Project calendar",
+            "CodeNotes": "Use with Product Form code PC",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P112",
+            "CodeDescription": "Almanac calendar",
+            "CodeNotes": "Use with Product Form code PC",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P113",
+            "CodeDescription": "Other calendar, diary or organiser",
+            "CodeNotes": "A calendar, diary or organiser that is not one of the types specified elsewhere: use with Product Form code PC, PF or PS",
+            "IssueNumber": 8,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P114",
+            "CodeDescription": "Other calendar or organiser product",
+            "CodeNotes": "A product that is associated with or ancillary to a calendar or organiser, eg a deskstand for a calendar, or an insert for an organiser: use with Product Form code PC or PS",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P115",
+            "CodeDescription": "Family planner",
+            "CodeNotes": "Wall or poster calendar with entries for each family member. Use with Product Form code PC or PK",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P116",
+            "CodeDescription": "Postcard calendar",
+            "CodeNotes": "Calendar sheets detachable (usually perforated) and intended for mailing as postcards. Use with Product Form code PC",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P131",
+            "CodeDescription": "Blank calendar",
+            "CodeNotes": "Wall calendar without illustrations, usually one page per month, intended to be used by adding your own images (de: Bastelkalender). Use with Product Form code PC",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P132",
+            "CodeDescription": "Panoramic calendar",
+            "CodeNotes": "Very large wall calendar intended for hanging, usually one page per month, wide landscape orientation, with illustrations. Use with Product Form code PC",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P133",
+            "CodeDescription": "Columnar calendar",
+            "CodeNotes": "Very large wall calendar intended for hanging, usually one page per month, narrow portrait orientation, with illustrations. Use with Product Form code PC",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P134",
+            "CodeDescription": "Square calendar",
+            "CodeNotes": "(de: Broschurkalender) Wall calendar, usually intended for hanging from a page edge, typically two pages per view and one month per view, with illustrations. See also P106. Use with Product Form code PC",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P120",
+            "CodeDescription": "Picture story cards",
+            "CodeNotes": "Kamishibai \/ Cantastoria cards",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P121",
+            "CodeDescription": "Flash cards",
+            "CodeNotes": "For use to specify letter, word, image (etc) recognition cards for teaching reading or other classroom use. Use with Product form code PD",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P122",
+            "CodeDescription": "Reference cards",
+            "CodeNotes": "Quick reference cards, revision cards, recipe cards etc. Use with Product form code PD",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P123",
+            "CodeDescription": "Recreation cards",
+            "CodeNotes": "For use to specify cards and card decks for gaming, collecting and trading etc. Use also for divination cards. Use with Product form codes PD",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P124",
+            "CodeDescription": "Postcards",
+            "CodeNotes": "And postcard packs \/ books. Use with Product form code PJ",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P125",
+            "CodeDescription": "Greeting cards",
+            "CodeNotes": "And greeting card packs. Use with Product form code PJ",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P126",
+            "CodeDescription": "Gift cards",
+            "CodeNotes": "Physical cards which carry an intrinsic value, or which are intended to have value added to them, that may be redeemed later. For example book token cards, gift cards. Note value additions and redemption may be in a physical store or online",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P127",
+            "CodeDescription": "Certificate cards",
+            "CodeNotes": "Blank certificate, award or achivement cards, Use with Product form code PD",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P201",
+            "CodeDescription": "Hardback (stationery)",
+            "CodeNotes": "Stationery item in hardback book format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P202",
+            "CodeDescription": "Paperback \/ softback (stationery)",
+            "CodeNotes": "Stationery item in paperback\/softback book format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P203",
+            "CodeDescription": "Spiral bound (stationery)",
+            "CodeNotes": "Stationery item in spiral-bound book format",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P204",
+            "CodeDescription": "Leather \/ fine binding (stationery)",
+            "CodeNotes": "Stationery item in leather-bound book format, or other fine binding",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P301",
+            "CodeDescription": "With hanging strips",
+            "CodeNotes": "For wall map, poster, wallchart etc",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P305",
+            "CodeDescription": "Single-sided",
+            "CodeNotes": "Content is printed single-sided (for wallcharts and hanging maps, calendars, etc)",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P306",
+            "CodeDescription": "Double-sided",
+            "CodeNotes": "Content is printed double-sided (for wallcharts and hanging maps, calendars, etc, where double-sided may not always be expected)",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V201",
+            "CodeDescription": "PAL",
+            "CodeNotes": "SD TV standard for video or DVD",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V202",
+            "CodeDescription": "NTSC",
+            "CodeNotes": "SD TV standard for video or DVD",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V203",
+            "CodeDescription": "SECAM",
+            "CodeNotes": "SD TV standard for video or DVD",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V205",
+            "CodeDescription": "HD",
+            "CodeNotes": "Up to 2K resolution (1920 or 2048 pixels wide) eg for Blu-Ray",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V206",
+            "CodeDescription": "UHD",
+            "CodeNotes": "Up to 4K resolution (3840 or 4096 pixels wide) eg for Ultra HD Blu-Ray",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V207",
+            "CodeDescription": "3D video",
+            "CodeNotes": "Eg for Blu-ray 3D",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V210",
+            "CodeDescription": "Closed captions",
+            "CodeNotes": "Or subtitles",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V211",
+            "CodeDescription": "Open captions",
+            "CodeNotes": "\u2018Burnt-in\u2019 or hard captions or subtitles",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V212",
+            "CodeDescription": "Transcript",
+            "CodeNotes": "Full transcript of audio and audiovisual content included within the product supplied. See also List 158, where a transcript is a separate resource",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V213",
+            "CodeDescription": "Sign language interpretation",
+            "CodeNotes": "Full signing of audio and audiovisual content of the included within the product supplied",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V220",
+            "CodeDescription": "Home use",
+            "CodeNotes": "Licensed for use in domestic contexts only",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "V221",
+            "CodeDescription": "Classroom use",
+            "CodeNotes": "Licensed for use in education",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z101",
+            "CodeDescription": "Wooden",
+            "CodeNotes": "Primary material composition (eg of kit or puzzle pieces, of gameplay tokens or tiles) is wood or has wooden pieces\/parts",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z102",
+            "CodeDescription": "Plastic",
+            "CodeNotes": "Plastic or plastic pieces\/parts",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z103",
+            "CodeDescription": "Board",
+            "CodeNotes": "Card or board pieces\/parts",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z111",
+            "CodeDescription": "3D puzzle",
+            "CodeNotes": "Puzzle assembles into a 3D object",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z112",
+            "CodeDescription": "Noisy kit \/ puzzle \/ toy",
+            "CodeNotes": "Toy makes a noise. See B208 for noisy books",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z113",
+            "CodeDescription": "Puppet",
+            "CodeNotes": "Including finger \/ hand puppets, marionettes",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z121",
+            "CodeDescription": "Extra large pieces",
+            "CodeNotes": "Designed and sized for the very young, or those with visual impairments, limited motor skills, dementia etc",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

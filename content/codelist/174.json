@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 174,
+    "CodeListDescription": "Printed on product",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "No",
+            "CodeNotes": "Price not printed on product",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Yes",
+            "CodeNotes": "Price printed on product",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "CodeListNumber": 45,
+    "CodeListDescription": "Publishing role",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Publisher",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Co-publisher",
+            "CodeNotes": "Use where two or more publishers co-publish the exact same product, either under a single ISBN (in which case both publishers are co-publishers), or under different ISBNs (in which case the publisher of THIS ISBN is the publisher and the publishers of OTHER ISBNs are co-publishers. Note this is different from publication of \u2018co-editions\u2019",
+            "IssueNumber": 0,
+            "ModifiedNumber": 19,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Sponsor",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Publisher of original-language version",
+            "CodeNotes": "Of a translated work",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Host\/distributor of electronic content",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Published for\/on behalf of",
+            "CodeNotes": "",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Published in association with",
+            "CodeNotes": "Use also for \u2018Published in cooperation with\u2019",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "New or acquiring publisher",
+            "CodeNotes": "When ownership of a product or title is transferred from one publisher to another",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Publishing group",
+            "CodeNotes": "The group to which a publisher (publishing role 01) belongs: use only if a publisher has been identified with role code 01",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Publisher of facsimile original",
+            "CodeNotes": "The publisher of the edition of which a product is a facsimile",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Repackager of prebound edition",
+            "CodeNotes": "The repackager of a prebound edition that has been assigned its own identifier. (In the US, a \u2018prebound edition\u2019 is a book that was previously bound, normally as a paperback, and has been rebound with a library-quality hardcover binding by a supplier other than the original publisher.) Required when the <EditionType> is coded PRB. The original publisher should be named as the \u2018publisher\u2019",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Former publisher",
+            "CodeNotes": "When ownership of a product or title is transferred from one publisher to another (complement of code 09)",
+            "IssueNumber": 12,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Publication funder",
+            "CodeNotes": "Body funding publication fees, if different from the body funding the underlying research. Intended primarily for use with open access publications",
+            "IssueNumber": 22,
+            "ModifiedNumber": 37,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Research funder",
+            "CodeNotes": "Body funding the research on which publication is based, if different from the body funding the publication. Intended primarily for use with open access publications",
+            "IssueNumber": 22,
+            "ModifiedNumber": 37,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Funding body",
+            "CodeNotes": "Body funding research and publication. Intended primarily for use with open access publications",
+            "IssueNumber": 22,
+            "ModifiedNumber": 37,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Printer",
+            "CodeNotes": "Organization responsible for printing a printed product. Supplied primarily to meet legal deposit requirements, and may apply only to the first impression. The organization may also be responsible for binding, when a separate binder is not specified",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Binder",
+            "CodeNotes": "Organization responsible for binding a printed product (where distinct from the printer). Supplied primarily to meet legal deposit requirements, and may apply only to the first impression",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Manufacturer",
+            "CodeNotes": "Organization primarily responsible for physical manufacture of a product, when neither Printer nor Binder is directly appropriate (for example, with disc or tape products, or digital products on a physical carrier)",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

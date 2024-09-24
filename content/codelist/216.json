@@ -1,0 +1,79 @@
+{
+    "CodeListNumber": 216,
+    "CodeListDescription": "Velocity metric",
+    "IssueNumber": 24,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Mean daily sale",
+            "CodeNotes": "Typically measured over most recent 1 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Maximum daily sale",
+            "CodeNotes": "Typically measured over most recent 1 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Minimum daily sale",
+            "CodeNotes": "Typically measured over most recent 1 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Mean weekly sale",
+            "CodeNotes": "Typically measured over most recent rolling 12 week period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Maximum weekly sale",
+            "CodeNotes": "Typically measured over most recent rolling 12 week period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Minimum weekly sale",
+            "CodeNotes": "Typically measured over most recent rolling 12 week period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Mean monthly sale",
+            "CodeNotes": "Typically measured over most recent rolling 6 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Maximum monthly sale",
+            "CodeNotes": "Typically measured over the most recent rolling 6 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Minimum monthly sale",
+            "CodeNotes": "Typically measured over the most recent rolling 6 month period",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

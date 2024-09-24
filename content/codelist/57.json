@@ -1,0 +1,71 @@
+{
+    "CodeListNumber": 57,
+    "CodeListDescription": "Unpriced item type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Free of charge",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Price to be announced",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Not sold separately",
+            "CodeNotes": "Not sold separately at retail",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Contact supplier",
+            "CodeNotes": "May be used for books that do not carry a recommended retail price; when goods can only be ordered \u2018in person\u2019 from a sales representative; when an ONIX file is \u2018broadcast\u2019 rather than sent one-to-one to a single trading partner; or for digital products offered on subscription or with pricing which is too complex to specify in ONIX",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Not sold as set",
+            "CodeNotes": "When a collection that is not sold as a set nevertheless has its own ONIX record",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Revenue share",
+            "CodeNotes": "Unpriced, but available via a pre-determined revenue share agreement",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Calculated from contents",
+            "CodeNotes": "Price calculated as sum of individual prices of components listed as Product parts. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Supplier does not supply",
+            "CodeNotes": "The supplier does not operate, or does not offer this product, in this part of the market as indicated by <territory>. Use when other prices apply in different parts of the market (eg when the market is global, but the particular supplier does not operate outside its domestic territory). Use code 04 when the supplier does supply but has not set a price for part of the market. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

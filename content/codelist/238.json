@@ -1,0 +1,175 @@
+{
+    "CodeListNumber": 238,
+    "CodeListDescription": "Brazil educational level",
+    "IssueNumber": 39,
+    "Code": [
+        {
+            "CodeValue": "K",
+            "CodeDescription": "Educa\u00e7\u00e3o Infantil",
+            "CodeNotes": "Preschool and kindergarten",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "1",
+            "CodeDescription": "Fundamental I 1\u00ba ano",
+            "CodeNotes": "Elementary school",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "2",
+            "CodeDescription": "Fundamental I 2\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "3",
+            "CodeDescription": "Fundamental I 3\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "4",
+            "CodeDescription": "Fundamental I 4\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "5",
+            "CodeDescription": "Fundamental I 5\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "6",
+            "CodeDescription": "Fundamental II 6\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "7",
+            "CodeDescription": "Fundamental II 7\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "8",
+            "CodeDescription": "Fundamental II 8\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "9",
+            "CodeDescription": "Fundamental II 9\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Ensino M\u00e9dio 1\u00ba ano",
+            "CodeNotes": "High school",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "Ensino M\u00e9dio 2\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Ensino M\u00e9dio 3\u00ba ano",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Ensino T\u00e9cnico Integrado",
+            "CodeNotes": "Technical study at High school, alongside 2nd and 3rd year",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Ensino T\u00e9cnico Concomitante",
+            "CodeNotes": "Technical study at separate institution in parallel with 2nd and 3rd year High school study",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Ensino T\u00e9cnico Subsequente",
+            "CodeNotes": "Technical study after completion of High school",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "P",
+            "CodeDescription": "Ensino pr\u00e9-vestibular",
+            "CodeNotes": "University entrance",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A",
+            "CodeDescription": "Ensino Superior Gradua\u00e7\u00e3o Licenciatura\/ Bacharelado",
+            "CodeNotes": "Undergraduate degree level",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B",
+            "CodeDescription": "Ensino Superior Gradua\u00e7\u00e3o Tecnologia",
+            "CodeNotes": "",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D",
+            "CodeDescription": "Ensino Superior P\u00f3s-gradua\u00e7\u00e3o Stricto sensu",
+            "CodeNotes": "Masters and Doctoral degree level",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "F",
+            "CodeDescription": "Ensino Superior P\u00f3s-gradua\u00e7\u00e3o Lato sensu",
+            "CodeNotes": "Professional qualifications",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "CodeListNumber": 154,
+    "CodeListDescription": "Content audience",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Unrestricted",
+            "CodeNotes": "Any audience",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Restricted",
+            "CodeNotes": "Distribution by agreement between the parties to the ONIX exchange (this value is provided to cover applications where ONIX content includes material which is not for general distribution)",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Booktrade",
+            "CodeNotes": "Distributors, bookstores, publisher\u2019s own staff etc",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "End-customers",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Librarians",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Teachers",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Students",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Press",
+            "CodeNotes": "Press or other media",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "Shopping comparison service",
+            "CodeNotes": "Where a specially formatted description is required for this audience",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "Search engine index",
+            "CodeNotes": "Text not intended for display, but may be used (in addition to any less restricted text) for indexing and search",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "Bloggers",
+            "CodeNotes": "(Including vloggers, influencers etc) Where this is distinct from end customers or the Press",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

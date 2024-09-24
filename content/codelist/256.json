@@ -1,0 +1,183 @@
+{
+    "CodeListNumber": 256,
+    "CodeListDescription": "Resource feature code",
+    "IssueNumber": 52,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Image shows product in packaging",
+            "CodeNotes": "Image shows retail product only, in packaging",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Image shows product (without packaging)",
+            "CodeNotes": "Image shows retail product only, without packaging",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Image shows product and accessories",
+            "CodeNotes": "Image shows product (with or without packaging) and accessory items not included with product",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Image shows assembled product",
+            "CodeNotes": "Image shows product in final form (eg an assembled toy or model, completed puzzle)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Image shows product in use",
+            "CodeNotes": "Image shows product in use by a person or people",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Image shows multiple products",
+            "CodeNotes": "Image shows multiple copies of the product, or multiple related products",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Image shows detail of product",
+            "CodeNotes": "Image shows part of product, for example inside pages of a book or detail of part of a toy",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "3D perspective \u2018front\u2019",
+            "CodeNotes": "Shows front cover, spine and top edge of pages (or equivalent for non-book products or packaging)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "3D perspective \u2018back\u2019",
+            "CodeNotes": "Shows back cover, spine and top edge of pages (or equivalent for non-book products or packaging)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "3D perspective \u2018front foredge\u2019",
+            "CodeNotes": "Shows front cover, foredge and top edge of pages (or equivalent for non-book products or packaging)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "3D perspective \u2018back foredge\u2019",
+            "CodeNotes": "Shows back cover, foredge and top edge of pages (or equivalent for non-book products or packaging)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "3D perspective \u2018front low\u2019",
+            "CodeNotes": "Shows front cover and spine (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "3D perspective \u2018back low\u2019",
+            "CodeNotes": "Shows back cover and spine (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "35",
+            "CodeDescription": "3D perspective \u2018front foredge low\u2019",
+            "CodeNotes": "Shows front cover and foredge (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "36",
+            "CodeDescription": "3D perspective \u2018back foredge low\u2019",
+            "CodeNotes": "Shows back cover and foredge (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "41",
+            "CodeDescription": "2D front",
+            "CodeNotes": "Shows front cover only (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "42",
+            "CodeDescription": "2D back",
+            "CodeNotes": "Shows back cover only (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "43",
+            "CodeDescription": "2D spine",
+            "CodeNotes": "Shows spine only (or equivalent for non-book products or packaging)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "47",
+            "CodeDescription": "3D perspective \u2018horizontal\u2019",
+            "CodeNotes": "Product is horizontal (eg lying on table)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "48",
+            "CodeDescription": "3D perspective \u2018vertical\u2019",
+            "CodeNotes": "Product is vertical (eg standing on table)",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "49",
+            "CodeDescription": "3D perspective \u2018open\u2019",
+            "CodeNotes": "Product or product packaging is open, showing at least some interior detail (eg of the page content of a book)",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "50",
+            "CodeDescription": "3D perspective \u2018closed\u2019",
+            "CodeNotes": "Product or product packaging is closed, or no significant interior detail is visible",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

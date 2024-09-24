@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 87,
+    "CodeListDescription": "Bible reference location",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "CCL",
+            "CodeDescription": "Center column",
+            "CodeNotes": "References are printed in a narrow column in the center of the page between two columns of text",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PGE",
+            "CodeDescription": "Page end",
+            "CodeNotes": "References are printed at the foot of the page",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SID",
+            "CodeDescription": "Side column",
+            "CodeNotes": "References are printed in a column to the side of the scripture",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VER",
+            "CodeDescription": "Verse end",
+            "CodeNotes": "References are printed at the end of the applicable verse",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "UNK",
+            "CodeDescription": "Unknown",
+            "CodeNotes": "The person creating the ONIX record does not know where the references are located",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZZ",
+            "CodeDescription": "Other",
+            "CodeNotes": "Other locations not otherwise identified",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

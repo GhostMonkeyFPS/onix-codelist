@@ -1,0 +1,183 @@
+{
+    "CodeListNumber": 30,
+    "CodeListDescription": "Audience range qualifier",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "11",
+            "CodeDescription": "US school grade range",
+            "CodeNotes": "Values for <AudienceRangeValue> are specified in List 77",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "UK school grade",
+            "CodeNotes": "Values are to be defined by BIC for England and Wales, Scotland and N Ireland",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Reading speed, words per minute",
+            "CodeNotes": "Values in <AudienceRangeValue> must be integers",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "Interest age, months",
+            "CodeNotes": "For use up to 36 months only, or up to 42 months in Audience range value (2) only: values in <AudienceRangeValue> must be integers. Should not be used when an Audience range with qualifier code 17 is present",
+            "IssueNumber": 6,
+            "ModifiedNumber": 62,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Interest age, years",
+            "CodeNotes": "Values in <AudienceRangeValue> must be integers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "Reading age, years",
+            "CodeNotes": "Values in <AudienceRangeValue> must be integers",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Spanish school grade",
+            "CodeNotes": "Spain: combined grade and region code, maintained by the Ministerio de Educaci\u00f3n",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Skoletrinn",
+            "CodeNotes": "Norwegian educational level for primary and secondary education",
+            "IssueNumber": 6,
+            "ModifiedNumber": 28,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Niv\u00e5",
+            "CodeNotes": "Swedish educational qualifier (code)",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "Italian school grade",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Schulform",
+            "CodeNotes": "Deprecated \u2013 assigned in error: see List 29",
+            "IssueNumber": 7,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": 8
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Bundesland",
+            "CodeNotes": "Deprecated \u2013 assigned in error: see List 29",
+            "IssueNumber": 7,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": 8
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "Ausbildungsberuf",
+            "CodeNotes": "Deprecated \u2013 assigned in error: see List 29",
+            "IssueNumber": 7,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": 8
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "Canadian school grade range",
+            "CodeNotes": "Values for <AudienceRangeValue> are specified in List 77",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Finnish school grade range",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "Finnish Upper secondary school course",
+            "CodeNotes": "Lukion kurssi",
+            "IssueNumber": 13,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Chinese School Grade range",
+            "CodeNotes": "Values are P, K, 1\u201317 (including college-level audiences), see List 227",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "French school cycles \/ classes",
+            "CodeNotes": "Detailed French educational level classification. Values are defined by ScoLOMFR, see http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-022 \u2013 Cycles de l\u2019enseignement scolaire. See also code 34",
+            "IssueNumber": 24,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "31",
+            "CodeDescription": "Brazil Education level",
+            "CodeNotes": "N\u00edvel de Educa\u00e7\u00e3o do Brasil, see List 238. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "32",
+            "CodeDescription": "French educational levels",
+            "CodeNotes": "Basic French educational level classification. Values are defined by ScoLOMFR. Only for use in ONIX 3.0 or later. See http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-012",
+            "IssueNumber": 48,
+            "ModifiedNumber": 56,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "33",
+            "CodeDescription": "Finnish Upper secondary school course (2021+)",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 50,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "34",
+            "CodeDescription": "Detailed French educational levels",
+            "CodeNotes": "Detailed French educational level classification. Values are defined by ScoLOMFR. Only for use in ONIX 3.0 or later. See http:\/\/data.education.fr\/voc\/scolomfr\/scolomfr-voc-022 \u2013 Niveau \u00e9ducatif d\u00e9taill\u00e9. See also code 30",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

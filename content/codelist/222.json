@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 222,
+    "CodeListDescription": "Message status date role",
+    "IssueNumber": 28,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Ingest date",
+            "CodeNotes": "Expected or actual date of processing and ingestion of data to recipient\u2019s system",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Export date",
+            "CodeNotes": "Expected or actual date for data to be available from the recipient\u2019s system to downstream supply chain partners (or where the recipient is a retailer, to consumers)",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

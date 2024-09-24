@@ -1,0 +1,71 @@
+{
+    "CodeListNumber": 50,
+    "CodeListDescription": "Measure unit",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "cm",
+            "CodeDescription": "Centimeters",
+            "CodeNotes": "Millimeters are the preferred metric unit of length",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "gr",
+            "CodeDescription": "Grams",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "in",
+            "CodeDescription": "Inches (US)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "kg",
+            "CodeDescription": "Kilograms",
+            "CodeNotes": "Grams are the preferred metric unit of weight",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "lb",
+            "CodeDescription": "Pounds (US)",
+            "CodeNotes": "Ounces are the preferred US customary unit of weight",
+            "IssueNumber": 0,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "mm",
+            "CodeDescription": "Millimeters",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "oz",
+            "CodeDescription": "Ounces (US)",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "px",
+            "CodeDescription": "Pixels",
+            "CodeNotes": "",
+            "IssueNumber": 9,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

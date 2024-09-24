@@ -1,0 +1,1759 @@
+{
+    "CodeListNumber": 139,
+    "CodeListDescription": "ONIX retail sales outlet IDs",
+    "IssueNumber": 8,
+    "Code": [
+        {
+            "CodeValue": "SYM",
+            "CodeDescription": "24Symbols",
+            "CodeNotes": "",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ACM",
+            "CodeDescription": "A C Moore",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AAP",
+            "CodeDescription": "AandP",
+            "CodeNotes": "Academic and Professional Book Center (HK)",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ADL",
+            "CodeDescription": "Adlibris",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ACB",
+            "CodeDescription": "Akademibokhandeln",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AKK",
+            "CodeDescription": "Akateeminen Kirjakauppa",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ALB",
+            "CodeDescription": "Albertson\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ALT",
+            "CodeDescription": "AlmaTalent",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AMZ",
+            "CodeDescription": "Amazon",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ANR",
+            "CodeDescription": "Angus and Robertson",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ANB",
+            "CodeDescription": "Anobii",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "APA",
+            "CodeDescription": "Apabi",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "APC",
+            "CodeDescription": "Apple",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ASD",
+            "CodeDescription": "Asda",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ASB",
+            "CodeDescription": "Asia Books",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AUD",
+            "CodeDescription": "Audible",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "AUC",
+            "CodeDescription": "Audiobooks.com",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ATK",
+            "CodeDescription": "Audioteka",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELU",
+            "CodeDescription": "Axiell ELibU",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 56,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BDL",
+            "CodeDescription": "B Dalton",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "BNO",
+            "CodeDescription": "Barnes and Noble",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BDZ",
+            "CodeDescription": "BDBuzz",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BBB",
+            "CodeDescription": "Bed Bath and Beyond",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BST",
+            "CodeDescription": "Best Buy",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BOD",
+            "CodeDescription": "Biblio-on-Demand",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MMM",
+            "CodeDescription": "Bibliotheca",
+            "CodeNotes": "Formerly 3M Cloud Library",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BIL",
+            "CodeDescription": "Bilbary",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 16,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "BLG",
+            "CodeDescription": "Billigbook",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BJW",
+            "CodeDescription": "BJ\u2019s Wholesale Club",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLA",
+            "CodeDescription": "Blackstone Audio",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLK",
+            "CodeDescription": "Blackwell\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GOS",
+            "CodeDescription": "Blinkbox",
+            "CodeNotes": "Formerly GoSpoken\/Mobcast. Deprecated",
+            "IssueNumber": 16,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "BGI",
+            "CodeDescription": "Bog & id\u00e9",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BSK",
+            "CodeDescription": "Boksnok",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BSY",
+            "CodeDescription": "Boksy",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BKU",
+            "CodeDescription": "Bokus",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BLD",
+            "CodeDescription": "Bolinda",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 41,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BCA",
+            "CodeDescription": "Book Club Associates",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BDO",
+            "CodeDescription": "Book d\u2019oreille",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BSL",
+            "CodeDescription": "Book Solutions",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BOO",
+            "CodeDescription": "Bookbeat",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BBI",
+            "CodeDescription": "Bookbites",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BSH",
+            "CodeDescription": "Bookish",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BMA",
+            "CodeDescription": "Bookmate",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BKP",
+            "CodeDescription": "Bookpeople",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BRB",
+            "CodeDescription": "Books Etc",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "BKM",
+            "CodeDescription": "Books-A-Million",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BKS",
+            "CodeDescription": "Bookshout",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BTP",
+            "CodeDescription": "Booktopia",
+            "CodeNotes": "",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BKY",
+            "CodeDescription": "Booky.fi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "BRD",
+            "CodeDescription": "Borders",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "BRT",
+            "CodeDescription": "British Bookshops",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "CAI",
+            "CodeDescription": "Cairn",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CDL",
+            "CodeDescription": "Casa del Libro",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CDN",
+            "CodeDescription": "CDON.com",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CEB",
+            "CodeDescription": "Ceebo",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CFU",
+            "CodeDescription": "CFU Danmark",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CHP",
+            "CodeDescription": "Chapter",
+            "CodeNotes": "Danish e-book retailer. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CHD",
+            "CodeDescription": "Christianbook.com",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CYM",
+            "CodeDescription": "Citymarket",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CMX",
+            "CodeDescription": "Comixology",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "COP",
+            "CodeDescription": "Copia",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 24,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "CST",
+            "CodeDescription": "Costco",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CRB",
+            "CodeDescription": "Crate and Barrel",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CVS",
+            "CodeDescription": "CVS Drug Stores",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CVM",
+            "CodeDescription": "CVS Mediatheques",
+            "CodeNotes": "www.cvs-mediatheques.com",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "CYB",
+            "CodeDescription": "Cyberlibris",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DAU",
+            "CodeDescription": "Daunt Books",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DEM",
+            "CodeDescription": "De Marque",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DSG",
+            "CodeDescription": "Dick\u2019s Sporting Goods",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DIL",
+            "CodeDescription": "Dilicom",
+            "CodeNotes": "",
+            "IssueNumber": 27,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "DYM",
+            "CodeDescription": "Dymocks",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EPA",
+            "CodeDescription": "E-Pagine",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ERD",
+            "CodeDescription": "E-Reads",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELC",
+            "CodeDescription": "Early Learning Centre",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ESN",
+            "CodeDescription": "Eason",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EBC",
+            "CodeDescription": "Ebooks Corp",
+            "CodeNotes": "www.ebooks.com",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ECH",
+            "CodeDescription": "eChristian",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 16,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "ECI",
+            "CodeDescription": "El Corte Ingl\u00e9s",
+            "CodeNotes": "",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EKJ",
+            "CodeDescription": "E-kirjasto",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELE",
+            "CodeDescription": "Electre",
+            "CodeNotes": "",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELB",
+            "CodeDescription": "Publizon",
+            "CodeNotes": "Formerly Axiell Elib.se",
+            "IssueNumber": 16,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELI",
+            "CodeDescription": "Elib Library",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELS",
+            "CodeDescription": "Elisa",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELK",
+            "CodeDescription": "Elisa Kirja Kuukausitilaus",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 52,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELL",
+            "CodeDescription": "Ellibs.com",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EMP",
+            "CodeDescription": "Empik",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ENH",
+            "CodeDescription": "English Heritage",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EPC",
+            "CodeDescription": "Epic!",
+            "CodeNotes": "www.getepic.com",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ELN",
+            "CodeDescription": "Ereolen.dk",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "EVB",
+            "CodeDescription": "Everybook",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FAI",
+            "CodeDescription": "FairyLoot",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FDB",
+            "CodeDescription": "FeedBooks",
+            "CodeNotes": "",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FIN",
+            "CodeDescription": "Findaway",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FSP",
+            "CodeDescription": "Fishpond",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FLP",
+            "CodeDescription": "FlipKart",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FNC",
+            "CodeDescription": "Fnac",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FOL",
+            "CodeDescription": "Follett",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "FRY",
+            "CodeDescription": "Fry\u2019s Electronics",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GMS",
+            "CodeDescription": "Gamestop",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GAR",
+            "CodeDescription": "Gardners",
+            "CodeNotes": "(as a retail platform). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GLO",
+            "CodeDescription": "Glose",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "GOO",
+            "CodeDescription": "Google Books",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HST",
+            "CodeDescription": "Hastings Entertainment",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "HMV",
+            "CodeDescription": "HMV",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "HMD",
+            "CodeDescription": "Home Depot",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IMM",
+            "CodeDescription": "Immat\u00e9riel.fr",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IND",
+            "CodeDescription": "Indigo-Chapters",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "INF",
+            "CodeDescription": "Info.fi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ILT",
+            "CodeDescription": "Inl\u00e4sningstj\u00e4nst",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IBS",
+            "CodeDescription": "Internet Bookshop Italia",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "IZN",
+            "CodeDescription": "Izneo",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "JAM",
+            "CodeDescription": "Jamera",
+            "CodeNotes": "Only for use in ONIX 3.0 or later. Deprecated",
+            "IssueNumber": 58,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": 64
+        },
+        {
+            "CodeValue": "JBH",
+            "CodeDescription": "JB Hifi",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "JSM",
+            "CodeDescription": "John Smith and Son",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KMT",
+            "CodeDescription": "K-Mart",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KIP",
+            "CodeDescription": "KIPA",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KID",
+            "CodeDescription": "Kirja&Idea",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KPV",
+            "CodeDescription": "Kirjastopalvelu",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KRJ",
+            "CodeDescription": "Kirja.fi",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KNB",
+            "CodeDescription": "KNFB\/Blio",
+            "CodeNotes": "",
+            "IssueNumber": 17,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KNO",
+            "CodeDescription": "Kno Inc",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 16,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "KBO",
+            "CodeDescription": "Kobo",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KOO",
+            "CodeDescription": "Koorong",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KOR",
+            "CodeDescription": "Kortext",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "KRG",
+            "CodeDescription": "Kroger",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LDL",
+            "CodeDescription": "Lidl",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 60,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LEG",
+            "CodeDescription": "Legible.com",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LEX",
+            "CodeDescription": "Lexplore",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LTP",
+            "CodeDescription": "Lehtipiste",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LMB",
+            "CodeDescription": "LoadMyBook",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "LWE",
+            "CodeDescription": "Lowe\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MAC",
+            "CodeDescription": "Mackin",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MAG",
+            "CodeDescription": "Magzter",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MNO",
+            "CodeDescription": "Maneno",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MKS",
+            "CodeDescription": "Marks and Spencer",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MAT",
+            "CodeDescription": "Matras",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MMS",
+            "CodeDescription": "Media Markt\/Saturn",
+            "CodeNotes": "Also known as Media World",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ADP",
+            "CodeDescription": "Messageries ADP",
+            "CodeNotes": "",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MCR",
+            "CodeDescription": "Microcenter",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MSF",
+            "CodeDescription": "Microsoft",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MOF",
+            "CodeDescription": "Mofibo",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MRR",
+            "CodeDescription": "Morrisons",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MTC",
+            "CodeDescription": "Mothercare",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "MYB",
+            "CodeDescription": "MyBoox",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 21,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "MYI",
+            "CodeDescription": "MyiLibrary",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NTR",
+            "CodeDescription": "National Trust",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NEX",
+            "CodeDescription": "NEXT",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NXT",
+            "CodeDescription": "Nextory",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "NUM",
+            "CodeDescription": "Numilog",
+            "CodeNotes": "",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ODL",
+            "CodeDescription": "Odilo.us",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OFD",
+            "CodeDescription": "Office Depot",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OFM",
+            "CodeDescription": "Office Max",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OLF",
+            "CodeDescription": "OLF",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OVD",
+            "CodeDescription": "OverDrive",
+            "CodeNotes": "",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "OYS",
+            "CodeDescription": "Oyster",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 29,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "PST",
+            "CodeDescription": "Past Times",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "PTS",
+            "CodeDescription": "Pet Smart",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PTC",
+            "CodeDescription": "Petco",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PIC",
+            "CodeDescription": "Piccoma",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 57,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PLY",
+            "CodeDescription": "Play.com",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "POD",
+            "CodeDescription": "Podimo",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "POY",
+            "CodeDescription": "Podit Oy",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "POK",
+            "CodeDescription": "Pokkaritukku",
+            "CodeNotes": "Only for use in ONIX 3.0 or later. Deprecated",
+            "IssueNumber": 47,
+            "ModifiedNumber": 58,
+            "DeprecatedNumber": 58
+        },
+        {
+            "CodeValue": "PTB",
+            "CodeDescription": "Pottery Barn",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PLO",
+            "CodeDescription": "Publio",
+            "CodeNotes": "Publio.pl. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RDB",
+            "CodeDescription": "Readbooks",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 21,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "RCL",
+            "CodeDescription": "ReadCloud",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RST",
+            "CodeDescription": "Restoration Hardware",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RET",
+            "CodeDescription": "Rethink",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RTZ",
+            "CodeDescription": "Ritz Camera",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "RMB",
+            "CodeDescription": "RM Books",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 31,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "RBD",
+            "CodeDescription": "Rosebud",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SGR",
+            "CodeDescription": "S Group",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SAC",
+            "CodeDescription": "Sacrum",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SAF",
+            "CodeDescription": "Safari",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SFW",
+            "CodeDescription": "Safeway",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SNS",
+            "CodeDescription": "Sainsbury\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SAX",
+            "CodeDescription": "Saxo",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SCR",
+            "CodeDescription": "Scribd",
+            "CodeNotes": "",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SLF",
+            "CodeDescription": "Selfridges",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SEQ",
+            "CodeDescription": "Sequencity",
+            "CodeNotes": "",
+            "IssueNumber": 35,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SES",
+            "CodeDescription": "Sesamy",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 54,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SBT",
+            "CodeDescription": "Shanghai Book Traders",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SKB",
+            "CodeDescription": "Skoobe",
+            "CodeNotes": "",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SMW",
+            "CodeDescription": "SmashWords",
+            "CodeNotes": "",
+            "IssueNumber": 26,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SNY",
+            "CodeDescription": "Sony",
+            "CodeNotes": "",
+            "IssueNumber": 16,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SPO",
+            "CodeDescription": "Spotify",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 63,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "STP",
+            "CodeDescription": "Staples",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "STH",
+            "CodeDescription": "Storyhouse",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "STT",
+            "CodeDescription": "Storytel",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SKK",
+            "CodeDescription": "Suomalainen Kirjakauppa",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "SPL",
+            "CodeDescription": "Suomalainen Plus",
+            "CodeNotes": "Only for use in ONIX 3.0 or later. Deprecated",
+            "IssueNumber": 49,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": 64
+        },
+        {
+            "CodeValue": "SUP",
+            "CodeDescription": "Supla+",
+            "CodeNotes": "Only for use in ONIX 3.0 or later. Deprecated",
+            "IssueNumber": 50,
+            "ModifiedNumber": 64,
+            "DeprecatedNumber": 64
+        },
+        {
+            "CodeValue": "SSK",
+            "CodeDescription": "Suuri Suomalainen Kirjakerho",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TRG",
+            "CodeDescription": "Target",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TES",
+            "CodeDescription": "Tesco",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TIK",
+            "CodeDescription": "TikTok Shop",
+            "CodeNotes": "TikTok\u2019s in-app store. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TOK",
+            "CodeDescription": "Tokmanni",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TOL",
+            "CodeDescription": "Tolino",
+            "CodeNotes": "",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TSR",
+            "CodeDescription": "Toys \u2019R\u2019 Us",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TSO",
+            "CodeDescription": "TSO (The Stationery Office)",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TKK",
+            "CodeDescription": "Turun kansallinen kirjakauppa",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 58,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "TXR",
+            "CodeDescription": "Txtr",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 24,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "UBH",
+            "CodeDescription": "Ugglan Bokhandel",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 47,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "VRG",
+            "CodeDescription": "Virgin Megastores",
+            "CodeNotes": "Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": 47
+        },
+        {
+            "CodeValue": "TEA",
+            "CodeDescription": "Vivlio",
+            "CodeNotes": "Formerly The Ebook Alternative",
+            "IssueNumber": 21,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WHS",
+            "CodeDescription": "W H Smith",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WTR",
+            "CodeDescription": "Waitrose",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WLM",
+            "CodeDescription": "Wal-Mart",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WST",
+            "CodeDescription": "Waterstone\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WHT",
+            "CodeDescription": "Whitcoul\u2019s",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WLS",
+            "CodeDescription": "Williams Sonoma",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "WLW",
+            "CodeDescription": "Woolworths",
+            "CodeNotes": "",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YOU",
+            "CodeDescription": "Youboox",
+            "CodeNotes": "",
+            "IssueNumber": 34,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "YSC",
+            "CodeDescription": "Youscribe",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZVV",
+            "CodeDescription": "Zavvi",
+            "CodeNotes": "Formerly Virgin Megastores (UK)",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "PUB",
+            "CodeDescription": "Publisher\u2019s own direct sales",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 51,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "ZZZ",
+            "CodeDescription": "Other",
+            "CodeNotes": "Include retailer name in <SalesOutletName>",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

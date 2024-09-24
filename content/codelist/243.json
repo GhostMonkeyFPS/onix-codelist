@@ -1,0 +1,63 @@
+{
+    "CodeListNumber": 243,
+    "CodeListDescription": "Dangerous goods regulations",
+    "IssueNumber": 45,
+    "Code": [
+        {
+            "CodeValue": "00",
+            "CodeDescription": "Inapplicable",
+            "CodeNotes": "The product is not classed as dangerous goods. The default if information is omitted",
+            "IssueNumber": 45,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "01",
+            "CodeDescription": "GHS",
+            "CodeNotes": "Indicates if the product is generally classed as a hazardous substance. <ProductFormFeatureDescription> must contain a Hazard Class [eg \u201cIrritant (Category 2)\u201d] using the Globally Harmonized System of Classification and Labelling of Chemicals (http:\/\/www.unece.org\/fileadmin\/DAM\/trans\/danger\/publi\/ghs\/ghs_rev08\/ST-SG-AC10-30-Rev8e.pdf \u2013 Annex 1 contains a list of hazard classes and categories). The text is usually available on the Safety Data Sheet, along with equivalent GHS Hazard Pictograms, and may also be on the product or packaging. Must be accompanied by a Safety Data Sheet URL (see code 06), and is usually accompanied by one or more of codes 02\u201305 listing the specific chemlcal hazard",
+            "IssueNumber": 45,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Transport",
+            "CodeNotes": "Indicates the product is classed as a hazardous substance for transportation purposes. <ProductFormFeatureDescription> must contain a \u2018UN number\u2019 (or UNID, \u2018UN\u2019 plus four digits from the list of at http:\/\/www.unece.org\/fileadmin\/DAM\/trans\/danger\/publi\/unrec\/English\/index.pdf) specifying the specific chemical hazard, eg UN1203 is gasoline",
+            "IssueNumber": 45,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Storage",
+            "CodeNotes": "Indicates the product is classed as a hazardous substance for storage purposes. <ProductFormFeatureDescription> must contain a \u2018UN number\u2019 (or UNID, \u2018UN\u2019 plus four digits from the list of at http:\/\/www.unece.org\/fileadmin\/DAM\/trans\/danger\/publi\/unrec\/English\/index.pdf) specifying the specific chemical hazard, eg UN1203 is gasoline",
+            "IssueNumber": 45,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Waste",
+            "CodeNotes": "Indicates the product is classed as a hazardous substance for disposal purposes. <ProductFormFeatureDescription> must contain a \u2018UN number\u2019 (or UNID, \u2018UN\u2019 plus four digits from the list of at http:\/\/www.unece.org\/fileadmin\/DAM\/trans\/danger\/publi\/unrec\/English\/index.pdf) specifying the specific chemical hazard, eg UN1203 is gasoline",
+            "IssueNumber": 45,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Other",
+            "CodeNotes": "Indicates the product is classed as a hazardous substance for purposes not covered by other codes. <ProductFormFeatureDescription> must contain a \u2018UN number\u2019 (or UNID, \u2018UN\u2019 plus four digits from the list of at http:\/\/www.unece.org\/fileadmin\/DAM\/trans\/danger\/publi\/unrec\/English\/index.pdf) specifying the specific chemical hazard, eg UN1203 is gasoline. Must be accompanied by a Safety Data Sheet URL (see code 06)",
+            "IssueNumber": 46,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Safety data sheet available",
+            "CodeNotes": "(Material) Safety Data Sheet available for the product. <ProductFormFeatureDescription> must contain the URL of documentation",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

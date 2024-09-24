@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 70,
+    "CodeListDescription": "Stock quantity code type",
+    "IssueNumber": 6,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "As specified in <StockQuantityCodeTypeName>",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "APA stock quantity code",
+            "CodeNotes": "Code scheme defined by the Australian Publishers Association. Deprecated",
+            "IssueNumber": 6,
+            "ModifiedNumber": 48,
+            "DeprecatedNumber": 48
+        }
+    ]
+}

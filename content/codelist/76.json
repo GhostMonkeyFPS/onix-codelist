@@ -1,0 +1,103 @@
+{
+    "CodeListNumber": 76,
+    "CodeListDescription": "DVD region",
+    "IssueNumber": 2,
+    "Code": [
+        {
+            "CodeValue": "0",
+            "CodeDescription": "All regions",
+            "CodeNotes": "DVD or Blu-Ray",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "1",
+            "CodeDescription": "DVD region 1",
+            "CodeNotes": "US, US Territories, Canada",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "2",
+            "CodeDescription": "DVD region 2",
+            "CodeNotes": "Japan, Europe, South Africa and Middle East (including Egypt)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "3",
+            "CodeDescription": "DVD region 3",
+            "CodeNotes": "Southeast Asia, Hong Kong, Macau, South Korea, and Taiwan",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "4",
+            "CodeDescription": "DVD region 4",
+            "CodeNotes": "Australia, New Zealand, Pacific Islands, Central America, Mexico, South America and the Caribbean",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "5",
+            "CodeDescription": "DVD region 5",
+            "CodeNotes": "Eastern Europe (former Soviet Union), Indian subcontinent, Africa, North Korea and Mongolia",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "6",
+            "CodeDescription": "DVD region 6",
+            "CodeNotes": "People\u2019s Republic of China (except Macau and Hong Kong)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "7",
+            "CodeDescription": "DVD region 7",
+            "CodeNotes": "Reserved for future use",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "8",
+            "CodeDescription": "DVD region 8",
+            "CodeNotes": "International venues: aircraft, cruise ships etc",
+            "IssueNumber": 2,
+            "ModifiedNumber": 8,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A",
+            "CodeDescription": "Blu-Ray region A",
+            "CodeNotes": "North America, Central America, South America, Japan, Taiwan, North Korea, South Korea, Hong Kong, and Southeast Asia",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B",
+            "CodeDescription": "Blu-Ray region B",
+            "CodeNotes": "Most of Europe, Greenland, French territories, Middle East, Africa, Australia, and New Zealand, plus all of Oceania",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C",
+            "CodeDescription": "Blu-Ray region C",
+            "CodeNotes": "India, Bangladesh, Nepal, Mainland China, Pakistan, Russia, Ukraine, Belarus, Central, and South Asia",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "CodeListNumber": 102,
+    "CodeListDescription": "Sales outlet identifier type",
+    "IssueNumber": 1,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "Proprietary list of retail and other end-user sales outlet IDs. Note that <IDTypeName> is required with proprietary identifiers",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "ONIX retail sales outlet ID code",
+            "CodeNotes": "Use with ONIX retail and other end-user sales outlet IDs from List 139",
+            "IssueNumber": 8,
+            "ModifiedNumber": 32,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "Retail sales outlet GLN",
+            "CodeNotes": "13-digit GS1 global location number (formerly EAN location number). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Retail sales outlet SAN",
+            "CodeNotes": "7-digit Book trade Standard Address Number (US, UK etc). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 44,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

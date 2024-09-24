@@ -1,0 +1,967 @@
+{
+    "CodeListNumber": 17,
+    "CodeListDescription": "Contributor role code",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "A01",
+            "CodeDescription": "By (author)",
+            "CodeNotes": "Author of a textual work",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A02",
+            "CodeDescription": "With",
+            "CodeNotes": "With or as told to: \u2018ghost\u2019 or secondary author of a literary work (for clarity, should not be used for true \u2018ghost\u2019 authors who are not credited on the book and whose existence is secret)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A03",
+            "CodeDescription": "Screenplay by",
+            "CodeNotes": "Writer of screenplay or script (film or video)",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A04",
+            "CodeDescription": "Libretto by",
+            "CodeNotes": "Writer of libretto (opera): see also A31",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A05",
+            "CodeDescription": "Lyrics by",
+            "CodeNotes": "Author of lyrics (song): see also A31",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A06",
+            "CodeDescription": "By (composer)",
+            "CodeNotes": "Composer of music",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A07",
+            "CodeDescription": "By (artist)",
+            "CodeNotes": "Visual artist when named as the primary creator of, eg, a book of reproductions of artworks",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A08",
+            "CodeDescription": "By (photographer)",
+            "CodeNotes": "Photographer when named as the primary creator of, eg, a book of photographs",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A09",
+            "CodeDescription": "Created by",
+            "CodeNotes": "For example of editorial concept, of board game, etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 50,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A10",
+            "CodeDescription": "From an idea by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A11",
+            "CodeDescription": "Designed by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A12",
+            "CodeDescription": "Illustrated by",
+            "CodeNotes": "Artist when named as the creator of artwork which illustrates a text, or the originator (sometimes \u2018penciller\u2019 for collaborative art) of the artwork of a graphic novel or comic book",
+            "IssueNumber": 0,
+            "ModifiedNumber": 29,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A13",
+            "CodeDescription": "Photographs by",
+            "CodeNotes": "Photographer when named as the creator of photographs which illustrate a text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A14",
+            "CodeDescription": "Text by",
+            "CodeNotes": "Author of text which accompanies art reproductions or photographs, or which is part of a graphic novel or comic book",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A15",
+            "CodeDescription": "Preface by",
+            "CodeNotes": "Author of preface",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A16",
+            "CodeDescription": "Prologue by",
+            "CodeNotes": "Author of prologue",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A17",
+            "CodeDescription": "Summary by",
+            "CodeNotes": "Author of summary",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A18",
+            "CodeDescription": "Supplement by",
+            "CodeNotes": "Author of supplement",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A19",
+            "CodeDescription": "Afterword by",
+            "CodeNotes": "Author of afterword",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A20",
+            "CodeDescription": "Notes by",
+            "CodeNotes": "Author of notes or annotations: see also A29",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A21",
+            "CodeDescription": "Commentaries by",
+            "CodeNotes": "Author of commentaries on the main text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A22",
+            "CodeDescription": "Epilogue by",
+            "CodeNotes": "Author of epilogue",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A23",
+            "CodeDescription": "Foreword by",
+            "CodeNotes": "Author of foreword",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A24",
+            "CodeDescription": "Introduction by",
+            "CodeNotes": "Author of introduction: see also A29",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A25",
+            "CodeDescription": "Footnotes by",
+            "CodeNotes": "Author\/compiler of footnotes",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A26",
+            "CodeDescription": "Memoir by",
+            "CodeNotes": "Author of memoir accompanying main text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A27",
+            "CodeDescription": "Experiments by",
+            "CodeNotes": "Person who carried out experiments reported in the text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A28",
+            "CodeDescription": "Interpreted through",
+            "CodeNotes": "Use with narratives drawn from an oral tradition, where no \u2018ownership\u2019 of the narrative is claimed. See also B33. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A29",
+            "CodeDescription": "Introduction and notes by",
+            "CodeNotes": "Author of introduction and notes: see also A20 and A24",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A30",
+            "CodeDescription": "Software written by",
+            "CodeNotes": "Writer of computer programs ancillary to the text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A31",
+            "CodeDescription": "Book and lyrics by",
+            "CodeNotes": "Author of the textual content of a musical drama: see also A04 and A05",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A32",
+            "CodeDescription": "Contributions by",
+            "CodeNotes": "Author of additional contributions to the text",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A33",
+            "CodeDescription": "Appendix by",
+            "CodeNotes": "Author of appendix",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A34",
+            "CodeDescription": "Index by",
+            "CodeNotes": "Compiler of index",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A35",
+            "CodeDescription": "Drawings by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A36",
+            "CodeDescription": "Cover design or artwork by",
+            "CodeNotes": "Use also for the cover artist of a graphic novel or comic book if named separately",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A37",
+            "CodeDescription": "Preliminary work by",
+            "CodeNotes": "Responsible for preliminary work on which the work is based",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A38",
+            "CodeDescription": "Original author",
+            "CodeNotes": "Author of the first edition (usually of a standard work) who is not an author of the current edition",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A39",
+            "CodeDescription": "Maps by",
+            "CodeNotes": "Maps drawn or otherwise contributed by",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A40",
+            "CodeDescription": "Inked or colored by",
+            "CodeNotes": "Use for secondary creators when separate persons are named as having respectively drawn and inked\/colored\/finished artwork, eg for a graphic novel or comic book. Use with A12 for \u2018drawn by\u2019. Use A40 for \u2018finished by\u2019, but prefer more specific codes A46 to A48 instead of A40 unless the more specific secondary roles are inappropriate, unclear or unavailable",
+            "IssueNumber": 5,
+            "ModifiedNumber": 29,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A41",
+            "CodeDescription": "Paper engineering by",
+            "CodeNotes": "Designer or paper engineer of die-cuts, press-outs or of pop-ups in a pop-up book, who may be different from the illustrator",
+            "IssueNumber": 7,
+            "ModifiedNumber": 38,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A42",
+            "CodeDescription": "Continued by",
+            "CodeNotes": "Use where a standard work is being continued by somebody other than the original author",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A43",
+            "CodeDescription": "Interviewer",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A44",
+            "CodeDescription": "Interviewee",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A45",
+            "CodeDescription": "Comic script by",
+            "CodeNotes": "Writer of dialogue, captions in a comic book (following an outline by the primary writer)",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A46",
+            "CodeDescription": "Inker",
+            "CodeNotes": "Renders final comic book line art based on work of the illustrator or penciller (code A12). Preferred to code A40",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A47",
+            "CodeDescription": "Colorist",
+            "CodeNotes": "Provides comic book color art and effects. Preferred to code A40",
+            "IssueNumber": 29,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A48",
+            "CodeDescription": "Letterer",
+            "CodeNotes": "Creates comic book text balloons and other text elements (where this is a distinct role from script writer and\/or illustrator), or creates calligraphy in non-comic products",
+            "IssueNumber": 29,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A49",
+            "CodeDescription": "Cover inker",
+            "CodeNotes": "Renders final comic book cover line art based on work of the cover designer (code A36), where different from the inker of the interior line art. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A50",
+            "CodeDescription": "Cover colorist",
+            "CodeNotes": "Provides comic book cover color art and effects, where different from the colorist of the interior art and effects. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A51",
+            "CodeDescription": "Research by",
+            "CodeNotes": "Person or organization responsible for performing research on which the work is based. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 39,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A52",
+            "CodeDescription": "Original character design",
+            "CodeNotes": "(for comic books). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "A99",
+            "CodeDescription": "Other primary creator",
+            "CodeNotes": "Other type of primary creator not specified above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B01",
+            "CodeDescription": "Edited by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B02",
+            "CodeDescription": "Revised by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B03",
+            "CodeDescription": "Retold by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B04",
+            "CodeDescription": "Abridged by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B05",
+            "CodeDescription": "Adapted by",
+            "CodeNotes": "See also B22 (Dramatized by)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B06",
+            "CodeDescription": "Translated by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B07",
+            "CodeDescription": "As told by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B08",
+            "CodeDescription": "Translated with commentary by",
+            "CodeNotes": "This code applies where a translator has provided a commentary on issues relating to the translation. If the translator has also provided a commentary on the work itself, codes B06 and A21 should be used",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B09",
+            "CodeDescription": "Series edited by",
+            "CodeNotes": "Name of a series editor when the product belongs to a series",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B10",
+            "CodeDescription": "Edited and translated by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B11",
+            "CodeDescription": "Editor-in-chief",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B12",
+            "CodeDescription": "Guest editor",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B13",
+            "CodeDescription": "Volume editor",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B14",
+            "CodeDescription": "Editorial board member",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B15",
+            "CodeDescription": "Editorial coordination by",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B16",
+            "CodeDescription": "Managing editor",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B17",
+            "CodeDescription": "Founded by",
+            "CodeNotes": "Usually the founder editor of a serial publication (de: Begruendet von)",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B18",
+            "CodeDescription": "Prepared for publication by",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B19",
+            "CodeDescription": "Associate editor",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B20",
+            "CodeDescription": "Consultant editor",
+            "CodeNotes": "Use also for \u2018advisory editor\u2019, \u2018series advisor\u2019, \u2018editorial consultant\u2019 etc",
+            "IssueNumber": 2,
+            "ModifiedNumber": 6,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B21",
+            "CodeDescription": "General editor",
+            "CodeNotes": "",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B22",
+            "CodeDescription": "Dramatized by",
+            "CodeNotes": "See also B05 (Adapted by)",
+            "IssueNumber": 2,
+            "ModifiedNumber": 66,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B23",
+            "CodeDescription": "General rapporteur",
+            "CodeNotes": "In Europe, an expert editor who takes responsibility for the legal content of a collaborative law volume",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B24",
+            "CodeDescription": "Literary editor",
+            "CodeNotes": "Editor who is responsible for establishing the text used in an edition of a literary work, where this is recognised as a distinctive role (es: editor literario)",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B25",
+            "CodeDescription": "Arranged by (music)",
+            "CodeNotes": "",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B26",
+            "CodeDescription": "Technical editor",
+            "CodeNotes": "Responsible for the technical accuracy and language, may also be involved in coordinating and preparing technical material for publication",
+            "IssueNumber": 15,
+            "ModifiedNumber": 30,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B27",
+            "CodeDescription": "Thesis advisor or supervisor",
+            "CodeNotes": "",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B28",
+            "CodeDescription": "Thesis examiner",
+            "CodeNotes": "",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B29",
+            "CodeDescription": "Scientific editor",
+            "CodeNotes": "Responsible overall for the scientific content of the publication",
+            "IssueNumber": 30,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B30",
+            "CodeDescription": "Historical advisor",
+            "CodeNotes": "Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B31",
+            "CodeDescription": "Original editor",
+            "CodeNotes": "Editor of the first edition (usually of a standard work) who is not an editor of the current edition. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B32",
+            "CodeDescription": "Translation revised by",
+            "CodeNotes": "Where possible, use with B06 for the original translator. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 53,
+            "ModifiedNumber": 65,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B33",
+            "CodeDescription": "Transcribed by",
+            "CodeNotes": "As told to. Use with narratives drawn from an oral tradition, and with B03 (Retold by), B07 (As told by) or A28 (Interpreted through). Only for use in ONIX 3.0 or later",
+            "IssueNumber": 65,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B34",
+            "CodeDescription": "Sensitivity reader \/ editor",
+            "CodeNotes": "Reader or editor responsible for ensuring the text is free of offensive, potentially offensive or insensitive language, is inclusive and free from bias, and avoids stereotypical characterization. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "B99",
+            "CodeDescription": "Other adaptation by",
+            "CodeNotes": "Other type of adaptation or editing not specified above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C01",
+            "CodeDescription": "Compiled by",
+            "CodeNotes": "For puzzles, directories, statistics, etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 31,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C02",
+            "CodeDescription": "Selected by",
+            "CodeNotes": "For textual material (eg for an anthology)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 31,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C03",
+            "CodeDescription": "Non-text material selected by",
+            "CodeNotes": "Eg for a collection of photographs etc",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C04",
+            "CodeDescription": "Curated by",
+            "CodeNotes": "Eg for an exhibition",
+            "IssueNumber": 31,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "C99",
+            "CodeDescription": "Other compilation by",
+            "CodeNotes": "Other type of compilation not specified above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D01",
+            "CodeDescription": "Producer",
+            "CodeNotes": "Of a film, of a theatrical or multimedia production, of dramatized audio etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D02",
+            "CodeDescription": "Director",
+            "CodeNotes": "Of a film, of a theatrical or multimedia production, of dramatized audio etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": 63,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D03",
+            "CodeDescription": "Conductor",
+            "CodeNotes": "Conductor of a musical performance",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D04",
+            "CodeDescription": "Choreographer",
+            "CodeNotes": "Of a dance performance. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 38,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "D99",
+            "CodeDescription": "Other direction by",
+            "CodeNotes": "Other type of direction not specified above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E01",
+            "CodeDescription": "Actor",
+            "CodeNotes": "Performer in a dramatized production (including a voice actor in an audio production)",
+            "IssueNumber": 0,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E02",
+            "CodeDescription": "Dancer",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E03",
+            "CodeDescription": "Narrator",
+            "CodeNotes": "Where the narrator is a character in a dramatized production (including a voice actor in an audio production). For the \u2018narrator\u2019 of a non-dramatized audiobook, use code E07",
+            "IssueNumber": 0,
+            "ModifiedNumber": 42,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E04",
+            "CodeDescription": "Commentator",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E05",
+            "CodeDescription": "Vocal soloist",
+            "CodeNotes": "Singer etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E06",
+            "CodeDescription": "Instrumental soloist",
+            "CodeNotes": "",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E07",
+            "CodeDescription": "Read by",
+            "CodeNotes": "Reader of recorded text, as in an audiobook",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E08",
+            "CodeDescription": "Performed by (orchestra, band, ensemble)",
+            "CodeNotes": "Name of a musical group in a performing role",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E09",
+            "CodeDescription": "Speaker",
+            "CodeNotes": "Of a speech, lecture etc",
+            "IssueNumber": 15,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E10",
+            "CodeDescription": "Presenter",
+            "CodeNotes": "Introduces and links other contributors and material, eg within a documentary",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E11",
+            "CodeDescription": "Introduction read by",
+            "CodeNotes": "Reader of recorded introduction (or other \u2018front matter\u2019) in an audiobook. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 62,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "E99",
+            "CodeDescription": "Performed by",
+            "CodeNotes": "Other type of performer not specified above: use for a recorded performance which does not fit a category above, eg a performance by a stand-up comedian",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "F01",
+            "CodeDescription": "Filmed\/photographed by",
+            "CodeNotes": "Cinematographer, etc",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "F02",
+            "CodeDescription": "Editor (film or video)",
+            "CodeNotes": "",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "F99",
+            "CodeDescription": "Other recording by",
+            "CodeNotes": "Other type of recording not specified above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z01",
+            "CodeDescription": "Assisted by",
+            "CodeNotes": "May be associated with any contributor role, and placement should therefore be controlled by contributor sequence numbering",
+            "IssueNumber": 2,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z02",
+            "CodeDescription": "Honored\/dedicated to",
+            "CodeNotes": "",
+            "IssueNumber": 32,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z03",
+            "CodeDescription": "Enacting jurisdiction",
+            "CodeNotes": "For publication of laws, regulations, rulings etc. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 48,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z04",
+            "CodeDescription": "Peer reviewed",
+            "CodeNotes": "Use with <UnnamedPersons> code 02 as a \u2018flag\u2019 to indicate the publication is anonymously peer-reviewed. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 49,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z05",
+            "CodeDescription": "Posthumously completed by",
+            "CodeNotes": "May be associated with any contributor role, and placement should therefore be controlled by contributor sequence numbering. Only for use in ONIX 3.0 or later",
+            "IssueNumber": 64,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z98",
+            "CodeDescription": "(Various roles)",
+            "CodeNotes": "For use ONLY with \u2018et al\u2019 or \u2018Various\u2019 within <UnnamedPersons>, where the roles of the multiple contributors vary",
+            "IssueNumber": 20,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "Z99",
+            "CodeDescription": "Other",
+            "CodeNotes": "Other creative responsibility not falling within A to F above",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

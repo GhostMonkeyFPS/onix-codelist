@@ -1,0 +1,55 @@
+{
+    "CodeListNumber": 156,
+    "CodeListDescription": "Cited content type",
+    "IssueNumber": 10,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Review",
+            "CodeNotes": "The full text of a review in a third-party publication in any medium",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Bestseller list",
+            "CodeNotes": "",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "Media mention",
+            "CodeNotes": "Other than a review",
+            "IssueNumber": 10,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "\u2018One locality, one book\u2019 program",
+            "CodeNotes": "Inclusion in a program such as \u2018Chicago Reads\u2019, \u2018Seattle Reads\u2019, \u2018Canada Reads\u2019, \u2018One Dublin, one book\u2019",
+            "IssueNumber": 10,
+            "ModifiedNumber": 53,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "Curated list",
+            "CodeNotes": "For example a \u2018best books of the year\u2019 or \u201825 books you should have read\u2019 list, without regard to their bestseller status",
+            "IssueNumber": 37,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "Commentary \/ discussion",
+            "CodeNotes": "For example a third party podcast episode, social media message, newsletter issue, other commentary (see also code 03 for very brief items)",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

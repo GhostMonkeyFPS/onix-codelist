@@ -1,0 +1,111 @@
+{
+    "CodeListNumber": 220,
+    "CodeListDescription": "E-publication version number",
+    "IssueNumber": 24,
+    "Code": [
+        {
+            "CodeValue": "101A",
+            "CodeDescription": "EPUB 2.0.1",
+            "CodeNotes": "Use only with <ProductFormDetail> codes E101 or E102",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "101B",
+            "CodeDescription": "EPUB 3.0",
+            "CodeNotes": "Use only with <ProductFormDetail> code E101",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "101C",
+            "CodeDescription": "EPUB 3.0.1",
+            "CodeNotes": "Use only with <ProductFormDetail> code E101",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "101D",
+            "CodeDescription": "EPUB 3.1",
+            "CodeNotes": "Use only with <ProductFormDetail> code E101",
+            "IssueNumber": 33,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "101E",
+            "CodeDescription": "EPUB 3.2",
+            "CodeNotes": "Use only with <ProductFormDetail> code E101",
+            "IssueNumber": 46,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "101F",
+            "CodeDescription": "EPUB 3.3",
+            "CodeNotes": "Use only with <ProductFormDetail> code E101",
+            "IssueNumber": 59,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "107C",
+            "CodeDescription": "PDF 1.3",
+            "CodeNotes": "Use only with <ProductFormDetail> E107 or E108",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "107D",
+            "CodeDescription": "PDF 1.4",
+            "CodeNotes": "Use only with <ProductFormDetail> E107 or E108",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "107G",
+            "CodeDescription": "PDF 1.7",
+            "CodeNotes": "Use only with <ProductFormDetail> E107 or E108",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "107J",
+            "CodeDescription": "PDF 2.0",
+            "CodeNotes": "Use only with <ProductFormDetail> E107 or E108",
+            "IssueNumber": 66,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "116A",
+            "CodeDescription": "Kindle mobi 7",
+            "CodeNotes": "Use only with <ProductFormDetail> codes E116 or E127",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "116B",
+            "CodeDescription": "Kindle KF8",
+            "CodeNotes": "Use only with <ProductFormDetail> code E116",
+            "IssueNumber": 24,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "116C",
+            "CodeDescription": "Kindle KFX",
+            "CodeNotes": "Use only with <ProductFormDetail> code E116",
+            "IssueNumber": 40,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

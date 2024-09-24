@@ -1,0 +1,247 @@
+{
+    "CodeListNumber": 29,
+    "CodeListDescription": "Audience code type",
+    "IssueNumber": 0,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "ONIX audience codes",
+            "CodeNotes": "Using a code from List 28",
+            "IssueNumber": 6,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Proprietary",
+            "CodeNotes": "As specified in <AudienceCodeTypeName>",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "03",
+            "CodeDescription": "MPAA rating",
+            "CodeNotes": "Motion Picture Association of America rating applied to movies",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "04",
+            "CodeDescription": "BBFC rating",
+            "CodeNotes": "British Board of Film Classification rating applied to movies",
+            "IssueNumber": 0,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "05",
+            "CodeDescription": "FSK rating",
+            "CodeNotes": "German FSK (Freiwillige Selbstkontrolle der Filmwirtschaft) rating applied to movies",
+            "IssueNumber": 1,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "06",
+            "CodeDescription": "BTLF audience code",
+            "CodeNotes": "French Canadian audience code list, used by BTLF for Memento",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "07",
+            "CodeDescription": "Electre audience code",
+            "CodeNotes": "Audience code used by Electre (France)",
+            "IssueNumber": 4,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "08",
+            "CodeDescription": "ANELE Tipo",
+            "CodeNotes": "Spain: educational audience and material type code of the Asociaci\u00f3n Nacional de Editores de Libros y Material de Ense\u00f1anza",
+            "IssueNumber": 5,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "09",
+            "CodeDescription": "AVI",
+            "CodeNotes": "Code list used to specify reading levels for children\u2019s books, used in Flanders, and formerly in the Netherlands \u2013 see also code 18",
+            "IssueNumber": 7,
+            "ModifiedNumber": 11,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "10",
+            "CodeDescription": "USK rating",
+            "CodeNotes": "German USK (Unterhaltungssoftware Selbstkontrolle) rating applied to video or computer games",
+            "IssueNumber": 7,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "11",
+            "CodeDescription": "AWS",
+            "CodeNotes": "Audience code used in Flanders",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "12",
+            "CodeDescription": "Schulform",
+            "CodeNotes": "Type of school: codelist formerly maintained by VdS Bildungsmedien eV, the German association of educational media publishers at http:\/\/www.bildungsmedien.de\/service\/onixlisten\/schulform_onix_codelist29_value12_0408.pdf. Deprecated \u2013 use Thema educational purpose qualifier (eg 4Z-DE-BA \u2013 for German Elementary School) in <Subject> instead",
+            "IssueNumber": 8,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 59
+        },
+        {
+            "CodeValue": "13",
+            "CodeDescription": "Bundesland",
+            "CodeNotes": "School region: codelist maintained by VdS Bildungsmedien eV, the German association of educational media publishers, indicating where products are licensed to be used in schools. See http:\/\/www.bildungsmedien.de\/service\/onixlisten\/bundesland_onix_codelist29_value13_0408.pdf. Deprecated",
+            "IssueNumber": 8,
+            "ModifiedNumber": 59,
+            "DeprecatedNumber": 59
+        },
+        {
+            "CodeValue": "14",
+            "CodeDescription": "Ausbildungsberuf",
+            "CodeNotes": "Occupation: codelist for vocational training materials formerly maintained by VdS Bildungsmedien eV, the German association of educational media publishers at http:\/\/www.bildungsmedien.de\/service\/onixlisten\/ausbildungsberufe_onix_codelist29_value14_0408.pdf. Deprecated \u2013 use Thema educational purpose qualifier (eg 4Z-DE-UH \u2013 for specific German professional\/vocational qualifications and degrees) in <Subject> instead",
+            "IssueNumber": 8,
+            "ModifiedNumber": 60,
+            "DeprecatedNumber": 59
+        },
+        {
+            "CodeValue": "15",
+            "CodeDescription": "Suomalainen kouluasteluokitus",
+            "CodeNotes": "Finnish school or college level",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "16",
+            "CodeDescription": "CBG age guidance",
+            "CodeNotes": "UK Publishers Association, Children\u2019s Book Group, coded indication of intended reader age, carried on book covers",
+            "IssueNumber": 8,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "17",
+            "CodeDescription": "Nielsen Book audience code",
+            "CodeNotes": "Audience code used in Nielsen Book Services",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "18",
+            "CodeDescription": "AVI (revised)",
+            "CodeNotes": "Code list used to specify reading levels for children\u2019s books, used in the Netherlands \u2013 see also code 09",
+            "IssueNumber": 11,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "19",
+            "CodeDescription": "Lexile measure",
+            "CodeNotes": "Lexile measure (the Lexile measure in <AudienceCodeValue> may optionally be prefixed by the Lexile code). Examples might be \u2018880L\u2019, \u2018AD0L\u2019 or \u2018HL600L\u2019. Deprecated \u2013 use <Complexity> instead",
+            "IssueNumber": 12,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        },
+        {
+            "CodeValue": "20",
+            "CodeDescription": "Fry Readability score",
+            "CodeNotes": "Fry readability metric based on number of sentences and syllables per 100 words. Expressed as a number from 1 to 15 in <AudienceCodeValue>. Deprecated \u2013 use <Complexity> instead",
+            "IssueNumber": 14,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        },
+        {
+            "CodeValue": "21",
+            "CodeDescription": "Japanese Children\u2019s audience code",
+            "CodeNotes": "Children\u2019s audience code (\u5bfe\u8c61\u8aad\u8005), two-digit encoding of intended target readership from 0\u20132 years up to High School level",
+            "IssueNumber": 18,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "22",
+            "CodeDescription": "ONIX Adult audience rating",
+            "CodeNotes": "Publisher\u2019s rating indicating suitability for a particular adult audience, using a code from List 203. Should only be used when the ONIX Audience code indicates a general adult audience (code 01 from List 28)",
+            "IssueNumber": 18,
+            "ModifiedNumber": 47,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "23",
+            "CodeDescription": "Common European Framework of Reference for Language Learning (CEFR)",
+            "CodeNotes": "Codes A1 to C2 indicating standardised level of language learning or teaching material, from beginner to advanced, defined by the Council of Europe (see http:\/\/www.coe.int\/lang-CEFR)",
+            "IssueNumber": 19,
+            "ModifiedNumber": 41,
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "24",
+            "CodeDescription": "Korean Publication Ethics Commission rating",
+            "CodeNotes": "Rating used in Korea to control selling of books and e-books to minors. Current values are 0 (suitable for all) and 19 (only for sale to ages 19+). See http:\/\/www.kpec.or.kr\/english\/",
+            "IssueNumber": 21,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "25",
+            "CodeDescription": "IoE Book Band",
+            "CodeNotes": "UK Institute of Education Book Bands for Guided Reading scheme (see http:\/\/www.ioe.ac.uk\/research\/4664.html). <AudienceCodeValue> is a color, eg \u2018Pink A\u2019 or \u2018Copper\u2019. Deprecated \u2013 use <Complexity> instead",
+            "IssueNumber": 23,
+            "ModifiedNumber": 24,
+            "DeprecatedNumber": 24
+        },
+        {
+            "CodeValue": "26",
+            "CodeDescription": "FSK Lehr-\/Infoprogramm",
+            "CodeNotes": "Used for German videos\/DVDs with educational or informative content; value for <AudienceCodeValue> must be either \u2018Infoprogramm gem\u00e4\u00df \u00a7 14 JuSchG\u2019 or \u2018Lehrprogramm gem\u00e4\u00df \u00a7 14 JuSchG\u2019",
+            "IssueNumber": 23,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "27",
+            "CodeDescription": "Intended audience language",
+            "CodeNotes": "Where this is different from the language of the text of the book recorded in <Language>. <AudienceCodeValue> should be a value from List 74",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "28",
+            "CodeDescription": "PEGI rating",
+            "CodeNotes": "Pan European Game Information rating used primarily for video games",
+            "IssueNumber": 25,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "29",
+            "CodeDescription": "Gymnasieprogram",
+            "CodeNotes": "Code indicating the intended curriculum (eg Naturvetenskapsprogrammet, Estetica programmet) in Swedish higher secondary education",
+            "IssueNumber": 28,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "30",
+            "CodeDescription": "ISCED 2011",
+            "CodeNotes": "International Standard Classification of Education levels (2011), eg <AudienceCodeValue> 253 is \u2018Lower secondary vocational education, level completion without direct access to upper secondary education\u2019. Only for use in ONIX 3.0 or later. See http:\/\/uis.unesco.org\/en\/topic\/international-standard-classification-education-isced",
+            "IssueNumber": 55,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}

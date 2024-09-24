@@ -1,0 +1,15 @@
+{
+    "CodeListNumber": 172,
+    "CodeListDescription": "Currency zone",
+    "IssueNumber": 9,
+    "Code": [
+        {
+            "CodeValue": "EUR",
+            "CodeDescription": "Eurozone",
+            "CodeNotes": "Countries that at the time being have the Euro as their national currency. Deprecated",
+            "IssueNumber": 9,
+            "ModifiedNumber": 12,
+            "DeprecatedNumber": 12
+        }
+    ]
+}

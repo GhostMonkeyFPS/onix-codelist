@@ -1,0 +1,23 @@
+{
+    "CodeListNumber": 258,
+    "CodeListDescription": "Special finish",
+    "IssueNumber": 53,
+    "Code": [
+        {
+            "CodeValue": "01",
+            "CodeDescription": "Overall matt laminate",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        },
+        {
+            "CodeValue": "02",
+            "CodeDescription": "Overall gloss laminate",
+            "CodeNotes": "",
+            "IssueNumber": 53,
+            "ModifiedNumber": "",
+            "DeprecatedNumber": ""
+        }
+    ]
+}
