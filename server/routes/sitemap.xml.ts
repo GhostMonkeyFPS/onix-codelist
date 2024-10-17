@@ -10,6 +10,11 @@ export default defineEventHandler(async (event) => {
         hostname:  (runtimeConfig.app.cdnURL.length ? runtimeConfig.app.cdnURL : 'https://localhost/').replace(/\/$/gm, '') + '/'
     })
 
+    sitemap.write({
+        url: '',
+        changefreq: 'weekly'
+    })
+
     for (const doc of docs) {
         sitemap.write({
             url: doc._path.replace(/^\//gm, ''),
