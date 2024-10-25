@@ -17,7 +17,7 @@ export default defineEventHandler(async (event) => {
 
     for (const doc of docs) {
         sitemap.write({
-            url: doc._path.replace(/^\//gm, ''),
+            url: doc._path.replace(/^\//gm, '') + '/',
             changefreq: 'weekly'
         })
     }
