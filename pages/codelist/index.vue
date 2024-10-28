@@ -28,7 +28,7 @@ const {data} = await useAsyncData('page-data', () => queryContent('codelist').fi
               <td class="px-6 py-3">{{ list.CodeListDescription }}</td>
               <td class="px-6 py-3">{{ list.IssueNumber }}</td>
               <td class="px-6 py-3">
-                <NuxtLink :href="`/codelist/${list.CodeListNumber}`">
+                <NuxtLink :href="`/codelist/${list.CodeListNumber}/`">
                   <Icon icon="ic:round-table-rows" class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all" />
                 </NuxtLink>
               </td>
