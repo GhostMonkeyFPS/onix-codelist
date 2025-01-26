@@ -63,7 +63,7 @@ const colorMode = useColorMode()
           </div>
         </div>
         <div class="text-center text-sm leading-loose text-muted-foreground items-center justify-between space-x-2 md:justify-end">
-            2024
+            {{ new Date().getFullYear() }}
         </div>
       </div>
     </footer>
