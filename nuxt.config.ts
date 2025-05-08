@@ -10,6 +10,12 @@ export default defineNuxtConfig({
     '@nuxt/image'
   ],
 
+  app: {
+    head: {
+      link: [{rel: 'icon', type: 'image/x-icon', href: 'favicon.ico'}]
+    }
+  },
+
   content: {
     experimental: {
       search: true
