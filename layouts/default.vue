@@ -2,6 +2,7 @@
 import { Icon } from '@iconify/vue'
 import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
+import Search from "~/components/search/Search.vue";
 
 const colorMode = useColorMode()
 
@@ -25,7 +26,11 @@ const colorMode = useColorMode()
           </nav>
         </div>
 
-        <div class="flex flex-1 items-center justify-between space-x-2 md:justify-end">
+        <div class="flex flex-1 justify-end me-2">
+          <Search />
+        </div>
+
+        <div class="flex items-center justify-between space-x-2 md:justify-end">
 
           <DropdownMenu>
             <DropdownMenuTrigger as-child>
@@ -52,7 +57,7 @@ const colorMode = useColorMode()
     </header>
 
     <div class="flex-1 bg-background">
-      <slot/>
+      <slot />
     </div>
 
     <footer class="py-6 md:px-8 md:py-0">

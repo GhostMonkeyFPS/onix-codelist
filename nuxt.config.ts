@@ -1,6 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  sr: false,
   devtools: { enabled: true },
   modules: [
     '@nuxt/content',
@@ -13,12 +12,6 @@ export default defineNuxtConfig({
   app: {
     head: {
       link: [{rel: 'icon', type: 'image/x-icon', href: 'favicon.ico'}]
-    }
-  },
-
-  content: {
-    experimental: {
-      search: true
     }
   },
 
@@ -39,5 +32,5 @@ export default defineNuxtConfig({
     classSuffix: ''
   },
 
-  compatibilityDate: '2024-09-24'
+  compatibilityDate: '2024-09-24',
 })
