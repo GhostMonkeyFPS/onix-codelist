@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefiledescription",
+    "Label": "Resource file description",
+    "Description": "<p>If the Resource file details and features do not adequately describe the resource, a short text description may be added to give a more detailed description. The field is optional, and is repeatable to provide parallel specifications in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ResourceFileDescription&gt;, but must be included in each instance if &lt;ResourceFileDescription&gt; is repeated to provide parallel descriptions in multiple languages.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFileDescription>",
+    "ShortTag": "<x571>",
+    "Cardinality": "0\u2026n",
+    "Example": "<ResourceFileDescription>Preseparated PDF, process black and spot blue</ResourceFileDescription>",
+    "CodeListNumber": ""
+}

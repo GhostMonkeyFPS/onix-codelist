@@ -1,0 +1,11 @@
+{
+    "XMListName": "numberofillustrations",
+    "Label": "Number of illustrations",
+    "Description": "<p>The total number of illustrations in a book or other printed product. The more informative free text field &lt;IllustrationsNote&gt; and/or the &lt;AncillaryContent&gt; composite are strongly preferred, but where a sender of product information maintains only a simple numeric field, the &lt;NumberOfIllustrations&gt; element may be used. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, suggested maximum length 6 digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NumberOfIllustrations>",
+    "ShortTag": "<b125>",
+    "Cardinality": "0\u20261",
+    "Example": "<NumberOfIllustrations>64</NumberOfIllustrations>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "awardingbody",
+    "Label": "Awarding body",
+    "Description": "<p>The name of the organization(s) that awarded the prize. Optional, and repeatable if the text is provided in more than one language. The <i>language</i> attribute is optional for a single instance of &lt;AwardingBody&gt;, but must be included in each instance if &lt;AwardingBody&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AwardingBody>",
+    "ShortTag": "<x584>",
+    "Cardinality": "0\u2026n",
+    "Example": "<samp>&lt;AwardingBody&gt;<span lang=\"de\">Deutsche Akademie f&#252;r Sprache und Dichtung</span>&lt;/AwardingBody&gt;</samp>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "addressee",
+    "Label": "composite",
+    "Description": "<p>A group of data elements which together specify the addressee of an ONIX for Books message. Optional, and repeatable if there are several addressees.</p>\n\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Addressee>",
+    "ShortTag": "<addressee>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

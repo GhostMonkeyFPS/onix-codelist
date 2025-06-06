@@ -1,0 +1,11 @@
+{
+    "XMListName": "unpriceditemtype",
+    "Label": "Unpriced item type",
+    "Description": "<p>An ONIX code which specifies that the product is free of charge, or a reason why a price amount or price code is not sent. <em>If code value 02 is used to send advance information without giving a price, the price must be confirmed as soon as possible.</em> Optional and non-repeating, but required if the &lt;Price&gt; composite does not carry a price amount or price code.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Use here in preference to P.26.42 when the product is available under a variety of priced and unpriced terms from the same supplier.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<UnpricedItemType>",
+    "ShortTag": "<j192>",
+    "Cardinality": "0\u20261",
+    "Example": "<UnpricedItemType>01</UnpricedItemType>",
+    "CodeListNumber": ""
+}

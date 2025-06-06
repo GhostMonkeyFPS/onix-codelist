@@ -1,0 +1,11 @@
+{
+    "XMListName": "componentnumber",
+    "Label": "Component number",
+    "Description": "<p>The number (if any) which is given to the content item in the product, in the form (<i>eg</i>&#160;Arabic or Roman) in which it is given in the product. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ComponentNumber>",
+    "ShortTag": "<b289>",
+    "Cardinality": "0\u20261",
+    "Example": "<ComponentNumber>XX</ComponentNumber>",
+    "CodeListNumber": ""
+}

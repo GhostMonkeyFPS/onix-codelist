@@ -1,0 +1,11 @@
+{
+    "XMListName": "textsourcelink",
+    "Label": "Text source link",
+    "Description": "<p>A URL which provides a link to a full text accessible in digital form, from which the supporting text in &lt;Text&gt; is an extract. Use, for example, to link to an original review. Optional, and repeatable if the resource can be linked in more than one way, <i>eg</i>&#160;by URL or DOI, or where a linked full text is available in multiple parallel languages. Where multiple languages are used, all repeats must carry the <i>language</i> attribute.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Uniform Resource Locator, expressed in full URI syntax in accordance with W3C standards, suggested maximum length 300 characters. Note that non-ASCII characters, spaces and a handful of other special characters should be &#8216;URL-encoded&#8217;. Any ampersand used to separate parameters in the URL must be expressed as &amp;amp;</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TextSourceLink>",
+    "ShortTag": "<x581>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x581>https://www.nytimes.com/archives/2012-08-04/Berni%e8res.htm</x581>",
+    "CodeListNumber": ""
+}

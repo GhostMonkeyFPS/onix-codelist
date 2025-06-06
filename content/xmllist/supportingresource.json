@@ -1,0 +1,11 @@
+{
+    "XMListName": "supportingresource",
+    "Label": "resource composite (content item)",
+    "Description": "<p>A group of data elements which together describe a supporting resource. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupportingResource>",
+    "ShortTag": "<supportingresource>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

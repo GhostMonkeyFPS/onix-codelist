@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributordescription",
+    "Label": "Contributor description",
+    "Description": "<p>Brief text describing a contributor to the product, at the publisher&#8217;s discretion. Optional, and repeatable to provide parallel descriptions in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ContributorDescription&gt;, but must be included in each instance if &lt;ContributorDescription&gt; is repeated. It may be used with either a person or corporate name, to draw attention to any aspect of a contributor&#8217;s background which supports the promotion of the book.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContributorDescription>",
+    "ShortTag": "<b048>",
+    "Cardinality": "0\u2026n",
+    "Example": "<ContributorDescription>Skipper of the winning crew in the Americas Cup, 1998</ContributorDescription>",
+    "CodeListNumber": ""
+}

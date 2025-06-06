@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributordaterole",
+    "Label": "Contributor date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date in relation to the contributor name. Mandatory in each occurrence of the &lt;ContributorDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContributorDateRole>",
+    "ShortTag": "<x417>",
+    "Cardinality": "1",
+    "Example": "<ContributorDateRole>50</ContributorDateRole>",
+    "CodeListNumber": ""
+}

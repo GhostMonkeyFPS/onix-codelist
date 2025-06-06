@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourceform",
+    "Label": "Resource form",
+    "Description": "<p>An ONIX code indicating the form of a version of a supporting resource. Mandatory in each occurrence of the &lt;ResourceVersion&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceForm>",
+    "ShortTag": "<x441>",
+    "Cardinality": "1",
+    "Example": "<ResourceForm>02</ResourceForm>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventidentifier",
+    "Label": "occurrence identifier composite",
+    "Description": "<p>An optional group of data elements which together define an identifier for an event occurrence. The composite is repeatable in order to specify multiple identifiers for the same occurrence.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EventIdentifier>",
+    "ShortTag": "<eventidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

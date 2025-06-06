@@ -1,0 +1,11 @@
+{
+    "XMListName": "productcomposition",
+    "Label": "Product composition",
+    "Description": "<p>An ONIX code which indicates whether a product consists of a single item or multiple items or components. Mandatory in an occurrence of &lt;DescriptiveDetail&gt;, and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductComposition>",
+    "ShortTag": "<x314>",
+    "Cardinality": "1",
+    "Example": "<x314>00</x314>",
+    "CodeListNumber": ""
+}

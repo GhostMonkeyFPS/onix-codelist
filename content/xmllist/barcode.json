@@ -1,0 +1,11 @@
+{
+    "XMListName": "barcode",
+    "Label": "composite",
+    "Description": "<p>A group of data elements which together specify a barcode type and its position on a product. Optional: expected to be used only in North America. Repeatable if more than one type of barcode is carried on a single product. The absence of this composite does <em>not</em> mean that a product is not bar-coded.</p>\n\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Barcode>",
+    "ShortTag": "<barcode>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

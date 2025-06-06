@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributorrole",
+    "Label": "Event contributor role",
+    "Description": "<p>An ONIX code indicating the role played by a person or corporate body participating in a promotional event, which need not be the same role as specified for the contributor referenced in Groups&#160;P.5, P.7 or&#160;P.18. Mandatory in each instance of the &lt;ContributorReference&gt; composite, and may be repeated if the same person or corporate body has more than one role in relation to the event.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, one letter and two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContributorRole>",
+    "ShortTag": "<b035>",
+    "Cardinality": "1\u2026n",
+    "Example": "<b035>E09</b035>",
+    "CodeListNumber": ""
+}

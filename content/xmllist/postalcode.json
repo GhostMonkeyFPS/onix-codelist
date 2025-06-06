@@ -1,0 +1,11 @@
+{
+    "XMListName": "postalcode",
+    "Label": "Supply contact postal code",
+    "Description": "<p>The postal code (postcode, zip code <i>etc</i>), forming part of the postal address of the supply contact organization. Optional and non-repeatable if a Street address is present, but otherwise omitted.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PostalCode>",
+    "ShortTag": "<x590>",
+    "Cardinality": "0\u20261",
+    "Example": "<x590>MI 20090</x590>",
+    "CodeListNumber": ""
+}

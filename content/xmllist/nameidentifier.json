@@ -1,0 +1,11 @@
+{
+    "XMListName": "nameidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together specify a name identifier, used here to carry an identifier for a personal or organizational name which <em>must</em> match a name identifier in an instance of the &lt;Contributor&gt; composite within Groups&#160;P.5, P.7 or P.18, or in an instance of &lt;NameAsSubject&gt; within Groups&#160;P.12 or&#160;P.18, in the same Product record. The &lt;NameIdentifier&gt; composite is mandatory within each instance of the &lt;ContributorReference&gt; composite, and is repeatable to specify name identifiers of different types for the same person or organization name.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<NameIdentifier>",
+    "ShortTag": "<nameidentifier>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

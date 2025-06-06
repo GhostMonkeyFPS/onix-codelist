@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketpublishingdetail",
+    "Label": "publishing detail composite",
+    "Description": "<p>A group of data elements which together give details of the publishing status of a product within a specified market. Optional and non-repeating within an occurrence of the &lt;ProductSupply&gt; block.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<MarketPublishingDetail>",
+    "ShortTag": "<marketpublishingdetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

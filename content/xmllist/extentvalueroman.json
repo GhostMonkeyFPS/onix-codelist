@@ -1,0 +1,11 @@
+{
+    "XMListName": "extentvalueroman",
+    "Label": "Extent value in Roman numerals",
+    "Description": "<p>The value of the extent expressed in Roman numerals. Optional, and non-repeating. Used only for page runs which are numbered in Roman.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Letters forming a valid Roman numeral</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ExtentValueRoman>",
+    "ShortTag": "<x421>",
+    "Cardinality": "0\u20261",
+    "Example": "<ExtentValueRoman>xxiii</ExtentValueRoman>",
+    "CodeListNumber": ""
+}

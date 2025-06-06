@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrightyear",
+    "Label": "Copyright year",
+    "Description": "<p>The copyright year as it appears in a copyright statement on the product. Optional in each occurrence of the &lt;CopyrightStatement&gt; composite but may be omitted only if &lt;CopyrightOwner&gt; is present, and repeatable if several years or periods are listed.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYY if the attribute is missing)</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CopyrightYear>",
+    "ShortTag": "<b087>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b087 dateformat=\"11\">20032008</b087>",
+    "CodeListNumber": ""
+}

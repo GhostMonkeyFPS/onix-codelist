@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicensedaterole",
+    "Label": "Digital content item license date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date in relation to the license. Mandatory in each occurrence of the &lt;EpubLicenseDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubLicenseDateRole>",
+    "ShortTag": "<x585>",
+    "Cardinality": "1",
+    "Example": "<EpubLicenseDateRole>14</EpubLicenseDateRole>",
+    "CodeListNumber": ""
+}

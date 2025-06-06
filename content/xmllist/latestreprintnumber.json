@@ -1,0 +1,11 @@
+{
+    "XMListName": "latestreprintnumber",
+    "Label": "Latest reprint number",
+    "Description": "<p>The number of the most recent reprint (or current &#8216;impression number&#8217;) of the product. Optional and non-repeating. This element is used only in certain countries where there is a legal requirement to record reprints.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum four digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LatestReprintNumber>",
+    "ShortTag": "<x446>",
+    "Cardinality": "0\u20261",
+    "Example": "<LatestReprintNumber>12</LatestReprintNumber>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionsequencetype",
+    "Label": "Collection sequence type",
+    "Description": "<p>An ONIX code identifying the type of ordering used for the product&#8217;s sequence number within the collection. Mandatory and non-repeating within the &lt;CollectionSequence&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionSequenceType>",
+    "ShortTag": "<x479>",
+    "Cardinality": "1",
+    "Example": "<x479>03</x479>",
+    "CodeListNumber": ""
+}

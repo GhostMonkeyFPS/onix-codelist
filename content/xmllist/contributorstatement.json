@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributorstatement",
+    "Label": "Contributor statement",
+    "Description": "<p>Free text showing how the authorship of a content item should be described in an online display, when a standard concatenation of individual contributor elements would not give a satisfactory presentation. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ContributorStatement&gt;, but must be included in each instance if &lt;ContributorStatement&gt; is repeated. When the &lt;ContributorStatement&gt; field is sent, the receiver should use it to replace all name detail (though not the biographical, date or place details) sent in the &lt;Contributor&gt; composite for display purposes only. The individual name detail must also be sent in the &lt;Contributor&gt; composite for indexing and retrieval.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 1000 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContributorStatement>",
+    "ShortTag": "<b049>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b049>Written and illustrated by Fred and Emily Jackson</b049>",
+    "CodeListNumber": ""
+}

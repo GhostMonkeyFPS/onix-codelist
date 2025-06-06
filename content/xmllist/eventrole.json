@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventrole",
+    "Label": "Event role",
+    "Description": "<p>An ONIX code which indicates the relationship between the product and an event to which it is related, <i>eg</i>&#160;Proceedings of conference / Selected papers from conference / Programme for sporting event / Guide for art exhibition. Mandatory and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventRole>",
+    "ShortTag": "<x515>",
+    "Cardinality": "1",
+    "Example": "<x515>03</x515>",
+    "CodeListNumber": ""
+}

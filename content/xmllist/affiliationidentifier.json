@@ -1,0 +1,11 @@
+{
+    "XMListName": "affiliationidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together define an identifier for an organization to which the contributor to the product was affiliated <em>at the time of its creation</em>, and&#160;&#8211; if the &lt;ProfessionalPosition&gt; element is also present&#160;&#8211; where the contributor held that position. Optional, and repeatable to specify organization identifiers of different types for the same organization.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AffiliationIdentifier>",
+    "ShortTag": "<affiliationidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

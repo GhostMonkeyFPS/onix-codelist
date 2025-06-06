@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesoutletname",
+    "Label": "Sales outlet name",
+    "Description": "<p>The name of a wholesale or retail sales outlet to which a sales restriction is linked. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SalesOutletName>",
+    "ShortTag": "<b382>",
+    "Cardinality": "0\u20261",
+    "Example": "<SalesOutletName>Marks &amp; Spencer</SalesOutletName>",
+    "CodeListNumber": ""
+}

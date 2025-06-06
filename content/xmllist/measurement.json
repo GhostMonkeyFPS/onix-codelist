@@ -1,0 +1,11 @@
+{
+    "XMListName": "measurement",
+    "Label": "Measurement",
+    "Description": "<p>The number which represents the dimension specified in &lt;MeasureType&gt; in the measure units specified in &lt;MeasureUnitCode&gt;. Mandatory in each occurrence of the &lt;Measure&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive real number, with explicit decimal point when required, suggested maximum length 6 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Measurement>",
+    "ShortTag": "<c094>",
+    "Cardinality": "1",
+    "Example": "<c094>8.25</c094>",
+    "CodeListNumber": ""
+}

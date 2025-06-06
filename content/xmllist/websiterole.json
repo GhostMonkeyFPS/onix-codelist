@@ -1,0 +1,11 @@
+{
+    "XMListName": "websiterole",
+    "Label": "Website purpose",
+    "Description": "<p>An ONIX code which identifies the role or purpose of the website which is linked through the &lt;WebsiteLink&gt; element. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<WebsiteRole>",
+    "ShortTag": "<b367>",
+    "Cardinality": "0\u20261",
+    "Example": "<b367>34</b367>",
+    "CodeListNumber": ""
+}

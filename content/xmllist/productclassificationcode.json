@@ -1,0 +1,11 @@
+{
+    "XMListName": "productclassificationcode",
+    "Label": "Product classification code",
+    "Description": "<p>A classification code from the scheme specified in &lt;ProductClassificationType&gt;. Mandatory in each occurrence of the &lt;ProductClassification&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the identifier type specified in &lt;ProductClassificationType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductClassificationCode>",
+    "ShortTag": "<b275>",
+    "Cardinality": "1",
+    "Example": "<b275>55101514</b275>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "productidentifier",
+    "Label": "identifier composite (comparison product)",
+    "Description": "<p>A group of data elements which together define an identifier for a comparison product in accordance with a specified scheme. At least one &lt;ProductIdentifier&gt; composite is mandatory within an occurrence of &lt;ComparisonProductPrice&gt;, to identify the product to which the comparison price applies. Repeatable with different identifiers for the same product.</p>\n\t\t\t\t\t\t\t\t\t\t\t\n<p>It is strongly advised that the relationship between the comparison product and the product described in the &lt;Product&gt; record is defined in a &lt;RelatedProduct&gt; composite in P.23&#160;&#8211; typically this might be &lt;ProductRelationCode&gt; 06 (related product is alternative format with same content as product) and may in many circumstances also be 13 (product is e-publication based on related product).</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductIdentifier>",
+    "ShortTag": "<productidentifier>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

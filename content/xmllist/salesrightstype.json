@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesrightstype",
+    "Label": "Sales rights type code",
+    "Description": "<p>An ONIX code which identifies the type of sales right or exclusion which applies in the territories which are associated with it. Mandatory in each occurrence of the &lt;SalesRights&gt; composite, and non-repeating. Values include: for sale with exclusive rights, for sale with non-exclusive rights, not for sale.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SalesRightsType>",
+    "ShortTag": "<b089>",
+    "Cardinality": "1",
+    "Example": "<SalesRightsType>02</SalesRightsType>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "productrelationcode",
+    "Label": "Product relation code",
+    "Description": "<p>An ONIX code which identifies the nature of the relationship between two products, <i>eg</i>&#160;&#8216;replaced-by&#8217;. Mandatory in each occurrence of the &lt;RelatedProduct&gt; composite, and repeatable where the related product has multiple types of relationship to the product described.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductRelationCode>",
+    "ShortTag": "<x455>",
+    "Cardinality": "1\u2026n",
+    "Example": "<x455>06</x455>",
+    "CodeListNumber": ""
+}

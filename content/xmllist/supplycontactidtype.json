@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplycontactidtype",
+    "Label": "Supply contact identifier type",
+    "Description": "<p>An ONIX code identifying a scheme from which an identifier in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;SupplyContactIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplyContactIDType>",
+    "ShortTag": "<x538>",
+    "Cardinality": "1",
+    "Example": "",
+    "CodeListNumber": ""
+}

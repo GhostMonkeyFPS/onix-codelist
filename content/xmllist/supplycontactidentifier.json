@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplycontactidentifier",
+    "Label": "contact identifier composite",
+    "Description": "<p>A group of data elements which together specify an identifier for the supply contact. The composite is optional, and repeatable if more than one identifier of different types is sent; but either a &lt;SupplyContactName&gt; or a &lt;SupplyContactIdentifier&gt; <em>must</em> be included.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplyContactIdentifier>",
+    "ShortTag": "<supplycontactidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

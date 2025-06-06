@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationdetail",
+    "Label": "Specification detail code",
+    "Description": "<p>An ONIX code which specifies added detail of the medium and/or format of the body of the Product or Product part. Optional, and repeatable in order to provide multiple additional details.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, four characters: one letter followed by three digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationDetail>",
+    "ShortTag": "<x560>",
+    "Cardinality": "0\u2026n",
+    "Example": "<SpecificationDetail>B003</SpecificationDetail>",
+    "CodeListNumber": ""
+}

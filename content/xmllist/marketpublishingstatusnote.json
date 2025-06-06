@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketpublishingstatusnote",
+    "Label": "Market publishing status note",
+    "Description": "<p>Free text that describes the status of a product in a specified market, when the code in &lt;MarketPublishingStatus&gt; is insufficient. Optional, but when used, must be accompanied by the &lt;MarketPublishingStatus&gt; element. Repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;MarketPublishingStatusNote&gt;, but must be included in each instance if &lt;MarketPublishingStatusNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 300 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MarketPublishingStatusNote>",
+    "ShortTag": "<x406>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x406>Agent has lost contact with publisher</x406>",
+    "CodeListNumber": ""
+}

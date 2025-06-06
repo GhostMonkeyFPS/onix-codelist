@@ -1,0 +1,11 @@
+{
+    "XMListName": "returnscodetype",
+    "Label": "Returns code type",
+    "Description": "<p>An ONIX code identifying the scheme from which the returns conditions code in &lt;ReturnsCode&gt; is taken. Mandatory in each occurrence of the &lt;ReturnsConditions&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReturnsCodeType>",
+    "ShortTag": "<j268>",
+    "Cardinality": "1",
+    "Example": "<ReturnsCodeType>01</ReturnsCodeType>",
+    "CodeListNumber": ""
+}

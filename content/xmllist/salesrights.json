@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesrights",
+    "Label": "rights composite",
+    "Description": "<p>An optional and repeatable group of data elements which together identify territorial sales rights which a publisher chooses to exercise in a product. When specifying a territory in which the product is not for sale, the publisher and product ID for an edition which is available in the specified territory can optionally be included. (In releases prior to 3.0, this functionality was provided in a &lt;NotForSale&gt; composite, which is now redundant and has been deleted.) See examples at the end of the sales rights composite.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SalesRights>",
+    "ShortTag": "<salesrights>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "returnscode",
+    "Label": "Returns conditions code",
+    "Description": "<p>A returns conditions code from the scheme specified in &lt;ReturnsCodeType&gt;. Mandatory in each occurrence of the &lt;ReturnsConditions&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the scheme specified in &lt;ReturnsCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReturnsCode>",
+    "ShortTag": "<j269>",
+    "Cardinality": "1",
+    "Example": "<j269>S</j269>",
+    "CodeListNumber": ""
+}

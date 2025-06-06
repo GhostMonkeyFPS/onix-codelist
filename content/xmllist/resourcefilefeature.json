@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefilefeature",
+    "Label": "file feature composite",
+    "Description": "<p>An optional group of data elements which together describe an aspect of a resource file specified in &lt;ResourceFileLink&gt; that is too specific to be covered in the &lt;ResourceFileDetail&gt; element. The composite is repeatable in order to describe different aspects of the resource file.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ResourceFileFeature>",
+    "ShortTag": "<resourcefilefeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

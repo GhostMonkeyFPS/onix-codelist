@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationfeaturedescription",
+    "Label": "Specification feature description",
+    "Description": "<p>If the &lt;SpecificationFeatureType&gt; requires free text rather than a controlled value, or if the code in &lt;SpecificationFeatureValue&gt; does not adequately specify the feature of the body, a short text description may be added. Optional, and repeatable to provide parallel descriptive text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;SpecificationFeatureDescription&gt;, but must be included in each instance if &lt;SpecificationFeatureDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationFeatureDescription>",
+    "ShortTag": "<x563>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x563>Tip-in card with perforation</x563>",
+    "CodeListNumber": ""
+}

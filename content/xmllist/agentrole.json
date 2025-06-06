@@ -1,0 +1,11 @@
+{
+    "XMListName": "agentrole",
+    "Label": "Agent role",
+    "Description": "<p>An ONIX code identifying the role of an agent in relation to the product in the specified market, <i>eg</i>&#160;Exclusive sales agent, Local publisher, <i>etc</i>. Mandatory in each occurrence of the &lt;PublisherRepresentative&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AgentRole>",
+    "ShortTag": "<j402>",
+    "Cardinality": "1",
+    "Example": "<AgentRole>07</AgentRole>",
+    "CodeListNumber": ""
+}

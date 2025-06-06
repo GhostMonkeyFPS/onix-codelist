@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplydate",
+    "Label": "date composite",
+    "Description": "<p>An optional group of data elements which together specify a date associated with the supply status of the product, <i>eg</i>&#160;expected ship date. Repeatable in order to specify multiple dates.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplyDate>",
+    "ShortTag": "<supplydate>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

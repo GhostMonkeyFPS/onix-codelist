@@ -1,0 +1,11 @@
+{
+    "XMListName": "velocitymetric",
+    "Label": "Velocity metric",
+    "Description": "<p>An ONIX code that specifies how the rate of stock depletion is measured. Mandatory within the &lt;Velocity&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<VelocityMetric>",
+    "ShortTag": "<x504>",
+    "Cardinality": "1",
+    "Example": "<x504>02</x504>",
+    "CodeListNumber": ""
+}

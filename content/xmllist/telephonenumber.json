@@ -1,0 +1,11 @@
+{
+    "XMListName": "telephonenumber",
+    "Label": "New supplier telephone number",
+    "Description": "<p>A telephone number of a supply source from which the product may be ordered by a trade customer. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TelephoneNumber>",
+    "ShortTag": "<j270>",
+    "Cardinality": "0\u2026n",
+    "Example": "<TelephoneNumber>+44 20 8843 8607</TelephoneNumber>",
+    "CodeListNumber": ""
+}

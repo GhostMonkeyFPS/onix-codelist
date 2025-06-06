@@ -1,0 +1,11 @@
+{
+    "XMListName": "professionalposition",
+    "Label": "Professional position",
+    "Description": "<p>A professional position held by a contributor to the product <em>at the time of its creation</em>. Optional, and repeatable to provide parallel text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ProfessionalPosition&gt;, but must be included in each instance if &lt;ProfessionalPosition&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProfessionalPosition>",
+    "ShortTag": "<b045>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b045>Humboldt Professor of Oceanography</b045>",
+    "CodeListNumber": ""
+}

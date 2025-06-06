@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceper",
+    "Label": "Unit of pricing",
+    "Description": "<p>An ONIX code indicating the unit of product which is the basis for the price carried in an occurrence of the &lt;Price&gt; composite. Optional and non-repeating. Where the price applies to a copy of the whole product, this field is normally omitted.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PricePer>",
+    "ShortTag": "<j239>",
+    "Cardinality": "0\u20261",
+    "Example": "<PricePer>01</PricePer>",
+    "CodeListNumber": ""
+}

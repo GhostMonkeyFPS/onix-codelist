@@ -1,0 +1,11 @@
+{
+    "XMListName": "fundingidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together identify a particular grant or award. At least one &lt;FundingIdentifier&gt; composite must occur in each instance of the &lt;Funding&gt; composite. Repeatable when the grant or award has multiple identifiers.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<FundingIdentifier>",
+    "ShortTag": "<fundingidentifier>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

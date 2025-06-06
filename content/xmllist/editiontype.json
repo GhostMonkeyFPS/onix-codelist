@@ -1,0 +1,11 @@
+{
+    "XMListName": "editiontype",
+    "Label": "Edition type code",
+    "Description": "<p>An ONIX code, indicating the type of a version or edition. Optional, and repeatable if the product has characteristics of two or more types (<i>eg</i>&#160;&#8216;revised&#8217; and &#8216;annotated&#8217;).</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three upper-case letters</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EditionType>",
+    "ShortTag": "<x419>",
+    "Cardinality": "0\u2026n",
+    "Example": "<EditionType>ILL</EditionType>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "taxexempt",
+    "Label": "Tax exempt flag",
+    "Description": "<p>An empty element that identifies a product price as being specifically exempted from tax. Optional, and used only when &lt;PriceType&gt; indicates an exc-tax price.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that tax exempt status is rare: it applies in only a very few countries. Tax exempt is distinct from the case where tax details are not specified (as is the case with most North American Prices) and also distinct from the case where tax is levied at zero percent (as is the case for physical books in the UK, for example).</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TaxExempt/>",
+    "ShortTag": "<x546/>",
+    "Cardinality": "0\u20261",
+    "Example": "<TaxExempt/>",
+    "CodeListNumber": ""
+}

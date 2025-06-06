@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectcode",
+    "Label": "Subject code",
+    "Description": "<p>A single subject class or category code from the scheme specified in the &lt;SubjectSchemeIdentifier&gt; element. Either &lt;SubjectCode&gt; or &lt;SubjectHeadingText&gt; or both must be present in each occurrence of the &lt;Subject&gt; composite. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectCode>",
+    "ShortTag": "<b069>",
+    "Cardinality": "0\u20261",
+    "Example": "<SubjectCode>623.95</SubjectCode>",
+    "CodeListNumber": ""
+}

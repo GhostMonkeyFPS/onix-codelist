@@ -1,0 +1,11 @@
+{
+    "XMListName": "noprefix",
+    "Label": "\u201cNo prefix\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication that a title element does not include any prefix that is ignored for sorting purposes. Optional and non-repeating, and must only be used when &lt;TitleWithoutPrefix&gt; is used and no &lt;TitlePrefix&gt; element is present.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NoPrefix/>",
+    "ShortTag": "<x501/>",
+    "Cardinality": "0\u20261",
+    "Example": "<NoPrefix/>",
+    "CodeListNumber": ""
+}

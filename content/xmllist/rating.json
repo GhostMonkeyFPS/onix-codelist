@@ -1,0 +1,11 @@
+{
+    "XMListName": "rating",
+    "Label": "Review rating",
+    "Description": "<p>An optional &#8216;star rating&#8217; awarded as part of a review of the publication. Mandatory within an occurrence of the &lt;ReviewRating&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive real number, with explicit decimal point when required, or zero, as appropriate for the limit specified in &lt;RatingLimit&gt;. Suggested maximum length 7 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Rating>",
+    "ShortTag": "<x525>",
+    "Cardinality": "1",
+    "Example": "<Rating>4.5</Rating>",
+    "CodeListNumber": ""
+}

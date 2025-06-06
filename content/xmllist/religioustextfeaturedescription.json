@@ -1,0 +1,11 @@
+{
+    "XMListName": "religioustextfeaturedescription",
+    "Label": "Religious text feature description",
+    "Description": "<p>Free text describing a feature that is not adequately defined by code values alone. Optional, and repeatable if parallel descriptive text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ReligiousTextFeatureDescription&gt;, but must be included in each instance if &lt;ReligiousTextFeatureDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 100 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReligiousTextFeatureDescription>",
+    "ShortTag": "<b360>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

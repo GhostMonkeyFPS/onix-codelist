@@ -1,0 +1,11 @@
+{
+    "XMListName": "expecteddate",
+    "Label": "Shipment expected date",
+    "Description": "<p>The date on which a stock shipment is expected. Mandatory in each occurrence of the &lt;OnOrderDetail&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYYMMDD if the attribute is missing</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ExpectedDate>",
+    "ShortTag": "<j302>",
+    "Cardinality": "1",
+    "Example": "<ExpectedDate>20060227</ExpectedDate>",
+    "CodeListNumber": ""
+}

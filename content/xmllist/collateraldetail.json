@@ -1,0 +1,11 @@
+{
+    "XMListName": "collateraldetail",
+    "Label": "detail composite",
+    "Description": "<p>The collateral detail block covers data Groups P.14 to P.17, all of which are primarily concerned with information and/or resources which in one way or another support the marketing of the product. The block as a whole is non-repeating.</p>\n\t\t\t\t\t\t\n<p>The block is not mandatory within the &lt;Product&gt; record, nor are any of the individual sections mandatory within an occurrence of the block. However, in most circumstances, the block should contain at least one instance of &lt;TextContent&gt;, &lt;CitedContent&gt;, &lt;SupportingResource&gt; or &lt;Prize&gt;. It may be empty <em>only</em> within a partial or &#8216;block update&#8217; (Notification or update type&#160;04, see&#160;P.1.2), when the intention is to remove all previously-supplied collateral material.</p>\n\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CollateralDetail>",
+    "ShortTag": "<collateraldetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

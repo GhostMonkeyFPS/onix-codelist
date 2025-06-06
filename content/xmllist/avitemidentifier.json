@@ -1,0 +1,11 @@
+{
+    "XMListName": "avitemidentifier",
+    "Label": "item identifier composite",
+    "Description": "<p>A group of data elements which together define an identifier of an audio or audiovisual content item in accordance with a specified identifier scheme. The composite is optional, and repeatable in order to provide multiple identifiers for the content item.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AVItemIdentifier>",
+    "ShortTag": "<avitemidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

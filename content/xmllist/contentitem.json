@@ -1,0 +1,11 @@
+{
+    "XMListName": "contentitem",
+    "Label": "item composite",
+    "Description": "<p>A group of data elements which together describe a content item within a product. Optional in any occurrence of the &lt;ContentDetail&gt; composite, but it may be omitted only within a partial or &#8216;block update&#8217; (Notification or update type 04, see P.1.2) when the intention is to remove all previously supplied content detail. When used normally, it is repeatable for each content item within the product.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ContentItem>",
+    "ShortTag": "<contentitem>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

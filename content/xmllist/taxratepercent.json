@@ -1,0 +1,11 @@
+{
+    "XMListName": "taxratepercent",
+    "Label": "Tax rate percent",
+    "Description": "<p>A tax rate expressed numerically as a percentage. Optional and non-repeating; but either &lt;TaxRatePercent&gt; or &lt;TaxAmount&gt; or both must be present in each occurrence of the &lt;Tax&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Real number between zero and 100 (inclusive), with explicit decimal point when required, suggested maximum length 7 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TaxRatePercent>",
+    "ShortTag": "<x472>",
+    "Cardinality": "0\u20261",
+    "Example": "<TaxRatePercent>17.5</TaxRatePercent>",
+    "CodeListNumber": ""
+}

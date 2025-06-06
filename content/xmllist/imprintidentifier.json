@@ -1,0 +1,11 @@
+{
+    "XMListName": "imprintidentifier",
+    "Label": "or brand identifier composite",
+    "Description": "<p>A group of data elements which together define the identifier of an imprint name. Optional, but mandatory if the &lt;Imprint&gt; composite does not carry an &lt;ImprintName&gt;. The composite is repeatable in order to specify multiple identifiers for the same imprint or brand.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ImprintIdentifier>",
+    "ShortTag": "<imprintidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "texttype",
+    "Label": "Text type code",
+    "Description": "<p>An ONIX code which identifies the type of text which is sent in the &lt;Text&gt; element. Mandatory in each occurrence of the &lt;TextContent&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TextType>",
+    "ShortTag": "<x426>",
+    "Cardinality": "1",
+    "Example": "<TextType>04</TextType>",
+    "CodeListNumber": ""
+}

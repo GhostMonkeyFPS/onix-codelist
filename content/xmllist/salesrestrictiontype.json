@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesrestrictiontype",
+    "Label": "Sales restriction type code",
+    "Description": "<p>An ONIX code which identifies a non-territorial sales restriction. Mandatory in each occurrence of the &lt;SalesRestriction&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SalesRestrictionType>",
+    "ShortTag": "<b381>",
+    "Cardinality": "1",
+    "Example": "<b381>07</b381>",
+    "CodeListNumber": ""
+}

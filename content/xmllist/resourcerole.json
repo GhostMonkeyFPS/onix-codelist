@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcerole",
+    "Label": "Resource role code",
+    "Description": "<p>An ONIX code which identifies the role or purpose of the resource file which is specified in &lt;ResourceFileLink&gt;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceRole>",
+    "ShortTag": "<x566>",
+    "Cardinality": "0\u20261",
+    "Example": "<ResourceRole>01</ResourceRole>",
+    "CodeListNumber": ""
+}

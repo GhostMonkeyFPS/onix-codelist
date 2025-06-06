@@ -1,0 +1,11 @@
+{
+    "XMListName": "componenttypename",
+    "Label": "Component type name",
+    "Description": "<p>The generic name (if any) which is given in the product to the type of section which the content item represents, <i>eg</i>&#160;Chapter, Part, Track. Optional and non-repeating; but either this field or a title (in the &lt;TitleDetail&gt; composite), or both, must be present in each occurrence of the &lt;ContentItem&gt;.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ComponentTypeName>",
+    "ShortTag": "<b288>",
+    "Cardinality": "0\u20261",
+    "Example": "<b288>Chapter</b288>",
+    "CodeListNumber": ""
+}

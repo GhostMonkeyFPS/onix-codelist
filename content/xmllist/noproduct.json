@@ -1,0 +1,11 @@
+{
+    "XMListName": "noproduct",
+    "Label": "\u201cNo product\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication that a message does not carry any Product records. Intended to be used only in empty &#8216;delta&#8217; update messages to provide confirmation that there have been no updates since the previous message. Optional and non-repeating, but must be used in an ONIX message that contains no &lt;Product&gt; composites.</p>\n\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t",
+    "ReferenceName": "<NoProduct/>",
+    "ShortTag": "<x507/>",
+    "Cardinality": "0\u20261",
+    "Example": "<x507/>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "namesbeforekey",
+    "Label": "Person name part 2: names before key names",
+    "Description": "<p>The second part of a structured name of a person who contributed to the creation of the product: name(s) and/or initial(s) preceding a person&#8217;s key name(s), <i>eg</i>&#160;James J. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NamesBeforeKey>",
+    "ShortTag": "<b039>",
+    "Cardinality": "0\u20261",
+    "Example": "<b039>James J.</b039>",
+    "CodeListNumber": ""
+}

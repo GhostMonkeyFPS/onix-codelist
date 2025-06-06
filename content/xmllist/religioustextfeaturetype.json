@@ -1,0 +1,11 @@
+{
+    "XMListName": "religioustextfeaturetype",
+    "Label": "Religious text feature type",
+    "Description": "<p>An ONIX code specifying a feature described in the associated &lt;ReligiousTextFeatureCode&gt; element. Mandatory in each occurrence of the &lt;ReligiousTextFeature&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReligiousTextFeatureType>",
+    "ShortTag": "<b358>",
+    "Cardinality": "1",
+    "Example": "<b358>01</b358>",
+    "CodeListNumber": ""
+}

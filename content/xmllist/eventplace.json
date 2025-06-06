@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventplace",
+    "Label": "Event place",
+    "Description": "<p>The place of an event to which the product is related. Optional, and repeatable to provide parallel placenames for a single location in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EventPlace&gt;, but must be included in each instance if &lt;EventPlace&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventPlace>",
+    "ShortTag": "<x521>",
+    "Cardinality": "0\u2026n",
+    "Example": "<samp>&lt;EventPlace&gt;<span lang=\"fr\">Aix-les-Bains</span>, France&lt;/EventPlace&gt;</samp>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "numberofcopies",
+    "Label": "Number of copies (product part)",
+    "Description": "<p>When product parts are listed as a specified number of copies of a single item, usually identified by a &lt;ProductIdentifier&gt;, &lt;NumberOfCopies&gt; must be used to specify the quantity, even if the number is &#8216;1&#8217;. It must be used when a multiple-item product or pack contains (a) a quantity of a single item; or (b) one of each of several different items (as in a multi-volume set); or (c) one or more of each of several different items (as in a dumpbin carrying copies of two different books, or a classroom pack containing a teacher&#8217;s text and twenty student texts). Consequently the element is mandatory, and non-repeating, in an occurrence of the &lt;ProductPart&gt; composite if &lt;NumberOfItemsOfThisForm&gt; is not present. It is normally accompanied by a &lt;ProductIdentifier&gt;; but in exceptional circumstances, if the sender&#8217;s system is unable to provide an identifier at this level, it may be sent with product form coding and without an ID.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NumberOfCopies>",
+    "ShortTag": "<x323>",
+    "Cardinality": "0\u20261",
+    "Example": "<x323>24</x323>",
+    "CodeListNumber": ""
+}

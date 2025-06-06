@@ -1,0 +1,11 @@
+{
+    "XMListName": "countryofmanufacture",
+    "Label": "Country of manufacture (product part)",
+    "Description": "<p>An ONIX code identifying the country in which a product part was manufactured, if different product parts were manufactured in different countries. This information is needed in some countries to meet regulatory requirements. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters, based on ISO 3166-1. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CountryOfManufacture>",
+    "ShortTag": "<x316>",
+    "Cardinality": "0\u20261",
+    "Example": "<CountryOfManufacture>US</CountryOfManufacture>",
+    "CodeListNumber": ""
+}

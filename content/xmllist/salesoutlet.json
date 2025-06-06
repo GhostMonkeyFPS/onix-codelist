@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesoutlet",
+    "Label": "outlet composite",
+    "Description": "<p>An optional and repeatable group of data elements which together identify a sales outlet to which a restriction is linked. Each occurrence of the composite must include a &lt;SalesOutletIdentifier&gt; composite or a &lt;SalesOutletName&gt; or both. Repeatable in order to identify multiple sales outlets subject to the restriction.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SalesOutlet>",
+    "ShortTag": "<salesoutlet>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

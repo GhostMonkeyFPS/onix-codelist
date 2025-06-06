@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencerangeprecision",
+    "Label": "Audience range precision (2)",
+    "Description": "<p>An ONIX code specifying the &#8216;precision&#8217; of the value in &lt;AudienceRangeValue&gt; element which follows. Optional and non-repeating. This second occurrence of the two elements &lt;AudienceRangePrecision&gt; and &lt;AudienceRangeValue&gt; is required only when a &#8216;from &#8230; to &#8230;&#8217; range is specified.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceRangePrecision>",
+    "ShortTag": "<b075>",
+    "Cardinality": "0\u20261",
+    "Example": "<AudienceRangePrecision>04</AudienceRangePrecision>",
+    "CodeListNumber": ""
+}

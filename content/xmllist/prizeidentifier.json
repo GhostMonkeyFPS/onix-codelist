@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizeidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together specify an identifier for the Prize. The composite is optional, and repeatable if more than one identifier for the same prize is sent.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PrizeIdentifier>",
+    "ShortTag": "<prizeidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

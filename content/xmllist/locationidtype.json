@@ -1,0 +1,11 @@
+{
+    "XMListName": "locationidtype",
+    "Label": "Location identifier type",
+    "Description": "<p>An ONIX code identifying the scheme from which the identifier in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;LocationIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LocationIDType>",
+    "ShortTag": "<j377>",
+    "Cardinality": "1",
+    "Example": "<LocationIDType>06</LocationIDType>",
+    "CodeListNumber": ""
+}

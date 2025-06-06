@@ -1,0 +1,11 @@
+{
+    "XMListName": "productavailability",
+    "Label": "Product availability",
+    "Description": "<p>An ONIX code indicating the availability of a product from a supplier. Mandatory in each occurrence of the &lt;SupplyDetail&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductAvailability>",
+    "ShortTag": "<j396>",
+    "Cardinality": "1",
+    "Example": "<j396 datestamp=\"20101029\">41</j396>",
+    "CodeListNumber": ""
+}

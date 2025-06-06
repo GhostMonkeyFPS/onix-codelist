@@ -1,0 +1,11 @@
+{
+    "XMListName": "notificationtype",
+    "Label": "Notification or update type code",
+    "Description": "<p>An ONIX code which indicates the type of notification or update which you are sending. Mandatory and non-repeating.</p>\n\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NotificationType>",
+    "ShortTag": "<a002>",
+    "Cardinality": "1",
+    "Example": "<NotificationType>02</NotificationType>",
+    "CodeListNumber": ""
+}

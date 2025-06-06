@@ -1,0 +1,11 @@
+{
+    "XMListName": "promotioncampaign",
+    "Label": "Promotion campaign information",
+    "Description": "<p>Free text describing the promotion and adverting campaign for the product. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;PromotionCampaign&gt;, but must be included in each instance if &lt;PromotionCampaign&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 2,000 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PromotionCampaign>",
+    "ShortTag": "<k165>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

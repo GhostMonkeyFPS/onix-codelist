@@ -1,0 +1,11 @@
+{
+    "XMListName": "nametype",
+    "Label": "Alternative name type",
+    "Description": "<p>An ONIX code indicating the type of the name sent in an occurrence of the &lt;AlternativeName&gt; composite. Mandatory in each occurrence of the composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NameType>",
+    "ShortTag": "<x414>",
+    "Cardinality": "1",
+    "Example": "<x414>01</x414>",
+    "CodeListNumber": ""
+}

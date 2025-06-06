@@ -1,0 +1,11 @@
+{
+    "XMListName": "productionmanifest",
+    "Label": "manifest composite",
+    "Description": "<p>A group of data elements which together carry manifest details for a single Product or Product part. </p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductionManifest>",
+    "ShortTag": "<productionmanifest>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

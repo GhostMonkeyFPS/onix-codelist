@@ -1,0 +1,11 @@
+{
+    "XMListName": "editionnumber",
+    "Label": "Edition number",
+    "Description": "<p>The number of a numbered edition. Optional and non-repeating. Normally sent only for the second and subsequent editions, but by agreement between parties to an ONIX exchange or when a first and a subsequent edition are available at the same time, a first edition may be explicitly numbered.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EditionNumber>",
+    "ShortTag": "<b057>",
+    "Cardinality": "0\u20261",
+    "Example": "<b057>3</b057>",
+    "CodeListNumber": ""
+}

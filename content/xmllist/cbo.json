@@ -1,0 +1,11 @@
+{
+    "XMListName": "cbo",
+    "Label": "Committed backorder quantity",
+    "Description": "<p>The quantity of stock on order which is already committed to meet backorders. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, suggested maximum length 7 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CBO>",
+    "ShortTag": "<j375>",
+    "Cardinality": "0\u20261",
+    "Example": "<CBO>244</CBO>",
+    "CodeListNumber": ""
+}

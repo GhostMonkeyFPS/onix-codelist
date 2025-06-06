@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrightowneridtype",
+    "Label": "Copyright owner identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;CopyrightOwnerIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CopyrightOwnerIDType>",
+    "ShortTag": "<b392>",
+    "Cardinality": "1",
+    "Example": "<CopyrightOwnerIDType>18</CopyrightOwnerIDType>",
+    "CodeListNumber": ""
+}

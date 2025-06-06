@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricestatus",
+    "Label": "Price status",
+    "Description": "<p>An ONIX code which specifies the status of a price. Optional and non-repeating. If the field is omitted, the default &#8216;unspecified&#8217; will apply.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceStatus>",
+    "ShortTag": "<j266>",
+    "Cardinality": "0\u20261",
+    "Example": "<PriceStatus>01</PriceStatus>",
+    "CodeListNumber": ""
+}

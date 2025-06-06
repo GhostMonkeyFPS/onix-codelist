@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicenseexpressiontypename",
+    "Label": "License expression type name (content item)",
+    "Description": "<p>A short free-text name for a license expression type, when the code in &lt;EpubLicenseExpressionType&gt; provides insufficient detail&#160;&#8211; for example when a machine-readable license is expressed using a particular proprietary encoding scheme. Optional and non-repeating, and must be included when (and only when) the &lt;EpubLicenseExpressionType&gt; element indicates the expression is encoded in a proprietary way.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubLicenseExpressionTypeName>",
+    "ShortTag": "<x509>",
+    "Cardinality": "0\u20261",
+    "Example": "<x509>ABC-XML</x509>",
+    "CodeListNumber": ""
+}

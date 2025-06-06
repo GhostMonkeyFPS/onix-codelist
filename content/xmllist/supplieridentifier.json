@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplieridentifier",
+    "Label": "supplier identifier composite",
+    "Description": "<p>A group of data elements which together define the identity of a supplier in accordance with a specified scheme, and repeatable to allow different types of supplier identifier to be included without defining additional data elements. Optional, but each occurrence of the &lt;NewSupplier&gt; composite must carry <em>either</em> at least one supplier identifier, <em>or</em> a &lt;SupplierName&gt;, <em>or</em> both.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplierIdentifier>",
+    "ShortTag": "<supplieridentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

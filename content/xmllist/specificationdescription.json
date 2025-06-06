@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationdescription",
+    "Label": "Specification description",
+    "Description": "<p>If Specification details and features do not adequately specify the body of the product, a short text description may be added to give a more detailed specification. The field is optional, and repeatable to provide parallel specifications in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;SpecificationDescription&gt;, but must be included in each instance if &lt;SpecificationDescription&gt; is repeated to provide parallel descriptions in multiple languages.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationDescription>",
+    "ShortTag": "<x564>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x564>With die-cut in outer bottom corner of leaves</x564>",
+    "CodeListNumber": ""
+}

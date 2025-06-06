@@ -1,0 +1,11 @@
+{
+    "XMListName": "textauthor",
+    "Label": "Author of text",
+    "Description": "<p>The name of an author of text sent in the &lt;Text&gt; element, <i>eg</i>&#160;if it is a review or promotional quote. Optional, and repeatable if the text is jointly authored.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TextAuthor>",
+    "ShortTag": "<d107>",
+    "Cardinality": "0\u2026n",
+    "Example": "<d107>Martin Amis</d107>",
+    "CodeListNumber": ""
+}

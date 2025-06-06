@@ -1,0 +1,11 @@
+{
+    "XMListName": "namesafterkey",
+    "Label": "Person name part 5: names after key names",
+    "Description": "<p>The fifth part of a structured name of a person who contributed to the creation of the product: name suffix, or name(s) following a person&#8217;s key name(s), <i>eg</i>&#160;&#8216;Ibrahim&#8217; (in Anwar Ibrahim). Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NamesAfterKey>",
+    "ShortTag": "<b041>",
+    "Cardinality": "0\u20261",
+    "Example": "<b041>Ibrahim</b041>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "printedonproduct",
+    "Label": "Price printed on product",
+    "Description": "<p>An ONIX code indicating whether the price in a &lt;Price&gt; composite is printed on the product. Optional and non-repeating. Omission of this element must <em>not</em> be interpreted as indicating that the price is not printed on the product.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrintedOnProduct>",
+    "ShortTag": "<x301>",
+    "Cardinality": "0\u20261",
+    "Example": "<x301>02</x301>",
+    "CodeListNumber": ""
+}

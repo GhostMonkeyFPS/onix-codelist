@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcemode",
+    "Label": "Resource mode",
+    "Description": "<p>An ONIX code indicating the mode of the supporting resource, <i>eg</i>&#160;audio, video. Mandatory in each occurrence of the &lt;SupportingResource&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceMode>",
+    "ShortTag": "<x437>",
+    "Cardinality": "1",
+    "Example": "<ResourceMode>03</ResourceMode>",
+    "CodeListNumber": ""
+}

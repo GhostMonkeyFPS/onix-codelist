@@ -1,0 +1,11 @@
+{
+    "XMListName": "suppliercodetype",
+    "Label": "Supplier code type",
+    "Description": "<p>An ONIX code identifying the type of a supplier own code. Mandatory in each occurrence of the &lt;SupplierOwnCoding&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplierCodeType>",
+    "ShortTag": "<x458>",
+    "Cardinality": "1",
+    "Example": "<SupplierCodeType>01</SupplierCodeType>",
+    "CodeListNumber": ""
+}

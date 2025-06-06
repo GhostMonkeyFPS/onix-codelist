@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconstraint",
+    "Label": "constraint composite",
+    "Description": "<p>An optional group of data elements which together describe a contractual term or constraint (or the absence of such a constraint) that forms part of the commercial offer for a product. Repeatable in order to describe multiple constraints on usage.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>The Price constraint composite has the same structure as &lt;EpubUsageConstraint&gt;. Use &lt;EpubUsageConstraint&gt; for constraints that limit the user experience of the product, whether or not they are enforced by technical protection measures (DRM). Use &lt;PriceConstraint&gt; where a single product is available under multiple terms and conditions (<i>ie</i>&#160;multiple commercial offers for the same product which differ in their Price constraints, and whether or not they are enforced by DRM).</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PriceConstraint>",
+    "ShortTag": "<priceconstraint>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

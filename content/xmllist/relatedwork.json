@@ -1,0 +1,11 @@
+{
+    "XMListName": "relatedwork",
+    "Label": "work composite (content item)",
+    "Description": "<p>A group of data elements which together describe a work which has a specified relationship to a content item. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<RelatedWork>",
+    "ShortTag": "<relatedwork>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

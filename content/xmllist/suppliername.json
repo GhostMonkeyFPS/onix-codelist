@@ -1,0 +1,11 @@
+{
+    "XMListName": "suppliername",
+    "Label": "New supplier name",
+    "Description": "<p>The name of a new supplier. Optional and non-repeating; required if no supplier identifier is sent in an occurrence of the &lt;NewSupplier&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplierName>",
+    "ShortTag": "<j137>",
+    "Cardinality": "0\u20261",
+    "Example": "<j137>Littlehampton Book Services</j137>",
+    "CodeListNumber": ""
+}

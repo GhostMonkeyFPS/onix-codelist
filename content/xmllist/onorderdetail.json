@@ -1,0 +1,11 @@
+{
+    "XMListName": "onorderdetail",
+    "Label": "order detail composite",
+    "Description": "<p>A repeatable group of data elements which together specify details of a stock shipment currently awaited, normally from overseas. Optional and repeatable if more than a single shipment is outstanding.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that quantities in the &lt;OnOrderDetail&gt; composite must be included in any total quantity on order given in P.26.37 &lt;OnOrder&gt;, and detail need not be given for all outstanding shipments (<i>ie</i>&#160;the P.26.37 &lt;OnOrder&gt; must be greater than or equal to the total of the &lt;OnOrder&gt; elements in repeats of the composite).</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<OnOrderDetail>",
+    "ShortTag": "<onorderdetail>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

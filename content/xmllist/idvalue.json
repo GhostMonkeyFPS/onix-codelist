@@ -1,0 +1,11 @@
+{
+    "XMListName": "idvalue",
+    "Label": "Identifier value",
+    "Description": "<p>An identifier of the type specified in the &lt;PriceIDType&gt; element. Mandatory in each occurrence of the &lt;PriceIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the identifier type specified in &lt;PriceIDType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<IDValue>",
+    "ShortTag": "<b244>",
+    "Cardinality": "1",
+    "Example": "<b244>f47ac10b-58cc-4372-a567-0e02b2c3d479</b244>",
+    "CodeListNumber": ""
+}

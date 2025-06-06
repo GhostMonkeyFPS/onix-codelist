@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventtype",
+    "Label": "Event type",
+    "Description": "<p>A mandatory ONIX code which specifies the type of promotional event. Repeatable for promotional events which combine different event types.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventType>",
+    "ShortTag": "<x548>",
+    "Cardinality": "1\u2026n",
+    "Example": "<x548>01</x548>",
+    "CodeListNumber": ""
+}

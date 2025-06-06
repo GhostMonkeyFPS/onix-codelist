@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconditionquantitytype",
+    "Label": "Price condition quantity type",
+    "Description": "<p>An ONIX code identifying a type of price condition quantity. Mandatory in each occurrence of the &lt;PriceConditionQuantity&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceConditionQuantityType>",
+    "ShortTag": "<x464>",
+    "Cardinality": "1",
+    "Example": "<x464>01</x464>",
+    "CodeListNumber": ""
+}

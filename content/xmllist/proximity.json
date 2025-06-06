@@ -1,0 +1,11 @@
+{
+    "XMListName": "proximity",
+    "Label": "Velocity rate proximity",
+    "Description": "<p>An ONIX code which specifies the precision of the rate of stock depletion. Optional, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Proximity>",
+    "ShortTag": "<x502>",
+    "Cardinality": "0\u20261",
+    "Example": "<Proximity>06</Proximity>",
+    "CodeListNumber": ""
+}

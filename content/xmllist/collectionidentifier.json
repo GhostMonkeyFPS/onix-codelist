@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A repeatable group of data elements which together specify an identifier of a bibliographic collection. The composite is optional, and may only repeat if two or more identifiers of different types are sent for the same collection. It is not permissible to have two identifiers of the same type.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CollectionIdentifier>",
+    "ShortTag": "<collectionidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

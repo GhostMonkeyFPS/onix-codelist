@@ -1,0 +1,11 @@
+{
+    "XMListName": "textsourcecorporate",
+    "Label": "Corporate source of text",
+    "Description": "<p>The name of a company or corporate body responsible for the text sent in the &lt;Text&gt; element. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TextSourceCorporate>",
+    "ShortTag": "<b374>",
+    "Cardinality": "0\u20261",
+    "Example": "<TextSourceCorporate>Random House Group</TextSourceCorporate>",
+    "CodeListNumber": ""
+}

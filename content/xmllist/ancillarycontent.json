@@ -1,0 +1,11 @@
+{
+    "XMListName": "ancillarycontent",
+    "Label": "content composite",
+    "Description": "<p>A group of data elements which together specify the number of illustrations or other content items of a stated type which the product carries. Use of the &lt;AncillaryContent&gt; composite is optional, but is repeatable if necessary to specify different types of content items.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AncillaryContent>",
+    "ShortTag": "<ancillarycontent>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

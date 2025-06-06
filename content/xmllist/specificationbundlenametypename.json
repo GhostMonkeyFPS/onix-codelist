@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationbundlenametypename",
+    "Label": "Bundle name type name",
+    "Description": "<p>A name which identifies a particular proprietary naming scheme. Must be included to indicate the proprietary naming scheme from which the &lt;SpecificationBundleNameValue&gt; is taken. Mandatory and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationBundleNameTypeName>",
+    "ShortTag": "<x558>",
+    "Cardinality": "1",
+    "Example": "<x558>Ingram POD ProdType</x558>",
+    "CodeListNumber": ""
+}

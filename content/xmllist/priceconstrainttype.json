@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconstrainttype",
+    "Label": "Price constraint type",
+    "Description": "<p>An ONIX code specifying a type of commercial term or constraint forming part of the commercial offer for a digital product. Mandatory in each occurrence of the &lt;PriceConstraint&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceConstraintType>",
+    "ShortTag": "<x529>",
+    "Cardinality": "1",
+    "Example": "<PriceConstraintType>06</PriceConstraintType>",
+    "CodeListNumber": ""
+}

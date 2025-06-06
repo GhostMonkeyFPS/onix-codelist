@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishingdate",
+    "Label": "date composite",
+    "Description": "<p>A group of data elements which together specify a date associated with the publishing of the product. Optional, but where known, at least a date of publication <em>must</em> be specified <em>either</em> here (as a &#8216;global&#8217; pub date) <em>or</em> in &lt;MarketPublishingDetail&gt; (P.25). Other dates related to the publishing of a product can be sent in further repeats of the composite.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PublishingDate>",
+    "ShortTag": "<publishingdate>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

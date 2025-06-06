@@ -1,0 +1,11 @@
+{
+    "XMListName": "productcontactrole",
+    "Label": "Product contact role",
+    "Description": "<p>An ONIX code which identifies the role played by the product contact in relation to the product&#160;&#8211; for example answering enquiries related to sales or to promotion.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductContactRole>",
+    "ShortTag": "<x482>",
+    "Cardinality": "1",
+    "Example": "<x482>01</x482>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "batchbonus",
+    "Label": "bonus composite",
+    "Description": "<p>A repeatable group of data elements which together specify a batch bonus, <i>ie</i>&#160;a quantity of free copies which are supplied (typically to a reseller) with a certain order quantity. The &lt;BatchBonus&gt; composite is optional.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<BatchBonus>",
+    "ShortTag": "<batchbonus>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

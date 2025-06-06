@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicensedate",
+    "Label": "content item license date",
+    "Description": "<p>An optional group of date elements which together specify a date associated with the content item license in an occurrence of the &lt;EpubLicense&gt; composite, <i>eg</i>&#160;a date when a license expires. Repeatable to specify different dates with their various roles.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that if no dates are specified, the license is effective at the time the ONIX message is sent.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EpubLicenseDate>",
+    "ShortTag": "<epublicensedate>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

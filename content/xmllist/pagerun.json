@@ -1,0 +1,11 @@
+{
+    "XMListName": "pagerun",
+    "Label": "run composite",
+    "Description": "<p>A repeatable group of data elements which together define a run of contiguous pages on which a text item appears. The composite is optional, but may be repeated where the text item covers two or more separate page runs.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PageRun>",
+    "ShortTag": "<pagerun>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

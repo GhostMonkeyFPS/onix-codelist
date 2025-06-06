@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricedate",
+    "Label": "date composite",
+    "Description": "<p>An optional group of data elements which together specify a date associated with a price, repeatable in order to specify multiple associated dates.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that if no dates are specified, the price is effective at the time the ONIX message is sent.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PriceDate>",
+    "ShortTag": "<pricedate>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

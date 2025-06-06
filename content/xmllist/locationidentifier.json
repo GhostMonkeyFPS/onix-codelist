@@ -1,0 +1,11 @@
+{
+    "XMListName": "locationidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>An optional group of data elements which together define the identifier of a stock location in accordance with a specified scheme, and repeatable to allow different types of location identifier to be supported without defining additional data elements.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<LocationIdentifier>",
+    "ShortTag": "<locationidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

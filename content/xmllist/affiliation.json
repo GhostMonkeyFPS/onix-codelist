@@ -1,0 +1,11 @@
+{
+    "XMListName": "affiliation",
+    "Label": "Affiliation",
+    "Description": "<p>An organization to which a contributor to the product was affiliated <em>at the time of its creation</em>, and&#160;&#8211; if the &lt;ProfessionalPosition&gt; element is also present&#160;&#8211; where the contributor held that position. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Affiliation>",
+    "ShortTag": "<b046>",
+    "Cardinality": "0\u20261",
+    "Example": "<samp>&lt;b046 language=\"spa\"&gt;<span lang=\"es\">Universidad de La Laguna</span>&lt;/b046&gt;</samp>",
+    "CodeListNumber": ""
+}

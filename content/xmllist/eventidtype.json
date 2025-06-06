@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventidtype",
+    "Label": "Event occurrence identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Since there is no suitable standard event occurrence identifier scheme, the only valid option is to use a proprietary identifier. Mandatory in each occurrence of the &lt;EventIdentifier&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventIDType>",
+    "ShortTag": "<x547>",
+    "Cardinality": "1",
+    "Example": "<EventIDType>01</EventIDType>",
+    "CodeListNumber": ""
+}

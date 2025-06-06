@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconstraintstatus",
+    "Label": "Price constraint status",
+    "Description": "<p>An ONIX code specifying the status of a contractual term or constraint, <i>eg</i>&#160;permitted without limit, permitted with limit, prohibited. Mandatory in each occurrence of the &lt;PriceConstraint&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceConstraintStatus>",
+    "ShortTag": "<x530>",
+    "Cardinality": "1",
+    "Example": "<PriceConstraintStatus>02</PriceConstraintStatus>",
+    "CodeListNumber": ""
+}

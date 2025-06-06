@@ -1,0 +1,11 @@
+{
+    "XMListName": "yearofannual",
+    "Label": "Year of annual",
+    "Description": "<p>When the year of an annual is part of a title, this field should be used to carry the year (or, if required, a spread of years such as 2009&#8211;2010). Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Year or range of years, in the format YYYY or YYYY-YYYY</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<YearOfAnnual>",
+    "ShortTag": "<b020>",
+    "Cardinality": "0\u20261",
+    "Example": "<b020>2009</b020>",
+    "CodeListNumber": ""
+}

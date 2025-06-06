@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricecodetype",
+    "Label": "Price code type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the value in the &lt;PriceCode&gt; element is taken. Mandatory in an occurrence of the &lt;PriceCoded&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceCodeType>",
+    "ShortTag": "<x465>",
+    "Cardinality": "1",
+    "Example": "<PriceCodeType>01</PriceCodeType>",
+    "CodeListNumber": ""
+}

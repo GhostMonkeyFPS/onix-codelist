@@ -1,0 +1,11 @@
+{
+    "XMListName": "agentidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements together defining the identifier of an agent or local publisher in accordance with a specified scheme. Optional, but each occurrence of the &lt;PublisherRepresentative&gt; composite must carry either at least one agent identifier, or an &lt;AgentName&gt;. Repeatable only if two or more identifiers are sent using different schemes.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AgentIdentifier>",
+    "ShortTag": "<agentidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

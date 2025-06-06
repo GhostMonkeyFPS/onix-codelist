@@ -1,0 +1,11 @@
+{
+    "XMListName": "price",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together specify a unit price, repeatable in order to specify multiple prices. Each &lt;SupplyDetail&gt; composite must include <em>either</em> one or more prices, <em>or</em> a single &lt;UnpricedItemType&gt; element (see&#160;P.26.42).</p>\n\t\t\t\t\t\t\t\t\t\n<p>Where multiple prices are specified for a product, each price option should specify a distinct combination of its terms of trade and the group of end customers it is applicable to, any relevant price conditions, periods of time, currency and territory <i>etc</i>, so that the data recipient can clearly select the correct pricing option. If, under a particular combination, the product is free of charge or its price is not yet set, an &lt;UnpricedItemType&gt; element (P.26.70b) must be used in place of a &lt;PriceAmount&gt;. Each pricing option may optionally be given an identifier for use in subsequent revenue reporting or for other internal purposes.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Price>",
+    "ShortTag": "<price>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

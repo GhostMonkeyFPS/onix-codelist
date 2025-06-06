@@ -1,0 +1,11 @@
+{
+    "XMListName": "recordsourcename",
+    "Label": "Record source name",
+    "Description": "<p>The name of the party which issued the record, as free text. Optional and non-repeating, independently of the occurrence of any other field.</p>\n\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RecordSourceName>",
+    "ShortTag": "<a197>",
+    "Cardinality": "0\u20261",
+    "Example": "<RecordSourceName>Cambridge University Press</RecordSourceName>",
+    "CodeListNumber": ""
+}

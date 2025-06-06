@@ -1,0 +1,11 @@
+{
+    "XMListName": "nameidtype",
+    "Label": "Name identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;NameIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NameIDType>",
+    "ShortTag": "<x415>",
+    "Cardinality": "1",
+    "Example": "<x415>01</x415>",
+    "CodeListNumber": ""
+}

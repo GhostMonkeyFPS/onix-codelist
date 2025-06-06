@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricecoded",
+    "Label": "coded composite",
+    "Description": "<p>An optional group of data elements to carry a price that is expressed as one of a discrete set of price points, tiers or bands, rather than actual currency amounts. Each occurrence of the &lt;Price&gt; composite must include either a &lt;PriceAmount&gt; or a &lt;PriceCoded&gt; composite, with optional tax details, or an &lt;UnpricedItemType&gt; element.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PriceCoded>",
+    "ShortTag": "<pricecoded>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

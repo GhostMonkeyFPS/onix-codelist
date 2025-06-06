@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefilefeaturevalue",
+    "Label": "Resource file feature value",
+    "Description": "<p>A controlled value that specifies a feature of the resource file. Presence or absence of this element depends on the &lt;ResourceFileFeatureType&gt;, since some feature types may not require an accompanying value, while others may require free text in &lt;ResourceFileFeatureDescription&gt; and some may have both code and free text. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Dependent on the scheme specified in &lt;ResourceFileFeatureType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFileFeatureValue>",
+    "ShortTag": "<x569>",
+    "Cardinality": "0\u20261",
+    "Example": "<ResourceFileFeatureValue>55986583052a9df850ec2e9f\u200b4084b6a4</ResourceFileFeatureValue>",
+    "CodeListNumber": ""
+}

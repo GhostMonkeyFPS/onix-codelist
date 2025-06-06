@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationfeature",
+    "Label": "feature composite",
+    "Description": "<p>An optional group of data elements which together specify an aspect of the body of the Product or Product part that is too specific to be covered in the &lt;SpecificationDetail&gt; element. Repeatable in order to describe different aspects of the product form.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SpecificationFeature>",
+    "ShortTag": "<specificationfeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

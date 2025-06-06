@@ -1,0 +1,11 @@
+{
+    "XMListName": "idtypename",
+    "Label": "Identifier type name",
+    "Description": "<p>A name which identifies a proprietary identifier scheme (<i>ie</i>&#160;a scheme which is not a standard and for which there is no individual ID type code). Must be included when, and only when, the code in the &lt;PriceIDType&gt; element indicates a proprietary scheme, <i>eg</i>&#160;a publisher&#8217;s own identifier scheme. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<IDTypeName>",
+    "ShortTag": "<b233>",
+    "Cardinality": "0\u20261",
+    "Example": "<IDTypeName>PRHG PUUID</IDTypeName>",
+    "CodeListNumber": ""
+}

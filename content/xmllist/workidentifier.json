@@ -1,0 +1,11 @@
+{
+    "XMListName": "workidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together define an identifier of a work in accordance with a specified scheme. Mandatory in each occurrence of the &lt;RelatedWork&gt; composite, and repeatable if two or more identifiers for the same work are sent using different identifier schemes (<i>eg</i>&#160;proprietary ID and DOI).</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<WorkIdentifier>",
+    "ShortTag": "<workidentifier>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

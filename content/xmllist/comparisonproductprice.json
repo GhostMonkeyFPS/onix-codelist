@@ -1,0 +1,11 @@
+{
+    "XMListName": "comparisonproductprice",
+    "Label": "product price composite",
+    "Description": "<p>Optional group of data elements that together define a price for a directly comparable product, to facilitate supply of price data to retailers who do not receive a full ONIX record for that comparable product. This is primarily intended for use within a &lt;Product&gt; record for a digital product, to provide a price for a comparable physical product. The composite is repeatable in order to define multiple comparison prices.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Those using this composite should be wary of the volatile nature of product prices: special note should be taken of the risk of stale data being stored in data recipients&#8217; systems when prices for the comparison product are updated, as those updates to the comparison product may occur outside the context of the main product being described in the &lt;Product&gt; record. Because of this, ONIX suppliers are cautioned of the risk of contradictory data in separate data feeds. <em>This composite should not be supplied unless specifically requested by a particular recipient.</em></p>\n\t\t\t\t\t\t\t\t\t\t\n<p>The inclusion of a comparison price in itself implies nothing about the availability or status of the comparable product. However, there may be legal requirements in particular territories relating to the use of comparison prices in promotion that users of this data must comply with.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that the comparison product price composite does not include all the features of the &lt;Price&gt; composite: for example, &lt;PriceQualifier&gt; is not included. Thus data providers should ensure that any conditions attached to the comparison product price are such that it is directly comparable to the price of the main product being described.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ComparisonProductPrice>",
+    "ShortTag": "<comparisonproductprice>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

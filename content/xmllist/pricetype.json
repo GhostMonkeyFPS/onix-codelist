@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricetype",
+    "Label": "Price type code",
+    "Description": "<p>An ONIX code indicating the type of the comparison price in the &lt;PriceAmount&gt; element within the &lt;ComparisonProductPrice&gt; composite. Mandatory, unless a &lt;DefaultPriceType&gt; has been specified in the message header although use of such a default is deprecated. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceType>",
+    "ShortTag": "<x462>",
+    "Cardinality": "0\u20261",
+    "Example": "<PriceType>01</PriceType>",
+    "CodeListNumber": ""
+}

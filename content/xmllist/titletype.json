@@ -1,0 +1,11 @@
+{
+    "XMListName": "titletype",
+    "Label": "Title type code",
+    "Description": "<p>An ONIX code indicating the type of a title. Mandatory in each occurrence of the &lt;TitleDetail&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitleType>",
+    "ShortTag": "<b202>",
+    "Cardinality": "1",
+    "Example": "<TitleType>01<TitleType>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectschemeversion",
+    "Label": "Subject scheme version number",
+    "Description": "<p>A number which identifies a version or edition of the subject scheme specified in the associated &lt;SubjectSchemeIdentifier&gt; element. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 10 characters for consistency with other version number elements</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectSchemeVersion>",
+    "ShortTag": "<b068>",
+    "Cardinality": "0\u20261",
+    "Example": "<SubjectSchemeVersion>2.1</SubjectSchemeVersion>",
+    "CodeListNumber": ""
+}

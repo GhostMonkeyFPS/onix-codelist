@@ -1,0 +1,11 @@
+{
+    "XMListName": "citationnote",
+    "Label": "Citation note",
+    "Description": "<p>A free text note giving any additional information about cited content, for example a detailed volume, issue and page reference to content cited from a periodical. Optional, and repeatable when parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;CitationNote&gt;, but must be included in each instance if &lt;CitationNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CitationNote>",
+    "ShortTag": "<x434>",
+    "Cardinality": "0\u2026n",
+    "Example": "<CitationNote>Volume 3, page 7</CitationNote>",
+    "CodeListNumber": ""
+}

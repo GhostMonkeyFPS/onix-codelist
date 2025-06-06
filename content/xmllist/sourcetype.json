@@ -1,0 +1,11 @@
+{
+    "XMListName": "sourcetype",
+    "Label": "Source type",
+    "Description": "<p>An ONIX code indicating the type of source from which the cited material originated, <i>eg</i>&#160;radio, TV. Optional, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SourceType>",
+    "ShortTag": "<x431>",
+    "Cardinality": "0\u20261",
+    "Example": "<SourceType>03</SourceType>",
+    "CodeListNumber": ""
+}

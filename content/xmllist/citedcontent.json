@@ -1,0 +1,11 @@
+{
+    "XMListName": "citedcontent",
+    "Label": "content composite (content item)",
+    "Description": "<p>A group of data elements which together describe a piece of cited content. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CitedContent>",
+    "ShortTag": "<citedcontent>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

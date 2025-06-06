@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventdate",
+    "Label": "Event date",
+    "Description": "<p>The date of an event to which the product is related. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYY if the attribute is missing. Note that the <i>dateformat</i> attribute allows exact dates to be supplied if necessary, including the cases where an event spreads over a range of dates or the date can only be supplied as a text string</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventDate>",
+    "ShortTag": "<x520>",
+    "Cardinality": "0\u20261",
+    "Example": "<EventDate dateformat=\"06\">2015113020151215</EventDate>",
+    "CodeListNumber": ""
+}

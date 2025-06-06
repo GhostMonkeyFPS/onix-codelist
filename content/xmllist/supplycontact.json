@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplycontact",
+    "Label": "contact composite",
+    "Description": "<p>An optional group of data elements which together specify an organization (which may or may not be the supplier) responsible for dealing with enquiries related to the product. Repeatable in order to specify multiple contacts.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplyContact>",
+    "ShortTag": "<supplycontact>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

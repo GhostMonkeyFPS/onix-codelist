@@ -1,0 +1,11 @@
+{
+    "XMListName": "packquantity",
+    "Label": "Pack or carton quantity",
+    "Description": "<p>The quantity in each carton or binder&#8217;s pack in stock currently held by the supplier. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Note that orders do not <em>have</em> to be aligned with multiples of the pack quantity, but such orders may be more convenient to handle.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PackQuantity>",
+    "ShortTag": "<j145>",
+    "Cardinality": "0\u20261",
+    "Example": "<PackQuantity>24</PackQuantity>",
+    "CodeListNumber": ""
+}

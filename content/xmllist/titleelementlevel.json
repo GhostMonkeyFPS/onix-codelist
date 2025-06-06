@@ -1,0 +1,11 @@
+{
+    "XMListName": "titleelementlevel",
+    "Label": "Title element level",
+    "Description": "<p>An ONIX code indicating the level of a title element: collection level, subcollection level, or product level. Mandatory in each occurrence of the &lt;TitleElement&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitleElementLevel>",
+    "ShortTag": "<x409>",
+    "Cardinality": "1",
+    "Example": "<x409>02</x409>",
+    "CodeListNumber": ""
+}

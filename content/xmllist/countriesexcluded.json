@@ -1,0 +1,11 @@
+{
+    "XMListName": "countriesexcluded",
+    "Label": "Countries excluded",
+    "Description": "<p>One or more ONIX codes identifying countries excluded from the territory. Successive codes must be separated by spaces. Optional and non-repeating, and can only occur if the &lt;RegionsIncluded&gt; element is also present and includes a supra-national region code such as &#8216;WORLD&#8217;.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>One or more fixed-length codes based on ISO 3166-1, each consisting of two upper case letters, and with successive codes being separated by spaces. Suggested maximum length 750 characters. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CountriesExcluded>",
+    "ShortTag": "<x451>",
+    "Cardinality": "0\u20261",
+    "Example": "<CountriesExcluded>US CA</CountriesExcluded>",
+    "CodeListNumber": ""
+}

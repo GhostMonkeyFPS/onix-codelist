@@ -1,0 +1,11 @@
+{
+    "XMListName": "nameassubject",
+    "Label": "as subject composite (content item)",
+    "Description": "<p>An optional and repeatable group of data elements which together represent the name of a person or organization&#160;&#8211; real or fictional&#160;&#8211; that is part of the subject of a content item.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<NameAsSubject>",
+    "ShortTag": "<nameassubject>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

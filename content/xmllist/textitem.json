@@ -1,0 +1,11 @@
+{
+    "XMListName": "textitem",
+    "Label": "item composite",
+    "Description": "<p>A group of data elements which are specific to text content. Optional, but exactly one of either the &lt;TextItem&gt; composite or the similar &lt;AVItem&gt; composite must occur in a &lt;ContentItem&gt; composite which describes a particular content item. (Similar composites may be defined for other media, and the occurrence of one of them will be mandatory in any &lt;ContentItem&gt; composite.)</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<TextItem>",
+    "ShortTag": "<textitem>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

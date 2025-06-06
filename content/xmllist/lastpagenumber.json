@@ -1,0 +1,11 @@
+{
+    "XMListName": "lastpagenumber",
+    "Label": "Last page number",
+    "Description": "<p>The number of the last page of a sequence of contiguous pages (ignoring any blank verso which is left after the last text page). This element is omitted if an item begins and ends on the same page; otherwise it should occur once and only once in each occurrence of the &lt;PageRun&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LastPageNumber>",
+    "ShortTag": "<b287>",
+    "Cardinality": "0\u20261",
+    "Example": "<b287>35</b287>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricecodetypename",
+    "Label": "Price code type name",
+    "Description": "<p>A name which identifies a proprietary price code type. Must be used when, and only when the code in the &lt;PriceCodeType&gt; element indicates a proprietary scheme, <i>eg</i>&#160;a retailer&#8217;s price banding scheme. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceCodeTypeName>",
+    "ShortTag": "<x477>",
+    "Cardinality": "0\u20261",
+    "Example": "<x477>Retailer Inc. Ebook Tier Number</x477>",
+    "CodeListNumber": ""
+}

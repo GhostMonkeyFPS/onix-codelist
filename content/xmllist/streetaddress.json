@@ -1,0 +1,11 @@
+{
+    "XMListName": "streetaddress",
+    "Label": "Supply contact street address",
+    "Description": "<p>A text field giving a street address and forming the first part of the postal address of the supply contact organization. Optional and non-repeatable. Care should be taken that the Supply contact name (plus optionally the Contact name), Street address, Location name, any Postal code or Region code, and Country code can be combined into a complete postal address, without repetition.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<StreetAddress>",
+    "ShortTag": "<x552>",
+    "Cardinality": "0\u20261",
+    "Example": "<x552>Via Mondadori 1</x552>",
+    "CodeListNumber": ""
+}

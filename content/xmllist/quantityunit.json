@@ -1,0 +1,11 @@
+{
+    "XMListName": "quantityunit",
+    "Label": "Quantity unit code",
+    "Description": "<p>An ONIX code value specifying the unit in which a price condition quantity is stated. Mandatory in each occurrence of the &lt;PriceConditionQuantity&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<QuantityUnit>",
+    "ShortTag": "<x466>",
+    "Cardinality": "1",
+    "Example": "<QuantityUnit>09</QuantityUnit>",
+    "CodeListNumber": ""
+}

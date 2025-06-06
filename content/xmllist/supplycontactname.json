@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplycontactname",
+    "Label": "Supply contact name",
+    "Description": "<p>The name of the supply contact organization, which should always be stated in a standard form. Optional and non-repeating; but either a &lt;SupplyContactName&gt; element or a &lt;SupplyContactIdentifier&gt; composite must be included.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplyContactName>",
+    "ShortTag": "<x539>",
+    "Cardinality": "0\u20261",
+    "Example": "<SupplyContactName>Marston Book Services</SupplyContactName>",
+    "CodeListNumber": ""
+}

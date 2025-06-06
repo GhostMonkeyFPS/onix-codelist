@@ -1,0 +1,11 @@
+{
+    "XMListName": "mainaudience",
+    "Label": "Main audience flag",
+    "Description": "<p>An empty element that identifies an instance of the &lt;Audience&gt; composite as representing the primary or main audience for the product. The main audience may be expressed in more than one audience scheme, <i>ie</i>&#160;there may be two or more instances of the &lt;Audience&gt; composite, using different schemes, each carrying the &lt;MainAudience/&gt; flag, so long as there is only one main audience <em>per scheme</em> (<i>ie</i>&#160;per value of &lt;AudienceCodeType&gt;). Optional and non-repeating in each occurrence of the &lt;Audience&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MainAudience/>",
+    "ShortTag": "<x583/>",
+    "Cardinality": "0\u20261",
+    "Example": "<x583/>",
+    "CodeListNumber": ""
+}

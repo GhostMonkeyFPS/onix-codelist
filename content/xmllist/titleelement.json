@@ -1,0 +1,11 @@
+{
+    "XMListName": "titleelement",
+    "Label": "element composite",
+    "Description": "<p>A group of data elements which together represent an element of a title. At least one title element is mandatory in each occurrence of the &lt;TitleDetail&gt; composite. The composite is repeatable with different sequence numbers and/or title element levels, each repeat carrying a different part of the title. An instance of the &lt;TitleElement&gt; composite must include at least one of: &lt;PartNumber&gt;; &lt;YearOfAnnual&gt;; &lt;TitleText&gt;, &lt;NoPrefix/&gt; together with &lt;TitleWithoutPrefix&gt;, or &lt;TitlePrefix&gt; together with &lt;TitleWithoutPrefix&gt;. In other words it <em>must</em> carry <em>either</em> the text of a title <em>or</em> a part or year designation, and it <em>may</em> carry both.</p>\n\t\t\t\t\t\t\t\t\t\n<p>A title element must be designated as belonging to product level, collection level, subcollection or sub- subcollection level (the two last-named only in the case of a multi-level collection).</p>\n\t\t\t\t\t\t\t\t\t\n<p>In the simplest case, a product title will consist of a single title element, at product level. However, the composite structure in ONIX&#160;3.0 and 3.1 allows complex titles to be correctly represented, in the sequence in which the publisher wishes the elements to be displayed.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Note that key parts of the Title element&#160;&#8211; including &lt;TitleText&gt;, &lt;TitleWithoutPrefix&gt; and &lt;Subtitle&gt;&#160;&#8211; should appear on the title page of the book, or exceptionally on the cover or spine, and should not include any other information. This principle should be followed for all conventional titles, though may not be relevant to, for example, a distributor&#8217;s title or the name of an ascribed collection.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<TitleElement>",
+    "ShortTag": "<titleelement>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

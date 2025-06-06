@@ -1,0 +1,11 @@
+{
+    "XMListName": "measuretype",
+    "Label": "Measure type code",
+    "Description": "<p>An ONIX code indicating the dimension which is specified by an occurrence of the measure composite. Mandatory in each occurrence of the &lt;Measure&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MeasureType>",
+    "ShortTag": "<x315>",
+    "Cardinality": "1",
+    "Example": "<x315>01</x315>",
+    "CodeListNumber": ""
+}

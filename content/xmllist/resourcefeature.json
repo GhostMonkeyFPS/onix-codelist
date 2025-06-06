@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefeature",
+    "Label": "feature composite",
+    "Description": "<p>A group of data elements which together describe a feature of a supporting resource which is common to all versions in which the resource is offered. Optional, and repeatable in order to describe multiple features of the resource.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ResourceFeature>",
+    "ShortTag": "<resourcefeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefeaturetype",
+    "Label": "Resource feature type",
+    "Description": "<p>An ONIX code which specifies the feature described by an instance of the &lt;ResourceFeature&gt; composite. Mandatory in each occurrence of the composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFeatureType>",
+    "ShortTag": "<x438>",
+    "Cardinality": "1",
+    "Example": "<x438>01</x438>",
+    "CodeListNumber": ""
+}

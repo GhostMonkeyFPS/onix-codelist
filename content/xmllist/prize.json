@@ -1,0 +1,11 @@
+{
+    "XMListName": "prize",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together describe a prize or award won by the contributor for a body of work (rather than for this or other specific works or products). Repeatable to describe multiple prizes or awards.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Prize>",
+    "ShortTag": "<prize>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketreference",
+    "Label": "Market reference",
+    "Description": "<p>For every market, a single market reference which will uniquely identify the &lt;ProductSupply&gt; composite which describes the market within this Product record, and which will remain as its permanent identifier every time you send an update.</p>\n\t\t\t\t\t\t\t\t\n<p>The Market reference is optional and non-repeating, but it is strongly recommended unless there is only a single market. It is intended to be used to label each repeat of &lt;ProductSupply&gt; for use in subsequent partial updates and reporting.</p>\n\t\t\t\t\t\t\t\t\n<p>Note that the scope of the Market reference is limited to a single Product record &#8211;&#160;a geographically identical market for a different product may have a different Market reference, and a geographically different market in another Product record may use the same reference.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MarketReference>",
+    "ShortTag": "<x587>",
+    "Cardinality": "0\u20261",
+    "Example": "<x587>jp.kadokawa.onix.market.\u30a2\u30b8\u30a2\u592a\u5e73\u6d0b1</x587>",
+    "CodeListNumber": ""
+}

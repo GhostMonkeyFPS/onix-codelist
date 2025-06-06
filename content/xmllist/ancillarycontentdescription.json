@@ -1,0 +1,11 @@
+{
+    "XMListName": "ancillarycontentdescription",
+    "Label": "Illustration or other content type description",
+    "Description": "<p>Text describing the type of illustration or other content to which an occurrence of the composite refers, when a code is insufficient. Optional, and repeatable if parallel descriptive text is provided in multiple languages. Required when &lt;AncillaryContentType&gt; carries the value 00. The <i>language</i> attribute is optional for a single instance of &lt;AncillaryContentDescription&gt;, but must be included in each instance if &lt;AncillaryContentDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AncillaryContentDescription>",
+    "ShortTag": "<x424>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x424 language=\"eng\">Full color stickers</x424>",
+    "CodeListNumber": ""
+}

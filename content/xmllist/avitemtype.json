@@ -1,0 +1,11 @@
+{
+    "XMListName": "avitemtype",
+    "Label": "AV item type code",
+    "Description": "<p>An ONIX code which identifies the nature of an audio or audiovisual content item. Mandatory in each occurrence of the &lt;AVItem&gt; composite, and non-repeatable.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AVItemType>",
+    "ShortTag": "<x540>",
+    "Cardinality": "1",
+    "Example": "<x540>03</x540>",
+    "CodeListNumber": ""
+}

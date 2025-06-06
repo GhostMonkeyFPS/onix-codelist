@@ -1,0 +1,11 @@
+{
+    "XMListName": "defaultcurrencycode",
+    "Label": "Default currency",
+    "Description": "<p>An ONIX code indicating the default currency which is assumed for prices of products listed in the message, unless the Currency code is explicitly stated by sending a Currency code in each &lt;Price&gt; composite for each Product record. Optional and non-repeating. To avoid any possible ambiguity, use of this default is deprecated, but any default supplied will be assumed for all prices in Group&#160;P.26 which do not specify the Currency code explicitly. It is strongly recommended that the Currency code should be specified in the &lt;Price&gt; composite for each individual price.</p>\n\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters, based on ISO 4217. Note that ISO 4217 specifies that currency codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<DefaultCurrencyCode>",
+    "ShortTag": "<m186>",
+    "Cardinality": "0\u20261",
+    "Example": "<DefaultCurrencyCode>USD</DefaultCurrencyCode>",
+    "CodeListNumber": ""
+}

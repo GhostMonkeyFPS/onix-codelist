@@ -1,0 +1,11 @@
+{
+    "XMListName": "tax",
+    "Label": "composite",
+    "Description": "<p>A repeatable group of data elements which together specify tax included within a price amount. Optional, and used only when &lt;PriceType&gt; indicates an inc-tax price. For items to which different taxes or tax rates apply (<i>eg</i>&#160;mixed media products in the UK which are partly taxed at standard rate and partly at zero rate), the composite is repeated for each separate tax or tax rate. Although only one of &lt;TaxRatePercent&gt; or &lt;TaxAmount&gt; is mandatory within the composite, it is recommended that all tax elements in the composite should be explicitly populated.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>If the tax regime requires separate tax rates and amounts linked explicitly to particular product parts (<i>eg</i>&#160;in Germany), the &lt;ProductIdentifier&gt; composite may be included in each &lt;Tax&gt; composite. Where tax is payable on multiple product parts, each should have its own instance of the &lt;Tax&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Tax>",
+    "ShortTag": "<tax>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

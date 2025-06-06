@@ -1,0 +1,11 @@
+{
+    "XMListName": "titlewithoutprefix",
+    "Label": "Title without prefix",
+    "Description": "<p>The text of a title element without the title prefix; and excluding any subtitle. Optional and non-repeating; can only be used if one of the &lt;NoPrefix/&gt; or &lt;TitlePrefix&gt; elements is also present.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 300 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitleWithoutPrefix>",
+    "ShortTag": "<b031>",
+    "Cardinality": "0\u20261",
+    "Example": "<TitleWithoutPrefix textcase=\"01\">shameful life of Salvador Dali</TitleWithoutPrefix>",
+    "CodeListNumber": ""
+}

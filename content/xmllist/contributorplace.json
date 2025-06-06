@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributorplace",
+    "Label": "place composite",
+    "Description": "<p>An optional group of data elements which together identify a geographical location with which a contributor is associated, used to support &#8216;local interest&#8217; promotions. Repeatable to identify multiple geographical locations, each usually with a different relationship to the contributor.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ContributorPlace>",
+    "ShortTag": "<contributorplace>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrighttype",
+    "Label": "Copyright statement type",
+    "Description": "<p>An optional ONIX code indicating the type of right covered by the statement, typically a copyright or neighboring right. If omitted, the default is that the statement represents a copyright.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, one letter</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CopyrightType>",
+    "ShortTag": "<x512>",
+    "Cardinality": "0\u20261",
+    "Example": "<CopyrightType>P</CopyrightType>",
+    "CodeListNumber": ""
+}

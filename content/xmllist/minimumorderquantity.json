@@ -1,0 +1,11 @@
+{
+    "XMListName": "minimumorderquantity",
+    "Label": "Minimum qualifying order quantity",
+    "Description": "<p>The minimum number of copies which must be ordered to obtain the price carried in an occurrence of the &lt;Price&gt; composite. Optional and non-repeating. If the field is present, the price is a quantity price (and only whole multiples of the qualifying quantity may be ordered at that price). If the field is omitted, the price applies to a single unit.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note the similarity between &lt;MinimumOrderQuantity&gt; and &lt;OrderQuantityMinimum&gt; in P.26.41b: only &lt;MinimumOrderQuantity&gt; has an effect on the specification of &lt;Price&gt;. Use of &lt;MinimumOrderQuantity&gt; is close in effect to a multi-item trade pack (see &lt;ProductComposition&gt;).</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MinimumOrderQuantity>",
+    "ShortTag": "<j263>",
+    "Cardinality": "0\u20261",
+    "Example": "<MinimumOrderQuantity>50</MinimumOrderQuantity>",
+    "CodeListNumber": ""
+}

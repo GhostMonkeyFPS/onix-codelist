@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionelementlevel",
+    "Label": "Collection title element level",
+    "Description": "<p>An ONIX code indicating the level of the collection title element (collection level or sub-collection level) to which the identifier in the &lt;IDValue&gt; element is assigned. Optional in each occurrence of the &lt;CollectionIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>When used, the specified level must match the level of a &lt;TitleElement&gt; within the same Collection composite, or &#8211;&#160;is there is no &lt;TitleDetail&gt; within the Collection composite&#160;&#8211; the level of a &lt;TitleElement&gt; within Group&#160;P.6.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionElementLevel>",
+    "ShortTag": "<x586>",
+    "Cardinality": "0\u20261",
+    "Example": "<x586>03</x586>",
+    "CodeListNumber": ""
+}

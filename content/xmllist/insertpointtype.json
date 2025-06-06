@@ -1,0 +1,11 @@
+{
+    "XMListName": "insertpointtype",
+    "Label": "Insertion point type",
+    "Description": "<p>An ONIX code specifying the format in which the insertion point is included in &lt;InsertPointValue&gt;.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<InsertPointType>",
+    "ShortTag": "<x574>",
+    "Cardinality": "1",
+    "Example": "<InsertPointType>ALP</InsertPointType>",
+    "CodeListNumber": ""
+}

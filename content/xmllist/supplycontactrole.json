@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplycontactrole",
+    "Label": "Supply contact role",
+    "Description": "<p>An ONIX code which identifies the role played by the supply contact in relation to the product&#160;&#8211; for example answering enquiries related to orders or to returns.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplyContactRole>",
+    "ShortTag": "<x537>",
+    "Cardinality": "1",
+    "Example": "<SupplyContactRole>07</SupplyContactRole>",
+    "CodeListNumber": ""
+}

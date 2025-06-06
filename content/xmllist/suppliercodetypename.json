@@ -1,0 +1,11 @@
+{
+    "XMListName": "suppliercodetypename",
+    "Label": "Supplier code type name",
+    "Description": "<p>A name which identifies the proprietary coding scheme used. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplierCodeTypeName>",
+    "ShortTag": "<x513>",
+    "Cardinality": "0\u20261",
+    "Example": "<x513>AppleFBC</x513>",
+    "CodeListNumber": ""
+}

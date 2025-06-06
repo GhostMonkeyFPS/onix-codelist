@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishingdetail",
+    "Label": "detail composite",
+    "Description": "<p>The publishing detail block covers data Groups P.19 to P.21, carrying information on the publisher(s), &#8216;global&#8217; publishing status, and rights attaching to a product. The block as a whole is non-repeating. It is mandatory in any &lt;Product&gt; record unless the &lt;NotificationType&gt; in Group&#160;P.1 indicates that the record is an update notice which carries only those blocks in which changes have occurred.</p>\n\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PublishingDetail>",
+    "ShortTag": "<publishingdetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

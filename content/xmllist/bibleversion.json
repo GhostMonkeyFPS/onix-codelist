@@ -1,0 +1,11 @@
+{
+    "XMListName": "bibleversion",
+    "Label": "Bible version",
+    "Description": "<p>An ONIX code indicating the version of a Bible or selected Biblical text, for example &#8216;King James&#8217;, &#8216;Jerusalem&#8217;, &#8216;New American Standard&#8217;, &#8216;Reina Valera&#8217;. Mandatory in each occurrence of the &lt;Bible&gt; composite, and repeatable if a work includes text in two or more versions.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BibleVersion>",
+    "ShortTag": "<b353>",
+    "Cardinality": "1\u2026n",
+    "Example": "<BibleVersion>JER</BibleVersion>",
+    "CodeListNumber": ""
+}

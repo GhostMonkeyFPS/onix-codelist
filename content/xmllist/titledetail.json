@@ -1,0 +1,11 @@
+{
+    "XMListName": "titledetail",
+    "Label": "detail composite (content item)",
+    "Description": "<p>A repeatable group of data elements which together give the text of a title of a content item and specify its type. Optional.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<TitleDetail>",
+    "ShortTag": "<titledetail>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

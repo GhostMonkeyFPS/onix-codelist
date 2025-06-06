@@ -1,0 +1,11 @@
+{
+    "XMListName": "titleprefix",
+    "Label": "Title prefix",
+    "Description": "<p>Text at the beginning of a title element which is to be ignored for alphabetical sorting. Optional and non-repeating; can only be used when &lt;TitleText&gt; is omitted, and if the &lt;TitleWithoutPrefix&gt; element is also present. These two elements may be used in combination in applications where it is necessary to distinguish an initial word or character string which is to be ignored for filing purposes, <i>eg</i>&#160;in library systems and in some bookshop databases.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitlePrefix>",
+    "ShortTag": "<b030>",
+    "Cardinality": "0\u20261",
+    "Example": "<TitlePrefix textcase=\"01\">The</TitlePrefix>",
+    "CodeListNumber": ""
+}

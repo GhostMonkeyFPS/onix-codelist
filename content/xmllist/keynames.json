@@ -1,0 +1,11 @@
+{
+    "XMListName": "keynames",
+    "Label": "Person name part 4: key name(s)",
+    "Description": "<p>The fourth part of a structured name of a person who contributed to the creation of the product: key name(s), <i>ie</i>&#160;the name elements normally used to open an entry in an alphabetical list, <i>eg</i>&#160;&#8216;Smith&#8217; or &#8216;Garcia Marquez&#8217; or &#8216;Madonna&#8217; or &#8216;Francis de Sales&#8217; (in Saint Francis de Sales). Non-repeating. Required if name part elements P.7.11 to P.7.18 are used.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<KeyNames>",
+    "ShortTag": "<b040>",
+    "Cardinality": "0\u20261",
+    "Example": "<b040>Beethoven</b040>",
+    "CodeListNumber": ""
+}

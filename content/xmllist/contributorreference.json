@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributorreference",
+    "Label": "by reference composite",
+    "Description": "<p>Optional composite that identifies a contributor&#160;&#8211; a person or corporate body&#160;&#8211; participating in the promotional event <em>who is also a contributor to the product, or who is its subject</em> (<i>ie</i>&#160;who is fully described in an instance of the &lt;Contributor&gt; composite within Groups&#160;P.5, P.7 or&#160;P.18, or in an instance of &lt;NameAsSubject&gt; within Groups&#160;P.12 or&#160;P.18, in the same Product record). Repeatable to refer to multiple contributors.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Note that an instance of &lt;PromotionalEvent&gt; may also contain one or more &lt;Contributor&gt; composites&#160;&#8211; the latter listing participants to the event <em>who are not contributors to the product</em>.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ContributorReference>",
+    "ShortTag": "<contributorreference>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

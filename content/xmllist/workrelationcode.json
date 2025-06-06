@@ -1,0 +1,11 @@
+{
+    "XMListName": "workrelationcode",
+    "Label": "Work relation code",
+    "Description": "<p>An ONIX code which identifies the nature of the relationship between a product and a work. Mandatory in each occurrence of the &lt;RelatedWork&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<WorkRelationCode>",
+    "ShortTag": "<x454>",
+    "Cardinality": "1",
+    "Example": "<WorkRelationCode>01</WorkRelationCode>",
+    "CodeListNumber": ""
+}

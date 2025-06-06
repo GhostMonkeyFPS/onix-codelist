@@ -1,0 +1,11 @@
+{
+    "XMListName": "imprintname",
+    "Label": "Imprint or brand name",
+    "Description": "<p>The name of an imprint or brand under which the product is issued, as it appears on the product. Mandatory if there is no imprint identifier in an occurrence of the &lt;Imprint&gt; composite, and optional if an imprint identifier is included. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ImprintName>",
+    "ShortTag": "<b079>",
+    "Cardinality": "0\u20261",
+    "Example": "<ImprintName>Secker &amp; Warburg</ImprintName>",
+    "CodeListNumber": ""
+}

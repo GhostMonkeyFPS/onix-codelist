@@ -1,0 +1,11 @@
+{
+    "XMListName": "illustrated",
+    "Label": "Illustrated yes/no",
+    "Description": "<p>An ONIX code indicating whether a book or other textual (usually printed) product has illustrations. The more informative free text field &lt;IllustrationsNote&gt; and/or the &lt;AncillaryContent&gt; composite are strongly preferred. This element has been added specifically to cater for a situation where a sender of product information maintains only a yes/no flag, and it should not otherwise be used. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Illustrated>",
+    "ShortTag": "<x422>",
+    "Cardinality": "0\u20261",
+    "Example": "<Illustrated>01</Illustrated>",
+    "CodeListNumber": ""
+}

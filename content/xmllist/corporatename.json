@@ -1,0 +1,11 @@
+{
+    "XMListName": "corporatename",
+    "Label": "Corporate name",
+    "Description": "<p>The name of a corporate body, used here for a corporate copyright owner. Optional and non- repeating. Each occurrence of the &lt;CopyrightOwner&gt; composite may carry a single name (personal or corporate), or an identifier, or both a name and an identifier.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CorporateName>",
+    "ShortTag": "<b047>",
+    "Cardinality": "0\u20261",
+    "Example": "<CorporateName>Johnson &amp; Johnson Inc</CorporateName>",
+    "CodeListNumber": ""
+}

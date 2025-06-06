@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicensename",
+    "Label": "Digital content item license name",
+    "Description": "<p>The name or title of the license. Mandatory in any &lt;EpubLicense&gt; composite, and repeatable to provide the license name in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EpubLicenseName&gt;, but must be included in each instance if &lt;EpubLicenseName&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubLicenseName>",
+    "ShortTag": "<x511>",
+    "Cardinality": "1\u2026n",
+    "Example": "<x511>Elsevier e\u2011book chapter EULA v5</x511>",
+    "CodeListNumber": ""
+}

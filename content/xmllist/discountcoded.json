@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountcoded",
+    "Label": "code composite",
+    "Description": "<p>An optional group of data elements which together define a discount code from a specified scheme, and repeatable to allow different discount code schemes to be supported without defining additional data elements. For prices specified as Agency prices in &lt;PriceType&gt;, this code is interpreted as a &#8216;commission code&#8217;.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>A discount code is generally used when the exact percentage discount (or commission, in an agency business model) that a code represents may vary from reseller to reseller (or from agent to agent), or if terms must be kept confidential. If the discount (or commission) is the same for all resellers (or agents) and need not be kept confidential, use &lt;Discount&gt; and &lt;DiscountPercent&gt; instead.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<DiscountCoded>",
+    "ShortTag": "<discountcoded>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

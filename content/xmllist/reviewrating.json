@@ -1,0 +1,11 @@
+{
+    "XMListName": "reviewrating",
+    "Label": "rating composite",
+    "Description": "<p>An optional group of data elements which together specify a &#8216;star rating&#8217; awarded as part of a review of the publication, used where &lt;CitedContentType&gt; indicates the cited content is a review. Not repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ReviewRating>",
+    "ShortTag": "<reviewrating>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

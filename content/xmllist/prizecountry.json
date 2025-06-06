@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizecountry",
+    "Label": "Prize or award country",
+    "Description": "<p>An ONIX code identifying the country in which a prize or award is given. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters, based on ISO 3166-1. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrizeCountry>",
+    "ShortTag": "<g128>",
+    "Cardinality": "0\u20261",
+    "Example": "<g128>US</g128>",
+    "CodeListNumber": ""
+}

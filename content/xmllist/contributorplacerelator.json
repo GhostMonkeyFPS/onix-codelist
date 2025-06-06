@@ -1,0 +1,11 @@
+{
+    "XMListName": "contributorplacerelator",
+    "Label": "Contributor place relator",
+    "Description": "<p>An ONIX code identifying the relationship between a contributor and a geographical location. Mandatory in each occurrence of &lt;ContributorPlace&gt; and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContributorPlaceRelator>",
+    "ShortTag": "<x418>",
+    "Cardinality": "1",
+    "Example": "<x418>01</x418>",
+    "CodeListNumber": ""
+}

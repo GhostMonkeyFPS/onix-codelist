@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishingdaterole",
+    "Label": "Publishing date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date, <i>eg</i>&#160;publication date, announcement date, latest reprint date. Mandatory in each occurrence of the &lt;PublishingDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PublishingDateRole>",
+    "ShortTag": "<x448>",
+    "Cardinality": "1",
+    "Example": "<x448>01</x448>",
+    "CodeListNumber": ""
+}

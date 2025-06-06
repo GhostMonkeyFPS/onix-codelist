@@ -1,0 +1,11 @@
+{
+    "XMListName": "recordsourceidtype",
+    "Label": "Record source identifier type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the identifier in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;RecordSourceIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RecordSourceIDType>",
+    "ShortTag": "<x311>",
+    "Cardinality": "1",
+    "Example": "<x311>03</x311>",
+    "CodeListNumber": ""
+}

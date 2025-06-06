@@ -1,0 +1,11 @@
+{
+    "XMListName": "contentdaterole",
+    "Label": "Content date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date in relation to the supporting resource. Mandatory in each occurrence of the &lt;ContentDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContentDateRole>",
+    "ShortTag": "<x429>",
+    "Cardinality": "1",
+    "Example": "<x429>15</x429>",
+    "CodeListNumber": ""
+}

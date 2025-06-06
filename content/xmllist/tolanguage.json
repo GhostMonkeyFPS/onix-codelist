@@ -1,0 +1,11 @@
+{
+    "XMListName": "tolanguage",
+    "Label": "Target language of a translation",
+    "Description": "<p>Used only when the &lt;ContributorRole&gt; code value is B06, B08 or B10 indicating a translator, to specify the target language into which the translation was made. This element makes it possible to specify a translator&#8217;s exact responsibility when a work involves translation into two or more languages. Optional, and repeatable in the event that a single person has been responsible for translation to two or more languages.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three lower-case letters, based on ISO 639-2/B. Note that ISO 639 specifies that these codes should always be in lower-case</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ToLanguage>",
+    "ShortTag": "<x413>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x413>swe</x413>",
+    "CodeListNumber": ""
+}

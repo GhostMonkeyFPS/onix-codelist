@@ -1,0 +1,11 @@
+{
+    "XMListName": "bodyresource",
+    "Label": "resource composite",
+    "Description": "<p>A group of data elements that together provide details of a single file or resource of which the body is composed. At least one resource is required in each &lt;BodyManifest&gt;, and the &lt;BodyResource&gt; composite is repeatable to describe multiple resources.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<BodyResource>",
+    "ShortTag": "<bodyresource>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectheadingtext",
+    "Label": "Subject heading text",
+    "Description": "<p>The text of a subject heading taken from the scheme specified in the &lt;SubjectSchemeIdentifier&gt; element, or of free language keywords if the scheme is specified as &#8216;keywords&#8217;; or the text equivalent to the &lt;SubjectCode&gt; value, if both code and text are sent. Either &lt;SubjectCode&gt; or &lt;SubjectHeadingText&gt; or both must be present in each occurrence of the &lt;Subject&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Optional, and repeatable if the heading text is sent in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;SubjectHeadingText&gt;, but must be included in each instance if &lt;SubjectHeadingText&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectHeadingText>",
+    "ShortTag": "<b070>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b070>Labor and industrial relations</b070>",
+    "CodeListNumber": ""
+}

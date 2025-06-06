@@ -1,0 +1,11 @@
+{
+    "XMListName": "thesistype",
+    "Label": "Thesis type code",
+    "Description": "<p>An ONIX code identifying a thesis type, when the ONIX record describes an item which was originally presented as an academic thesis or dissertation. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ThesisType>",
+    "ShortTag": "<b368>",
+    "Cardinality": "0\u20261",
+    "Example": "<b368>01</b368>",
+    "CodeListNumber": ""
+}

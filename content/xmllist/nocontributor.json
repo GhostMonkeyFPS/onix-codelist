@@ -1,0 +1,11 @@
+{
+    "XMListName": "nocontributor",
+    "Label": "\u201cNo authorship\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication that a content item has no stated authorship. Optional and non-repeating. Must only be sent in a &lt;ContentItem&gt; composite that has no &lt;Contributor&gt; elements.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NoContributor/>",
+    "ShortTag": "<n339/>",
+    "Cardinality": "0\u20261",
+    "Example": "<NoContributor/>",
+    "CodeListNumber": ""
+}

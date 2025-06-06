@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventtheme",
+    "Label": "Event thematic title",
+    "Description": "<p>The thematic title of an individual event in a series that has an event series name in the &lt;EventName&gt; element. Optional, and repeatable to provide parallel thematic titles for a single event in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EventTheme&gt;, but must be included in each instance if &lt;EventTheme&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventTheme>",
+    "ShortTag": "<x519>",
+    "Cardinality": "0\u2026n",
+    "Example": "<EventTheme>Building a better world</EventTheme>",
+    "CodeListNumber": ""
+}

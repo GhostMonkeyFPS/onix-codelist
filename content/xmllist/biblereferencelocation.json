@@ -1,0 +1,11 @@
+{
+    "XMListName": "biblereferencelocation",
+    "Label": "Bible reference location",
+    "Description": "<p>An ONIX code indicating where references are located as part of the content of a Bible or selected Biblical text, for example &#8216;Center column&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BibleReferenceLocation>",
+    "ShortTag": "<b356>",
+    "Cardinality": "0\u20261",
+    "Example": "<b356>CCL</b356>",
+    "CodeListNumber": ""
+}

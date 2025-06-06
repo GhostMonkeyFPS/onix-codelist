@@ -1,0 +1,11 @@
+{
+    "XMListName": "countriesincluded",
+    "Label": "Countries included",
+    "Description": "<p>One or more ONIX codes identifying countries included in the territory. Successive codes must be separated by spaces. Optional and non-repeating, but <em>either</em> &lt;CountriesIncluded&gt; <em>or</em> &lt;RegionsIncluded&gt; is mandatory in each occurrence of the &lt;Territory&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>One or more fixed-length codes based on ISO 3166-1, each consisting of two upper case letters, and with successive codes being separated by spaces. Suggested maximum length 750 characters. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CountriesIncluded>",
+    "ShortTag": "<x449>",
+    "Cardinality": "0\u20261",
+    "Example": "<CountriesIncluded>US CA</CountriesIncluded>",
+    "CodeListNumber": ""
+}

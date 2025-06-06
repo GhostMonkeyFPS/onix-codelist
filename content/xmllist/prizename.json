@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizename",
+    "Label": "Prize or award name",
+    "Description": "<p>The name of a prize or award which the product or work has received. Mandatory in each occurrence of the &lt;Prize&gt; composite, and repeatable to provide a parallel award name in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;PrizeName&gt;, but must be included in each instance if &lt;PrizeName&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrizeName>",
+    "ShortTag": "<g126>",
+    "Cardinality": "1\u2026n",
+    "Example": "<PrizeName>Man Booker Prize</PrizeName>",
+    "CodeListNumber": ""
+}

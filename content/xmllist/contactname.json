@@ -1,0 +1,11 @@
+{
+    "XMListName": "contactname",
+    "Label": "Contact name",
+    "Description": "<p>Free text giving the name, department, <i>etc</i> for a contact person in the supply contact organization who is responsible for the product. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContactName>",
+    "ShortTag": "<x299>",
+    "Cardinality": "0\u20261",
+    "Example": "<x299>Jackie Brown</x299>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationbundlename",
+    "Label": "bundle name composite",
+    "Description": "<p>A group of data elements that together identify a named &#8216;bundle&#8217; of detailed technical specifications necessary for creation of the body of the final Product or Product part. Bundle names are inevitably proprietary, so both a Name type name and the Name value must be included.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SpecificationBundleName>",
+    "ShortTag": "<specificationbundlename>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

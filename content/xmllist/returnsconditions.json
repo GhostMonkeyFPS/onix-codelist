@@ -1,0 +1,11 @@
+{
+    "XMListName": "returnsconditions",
+    "Label": "conditions composite",
+    "Description": "<p>An optional and repeatable group of data elements which together allow the supplier&#8217;s returns conditions to be specified in coded form.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ReturnsConditions>",
+    "ShortTag": "<returnsconditions>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

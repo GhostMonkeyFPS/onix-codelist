@@ -1,0 +1,11 @@
+{
+    "XMListName": "languagecode",
+    "Label": "Language code",
+    "Description": "<p>An ONIX code indicating a language. Mandatory in each occurrence of the &lt;Language&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three lower-case letters, based on ISO 639-2/B. Note that ISO 639 specifies that these codes should always be in lower-case</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LanguageCode>",
+    "ShortTag": "<b252>",
+    "Cardinality": "1",
+    "Example": "<b252>eng</b252>",
+    "CodeListNumber": ""
+}

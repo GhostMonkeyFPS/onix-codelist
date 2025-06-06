@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplementmanifest",
+    "Label": "manifest composite",
+    "Description": "<p>An optional group of data elements detailing a simple subset of Group&#160;P.1 to specify the Product form, an optional cover, mandatory body and optionally one or more insert manifests for a single Supplement&#160;&#8211; an additional item supplied with the product at retail that is NOT considered a &lt;ProductPart&gt;, for example a booklet supplied in PDF form that accompanies a downloadable audio product. Each of these cover, body and insert sections within &lt;SupplementManifest&gt; mirrors the structure of the parts of a &lt;ProductionManifest&gt;.</p>\n\t\t\t\t\t\t\t\t\t\n<p>These manifests may be preceded by a &lt;SequenceNumber&gt; and one or more &lt;SalesOutlet&gt; composites to enable vendor-specific supplements, and a simple &lt;NoSupplement/&gt; indicator may replace the Product form and cover, body and insert manifests to provide a positive indication that a vendor-specific supplement has no &#8216;generic&#8217; alternative.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplementManifest>",
+    "ShortTag": "<supplementmanifest>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

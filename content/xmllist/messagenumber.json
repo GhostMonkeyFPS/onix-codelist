@@ -1,0 +1,11 @@
+{
+    "XMListName": "messagenumber",
+    "Label": "Message sequence number",
+    "Description": "<p>A monotonic sequence number of the messages in a series sent between trading partners, to enable the receiver to check against gaps and duplicates. Optional and non-repeating.</p>\n\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 8 digits</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<MessageNumber>",
+    "ShortTag": "<m180>",
+    "Cardinality": "0\u20261",
+    "Example": "<m180>1234</m180>",
+    "CodeListNumber": ""
+}

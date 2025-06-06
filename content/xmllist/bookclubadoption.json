@@ -1,0 +1,11 @@
+{
+    "XMListName": "bookclubadoption",
+    "Label": "Book club adoption",
+    "Description": "<p>Free text describing the adoption of the product as a book club selection. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;BookClubAdoption&gt;, but must be included in each instance if &lt;BookClubAdoption&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BookClubAdoption>",
+    "ShortTag": "<k169>",
+    "Cardinality": "0\u2026n",
+    "Example": "<k169>Book-Of-The-Month Club selection for May 2000</k169>",
+    "CodeListNumber": ""
+}

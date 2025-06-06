@@ -1,0 +1,11 @@
+{
+    "XMListName": "primarypart",
+    "Label": "\u2018Primary part\u2019 indicator",
+    "Description": "<p>An empty element that allows a sender to identify a product part as the &#8216;primary&#8217; part of a multiple-item product. For example, in a &#8216;book and toy&#8217; or &#8216;book and DVD&#8217; product, the book may be regarded as the primary part. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrimaryPart/>",
+    "ShortTag": "<x457/>",
+    "Cardinality": "0\u20261",
+    "Example": "<PrimaryPart/>",
+    "CodeListNumber": ""
+}

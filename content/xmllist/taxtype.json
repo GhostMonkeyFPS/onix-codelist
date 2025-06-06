@@ -1,0 +1,11 @@
+{
+    "XMListName": "taxtype",
+    "Label": "Tax type",
+    "Description": "<p>An ONIX code identifying a tax type, <i>eg</i>&#160;VAT. Optional, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TaxType>",
+    "ShortTag": "<x470>",
+    "Cardinality": "0\u20261",
+    "Example": "<TaxType>01</TaxType>",
+    "CodeListNumber": ""
+}

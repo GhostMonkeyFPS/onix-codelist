@@ -1,0 +1,11 @@
+{
+    "XMListName": "complexity",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together describe the level of complexity of a text. Repeatable to specify the complexity using different schemes.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Complexity>",
+    "ShortTag": "<complexity>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

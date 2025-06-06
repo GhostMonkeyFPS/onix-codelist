@@ -1,0 +1,11 @@
+{
+    "XMListName": "stockquantitycode",
+    "Label": "Stock quantity code",
+    "Description": "<p>A code value taken from the scheme specified in the &lt;StockQuantityCodeType&gt; element. Mandatory in each occurrence of the &lt;StockQuantityCoded&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the scheme specified in &lt;StockQuantityCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<StockQuantityCode>",
+    "ShortTag": "<j297>",
+    "Cardinality": "1",
+    "Example": "<StockQuantityCode>LOW</StockQuantityCode>",
+    "CodeListNumber": ""
+}

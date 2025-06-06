@@ -1,0 +1,11 @@
+{
+    "XMListName": "recordsourcetype",
+    "Label": "Record source type code",
+    "Description": "<p>An ONIX code which indicates the type of source which has issued the ONIX record. Optional and non-repeating, independently of the occurrence of any other field.</p>\n\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RecordSourceType>",
+    "ShortTag": "<a194>",
+    "Cardinality": "0\u20261",
+    "Example": "<a194>01</a194>",
+    "CodeListNumber": ""
+}

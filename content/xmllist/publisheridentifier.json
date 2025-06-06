@@ -1,0 +1,11 @@
+{
+    "XMListName": "publisheridentifier",
+    "Label": "identifier composite",
+    "Description": "<p>An optional group of data elements which together define the identifier of a publisher name. Optional, but mandatory if the &lt;Publisher&gt; composite does not carry a &lt;PublisherName&gt;. The composite is repeatable in order to specify multiple identifiers for the same publisher.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PublisherIdentifier>",
+    "ShortTag": "<publisheridentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

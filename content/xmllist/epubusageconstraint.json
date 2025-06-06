@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubusageconstraint",
+    "Label": "constraint composite (content item)",
+    "Description": "<p>An optional group of data elements which together describe a usage constraint on a content item within a digital product (or the absence of such a constraint), whether enforced by DRM technical protection, inherent in the platform used, or specified by license agreement. Repeatable in order to describe multiple constraints on usage.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EpubUsageConstraint>",
+    "ShortTag": "<epubusageconstraint>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectschemeidentifier",
+    "Label": "Subject scheme identifier",
+    "Description": "<p>An ONIX code which identifies the category or subject heading scheme which is used in an occurrence of the &lt;Subject&gt; composite. Mandatory in each occurrence of the composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\n<p>For category schemes that use code values, use the associated &lt;SubjectCode&gt; element to carry the value (if so required, the &lt;SubjectHeadingText&gt; element can be used simultaneously to carry the text equivalent of the code). For schemes that use text headings, use the &lt;SubjectHeadingText&gt; element to carry the text of the category heading.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two alphanumeric characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectSchemeIdentifier>",
+    "ShortTag": "<b067>",
+    "Cardinality": "1",
+    "Example": "<b067>03</b067>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "audience",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together describe an audience to which the product is directed. Repeatable, both to specify multiple distinct audiences, and to express audiences using multiple schemes.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Audience>",
+    "ShortTag": "<audience>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "unnamedpersons",
+    "Label": "Unnamed person(s)",
+    "Description": "<p>An ONIX code allowing a positive indication to be given when authorship is unknown or anonymous, or when as a matter of editorial policy only a limited number of contributors are named. Optional and non-repeating: see Group&#160;P.7 introductory text for valid options.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<UnnamedPersons>",
+    "ShortTag": "<b249>",
+    "Cardinality": "0\u20261",
+    "Example": "<b249>02</b249>",
+    "CodeListNumber": ""
+}

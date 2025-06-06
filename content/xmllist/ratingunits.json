@@ -1,0 +1,11 @@
+{
+    "XMListName": "ratingunits",
+    "Label": "Review rating units",
+    "Description": "<p>The &#8216;units&#8217; used by a rating, <i>eg</i>&#160;stars, tomatoes <i>etc</i>. Optional, and repeatable to provide the units in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;RatingUnits&gt;, but must be included in each instance if &lt;RatingUnits&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RatingUnits>",
+    "ShortTag": "<x527>",
+    "Cardinality": "0\u2026n",
+    "Example": "<RatingUnits>stars</RatingUnits>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "productformdescription",
+    "Label": "Product form description (supplement)",
+    "Description": "<p>If product form codes do not adequately describe the supplement, a short text description may be added to give a more detailed specification of the product form. The field is optional, and repeatable to provide parallel descriptions in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ProductFormDescription&gt;, but must be included in each instance if &lt;ProductFormDescription&gt; is repeated to provide parallel descriptions in multiple languages.\n\t\t\t\t\t\t\t\t\t\t\t</p>",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductFormDescription>",
+    "ShortTag": "<b014>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b014>32pp e\u2011booklet in EPUB format</b014>",
+    "CodeListNumber": ""
+}

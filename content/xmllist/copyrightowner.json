@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrightowner",
+    "Label": "owner composite",
+    "Description": "<p>A repeatable group of data elements which together name a copyright owner. Optional, but may be omitted only if &lt;CopyrightYear&gt; is present. Each occurrence of the &lt;CopyrightOwner&gt; composite must carry a single name (personal or corporate), or an identifier, or both.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CopyrightOwner>",
+    "ShortTag": "<copyrightowner>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

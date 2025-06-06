@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesoutletidtype",
+    "Label": "Sales outlet identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;SalesOutletIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SalesOutletIDType>",
+    "ShortTag": "<b393>",
+    "Cardinality": "1",
+    "Example": "<b393>03</b393>",
+    "CodeListNumber": ""
+}

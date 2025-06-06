@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountcode",
+    "Label": "Discount code value",
+    "Description": "<p>A discount or commission code from the scheme specified in the &lt;DiscountCodeType&gt; element. Mandatory in each occurrence of the &lt;DiscountCoded&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the scheme specified in &lt;DiscountCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountCode>",
+    "ShortTag": "<j364>",
+    "Cardinality": "1",
+    "Example": "<DiscountCode>AHACP033</DiscountCode>",
+    "CodeListNumber": ""
+}

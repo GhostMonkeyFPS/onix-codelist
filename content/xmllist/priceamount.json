@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceamount",
+    "Label": "Price amount",
+    "Description": "<p>The amount of the comparison product price. Mandatory and non-repeating within any occurrence of the &lt;ComparisonProductPrice&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive real number, with explicit decimal point when required, suggested maximum length 12 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceAmount>",
+    "ShortTag": "<j151>",
+    "Cardinality": "1",
+    "Example": "<PriceAmount>18.99</PriceAmount>",
+    "CodeListNumber": ""
+}

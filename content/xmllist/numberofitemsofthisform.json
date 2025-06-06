@@ -1,0 +1,11 @@
+{
+    "XMListName": "numberofitemsofthisform",
+    "Label": "Number of items of a specified form (product part)",
+    "Description": "<p>When product parts are listed as a specified number of <em>different</em> items in a specified form, without identifying the individual items, &lt;NumberOfItemsOfThisForm&gt; must be used to carry the quantity, even if the number is &#8216;1&#8217;. Consequently the element is mandatory and non-repeating in an occurrence of the &lt;ProductPart&gt; composite if &lt;NumberOfCopies&gt; is not present; and it must not be used if &lt;ProductIdentifier&gt; is present.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NumberOfItemsOfThisForm>",
+    "ShortTag": "<x322>",
+    "Cardinality": "0\u20261",
+    "Example": "<x322>3</x322>",
+    "CodeListNumber": ""
+}

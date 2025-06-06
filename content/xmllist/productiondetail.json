@@ -1,0 +1,11 @@
+{
+    "XMListName": "productiondetail",
+    "Label": "detail composite",
+    "Description": "<p>The Production detail block comprises the single data Group P.28. The block as a whole is non-repeating. It is optional within the &lt;Product&gt; record, and is used only when there is a requirement to communicate specification and file manifest detail relating to intermediary services within the supply chain, for example manufacturing on demand, e&#8209;book conversion services or distribution of digital audio. It is not expected to be present in most ONIX messages&#160;&#8211; though recipients not requiring the data should be able to ignore the entire block if it is supplied.</p>\n\t\t\t\t\t\t\n<p>When used, the block should normally contain at least one instance of &lt;ProductionManifest&gt;. It may be empty only within a partial or &#8216;block update&#8217; (Notification or update type 04, see P.1.2), when the intention is to remove all previously-supplied manifest detail.</p>\n\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductionDetail>",
+    "ShortTag": "<productiondetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

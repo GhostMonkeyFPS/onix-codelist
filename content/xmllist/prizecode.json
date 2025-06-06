@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizecode",
+    "Label": "Prize or award achievement code",
+    "Description": "<p>An ONIX code indicating the achievement of the product in relation to a prize or award, <i>eg</i>&#160;winner, runner-up, shortlisted. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrizeCode>",
+    "ShortTag": "<g129>",
+    "Cardinality": "0\u20261",
+    "Example": "<PrizeCode>02</PrizeCode>",
+    "CodeListNumber": ""
+}

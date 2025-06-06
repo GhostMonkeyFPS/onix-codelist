@@ -1,0 +1,11 @@
+{
+    "XMListName": "sequencenumber",
+    "Label": "Sequence number",
+    "Description": "<p>A number which (in combination with any &lt;SalesOutlet&gt; composite) specifies a single overall sequence of supplements. Optional and non-repeating. It is strongly recommended that each occurrence of the &lt;SupplementManifest&gt; composite should carry a &lt;SequenceNumber&gt;.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>Note that with &lt;SalesOutlet&gt; below the provision of vendor-specific supplements can require the use of duplicate sequence numbers.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, 1, 2, 3 <i>etc</i>, suggested maximum length 3 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SequenceNumber>",
+    "ShortTag": "<b034>",
+    "Cardinality": "0\u20261",
+    "Example": "<SequenceNumber>2</SequenceNumber>",
+    "CodeListNumber": ""
+}

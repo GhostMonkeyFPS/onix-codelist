@@ -1,0 +1,11 @@
+{
+    "XMListName": "positiononlist",
+    "Label": "Position on list",
+    "Description": "<p>The position that a product has reached on a bestseller list specified in &lt;ListName&gt;. Optional and non-repeating. The &lt;ListName&gt; element must also be present if &lt;PositionOnList&gt; is included.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 3 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PositionOnList>",
+    "ShortTag": "<x433>",
+    "Cardinality": "0\u20261",
+    "Example": "<PositionOnList>1</PositionOnList>",
+    "CodeListNumber": ""
+}
