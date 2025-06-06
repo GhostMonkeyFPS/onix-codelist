@@ -1,0 +1,11 @@
+{
+    "XMListName": "ordertime",
+    "Label": "Order time",
+    "Description": "<p>The expected average number of business days from receipt of order to dispatch (for items &#8216;manufactured on demand&#8217; or &#8216;only to order&#8217;). Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, one or two digits only. Zero indicates expected &#8216;same day&#8217; dispatch</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<OrderTime>",
+    "ShortTag": "<j144>",
+    "Cardinality": "0\u20261",
+    "Example": "<OrderTime>7</OrderTime>",
+    "CodeListNumber": ""
+}

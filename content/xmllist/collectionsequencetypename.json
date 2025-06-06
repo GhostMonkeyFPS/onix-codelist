@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionsequencetypename",
+    "Label": "Collection sequence type name",
+    "Description": "<p>A name which describes a proprietary order used for the product&#8217;s sequence number within the collection. Must be included when, and only when, the code in the &lt;CollectionSequenceType&gt; field indicates a proprietary scheme. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionSequenceTypeName>",
+    "ShortTag": "<x480>",
+    "Cardinality": "0\u20261",
+    "Example": "<x480>Order of TV series transmission</x480>",
+    "CodeListNumber": ""
+}

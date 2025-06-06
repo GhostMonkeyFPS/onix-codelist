@@ -1,0 +1,11 @@
+{
+    "XMListName": "discount",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together define a discount either as a percentage or as an absolute amount. Repeatable in order to specify a more complex arrangement such as a progressive or tiered discount. Used only when an ONIX message is sent within the context of a specific trading relationship.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Discount>",
+    "ShortTag": "<discount>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

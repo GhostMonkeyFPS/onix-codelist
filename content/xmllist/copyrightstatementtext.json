@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrightstatementtext",
+    "Label": "Copyright statement text (content item)",
+    "Description": "<p>Free text showing how the copyright of the content item should be described, when a standard concatenation of individual copyright statements would not give a satisfactory presentation. Optional but must only be used if one or more instances of &lt;CopyrightStatement&gt; are present, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;CopyrightStatementText&gt;, but must be included in each instance if &lt;CopyrightStatementText&gt; is repeated. When the &lt;CopyrightStatementText&gt; field is sent, the receiver should use it to replace all detail for the content item sent in the &lt;CopyrightStatement&gt; composite <em>for display purposes only</em>. It does not replace the &lt;CopyrightStatement&gt; element. The individual rightsholder detail <em>must</em> also be sent in one or more &lt;CopyrightStatement&gt; composites for indexing and retrieval purposes.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CopyrightStatementText>",
+    "ShortTag": "<x588>",
+    "Cardinality": "0\u2026n",
+    "Example": "<CopyrightStatementText textformat=\"05\"><p>Text \u00a9 2023 Amelia Winstanley, music \u00a9 and \u2117 2021 Three sisters</p></CopyrightStatementText>",
+    "CodeListNumber": ""
+}

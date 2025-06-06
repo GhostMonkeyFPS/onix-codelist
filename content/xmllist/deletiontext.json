@@ -1,0 +1,11 @@
+{
+    "XMListName": "deletiontext",
+    "Label": "Reason for deletion",
+    "Description": "<p>Free text which indicates the reason why an ONIX record is being deleted. Optional and repeatable, and may occur only when the &lt;NotificationType&gt; element carries the code value 05. The <i>language</i> attribute is optional for a single instance of &lt;DeletionText&gt;, but must be included in each instance if &lt;DeletionText&gt; is repeated. Note that it refers to the reason why the <em>record</em> is being deleted, not the reason why a <em>product</em> has been &#8216;deleted&#8217; (in industries which use this terminology when a product is withdrawn).</p>\n\t\t\t\t\t\t\t\n<p>A product cancellation or abandonment prior to publication, or a product becoming unavailable (<i>eg</i>&#160;as a result of being Out of print) are changes of &lt;PublishingStatus&gt; or of &lt;ProductAvailability&gt;, not reasons for deletion.</p>\n\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DeletionText>",
+    "ShortTag": "<a199>",
+    "Cardinality": "0\u2026n",
+    "Example": "<a199>Issued in error</a199>",
+    "CodeListNumber": ""
+}

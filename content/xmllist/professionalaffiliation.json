@@ -1,0 +1,11 @@
+{
+    "XMListName": "professionalaffiliation",
+    "Label": "affiliation composite",
+    "Description": "<p>An optional group of data elements which together identify a subject&#8217;s professional position and/or affiliation, repeatable to allow multiple positions and affiliations to be specified.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProfessionalAffiliation>",
+    "ShortTag": "<professionalaffiliation>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "cityofpublication",
+    "Label": "City or town of publication",
+    "Description": "<p>The name of a city or town associated with the imprint or publisher. Optional, and repeatable if parallel names for a single location appear on the title page in multiple languages, or if the imprint carries two or more cities of publication.</p>\n\t\t\t\t\t\t\t\t\n<p>Where necessary to avoid ambiguity, a state, province or region may be included&#160;&#8211; for example &#8216;Springfield,&#160;IL&#8217;.</p>\n\t\t\t\t\t\t\t\t\n<p>A place of publication is normally given in the form in which it appears on the title page. If the place name appears in more than one language, &lt;CityOfPublication&gt; may be repeated. The <i>language</i> attribute is optional with a single instance of &lt;CityOfPublication&gt;, but must be included in each instance if &lt;CityOfPublication&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CityOfPublication>",
+    "ShortTag": "<b209>",
+    "Cardinality": "0\u2026n",
+    "Example": "<CityOfPublication>New York</CityOfPublication>",
+    "CodeListNumber": ""
+}

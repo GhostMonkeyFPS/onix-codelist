@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicenseexpressionlink",
+    "Label": "License expression link (content item)",
+    "Description": "<p>The URI for the license expression. Mandatory in each instance of the &lt;EpubLicenseExpression&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubLicenseExpressionLink>",
+    "ShortTag": "<x510>",
+    "Cardinality": "1",
+    "Example": "<EpubLicenseExpressionLink>http://creativecommons.org/\u200blicenses/\u200bby/\u200b3.0/\u200bdeed.en_GB</EpubLicenseExpressionLink>",
+    "CodeListNumber": ""
+}

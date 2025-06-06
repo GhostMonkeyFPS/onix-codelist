@@ -1,0 +1,11 @@
+{
+    "XMListName": "biblepurpose",
+    "Label": "Bible purpose",
+    "Description": "<p>An ONIX code indicating the purpose for which a Bible or selected Biblical text is intended, for example &#8216;Family&#8217;, &#8216;Lectern/pulpit&#8217;. Optional, and repeatable to list multiple purposes.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BiblePurpose>",
+    "ShortTag": "<b354>",
+    "Cardinality": "0\u2026n",
+    "Example": "<BiblePurpose>LP</BiblePurpose>",
+    "CodeListNumber": ""
+}

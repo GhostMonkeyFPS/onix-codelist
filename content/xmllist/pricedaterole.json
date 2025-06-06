@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricedaterole",
+    "Label": "Price date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date. Mandatory in each occurrence of the &lt;PriceDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceDateRole>",
+    "ShortTag": "<x476>",
+    "Cardinality": "1",
+    "Example": "<PriceDateRole>14</PriceDateRole>",
+    "CodeListNumber": ""
+}

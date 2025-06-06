@@ -1,0 +1,11 @@
+{
+    "XMListName": "religioustextfeature",
+    "Label": "text feature composite",
+    "Description": "<p>A repeatable group of data elements which together specify and describe a feature of a religious text. Mandatory if and only if &lt;ReligiousTextIdentifier&gt; is present.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ReligiousTextFeature>",
+    "ShortTag": "<religioustextfeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

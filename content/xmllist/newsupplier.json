@@ -1,0 +1,11 @@
+{
+    "XMListName": "newsupplier",
+    "Label": "supplier composite",
+    "Description": "<p>An optional group of data elements which together specify a new supply source to which orders are referred. Use only when the code in &lt;ProductAvailability&gt; indicates &#8216;no longer available from us, refer to new supplier&#8217;. Only one occurrence of the composite is permitted in this context.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<NewSupplier>",
+    "ShortTag": "<newsupplier>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

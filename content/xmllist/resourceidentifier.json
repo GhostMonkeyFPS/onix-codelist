@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourceidentifier",
+    "Label": "identifier composite",
+    "Description": "<p>A group of data elements which together specify an identifier of the resource, in accordance with the specified scheme. The composite is optional, and repeatable to specify multiple identifiers for the resource.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ResourceIdentifier>",
+    "ShortTag": "<resourceidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

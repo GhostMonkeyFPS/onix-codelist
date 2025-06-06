@@ -1,0 +1,11 @@
+{
+    "XMListName": "productformfeaturevalue",
+    "Label": "Product form feature value",
+    "Description": "<p>A controlled value that describes a product form feature. Presence or absence of this element depends on the &lt;ProductFormFeatureType&gt;, since some product form features (<i>eg</i>&#160;color of cover binding) require an accompanying value, while some (<i>eg</i>&#160;text font) require free text in &lt;ProductFormFeatureDescription&gt;. Others may have both code value and free text. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Dependent on the scheme specified in &lt;ProductFormFeatureType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductFormFeatureValue>",
+    "ShortTag": "<b335>",
+    "Cardinality": "0\u20261",
+    "Example": "<b335>BLK</b335>",
+    "CodeListNumber": ""
+}

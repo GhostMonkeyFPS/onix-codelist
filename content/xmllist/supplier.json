@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplier",
+    "Label": "composite",
+    "Description": "<p>A group of data elements which together identify a specific supplier. Mandatory in each occurrence of the &lt;SupplyDetail&gt; composite, and not repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Supplier>",
+    "ShortTag": "<supplier>",
+    "Cardinality": "1",
+    "Example": "",
+    "CodeListNumber": ""
+}

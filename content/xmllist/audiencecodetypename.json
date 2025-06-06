@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencecodetypename",
+    "Label": "Audience code type name",
+    "Description": "<p>A name which identifies a proprietary audience scheme when the code in &lt;AudienceCodeType&gt; indicates a proprietary scheme, <i>eg</i>&#160;a vendor&#8217;s own coding scheme. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceCodeTypeName>",
+    "ShortTag": "<b205>",
+    "Cardinality": "0\u20261",
+    "Example": "<b205>Fortnightly Books target selector</b205>",
+    "CodeListNumber": ""
+}

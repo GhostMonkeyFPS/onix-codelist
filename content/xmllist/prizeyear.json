@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizeyear",
+    "Label": "Prize or award year",
+    "Description": "<p>The year in which a prize or award was given. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Four digits, YYYY</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrizeYear>",
+    "ShortTag": "<g127>",
+    "Cardinality": "0\u20261",
+    "Example": "<PrizeYear>1999</PrizeYear>",
+    "CodeListNumber": ""
+}

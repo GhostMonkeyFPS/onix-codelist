@@ -1,0 +1,11 @@
+{
+    "XMListName": "affiliationidtype",
+    "Label": "Affiliation identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;AffiliationIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AffiliationIDType>",
+    "ShortTag": "<x580>",
+    "Cardinality": "1",
+    "Example": "<x580>16</x580>",
+    "CodeListNumber": ""
+}

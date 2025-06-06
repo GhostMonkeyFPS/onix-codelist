@@ -1,0 +1,11 @@
+{
+    "XMListName": "orderquantityminimum",
+    "Label": "Minimum initial order quantity",
+    "Description": "<p>The minimum quantity of the product that may be ordered in the very first order placed for a new product with the supplier, where it is different from the Minimum order quantity for subsequent orders. Optional, but when supplied, it must be preceded by a Minimum order quantity that applies to second and subsequent orders.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<OrderQuantityMinimum>",
+    "ShortTag": "<x532>",
+    "Cardinality": "0\u20261",
+    "Example": "<x532>12</x532>",
+    "CodeListNumber": ""
+}

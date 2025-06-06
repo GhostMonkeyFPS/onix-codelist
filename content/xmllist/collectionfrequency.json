@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionfrequency",
+    "Label": "Collection frequency",
+    "Description": "<p>An ONIX code specifying the approximate or expected publication frequency for addition of new products to the collection. Optional, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, one alphabetic character</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionFrequency>",
+    "ShortTag": "<x582>",
+    "Cardinality": "0\u2026s1",
+    "Example": "<x582>q</x582>",
+    "CodeListNumber": ""
+}

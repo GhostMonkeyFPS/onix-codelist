@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubusagestatus",
+    "Label": "Usage status (content item)",
+    "Description": "<p>An ONIX code specifying the status of a usage of a content item within a digital product, <i>eg</i>&#160;permitted without limit, permitted with limit, prohibited. Mandatory in each occurrence of the &lt;EpubUsageConstraint&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubUsageStatus>",
+    "ShortTag": "<x319>",
+    "Cardinality": "1",
+    "Example": "<x319>03</x318>",
+    "CodeListNumber": ""
+}

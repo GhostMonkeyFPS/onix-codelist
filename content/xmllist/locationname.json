@@ -1,0 +1,11 @@
+{
+    "XMListName": "locationname",
+    "Label": "Location name",
+    "Description": "<p>The name of a stock location. Optional, and repeatable to provide parallel names for a single location in multiple languages (<i>eg</i>&#160;<span lang=\"ga\">Baile &#193;tha Cliath</span> and Dublin, or <span lang=\"fr\">Bruxelles</span> and <span lang=\"nl\">Brussel</span>). It may if necessary include a postal code (<i>eg</i>&#160;<span lang=\"el\">10680 &#913;&#952;&#942;&#957;&#945;</span>, or <span lang=\"it\">20090 Assago</span>). The <i>language</i> attribute is optional for a single instance of &lt;LocationName&gt;, but must be included in each instance if &lt;LocationName&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LocationName>",
+    "ShortTag": "<j349>",
+    "Cardinality": "0\u2026n",
+    "Example": "<samp>&lt;j349&gt;<span lang=\"fr\">Momence</span>&lt;/j349&gt;</samp>",
+    "CodeListNumber": ""
+}

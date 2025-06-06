@@ -1,0 +1,11 @@
+{
+    "XMListName": "productcontenttype",
+    "Label": "Product content type code (product part)",
+    "Description": "<p>An ONIX code which indicates certain types of content which are closely related to but not strictly an attribute of product form, <i>eg</i>&#160;audiobook. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductContentType>",
+    "ShortTag": "<b385>",
+    "Cardinality": "0\u2026n",
+    "Example": "<ProductContentType>01</ProductContentType>",
+    "CodeListNumber": ""
+}

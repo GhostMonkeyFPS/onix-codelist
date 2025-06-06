@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationfeaturetype",
+    "Label": "Specification feature type code",
+    "Description": "<p>An ONIX code which specifies the feature described by an instance of the &lt;SpecificationFeature&gt; composite, <i>eg</i>&#160;paper color for the body. Mandatory in each occurrence of the composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationFeatureType>",
+    "ShortTag": "<x561>",
+    "Cardinality": "1",
+    "Example": "<SpecificationFeatureType>43</SpecificationFeatureType>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "personname",
+    "Label": "Person name",
+    "Description": "<p>The name of a person, used here for a personal copyright owner. Optional and non-repeating. Each occurrence of the &lt;CopyrightOwner&gt; composite may carry a single name (personal or corporate), or an identifier, or both a name and an identifier.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PersonName>",
+    "ShortTag": "<b036>",
+    "Cardinality": "0\u20261",
+    "Example": "<PersonName>James J. Johnson III</PersonName>",
+    "CodeListNumber": ""
+}

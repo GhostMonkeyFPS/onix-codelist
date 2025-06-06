@@ -1,0 +1,11 @@
+{
+    "XMListName": "lettersafternames",
+    "Label": "Person name part 7: qualifications and honors after names",
+    "Description": "<p>The seventh part of a structured name of a person who contributed to the creation of the product: qualifications and honors following a person&#8217;s names, <i>eg</i>&#160;&#8216;CBE FRS&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LettersAfterNames>",
+    "ShortTag": "<b042>",
+    "Cardinality": "0\u20261",
+    "Example": "<b042>MB FRCS</b042>",
+    "CodeListNumber": ""
+}

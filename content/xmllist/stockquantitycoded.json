@@ -1,0 +1,11 @@
+{
+    "XMListName": "stockquantitycoded",
+    "Label": "quantity coded composite",
+    "Description": "<p>A group of data elements which together specify a stock level in a coded way without stating the exact quantity of stock. Either &lt;StockQuantityCoded&gt; or &lt;OnHand&gt; is mandatory in each occurrence of the &lt;Stock&gt; composite, even if the quantity on hand is zero. Repeatable, so that it is possible to provide coded quantities on hand, quantities on order <i>etc</i> separately.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<StockQuantityCoded>",
+    "ShortTag": "<stockquantitycoded>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

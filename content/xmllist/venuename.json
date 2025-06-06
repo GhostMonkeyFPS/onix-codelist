@@ -1,0 +1,11 @@
+{
+    "XMListName": "venuename",
+    "Label": "Venue name",
+    "Description": "<p>The name of the venue at which the event occurrence takes place, for example the name of the bookstore. Optional, but required for a physical event and omitted for a purely digital event.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<VenueName>",
+    "ShortTag": "<x551>",
+    "Cardinality": "0\u20261",
+    "Example": "<VenueName>The Crime Blotter Bookstore</VenueName>",
+    "CodeListNumber": ""
+}

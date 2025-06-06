@@ -1,0 +1,11 @@
+{
+    "XMListName": "stock",
+    "Label": "quantity composite",
+    "Description": "<p>An optional group of data elements which together specify a quantity of stock, repeatable where a supplier has more than one warehouse or supplier location.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Within a single instance of the &lt;Stock&gt; composite, the location name and identifier are both optional. If &lt;Stock&gt; is repeated, at least one identifier or a location name must be included in each instance.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Stock>",
+    "ShortTag": "<stock>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

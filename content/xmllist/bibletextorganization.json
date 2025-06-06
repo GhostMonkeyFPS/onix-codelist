@@ -1,0 +1,11 @@
+{
+    "XMListName": "bibletextorganization",
+    "Label": "Bible text organization",
+    "Description": "<p>An ONIX code indicating the way in which the content of a Bible or selected Biblical text is organized, for example &#8216;Chronological&#8217;, &#8216;Chain reference&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BibleTextOrganization>",
+    "ShortTag": "<b355>",
+    "Cardinality": "0\u20261",
+    "Example": "<b355>CHA</b355>",
+    "CodeListNumber": ""
+}

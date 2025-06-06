@@ -1,0 +1,11 @@
+{
+    "XMListName": "header",
+    "Label": "for Books Message header",
+    "Description": "<p>A group of data elements which together constitute a message header. Mandatory in any ONIX for Books message to provide metadata about the message itself, and non-repeating.</p>\n\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Header>",
+    "ShortTag": "<header>",
+    "Cardinality": "1",
+    "Example": "",
+    "CodeListNumber": ""
+}

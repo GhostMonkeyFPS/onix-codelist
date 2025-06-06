@@ -1,0 +1,11 @@
+{
+    "XMListName": "freequantity",
+    "Label": "Free quantity",
+    "Description": "<p>The number of free copies which will be supplied with an order for the batch quantity specified in the &lt;BatchQuantity&gt; field. Mandatory in each occurrence of the &lt;BatchBonus&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<FreeQuantity>",
+    "ShortTag": "<j265>",
+    "Cardinality": "1",
+    "Example": "<FreeQuantity>1</FreeQuantity>",
+    "CodeListNumber": ""
+}

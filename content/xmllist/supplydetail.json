@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplydetail",
+    "Label": "detail composite",
+    "Description": "<p>A group of data elements which together give details of a supply source, and price and availability from that source. Mandatory in each ordinary occurrence of the &lt;ProductSupply&gt; block, and repeatable to give details of multiple supply sources.</p>\n\t\t\t\t\t\t\t\t\n<p>Exceptionally, &lt;SupplyDetail&gt; may be omitted only within a partial or &#8216;block update&#8217; (Notification or update type 04, see P.1.2) where a &lt;MarketReference&gt; is supplied, when the intention is to remove all previously-supplied Supply details for the referenced market (for example when one market is being merged into another).</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplyDetail>",
+    "ShortTag": "<supplydetail>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

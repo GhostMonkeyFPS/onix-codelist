@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencecodetype",
+    "Label": "Audience code type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the code in &lt;AudienceCodeValue&gt; is taken. Mandatory in each occurrence of the &lt;Audience&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceCodeType>",
+    "ShortTag": "<b204>",
+    "Cardinality": "1",
+    "Example": "<AudienceCodeType>02</AudienceCodeType>",
+    "CodeListNumber": ""
+}

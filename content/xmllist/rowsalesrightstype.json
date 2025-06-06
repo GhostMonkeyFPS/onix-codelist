@@ -1,0 +1,11 @@
+{
+    "XMListName": "rowsalesrightstype",
+    "Label": "Rest of World sales rights type code",
+    "Description": "<p>An ONIX code describing the sales rights applicable in territories not specifically associated with a sales right within an occurrence of the &lt;SalesRights&gt; composite. Must be preceded by at least one &lt;SalesRights&gt; composite. Optional, but required in all cases where no sales rights type is associated with the region &#8216;WORLD&#8217;, and in all cases where a sales rights type is associated with &#8216;WORLD&#8217; but with exclusions that are not themselves associated with a sales rights type. Not repeatable. Note the value &#8216;00&#8217; should be used to indicate where sales rights are genuinely unknown, or are unstated for any reason&#160;&#8211; in this case, data recipients must not assume anything about the rights that are applicable.</p>\n\t\t\t\t\t\t\t\t\n<p>The extended example below illustrates the use of &lt;SalesRights&gt; and &lt;ROWSalesRightsType&gt;.</p>\n\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ROWSalesRightsType>",
+    "ShortTag": "<x456>",
+    "Cardinality": "0\u20261",
+    "Example": "<x456>00</x456>",
+    "CodeListNumber": ""
+}

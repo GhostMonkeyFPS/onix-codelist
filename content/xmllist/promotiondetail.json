@@ -1,0 +1,11 @@
+{
+    "XMListName": "promotiondetail",
+    "Label": "detail composite",
+    "Description": "<p>The promotion detail block comprises the single data Group P.27. The block as a whole is optional and non-repeating, and is used only when there is a need to describe various promotional events intended to promote the product in a structured way. When used, the block usually consists of one or more instances of &lt;PromotionalEvent&gt;. It may be empty <em>only</em> within a partial or &#8216;block update&#8217; (Notification or update type&#160;04, see&#160;P.1.2), when the intention is to remove all previously-supplied promotion detail.</p>\n\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PromotionDetail>",
+    "ShortTag": "<promotiondetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

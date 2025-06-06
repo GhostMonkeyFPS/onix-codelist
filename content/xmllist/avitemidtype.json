@@ -1,0 +1,11 @@
+{
+    "XMListName": "avitemidtype",
+    "Label": "AV item identifier type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the identifier in &lt;IDValue&gt; is taken. Mandatory in each occurrence of the &lt;AVItemIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AVItemIDType>",
+    "ShortTag": "<x541>",
+    "Cardinality": "1",
+    "Example": "<AVItemIDType>01</TextItemIDType>",
+    "CodeListNumber": ""
+}

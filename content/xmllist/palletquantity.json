@@ -1,0 +1,11 @@
+{
+    "XMListName": "palletquantity",
+    "Label": "Pallet quantity",
+    "Description": "<p>The quantity (number of copies) on each complete pallet in stock currently held by the supplier. Optional and non-repeating. Of course, orders do not have to be aligned to the pallet quantity, but for bulk orders, it may be useful to know how many pallets will be required for a delivery.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 7 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PalletQuantity>",
+    "ShortTag": "<x545>",
+    "Cardinality": "0\u20261",
+    "Example": "<PalletQuantity>960</PalletQuantity>",
+    "CodeListNumber": ""
+}

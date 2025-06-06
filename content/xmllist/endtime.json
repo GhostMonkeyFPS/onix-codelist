@@ -1,0 +1,11 @@
+{
+    "XMListName": "endtime",
+    "Label": "End time",
+    "Description": "<p>The time (relative to the beginning of the product&#8217;s audio or audiovisual content) of the end of a continuous sequence of audio or audiovisual content. Optional in each occurrence of the &lt;TimeRun&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Hours, minutes and seconds in the form HHHMMSS or HHHMMSScc (hundredths of a second)</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EndTime>",
+    "ShortTag": "<x543>",
+    "Cardinality": "0\u20261",
+    "Example": "<x543>0014154</x543>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "collection",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which carry attributes of a collection of which the product is part. (For a publisher collection, these attributes may or may not include the collection title.) The composite is repeatable, to provide details when the product belongs to multiple collections.</p>\n\t\t\t\t\t\t\t\t\n<p>Collection-related data elements within a &lt;Collection&gt; composite that does not carry collection title information must relate to a publisher collection whose title is included in Group&#160;P.6.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Collection>",
+    "ShortTag": "<collection>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "nocollection",
+    "Label": "\u201cNo collection\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication that a product does not belong to a collection (a &#8216;set&#8217; or &#8216;series&#8217;). This element is intended to be used in an ONIX accreditation scheme to confirm that collection information is being consistently supplied in publisher ONIX feeds. Optional and non-repeating. Must only be sent in a record that has no instances of the &lt;Collection&gt; composite <em>and</em> has no collection level title elements in Group&#160;P.6.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NoCollection/>",
+    "ShortTag": "<x411/>",
+    "Cardinality": "0\u20261",
+    "Example": "<NoCollection/>",
+    "CodeListNumber": ""
+}

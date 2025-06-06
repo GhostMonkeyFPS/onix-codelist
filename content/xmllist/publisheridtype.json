@@ -1,0 +1,11 @@
+{
+    "XMListName": "publisheridtype",
+    "Label": "Publisher identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;PublisherIdentifier&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PublisherIDType>",
+    "ShortTag": "<x447>",
+    "Cardinality": "1",
+    "Example": "<x447>03</x447>",
+    "CodeListNumber": ""
+}

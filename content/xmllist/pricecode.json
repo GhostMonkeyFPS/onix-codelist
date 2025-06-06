@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricecode",
+    "Label": "Price code",
+    "Description": "<p>A price code from the scheme specified in the &lt;PriceCodeType&gt; element. Mandatory in each occurrence of the &lt;PriceCoded&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the scheme specified in &lt;PriceCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceCode>",
+    "ShortTag": "<x468>",
+    "Cardinality": "1",
+    "Example": "<PriceCode>07a</PriceCode>",
+    "CodeListNumber": ""
+}

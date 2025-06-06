@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconstraintunit",
+    "Label": "Usage unit",
+    "Description": "<p>An ONIX code for a unit in which a maximum permitted quantity or limit is stated. Mandatory in each occurrence of the &lt;PriceConstraintLimit&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceConstraintUnit>",
+    "ShortTag": "<x531>",
+    "Cardinality": "1",
+    "Example": "<x531>07</x531>",
+    "CodeListNumber": ""
+}

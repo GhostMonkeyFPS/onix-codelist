@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefilecontentdescription",
+    "Label": "Resource file content description",
+    "Description": "<p>The content contained in the resource may be described, for manual confirmation&#160;&#8211; for example &#8216;Chapters 2 and 3&#8217; or &#8216;CMYK separations pages 16&#8211;31&#8217;.</p>\n\t\t\t\t\t\t\t\t\t\t\t\n<p>Note that individual resources do not need to be aligned with the physical organization of the book (<i>eg</i>&#160;with the folded signatures of a print-on-demand product), nor with the logical organization (<i>eg</i>&#160;with the chapters in the work).</p>\n\t\t\t\t\t\t\t\t\t\t\t\n<p>The field is optional, and is repeatable to provide parallel descriptions in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ResourceFileContentDescription&gt;, but must be included in each instance if &lt;ResourceFileContentDescription&gt; is repeated to provide parallel descriptions in multiple languages.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFileContentDescription>",
+    "ShortTag": "<x576>",
+    "Cardinality": "0\u2026n",
+    "Example": "<ResourceFileContentDescription>Chapters 2 and 3</ResourceFileContentDescription>",
+    "CodeListNumber": ""
+}

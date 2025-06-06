@@ -1,0 +1,11 @@
+{
+    "XMListName": "addresseename",
+    "Label": "Addressee name",
+    "Description": "<p>The name of the addressee organization, which should always be stated in a standard form agreed with the addressee. Optional and non-repeating; but <em>either</em> a &lt;AddresseeName&gt; element <em>or</em> a &lt;AddresseeIdentifier&gt; composite <em>must</em> be included.</p>\n\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 50 characters</dd>\n\t\t\t\t\t\t\t",
+    "ReferenceName": "<AddresseeName>",
+    "ShortTag": "<x300>",
+    "Cardinality": "0\u20261",
+    "Example": "<x300>BiblioAggregator Ltd</x300>",
+    "CodeListNumber": ""
+}

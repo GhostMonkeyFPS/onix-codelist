@@ -1,0 +1,11 @@
+{
+    "XMListName": "emailaddress",
+    "Label": "New supplier e\u2011mail address",
+    "Description": "<p>An e&#8209;mail address for a supply source from which the product may be ordered by a trade customer. Optional and repeatable.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EmailAddress>",
+    "ShortTag": "<j272>",
+    "Cardinality": "0\u2026n",
+    "Example": "<j272>david@polecat.dircon.co.uk</j272>",
+    "CodeListNumber": ""
+}

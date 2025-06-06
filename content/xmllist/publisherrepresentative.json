@@ -1,0 +1,11 @@
+{
+    "XMListName": "publisherrepresentative",
+    "Label": "representative composite",
+    "Description": "<p>A repeatable group of data elements which together identify a publisher representative in a specified market. Optional, and repeated only if the publisher has two or more representatives.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PublisherRepresentative>",
+    "ShortTag": "<publisherrepresentative>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

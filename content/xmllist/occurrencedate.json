@@ -1,0 +1,11 @@
+{
+    "XMListName": "occurrencedate",
+    "Label": "occurrence date composite",
+    "Description": "<p>A group of data elements which together specify a date associated with the event occurrence. At least the date (and typically also the time) the event occurrence begins must be specified, and other dates related to the event occurrence can be sent in further repeats of the composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<OccurrenceDate>",
+    "ShortTag": "<occurrencedate>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

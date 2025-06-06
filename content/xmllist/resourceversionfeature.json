@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourceversionfeature",
+    "Label": "version feature composite",
+    "Description": "<p>A group of data elements which together describe a feature of a supporting resource which is specific to a particular version in which the resource is offered. Formally optional, but it is unlikely that a supporting resource version could be adequately described without specifying some of its features. Repeatable in order to specify multiple features of the version of the resource.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ResourceVersionFeature>",
+    "ShortTag": "<resourceversionfeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

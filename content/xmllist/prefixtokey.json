@@ -1,0 +1,11 @@
+{
+    "XMListName": "prefixtokey",
+    "Label": "Person name part 3: prefix to key names",
+    "Description": "<p>The third part of a structured name of a person who contributed to the creation of the product: a prefix which precedes the key name(s) but which is not to be treated as part of the key name, <i>eg</i>&#160;&#8216;van&#8217; in Ludwig van Beethoven. This element may also be used for titles that appear after given names and before key names, <i>eg</i>&#160;&#8216;Lord&#8217; in Alfred, Lord Tennyson. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrefixToKey>",
+    "ShortTag": "<b247>",
+    "Cardinality": "0\u20261",
+    "Example": "<PrefixToKey>van</PrefixToKey>",
+    "CodeListNumber": ""
+}

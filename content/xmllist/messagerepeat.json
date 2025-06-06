@@ -1,0 +1,11 @@
+{
+    "XMListName": "messagerepeat",
+    "Label": "Message repeat number",
+    "Description": "<p>A number which distinguishes any repeat transmissions of a message. If this element is used, the original is numbered 1 and repeats are numbered 2, 3 <i>etc</i>. Optional and non-repeating.</p>\n\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<MessageRepeat>",
+    "ShortTag": "<m181>",
+    "Cardinality": "0\u20261",
+    "Example": "<m181>2</m181>",
+    "CodeListNumber": ""
+}

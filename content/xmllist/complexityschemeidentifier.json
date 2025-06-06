@@ -1,0 +1,11 @@
+{
+    "XMListName": "complexityschemeidentifier",
+    "Label": "Complexity scheme identifier",
+    "Description": "<p>An ONIX code specifying the scheme from which the value in &lt;ComplexityCode&gt; is taken. Mandatory in each occurrence of the &lt;Complexity&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ComplexitySchemeIdentifier>",
+    "ShortTag": "<b077>",
+    "Cardinality": "1",
+    "Example": "<b077>06</b077>",
+    "CodeListNumber": ""
+}

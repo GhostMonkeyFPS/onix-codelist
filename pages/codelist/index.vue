@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Icon } from '@iconify/vue'
 
-const {data} = await useAsyncData('page-data', () => queryContent('codelist').findOne())
+const {data} = await useAsyncData('page-data-codelist', () => queryContent('codelist').findOne())
 </script>
 
 <template>

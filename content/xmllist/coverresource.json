@@ -1,0 +1,11 @@
+{
+    "XMListName": "coverresource",
+    "Label": "resource composite",
+    "Description": "<p>A group of data elements that together provide details of a single file or resource of which the cover is composed. At least one resource is required in each &lt;CoverManifest&gt;, and the &lt;CoverResource&gt; composite is repeatable to describe multiple resources.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>The composite must contain <em>either</em> a Resource file link <em>or</em> a No resource indicator.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CoverResource>",
+    "ShortTag": "<coverresource>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

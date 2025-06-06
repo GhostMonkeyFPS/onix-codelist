@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventsponsoridentifier",
+    "Label": "sponsor identifier composite",
+    "Description": "<p>An optional and repeatable group of data elements which together carry a coded identifier for an organizer or sponsor of an event.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EventSponsorIdentifier>",
+    "ShortTag": "<eventsponsoridentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

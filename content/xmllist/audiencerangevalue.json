@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencerangevalue",
+    "Label": "Audience range value (2)",
+    "Description": "<p>A value indicating the upper end of a range.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length string, suggested maximum 10 characters, according to the scheme specified in &lt;AudienceRangeQualifier&gt;. (This element was originally defined as a variable-length integer, but its definition was extended in ONIX&#160;2.1 to enable non-numeric values to be carried. For values that BISAC has defined for US school grades and pre-school levels, see <a href=\"https://ns.editeur.org/onix/en/77\" rel=\"external\" target=\"_blank\">List 77</a>)</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceRangeValue>",
+    "ShortTag": "<b076>",
+    "Cardinality": "0\u20261",
+    "Example": "<AudienceRangeValue>11</AudienceRangeValue>",
+    "CodeListNumber": ""
+}

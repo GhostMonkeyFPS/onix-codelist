@@ -22,7 +22,8 @@ const colorMode = useColorMode()
 
           <nav class="flex items-center max-lg:space-x-4 space-x-6 text-sm font-medium">
             <NuxtLink to="/" class="transition-colors hover:text-foreground/80 text-foreground/60">Home</NuxtLink>
-            <NuxtLink to="/codelist/" class="transition-colors hover:text-foreground/80 text-foreground/60">List</NuxtLink>
+            <NuxtLink to="/codelist/" class="transition-colors hover:text-foreground/80 text-foreground/60">OnixList</NuxtLink>
+            <NuxtLink to="/xmllist/" class="transition-colors hover:text-foreground/80 text-foreground/60">XMLList</NuxtLink>
           </nav>
         </div>
 

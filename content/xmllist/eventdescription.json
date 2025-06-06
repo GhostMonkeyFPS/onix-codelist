@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventdescription",
+    "Label": "Event occurrence description",
+    "Description": "<p>Free text describing the promotional event occurrence. Optional, and repeatable to provide parallel text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EventDescription&gt;, but must be included in each instance if &lt;EventDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 1000 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventDescription>",
+    "ShortTag": "<x550>",
+    "Cardinality": "0\u2026n",
+    "Example": "<EventDescription textformat=\"05\"><p>The author will read excerpts from her new novel <cite>Crimetime</cite>, and answer audience questions.</p></EventDescription>",
+    "CodeListNumber": ""
+}

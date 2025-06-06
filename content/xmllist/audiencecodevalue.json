@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencecodevalue",
+    "Label": "Audience code value",
+    "Description": "<p>A code value taken from the scheme specified in &lt;AudienceCodeType&gt;. Either &lt;AudienceCodeValue&gt; or &lt;AudienceHeadingText&gt; or both must be present in each occurrence of the &lt;Audience&gt; composite. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Determined by the scheme specified in &lt;AudienceCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceCodeValue>",
+    "ShortTag": "<b206>",
+    "Cardinality": "0\u20261",
+    "Example": "<AudienceCodeValue>06</AudienceCodeValue>",
+    "CodeListNumber": ""
+}

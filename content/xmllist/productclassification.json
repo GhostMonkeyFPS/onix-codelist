@@ -1,0 +1,11 @@
+{
+    "XMListName": "productclassification",
+    "Label": "classification composite",
+    "Description": "<p>An optional group of data elements which together define a product classification (<em>not</em> to be confused with a subject classification). The intended use is to enable national or international trade classifications (also known as commodity codes) to be carried in an ONIX record. The composite is repeatable if parts of the product are classified differently within a single product classification scheme, or to provide classification codes from multiple classification schemes.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductClassification>",
+    "ShortTag": "<productclassification>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

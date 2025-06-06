@@ -1,0 +1,11 @@
+{
+    "XMListName": "barcodetype",
+    "Label": "Barcode type",
+    "Description": "<p>An ONIX code indicating whether, and in what form, a barcode is carried on a product. Mandatory in any instance of the &lt;Barcode&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BarcodeType>",
+    "ShortTag": "<x312>",
+    "Cardinality": "1",
+    "Example": "<x312>03</x312>",
+    "CodeListNumber": ""
+}

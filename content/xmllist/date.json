@@ -1,0 +1,11 @@
+{
+    "XMListName": "date",
+    "Label": "Date",
+    "Description": "<p>The date specified in the &lt;PriceDateRole&gt; field. Mandatory in each occurrence of the &lt;PriceDate&gt; composite, and non-repeating. &lt;Date&gt; may carry a <i>dateformat</i> attribute: if the attribute is missing, then the default format is YYYYMMDD.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default YYYYMMDD</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Date>",
+    "ShortTag": "<b306>",
+    "Cardinality": "1",
+    "Example": "<Date>20100106</Date>",
+    "CodeListNumber": ""
+}

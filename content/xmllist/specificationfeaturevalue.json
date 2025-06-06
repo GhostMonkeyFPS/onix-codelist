@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationfeaturevalue",
+    "Label": "Specification feature value",
+    "Description": "<p>A controlled value that specifies a feature of the body of the product. Presence or absence of this element depends on the &lt;SpecificationFeatureType&gt;, since some feature types may not require an accompanying value, while others may require free text in &lt;SpecificationFeatureDescription&gt; and some may have both controlled value and free text. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Dependent on the scheme specified in &lt;SpecificationFeatureType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationFeatureValue>",
+    "ShortTag": "<x562>",
+    "Cardinality": "0\u20261",
+    "Example": "<SpecificationFeatureValue>CRE</SpecificationFeatureValue>",
+    "CodeListNumber": ""
+}

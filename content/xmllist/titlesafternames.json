@@ -1,0 +1,11 @@
+{
+    "XMListName": "titlesafternames",
+    "Label": "Person name part 8: titles after names",
+    "Description": "<p>The eighth part of a structured name of a person who contributed to the creation of the product: titles following a person&#8217;s names, <i>eg</i>&#160;&#8216;Duke of Edinburgh&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitlesAfterNames>",
+    "ShortTag": "<b043>",
+    "Cardinality": "0\u20261",
+    "Example": "<TitlesAfterNames>Duke of Edinburgh</TitlesAfterNames>",
+    "CodeListNumber": ""
+}

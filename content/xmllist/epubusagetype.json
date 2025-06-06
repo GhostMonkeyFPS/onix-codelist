@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubusagetype",
+    "Label": "Usage type (content item)",
+    "Description": "<p>An ONIX code specifying a usage of a content item within a digital content item. Mandatory in each occurrence of the &lt;EpubUsageConstraint&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubUsageType>",
+    "ShortTag": "<x318>",
+    "Cardinality": "1",
+    "Example": "<x318>05</x318>",
+    "CodeListNumber": ""
+}

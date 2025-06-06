@@ -1,0 +1,11 @@
+{
+    "XMListName": "textitemidentifier",
+    "Label": "item identifier composite",
+    "Description": "<p>A repeatable group of data elements which together define an identifier of a text item in accordance with a specified scheme. The composite is optional.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<TextItemIdentifier>",
+    "ShortTag": "<textitemidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

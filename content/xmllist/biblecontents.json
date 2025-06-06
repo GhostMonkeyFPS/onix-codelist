@@ -1,0 +1,11 @@
+{
+    "XMListName": "biblecontents",
+    "Label": "Bible contents",
+    "Description": "<p>An ONIX code indicating the content of an edition of the Bible or selected Biblical text, for example &#8216;New Testament&#8217;, &#8216;Apocrypha&#8217;, &#8216;Pentateuch&#8217;. Mandatory in each occurrence of the &lt;Bible&gt; composite, and repeatable so that a list such as &#8216;Old Testament and Apocrypha&#8217; can be expressed.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BibleContents>",
+    "ShortTag": "<b352>",
+    "Cardinality": "1\u2026n",
+    "Example": "<b352>OT</b352>",
+    "CodeListNumber": ""
+}

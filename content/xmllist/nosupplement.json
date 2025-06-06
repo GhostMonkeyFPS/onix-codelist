@@ -1,0 +1,11 @@
+{
+    "XMListName": "nosupplement",
+    "Label": "\u201cNo supplement\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication there is no alternative &#8216;generic&#8217; supplement to be used in cases where there is a vendor-specific supplement (indicated using &lt;SalesOutlet&gt; with the same &lt;SequenceNumber&gt; specified within the Supplement manifest). The empty &lt;NoSupplement/&gt; must be used&#160;&#8211; and must only be used&#160;&#8211; when no &lt;BodyManifest&gt; is present within the Supplement manifest.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NoSupplement/>",
+    "ShortTag": "<x579/>",
+    "Cardinality": "0\u20261",
+    "Example": "<NoSupplement/>",
+    "CodeListNumber": ""
+}

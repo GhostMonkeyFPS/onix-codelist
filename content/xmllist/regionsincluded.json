@@ -1,0 +1,11 @@
+{
+    "XMListName": "regionsincluded",
+    "Label": "Regions included",
+    "Description": "<p>One or more ONIX codes identifying regions included in the territory. A region is an area which is not a country, but which is precisely defined in geographical terms, <i>eg</i>&#160;World, Northern Ireland, Australian Capital Territory. Successive codes must be separated by spaces. Optional and non-repeating, but <em>either</em> &lt;CountriesIncluded&gt; <em>or</em> &lt;RegionsIncluded&gt; is mandatory in each occurrence of the &lt;Territory&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t\n<p>Note that if used, the &#8216;WORLD&#8217; region code cannot be combined with other region codes.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>One or more variable-length codes, each consisting of upper case letters, with or without a hyphen and further upper case letters or digits, and with successive codes being separated by spaces. Suggested maximum length 750 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RegionsIncluded>",
+    "ShortTag": "<x450>",
+    "Cardinality": "0\u20261",
+    "Example": "<x450>US-CA</x450>",
+    "CodeListNumber": ""
+}

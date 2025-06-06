@@ -1,0 +1,11 @@
+{
+    "XMListName": "specificationbundlenamevalue",
+    "Label": "Bundle name value",
+    "Description": "<p>The proprietary name of a &#8216;bundle&#8217; of technical specifications, taken from the naming scheme in &lt;SpecificationBundleNameTypeName&gt;.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text matching the format for the name type specified in &lt;SpecificationBundleNameTypeName&gt;, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SpecificationBundleNameValue>",
+    "ShortTag": "<x559>",
+    "Cardinality": "1",
+    "Example": "<x559>Standard B16</x559>",
+    "CodeListNumber": ""
+}

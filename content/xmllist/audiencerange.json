@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencerange",
+    "Label": "range composite",
+    "Description": "<p>An optional group of data elements which together describe an audience or readership range for which a product is intended. The composite can carry a single value <em>from</em>, <em>to</em>, or <em>exact</em>, or a pair of values with an explicit <em>from</em> and <em>to</em>. Repeatable to specify the audience range with different qualifiers.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AudienceRange>",
+    "ShortTag": "<audiencerange>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

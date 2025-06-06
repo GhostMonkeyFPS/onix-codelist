@@ -1,0 +1,11 @@
+{
+    "XMListName": "number",
+    "Label": "Number of illustrations or other content items",
+    "Description": "<p>The number of illustrations or other content items of the type specified in &lt;AncillaryContentType&gt;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, suggested maximum length 6 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Number>",
+    "ShortTag": "<b257>",
+    "Cardinality": "0\u20261",
+    "Example": "<Number>12</Number>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventacronym",
+    "Label": "Event acronym",
+    "Description": "<p>An acronym used as a short form of the name of an event or series of events given in the &lt;EventName&gt; element. Optional, and repeatable to provide parallel acronyms for a single event in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EventAcronym&gt;, but must be included in each instance if &lt;EventAcronym&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventAcronym>",
+    "ShortTag": "<x517>",
+    "Cardinality": "0\u2026n",
+    "Example": "<EventAcronym>UNFCCC COP21</EventAcronym>",
+    "CodeListNumber": ""
+}

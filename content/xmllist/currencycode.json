@@ -1,0 +1,11 @@
+{
+    "XMListName": "currencycode",
+    "Label": "Currency code",
+    "Description": "<p>An ONIX code identifying the currency in which the &lt;PriceAmount&gt; in an occurrence of the &lt;ComparisonProductPrice&gt; composite is stated. Optional and non-repeating, but required if the currency is not the default currency for the ONIX message. To avoid any possible ambiguity, it is strongly recommended that the currency should be stated here.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters, based on ISO 4217. Note that ISO 4217 specifies that currency codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CurrencyCode>",
+    "ShortTag": "<j152>",
+    "Cardinality": "0\u20261",
+    "Example": "<j152>GBP</j152>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "biographicalnote",
+    "Label": "Biographical note",
+    "Description": "<p>A biographical note about a contributor to the product. (See the &lt;TextContent&gt; composite in Group&#160;<a href=\"#onixmessage_product_collateraldetail_p14\">P.14</a> for a biographical note covering all contributors to a product in a single text.) Optional, and repeatable to provide parallel biographical notes in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;BiographicalNote&gt;, but must be included in each instance if &lt;BiographicalNote&gt; is repeated. May occur with a person name or with a corporate name. A biographical note in ONIX should <em>always</em> contain the name of the person or body concerned, and it should <em>always</em> be presented as a piece of continuous text consisting of full sentences. Some recipients of ONIX data feeds will not accept text which has embedded URLs. A contributor website link can be sent using the &lt;Website&gt; composite below.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, no suggested maximum length (since there is no suggested length for the text in a &lt;TextContent&gt; composite, where a biographical note can alternatively be sent). XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BiographicalNote>",
+    "ShortTag": "<b044>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b044>Umberto Eco, professor of semiotics at the University of Bologna, and author of \u2018The Name Of The Rose\u2019 and \u2018Foucault\u2019s Pendulum\u2019, is one of the world\u2019s bestselling novelists. As well as novels, he also writes children\u2019s books and academic works.</b044>",
+    "CodeListNumber": ""
+}

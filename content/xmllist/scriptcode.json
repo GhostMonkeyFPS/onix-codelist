@@ -1,0 +1,11 @@
+{
+    "XMListName": "scriptcode",
+    "Label": "Script code",
+    "Description": "<p>An ONIX code identifying the script in which the language is represented. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, four letters, based on ISO 15924. Note that ISO 15924 specifies that script codes shall be sent as one upper case followed by three lower case letters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ScriptCode>",
+    "ShortTag": "<x420>",
+    "Cardinality": "0\u20261",
+    "Example": "<ScriptCode>Cyrl</ScriptCode>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "productpackaging",
+    "Label": "Product packaging type code (product part)",
+    "Description": "<p>An ONIX code which indicates the type of packaging used for the product part. Optional, and not repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductPackaging>",
+    "ShortTag": "<b225>",
+    "Cardinality": "0\u20261",
+    "Example": "<b225>05</b225>",
+    "CodeListNumber": ""
+}

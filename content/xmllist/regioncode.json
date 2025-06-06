@@ -1,0 +1,11 @@
+{
+    "XMListName": "regioncode",
+    "Label": "Supply contact region code",
+    "Description": "<p>An ONIX code identifying the region within which the supply contact organization is located. Optional and non-repeatable if a Street address is present, but otherwise omitted.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>For some addresses, a Region code is useful in addition to the Postal code and Country code. In other addresses, a region is unnecessary because it is clearly encoded within the Postal code.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length code, consisting of upper case letters, with or without a hyphen and further upper case letters or digits. Suggested maximum length 8 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RegionCode>",
+    "ShortTag": "<b398>",
+    "Cardinality": "0\u20261",
+    "Example": "<RegionCode>GB-WLS</RegionCode>",
+    "CodeListNumber": ""
+}

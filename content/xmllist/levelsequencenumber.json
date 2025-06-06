@@ -1,0 +1,11 @@
+{
+    "XMListName": "levelsequencenumber",
+    "Label": "Level sequence number",
+    "Description": "<p>A number which specifies the position of a content item in a multi-level hierarchy of such items. Numbering starts at the top level in the hierarchy, which may represent (<i>eg</i>) chapters in a printed book, and the first item at the top level is numbered 1. Numbers should be assigned solely with a view to the logic of the ONIX description and not in relation to any other characteristics of the items being numbered (such as their actual numbering or their typographical layout in a printed table of contents). So for example, Chapter&#160;2 could have a level sequence number of&#160;3, and the second sub-section within Chapter&#160;2 could be numbered&#160;3.2. &lt;LevelSequenceNumber&gt; is <em>not</em> a required field, but it is strongly recommended for structured tables of contents. If used, it must occur once and only once in each occurrence of the &lt;ContentItem&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length string of positive integers, each successive integer being separated by a period character, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<LevelSequenceNumber>",
+    "ShortTag": "<b284>",
+    "Cardinality": "0\u20261",
+    "Example": "<LevelSequenceNumber>2.24.1</LevelSequenceNumber>",
+    "CodeListNumber": ""
+}

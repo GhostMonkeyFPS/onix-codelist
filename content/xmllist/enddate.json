@@ -1,0 +1,11 @@
+{
+    "XMListName": "enddate",
+    "Label": "End date",
+    "Description": "<p>The date until which a sales restriction is effective. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYYMMDD if the attribute is missing</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EndDate>",
+    "ShortTag": "<b325>",
+    "Cardinality": "0\u20261",
+    "Example": "<EndDate dateformat=\"00\">20090930</EndDate>",
+    "CodeListNumber": ""
+}

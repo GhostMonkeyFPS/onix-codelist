@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceidtype",
+    "Label": "Price identifier type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the identifier in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;PriceIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\n<p>There is no particular public &#8216;standard&#8217; for price identifiers, so at present only proprietary identifiers may be specified.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceIDType>",
+    "ShortTag": "<x506>",
+    "Cardinality": "1",
+    "Example": "<x506>01<x506>",
+    "CodeListNumber": ""
+}

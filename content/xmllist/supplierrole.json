@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplierrole",
+    "Label": "Supplier role",
+    "Description": "<p>An ONIX code identifying the role of the supplier in relation to the product, <i>eg</i>&#160;Publisher, Publisher&#8217;s exclusive distributor, <i>etc</i>. Mandatory in each occurrence of the &lt;Supplier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplierRole>",
+    "ShortTag": "<j292>",
+    "Cardinality": "1",
+    "Example": "<SupplierRole>01</SupplierRole>",
+    "CodeListNumber": ""
+}

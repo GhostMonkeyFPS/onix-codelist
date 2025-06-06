@@ -1,0 +1,11 @@
+{
+    "XMListName": "quantity",
+    "Label": "Quantity",
+    "Description": "<p>A minimum order quantity required to qualify for a specified discount. Optional, and non-repeating. Where omitted, the discount applies regardless of the order quantity (<i>ie</i>&#160;the minimum qualifying order quantity is 1).</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive number, here necessarily an integer, or zero. Suggested maximum length 7 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Quantity>",
+    "ShortTag": "<x320>",
+    "Cardinality": "0\u20261",
+    "Example": "<Quantity>12</Quantity>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventsponsoridtype",
+    "Label": "Event sponsor identifier type",
+    "Description": "<p>An ONIX code which identifies the scheme from which the value in the &lt;IDValue&gt; element is taken. Mandatory in each occurrence of the &lt;EventSponsorIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventSponsorIDType>",
+    "ShortTag": "<x522>",
+    "Cardinality": "1",
+    "Example": "<x522>01</x522>",
+    "CodeListNumber": ""
+}

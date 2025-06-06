@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountcodetypename",
+    "Label": "Discount code type name",
+    "Description": "<p>A name which identifies a proprietary discount code scheme. Must be included when, and only when the code in the &lt;DiscountCodeType&gt; element indicates a proprietary scheme, <i>eg</i>&#160;a wholesaler&#8217;s own code. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountCodeTypeName>",
+    "ShortTag": "<j378>",
+    "Cardinality": "0\u20261",
+    "Example": "<j378>IngramDC</j378>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "editionversionnumber",
+    "Label": "Edition version number",
+    "Description": "<p>The number of a numbered revision within an edition number. To be used only where a publisher uses such two-level numbering to indicate revisions which do not constitute a new edition under a new ISBN or other distinctive product identifier. Optional and non-repeating. If this field is used, an &lt;EditionNumber&gt; must also be present.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EditionVersionNumber>",
+    "ShortTag": "<b217>",
+    "Cardinality": "0\u20261",
+    "Example": "<b217>2</b217>",
+    "CodeListNumber": ""
+}

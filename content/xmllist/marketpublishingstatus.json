@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketpublishingstatus",
+    "Label": "Market publishing status",
+    "Description": "<p>An ONIX code which identifies the status of a published product in a specified market. Mandatory in each occurrence of the &lt;MarketPublishingDetail&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MarketPublishingStatus>",
+    "ShortTag": "<j407>",
+    "Cardinality": "1",
+    "Example": "<MarketPublishingStatus>02</MarketPublishingStatus>",
+    "CodeListNumber": ""
+}

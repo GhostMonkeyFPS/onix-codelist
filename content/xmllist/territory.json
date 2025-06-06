@@ -1,0 +1,11 @@
+{
+    "XMListName": "territory",
+    "Label": "territory composite",
+    "Description": "<p>A group of data elements which together identify a territory within which the price stated in an occurrence of the &lt;Price&gt; composite is applicable. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>For valid combinations of &lt;CountriesIncluded&gt;, &lt;RegionsIncluded&gt; <i>etc</i> within &lt;Territory&gt;, see the notes describing the use of &lt;Territory&gt; within Group P.21.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p><strong>Additional guidance on the description of price territories in ONIX&#160;3.0 and 3.1 will be found in a separate document <cite>ONIX for Books Product Information Message: How to Specify Markets and Suppliers in ONIX 3</cite>.</strong></p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Territory>",
+    "ShortTag": "<territory>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

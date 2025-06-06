@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishername",
+    "Label": "Publisher name",
+    "Description": "<p>The name of the publisher of an equivalent product which is available in the territory specified in the &lt;SalesRights&gt; composite, used only when &lt;SalesRightsType&gt; has a value indicating &#8216;not for sale&#8217;. Optional, and repeatable if the name is sent in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;PublisherName&gt;, but must be included in each instance if &lt;PublisherName&gt; is repeated.. Except where they are essential to the recognized form of the name, it is recommended that suffixes denoting incorporation (&#8216;Co&#8217;, &#8216;Inc&#8217;, &#8216;Ltd&#8217;, &#8216;SA&#8217;, &#8216;GmbH&#8217; <i>etc</i>) should be omitted.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PublisherName>",
+    "ShortTag": "<b081>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b081>Reed International Books</b081>",
+    "CodeListNumber": ""
+}

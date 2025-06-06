@@ -1,0 +1,11 @@
+{
+    "XMListName": "countrycode",
+    "Label": "Supply contact country code",
+    "Description": "<p>An ONIX code identifying the country within which the supply contact organization is located. Mandatory and non-repeatable if a Street address is present, but otherwise omitted.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters, based on ISO 3166-1. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CountryCode>",
+    "ShortTag": "<b251>",
+    "Cardinality": "0\u20261",
+    "Example": "<CountryCode>IT</CountryCode>",
+    "CodeListNumber": ""
+}

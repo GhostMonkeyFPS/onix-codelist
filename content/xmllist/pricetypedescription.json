@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricetypedescription",
+    "Label": "Price type description",
+    "Description": "<p>Free text which further describes the price type, qualifier, constraints and other parameters of the price. Optional, and repeatable if parallel descriptions are provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;PriceTypeDescription&gt;, but must be included in each instance if &lt;PriceTypeDescription&gt; is repeated in multiple languages. In the Netherlands and elsewhere, when the &lt;PriceQualifier&gt; code identifies a &#8216;voucher price&#8217;, the &lt;PriceTypeDescription&gt; should give the &#8216;EAN action number&#8217; that identifies the offer.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceTypeDescription>",
+    "ShortTag": "<j262>",
+    "Cardinality": "0\u2026n",
+    "Example": "<j262>When purchased as part of a three-item set with\u2026</j262>",
+    "CodeListNumber": ""
+}

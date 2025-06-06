@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectschemename",
+    "Label": "Proprietary subject scheme name",
+    "Description": "<p>A name identifying a proprietary subject scheme (<i>ie</i>&#160;a scheme which is not a standard and for which there is no individual identifier code) when &lt;SubjectSchemeIdentifier&gt; is coded &#8216;24&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectSchemeName>",
+    "ShortTag": "<b171>",
+    "Cardinality": "0\u20261",
+    "Example": "<b121>RetailCo ShelfScheme</b121>",
+    "CodeListNumber": ""
+}

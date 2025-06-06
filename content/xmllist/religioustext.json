@@ -1,0 +1,11 @@
+{
+    "XMListName": "religioustext",
+    "Label": "text composite",
+    "Description": "<p>An optional, non-repeating, group of data elements which together describe features of the content of an edition of a religious text, and intended to meet the special needs of religious publishers and booksellers. The &lt;ReligiousText&gt; composite may carry <em>either</em> a &lt;Bible&gt; composite <em>or</em> a &lt;ReligiousTextIdentifier&gt; element accompanied by multiple repeats of the &lt;ReligiousTextFeature&gt; composite. This approach is adopted to enable other devotional texts to be included if need arises without requiring a new ONIX release.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ReligiousText>",
+    "ShortTag": "<religioustext>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

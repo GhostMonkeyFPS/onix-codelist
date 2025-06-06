@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventnumber",
+    "Label": "Event number",
+    "Description": "<p>The number of an event to which the product is related, within a series of events. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventNumber>",
+    "ShortTag": "<x518>",
+    "Cardinality": "0\u20261",
+    "Example": "<x518>21</x518>",
+    "CodeListNumber": ""
+}

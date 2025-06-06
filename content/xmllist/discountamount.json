@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountamount",
+    "Label": "Discount amount",
+    "Description": "<p>A discount expressed as an absolute amount per copy. Optional and non-repeating; but either &lt;DiscountPercent&gt; or &lt;DiscountAmount&gt; or both must be present in each occurrence of the &lt;Discount&gt; composite. Note that when both are present, they represent two different expressions of the same discount&#160;&#8211; the discounts are not cumulative.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive real number, with explicit decimal point when required, or zero, suggested maximum length 12 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountAmount>",
+    "ShortTag": "<x469>",
+    "Cardinality": "0\u20261",
+    "Example": "<DiscountAmount>4.59</DiscountAmount>",
+    "CodeListNumber": ""
+}

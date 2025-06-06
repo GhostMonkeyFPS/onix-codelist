@@ -1,0 +1,11 @@
+{
+    "XMListName": "featurenote",
+    "Label": "Resource version feature note",
+    "Description": "<p>If the &lt;ResourceVersionFeatureType&gt; requires free text rather than a code value, or if the code in &lt;FeatureValue&gt; does not adequately describe the feature, a short text note may be added. Optional, and repeatable when parallel notes are provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;FeatureNote&gt;, but must be included in each instance if &lt;FeatureNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<FeatureNote>",
+    "ShortTag": "<x440>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

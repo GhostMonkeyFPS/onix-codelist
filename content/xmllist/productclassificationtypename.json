@@ -1,0 +1,11 @@
+{
+    "XMListName": "productclassificationtypename",
+    "Label": "Product classification type name",
+    "Description": "<p>A name which identifies a proprietary classification scheme (<i>ie</i>&#160;a scheme which is not a standard and for which there is no individual scheme type code). Should be included when, and only when, the code in the &lt;ProductClassificationType&gt; element indicates a proprietary scheme, <i>ie</i>&#160;the sender&#8217;s own category scheme. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductClassificationTypeName>",
+    "ShortTag": "<x555>",
+    "Cardinality": "0\u20261",
+    "Example": "<x555>PublishipGoodsCode</x555>",
+    "CodeListNumber": ""
+}

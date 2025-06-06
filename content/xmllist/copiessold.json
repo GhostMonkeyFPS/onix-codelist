@@ -1,0 +1,11 @@
+{
+    "XMListName": "copiessold",
+    "Label": "Copies sold",
+    "Description": "<p>Free text detailing the number of copies already sold, <i>eg</i>&#160;for a new paperback, the copies sold in hardback. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;CopiesSold&gt;, but must be included in each instance if &lt;CopiesSold&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CopiesSold>",
+    "ShortTag": "<k168>",
+    "Cardinality": "0\u2026n",
+    "Example": "<CopiesSold>6400 copies sold of this edition in hardback</CopiesSold>",
+    "CodeListNumber": ""
+}

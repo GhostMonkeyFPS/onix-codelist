@@ -1,0 +1,11 @@
+{
+    "XMListName": "audienceheadingtext",
+    "Label": "Audience heading text",
+    "Description": "<p>The text of an audience heading taken from the scheme specified in the &lt;AudienceCodeType&gt; element; or the text equivalent to the &lt;AudienceCodeValue&gt; if both code and text are sent. Either &lt;AudienceCodeValue&gt; or &lt;AudienceHeadingText&gt; or both must be present in each occurrence of the &lt;Audience&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\n<p>Optional, and repeatable if the text is sent in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;AudienceHeadingText&gt;, but must be included in each instance if &lt;AudienceHeadingText&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceHeadingText>",
+    "ShortTag": "<x578>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x578 language=\"eng\">Priority Parents</x578>",
+    "CodeListNumber": ""
+}

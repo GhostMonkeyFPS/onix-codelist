@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketdaterole",
+    "Label": "Market date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date. Mandatory in each occurrence of the &lt;MarketDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MarketDateRole>",
+    "ShortTag": "<j408>",
+    "Cardinality": "1",
+    "Example": "<j408>01</j408>",
+    "CodeListNumber": ""
+}

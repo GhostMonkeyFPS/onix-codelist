@@ -1,0 +1,11 @@
+{
+    "XMListName": "ratinglimit",
+    "Label": "Review rating limit",
+    "Description": "<p>The maximum possible rating that may be awarded as part of a review of the publication. Optional, but where used, it must be greater than or equal to the specified &lt;Rating&gt;.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer number, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RatingLimit>",
+    "ShortTag": "<x526>",
+    "Cardinality": "0\u20261",
+    "Example": "<RatingLimit>5</RatingLimit>",
+    "CodeListNumber": ""
+}

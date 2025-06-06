@@ -1,0 +1,11 @@
+{
+    "XMListName": "pricequalifier",
+    "Label": "Price type qualifier",
+    "Description": "<p>An ONIX code which further specifies the type of price, <i>eg</i>&#160;member price, reduced price when purchased as part of a set. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PriceQualifier>",
+    "ShortTag": "<j261>",
+    "Cardinality": "0\u20261",
+    "Example": "<PriceQualifier>01</PriceQualifier>",
+    "CodeListNumber": ""
+}

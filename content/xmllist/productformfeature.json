@@ -1,0 +1,11 @@
+{
+    "XMListName": "productformfeature",
+    "Label": "form feature composite (product part)",
+    "Description": "<p>An optional group of data elements which together describe an aspect of product form that is too specific to be covered in the &lt;ProductForm&gt; and &lt;ProductFormDetail&gt; elements. Repeatable in order to describe different aspects of the form of the product part. The composite is included here so that it can for example be used to carry consumer protection data related to a product part.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductFormFeature>",
+    "ShortTag": "<productformfeature>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

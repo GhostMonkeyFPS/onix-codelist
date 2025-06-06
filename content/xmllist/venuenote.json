@@ -1,0 +1,11 @@
+{
+    "XMListName": "venuenote",
+    "Label": "Venue note",
+    "Description": "<p>Free text of a short note related to the venue. Optional, and repeatable to provide parallel notes in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;VenueNote&gt;, but must be included in each instance if &lt;VenueNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 1000 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<VenueNote>",
+    "ShortTag": "<x553>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x553 language=\"eng\">Visitors requiring wheelchair access: please contact the venue in advance.</x553>",
+    "CodeListNumber": ""
+}

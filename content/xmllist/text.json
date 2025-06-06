@@ -1,0 +1,11 @@
+{
+    "XMListName": "text",
+    "Label": "Supporting text",
+    "Description": "<p>The text specified in the &lt;TextType&gt; element. Mandatory in each occurrence of the &lt;TextContent&gt; composite, and repeatable when essentially identical text is supplied in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;Text&gt;, but must be included in each instance if &lt;Text&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a>. Note that certain Text types impose a strict limit on the number of characters, and such limits do not count the characters of any (X)HTML markup</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Text>",
+    "ShortTag": "<d104>",
+    "Cardinality": "1\u2026n",
+    "Example": "<Text textformat=\"05\"><ul><li>Introduction: aesthetics and modernity; aesthetics and post-modernity</li><li>Part 1: Modern philosophy and the emergence of aesthetic theory\u00a0\u2013 Kant: self-consciousness, knowledge and freedom; the unity of the subject; the unification of nature; the purpose of beauty; the limits of beauty</li><li>Part 2: German idealism and early German Romanticism: the \u2018new mythology\u2019; the romantic \u2018new mythology\u2019</li><li>Part 3: Reflections on the subject\u00a0\u2013 Fichte, Holderlin and Novalis</li><li>Part 4: Schelling\u00a0\u2013 art as the \u2018organ of philosophy\u2019: the development of consciousness; the structure of the \u2018system of transcendental idealism\u2019; the aesthetic absolute; mythology, art and language; mythology, language and being</li><li>Part 5\u2026</li></ul></Text>",
+    "CodeListNumber": ""
+}

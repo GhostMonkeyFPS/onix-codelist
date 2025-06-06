@@ -1,0 +1,11 @@
+{
+    "XMListName": "contentaudience",
+    "Label": "Target audience",
+    "Description": "<p>An ONIX code which identifies the audience for which a promotional event is intended. Mandatory within in each instance of the &lt;PromotionalEvent&gt; composite, and repeatable.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ContentAudience>",
+    "ShortTag": "<x427>",
+    "Cardinality": "1\u2026n",
+    "Example": "<ContentAudience>03</ContentAudience>",
+    "CodeListNumber": ""
+}

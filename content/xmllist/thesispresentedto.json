@@ -1,0 +1,11 @@
+{
+    "XMListName": "thesispresentedto",
+    "Label": "Thesis presented to",
+    "Description": "<p>The name of an academic institution to which a thesis was presented. Optional and non-repeating, but if this element is present, &lt;ThesisType&gt; must also be present.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ThesisPresentedTo>",
+    "ShortTag": "<b369>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

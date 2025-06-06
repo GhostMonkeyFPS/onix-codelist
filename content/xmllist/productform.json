@@ -1,0 +1,11 @@
+{
+    "XMListName": "productform",
+    "Label": "Product form (supplement)",
+    "Description": "<p>An ONIX code which indicates the primary form of a supplement. Mandatory in an occurrence of &lt;SupplementManifest&gt;, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters (or the digits 00)</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductForm>",
+    "ShortTag": "<b012>",
+    "Cardinality": "1",
+    "Example": "<ProductForm>ED</ProductForm>",
+    "CodeListNumber": ""
+}

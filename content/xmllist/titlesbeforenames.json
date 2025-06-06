@@ -1,0 +1,11 @@
+{
+    "XMListName": "titlesbeforenames",
+    "Label": "Person name part 1: titles before names",
+    "Description": "<p>The first part of a structured name of a person who contributed to the creation of the product: qualifications and/or titles preceding a person&#8217;s names, <i>eg</i>&#160;&#8216;Professor&#8217; or &#8216;HRH Prince&#8217; or &#8216;Saint&#8217;. Optional and non-repeating: see Group&#160;P.7 introductory text for valid options.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TitlesBeforeNames>",
+    "ShortTag": "<b038>",
+    "Cardinality": "0\u20261",
+    "Example": "<TitlesBeforeNames>HRH Prince</TitlesBeforeNames>",
+    "CodeListNumber": ""
+}

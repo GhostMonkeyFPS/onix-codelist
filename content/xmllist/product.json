@@ -1,0 +1,11 @@
+{
+    "XMListName": "product",
+    "Label": "for Books Product record",
+    "Description": "<p>Every ONIX message must contain <em>either</em> one or more &lt;Product&gt; composites <em>or</em> a single &lt;NoProduct/&gt; empty element.</p>\n\t\t\t\t\n<p>A product is described by a group of data elements beginning with an XML label &lt;Product&gt; and ending with an XML label &lt;/Product&gt;. The entire group of data elements which is enclosed between these two labels constitutes an ONIX Product record. The Product record is the fundamental unit within an ONIX Product Information message. In almost every case, each Product record describes an individually tradable item; and in all circumstances, each tradable item identified by a recognized product identifier should be described by one, and only one, ONIX Product record.</p>\n\t\t\t\t\n<p>In ONIX&#160;3.0 and later, a Product record has a mandatory &#8216;preamble&#8217; comprising data Groups P.1 and P.2, and carrying data that identifies the record and the product to which it refers. This is followed by up to eight &#8216;blocks&#8217;, each of which is optional. Of these blocks, Blocks 1 to 5, plus 7 and 8 are not repeatable. Block 6 <em>appears</em> to be repeatable, but it is often more useful to think of a singular Block 6 comprising all repeats of its contained &lt;ProductSupply&gt; composites. In special circumstances&#160;&#8211; with partial (&#8216;Block&#8217;) updates and only when &lt;MarketReference&gt; is used to label each individual &lt;ProductSupply&gt; composite&#160;&#8211; Block&#160;6 can be thought of as a truly repeatable block, each repeat consisting of a single &lt;ProductSupply&gt; composite.</p>\n\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Product>",
+    "ShortTag": "<product>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

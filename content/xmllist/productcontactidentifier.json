@@ -1,0 +1,11 @@
+{
+    "XMListName": "productcontactidentifier",
+    "Label": "contact identifier composite",
+    "Description": "<p>A group of data elements which together specify an identifier of the product contact. The composite is optional, and repeatable if more than one identifier of different types is sent; but <em>either</em> a &lt;ProductContactName&gt; <em>or</em> a &lt;ProductContactIdentifier&gt; <em>must</em> be included.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductContactIdentifier>",
+    "ShortTag": "<productcontactidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

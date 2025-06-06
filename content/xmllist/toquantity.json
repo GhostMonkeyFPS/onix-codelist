@@ -1,0 +1,11 @@
+{
+    "XMListName": "toquantity",
+    "Label": "To Quantity",
+    "Description": "<p>A maximum order quantity eligible for a specified discount, used only in the case of &#8216;progressive&#8217; discounts. Optional, but where used, must be preceded by a minimum qualifying order quantity (even if that minimum is 1). For the special case where there is no maximum (<i>ie</i>&#160;in the repeat of the &lt;Discount&gt; composite that specifies the highest progressive discount), use zero.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive number, here necessarily an integer, or zero. Suggested maximum length 7 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ToQuantity>",
+    "ShortTag": "<x514>",
+    "Cardinality": "0\u20261",
+    "Example": "<ToQuantity>25</ToQuantity>",
+    "CodeListNumber": ""
+}

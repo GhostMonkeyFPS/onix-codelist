@@ -1,0 +1,11 @@
+{
+    "XMListName": "ancillarycontenttype",
+    "Label": "Illustration or other content type code",
+    "Description": "<p>An ONIX code which identifies the type of illustration or other content to which an occurrence of the composite refers. Mandatory in each occurrence of the &lt;AncillaryContent&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AncillaryContentType>",
+    "ShortTag": "<x423>",
+    "Cardinality": "1",
+    "Example": "<x423>09</x423>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "timerun",
+    "Label": "run composite",
+    "Description": "<p>A repeatable group of data elements which together define the time period which an AV item takes up. The composite is optional, but may be repeated where the AV item covers two or more separate periods of time.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<TimeRun>",
+    "ShortTag": "<timerun>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

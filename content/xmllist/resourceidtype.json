@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourceidtype",
+    "Label": "Resource identifier type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the identifier in &lt;IDValue&gt; is taken. Mandatory in each occurrence of the &lt;ResourceIdentifier&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceIDType>",
+    "ShortTag": "<x565>",
+    "Cardinality": "1",
+    "Example": "<ResourceIDType>09</ResourceIDType>",
+    "CodeListNumber": ""
+}

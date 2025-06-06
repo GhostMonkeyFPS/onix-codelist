@@ -1,0 +1,11 @@
+{
+    "XMListName": "covermanifest",
+    "Label": "manifest composite (supplement)",
+    "Description": "<p>An optional group of data elements which together provide manifest details for the cover of a supplement. These details include:</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>The Cover manifest for the supplement has the same structure as the Cover manifest for a Product or Product Part. However, relevant high-level specifications such as the Product form or overall size of the supplement are carried within the &lt;SupplementManifest&gt; itself, rather than within Block&#160;1.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CoverManifest>",
+    "ShortTag": "<covermanifest>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

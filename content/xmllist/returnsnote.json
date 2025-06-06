@@ -1,0 +1,11 @@
+{
+    "XMListName": "returnsnote",
+    "Label": "Returns conditions note",
+    "Description": "<p>Free text note explaining the returns conditions or special returns instructions, where the code alone is not sufficient. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ReturnsNote&gt;, but must be included in each instance if &lt;ReturnsNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReturnsNote>",
+    "ShortTag": "<x528>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x528 language=\"eng\">Obtain return authorization in advance</x528>",
+    "CodeListNumber": ""
+}

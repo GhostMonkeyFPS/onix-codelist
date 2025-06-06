@@ -1,0 +1,11 @@
+{
+    "XMListName": "onorder",
+    "Label": "Quantity in shipment",
+    "Description": "<p>The quantity of stock on order in a particular shipment. Mandatory in each occurrence of the &lt;OnOrderDetail&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, here necessarily positive, suggested maximum length 7 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<OnOrder>",
+    "ShortTag": "<j351>",
+    "Cardinality": "1",
+    "Example": "<j351>600</j351>",
+    "CodeListNumber": ""
+}

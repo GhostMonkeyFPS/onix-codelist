@@ -1,0 +1,11 @@
+{
+    "XMListName": "discounttype",
+    "Label": "Discount type",
+    "Description": "<p>An ONIX code identifying a discount type or reason. Optional, and non-repeating. When omitted, the default is a simple or rising discount (the discount is applied to all units in a qualifying order).</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountType>",
+    "ShortTag": "<x467>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

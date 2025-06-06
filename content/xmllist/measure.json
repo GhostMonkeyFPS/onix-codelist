@@ -1,0 +1,11 @@
+{
+    "XMListName": "measure",
+    "Label": "composite (supplement)",
+    "Description": "<p>An optional group of data elements which together identify a measurement and the units in which it is expressed; used to specify the overall dimensions of a physical supplement. Repeatable to provide multiple combinations of dimension and unit.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Measure>",
+    "ShortTag": "<measure>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

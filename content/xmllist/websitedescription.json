@@ -1,0 +1,11 @@
+{
+    "XMListName": "websitedescription",
+    "Label": "Website description",
+    "Description": "<p>Free text describing the nature of the website which is linked through the &lt;WebsiteLink&gt; element. Optional, and repeatable to provide parallel descriptive text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;WebsiteDescription&gt;, but must be included in each instance if &lt;WebsiteDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<WebsiteDescription>",
+    "ShortTag": "<b294>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

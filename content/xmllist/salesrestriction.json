@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesrestriction",
+    "Label": "sales restriction composite",
+    "Description": "<p>A group of data elements which together identify a non-territorial sales restriction which applies within a geographical market. Optional, and repeatable if more than a single restriction applies.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SalesRestriction>",
+    "ShortTag": "<salesrestriction>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

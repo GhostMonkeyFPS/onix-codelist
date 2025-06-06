@@ -1,0 +1,11 @@
+{
+    "XMListName": "illustrationsnote",
+    "Label": "Illustrations and other contents note",
+    "Description": "<p>For books or other text media only, this data element carries text stating the number and type of illustrations. The text may also include other content items, <i>eg</i>&#160;maps, bibliography, tables, index <i>etc</i>. Optional, and repeatable if parallel notes are provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;IllustrationsNote&gt;, but must be included in each instance if &lt;IllustrationsNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML or JSON with ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<IllustrationsNote>",
+    "ShortTag": "<b062>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b062>500 illustrations, 210 in full color</b062>",
+    "CodeListNumber": ""
+}

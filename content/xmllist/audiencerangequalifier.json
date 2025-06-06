@@ -1,0 +1,11 @@
+{
+    "XMListName": "audiencerangequalifier",
+    "Label": "Audience range qualifier",
+    "Description": "<p>An ONIX code specifying the attribute (interest age, school grade <i>etc</i>) which is measured by the value in the &lt;AudienceRangeValue&gt; element. Mandatory in each occurrence of the &lt;AudienceRange&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AudienceRangeQualifier>",
+    "ShortTag": "<b074>",
+    "Cardinality": "1",
+    "Example": "<b074>11</b074>",
+    "CodeListNumber": ""
+}

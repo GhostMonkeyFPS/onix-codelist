@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicenseexpressiontype",
+    "Label": "License expression type (content item)",
+    "Description": "<p>An ONIX code identifying the nature or format of the license expression specified in the &lt;EpubLicenseExpressionLink&gt; element. Mandatory within the &lt;EpubLicenseExpression&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubLicenseExpressionType>",
+    "ShortTag": "<x508>",
+    "Cardinality": "1",
+    "Example": "<x508>10</x508>",
+    "CodeListNumber": ""
+}

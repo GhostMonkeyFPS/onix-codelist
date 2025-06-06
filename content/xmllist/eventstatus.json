@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventstatus",
+    "Label": "Event status",
+    "Description": "<p>An ONIX code which specifies the status of a particular occurrence of a promotional event occurrence. Mandatory within each instance of the &lt;EventOccurrence&gt; composite, and non-repeatable.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, single character</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventStatus>",
+    "ShortTag": "<x549>",
+    "Cardinality": "1",
+    "Example": "<x549>C</x549>",
+    "CodeListNumber": ""
+}

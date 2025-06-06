@@ -1,0 +1,11 @@
+{
+    "XMListName": "textitemtype",
+    "Label": "Text item type code",
+    "Description": "<p>An ONIX code which identifies the nature of a text item. Mandatory in each occurrence of the &lt;TextItem&gt; composite, and non-repeatable.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TextItemType>",
+    "ShortTag": "<b290>",
+    "Cardinality": "1",
+    "Example": "<TextItemType>04</TextItemType>",
+    "CodeListNumber": ""
+}

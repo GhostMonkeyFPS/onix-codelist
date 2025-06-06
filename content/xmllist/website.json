@@ -1,0 +1,11 @@
+{
+    "XMListName": "website",
+    "Label": "composite",
+    "Description": "<p>An optional group of data elements which together identify and provide a pointer to a website which is related to the organization identified in an occurrence of the &lt;NewSupplier&gt; composite. Repeatable in order to provide links to multiple websites.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Website>",
+    "ShortTag": "<website>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

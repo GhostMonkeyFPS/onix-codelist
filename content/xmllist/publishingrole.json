@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishingrole",
+    "Label": "Publishing role code",
+    "Description": "<p>An ONIX code which identifies a role played by an entity in the publishing of a product. Mandatory in each occurrence of the &lt;Publisher&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PublishingRole>",
+    "ShortTag": "<b291>",
+    "Cardinality": "1",
+    "Example": "<PublishingRole>02</PublishingRole>",
+    "CodeListNumber": ""
+}

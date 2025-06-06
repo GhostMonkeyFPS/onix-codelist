@@ -1,0 +1,11 @@
+{
+    "XMListName": "reprintdetail",
+    "Label": "Reprint detail",
+    "Description": "<p>Free text used to give details of the reprint history as part of the promotion of a book. Optional, and repeatable if parallel text is provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ReprintDetail&gt;, but must be included in each instance if &lt;ReprintDetail&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReprintDetail>",
+    "ShortTag": "<k309>",
+    "Cardinality": "0\u2026n",
+    "Example": "<ReprintDetail textformat=\"05\"><dl><dt>Jan 2016</dt><dd>Initial printing</dd><dt>Mar 2016</dt><dd>Second impression</dd></dl>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "event",
+    "Label": "composite",
+    "Description": "<p>A group of data elements which together describe an event to which the product is related. Optional, and repeatable if the product contains material from or is related to two or more events.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Event>",
+    "ShortTag": "<event>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

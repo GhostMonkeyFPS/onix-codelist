@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubtechnicalprotection",
+    "Label": "Digital product technical protection (Price)",
+    "Description": "<p>An ONIX code specifying whether a digital product has DRM or other technical protection features that form or enforce part of the commercial offer for a product. Optional, and repeatable if a product has two or more kinds of protection.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p>The Digital product technical protection element is also present in Group&#160;P.3. Use here where a single product is available under multiple commercial offers with differing Price constraints, to indicate whether the constraints are enforced via technical protection measures.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubTechnicalProtection>",
+    "ShortTag": "<x317>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x317>03</x317>",
+    "CodeListNumber": ""
+}

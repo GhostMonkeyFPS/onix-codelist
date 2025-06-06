@@ -1,0 +1,11 @@
+{
+    "XMListName": "subjectdaterole",
+    "Label": "Subject date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date in relation to the subject name. Mandatory in each occurrence of the &lt;SubjectDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SubjectDateRole>",
+    "ShortTag": "<x534>",
+    "Cardinality": "1",
+    "Example": "<x534>50</x534>",
+    "CodeListNumber": ""
+}

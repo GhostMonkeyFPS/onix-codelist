@@ -1,0 +1,11 @@
+{
+    "XMListName": "productcontact",
+    "Label": "contact composite",
+    "Description": "<p>A group of data elements which together specify an organization (which may or may not be the publisher&#8217;s representative) responsible for dealing with enquiries related to the product in the market. Optional, and repeatable in order to specify multiple contacts.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ProductContact>",
+    "ShortTag": "<productcontact>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

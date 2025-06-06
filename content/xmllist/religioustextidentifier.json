@@ -1,0 +1,11 @@
+{
+    "XMListName": "religioustextidentifier",
+    "Label": "Religious text identifier",
+    "Description": "<p>An ONIX code indicating a religious text other than the Bible. Mandatory in each occurrence of the &lt;ReligiousText&gt; composite that does <em>not</em> include a &lt;Bible&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ReligiousTextIdentifier>",
+    "ShortTag": "<b376>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

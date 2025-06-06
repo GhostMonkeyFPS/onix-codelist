@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubusagelimit",
+    "Label": "limit composite (content item)",
+    "Description": "<p>An optional group of data elements which together specify a quantitative limit on a particular type of usage of a content item within a digital product. Repeatable in order to specify two or more limits on the usage type.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EpubUsageLimit>",
+    "ShortTag": "<epubusagelimit>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

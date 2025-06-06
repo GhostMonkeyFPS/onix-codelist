@@ -1,0 +1,11 @@
+{
+    "XMListName": "personnameinverted",
+    "Label": "Person name, inverted",
+    "Description": "<p>The name of a person who contributed to the creation of the product, presented with the element used for alphabetical sorting placed first (&#8216;inverted order&#8217;). Optional and non-repeating: see Group&#160;P.7 introductory text for valid options.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PersonNameInverted>",
+    "ShortTag": "<b037>",
+    "Cardinality": "0\u20261",
+    "Example": "<b037>Johnson, James J., III</b037>",
+    "CodeListNumber": ""
+}

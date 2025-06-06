@@ -1,0 +1,11 @@
+{
+    "XMListName": "taxratecode",
+    "Label": "Tax rate code",
+    "Description": "<p>An ONIX code which specifies a tax rate. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, one letter</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TaxRateCode>",
+    "ShortTag": "<x471>",
+    "Cardinality": "0\u20261",
+    "Example": "<x471>Z</x471>",
+    "CodeListNumber": ""
+}

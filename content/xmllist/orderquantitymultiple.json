@@ -1,0 +1,11 @@
+{
+    "XMListName": "orderquantitymultiple",
+    "Label": "Order quantity multiple",
+    "Description": "<p>The order quantity multiple that must be used in any order for the product placed with the supplier. Optional, but where supplied, must be preceded by at least one &lt;OrderQuantityMinimum&gt; element. For example with a minimum order quantity of 6 and a multiple of 4, orders for 6, 10 or 14 copies are acceptable, but orders for fewer than 6, or for 7, 8, 9 or 11 copies are not. If omitted, the minimum or any larger quantity may be ordered.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<OrderQuantityMultiple>",
+    "ShortTag": "<x533>",
+    "Cardinality": "0\u20261",
+    "Example": "<OrderQuantityMultiple>4</OrderQuantityMultiple>",
+    "CodeListNumber": ""
+}

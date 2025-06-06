@@ -1,0 +1,11 @@
+{
+    "XMListName": "copyrightowneridentifier",
+    "Label": "owner identifier composite",
+    "Description": "<p>A group of data elements which together represent a coded identification of a copyright owner. Optional, and repeatable if sending more than one identifier of different types. May be sent either instead of or as well as a name.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CopyrightOwnerIdentifier>",
+    "ShortTag": "<copyrightowneridentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

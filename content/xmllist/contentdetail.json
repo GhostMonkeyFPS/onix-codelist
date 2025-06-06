@@ -1,0 +1,11 @@
+{
+    "XMListName": "contentdetail",
+    "Label": "detail composite",
+    "Description": "<p>The Content detail block comprises the single data Group&#160;P.18. The block as a whole is non-repeating. It is not mandatory within the &lt;Product&gt; record, and is used only when there is a requirement to describe individual chapters or parts within a product in a fully structured way. The more usual ONIX practice is to send a table of contents as text, possibly in XHTML, in Group&#160;P.14.</p>\n\t\t\t\t\t\t\n<p>When used, the block should normally contain at least one instance of &lt;ContentItem&gt;. It may be empty <em>only</em> within a partial or &#8216;block update&#8217; (Notification or update type&#160;04, see&#160;P.1.2), when the intention is to remove all previously-supplied content detail.</p>\n\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<ContentDetail>",
+    "ShortTag": "<contentdetail>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

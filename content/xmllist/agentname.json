@@ -1,0 +1,11 @@
+{
+    "XMListName": "agentname",
+    "Label": "Agent name",
+    "Description": "<p>The name of an agent or local publisher. Optional and non-repeating; required if no agent identifier is sent in an occurrence of the &lt;PublisherRepresentative&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AgentName>",
+    "ShortTag": "<j401>",
+    "Cardinality": "0\u20261",
+    "Example": "<AgentName>Littlehampton Book Services</AgentName>",
+    "CodeListNumber": ""
+}

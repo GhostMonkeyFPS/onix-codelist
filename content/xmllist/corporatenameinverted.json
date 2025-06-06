@@ -1,0 +1,11 @@
+{
+    "XMListName": "corporatenameinverted",
+    "Label": "Corporate contributor name, inverted",
+    "Description": "<p>The name of a corporate body which contributed to the creation of the product, presented in inverted order, with the element used for alphabetical sorting placed first. Optional: see Group&#160;P.7 introductory text for valid options. Repeatable, to provide parallel names for a single organization in multiple languages (<i>eg</i>&#160;&#8216;Polar Research Foundation, The&#8217; and <span lang=\"de\">&#8218;Polarforschungsinstitut, Das&#8216;</span>).The <i>language</i> attribute is optional for a single instance of &lt;CorporateNameInverted&gt;, but must be included in each instance if &lt;CorporateNameInverted&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CorporateNameInverted>",
+    "ShortTag": "<x443>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x443>Countryside Commission, The</x443>",
+    "CodeListNumber": ""
+}

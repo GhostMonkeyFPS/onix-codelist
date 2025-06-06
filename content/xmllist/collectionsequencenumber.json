@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionsequencenumber",
+    "Label": "Collection sequence number",
+    "Description": "<p>A number which specifies the ordinal position of the product in a collection. The ordinal position may be a simple number (1st, 2nd, 3rd <i>etc</i>) or may be multi-level (<i>eg</i>&#160;3.2) if the collection has a multi-level structure (<i>ie</i>&#160;there are both collection and sub-collection title elements). Mandatory and non-repeating within the &lt;CollectionSequence&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\n<p><span style=\"color: deeppink; font-weight: bold\">New from 3.0.4</span> A hyphen may be used in place of an integer within a multi-level number, where a particular level of the hierarchy is unnumbered, for example -.3 where a product is the third in a sub-collection, and the sub-collections are in no particular order within the collection.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length string of one or more positive integers or hyphens, each successive integer or hyphen being separated by a period character, suggested maximum length 50 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionSequenceNumber>",
+    "ShortTag": "<x481>",
+    "Cardinality": "1",
+    "Example": "<CollectionSequenceNumber>2.4</CollectionSequenceNumber>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "sendername",
+    "Label": "Sender name",
+    "Description": "<p>The name of the sender organization, which should always be stated in a standard form agreed with the addressee. Optional and non-repeating, but <em>either</em> a &lt;SenderName&gt; element <em>or</em> a &lt;SenderIdentifier&gt; composite <em>must</em> be included.</p>\n\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 50 characters</dd>\n\t\t\t\t\t\t\t",
+    "ReferenceName": "<SenderName>",
+    "ShortTag": "<x298>",
+    "Cardinality": "0\u20261",
+    "Example": "<SenderName>HarperCollins London</SenderName>",
+    "CodeListNumber": ""
+}

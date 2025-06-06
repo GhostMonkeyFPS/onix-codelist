@@ -1,0 +1,11 @@
+{
+    "XMListName": "studybibletype",
+    "Label": "Study Bible type",
+    "Description": "<p>An ONIX code identifying a particular study version of a Bible or selected Biblical text, for example &#8216;Life Application&#8217;. Optional and non-repeating. Some study Bibles are available in different editions based on different text versions.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, three letters</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<StudyBibleType>",
+    "ShortTag": "<b389>",
+    "Cardinality": "0\u20261",
+    "Example": "<b389>OXF</b389>",
+    "CodeListNumber": ""
+}

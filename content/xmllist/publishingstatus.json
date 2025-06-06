@@ -1,0 +1,11 @@
+{
+    "XMListName": "publishingstatus",
+    "Label": "Publishing status",
+    "Description": "<p>An ONIX code which identifies the status of a published product. Optional and non-repeating, but required if publishing status is <em>not</em> identified at market level in &lt;MarketPublishingDetail&gt; (P.25).</p>\n\t\t\t\t\t\t\t\t\n<p>Where the element is sent by a sender who is not the publisher, based on information that has been previously supplied by the publisher, it is strongly recommended that it should carry a <i>datestamp</i> attribute to indicate its likely reliability. See <a href=\"#message_attributes\">Section 1</a> for further details of the <i>datestamp</i> attribute.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PublishingStatus>",
+    "ShortTag": "<b394>",
+    "Cardinality": "0\u20261",
+    "Example": "<PublishingStatus>02</PublishingStatus>",
+    "CodeListNumber": ""
+}

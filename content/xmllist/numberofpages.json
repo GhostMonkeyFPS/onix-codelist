@@ -1,0 +1,11 @@
+{
+    "XMListName": "numberofpages",
+    "Label": "Number of pages",
+    "Description": "<p>The page extent of a text item within a paginated product. Optional and non-repeating, but normally expected when the text item is being referenced as part of a structured table of contents.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 6 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NumberOfPages>",
+    "ShortTag": "<b061>",
+    "Cardinality": "0\u20261",
+    "Example": "<NumberOfPages>12</NumberOfPages>",
+    "CodeListNumber": ""
+}

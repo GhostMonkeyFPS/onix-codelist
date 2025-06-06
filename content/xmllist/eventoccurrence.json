@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventoccurrence",
+    "Label": "occurrence composite",
+    "Description": "<p>A group of data elements which together describe a single occurrence of the promotional event. At least one occurrence is mandatory within the &lt;PromotionalEvent&gt; composite, and &lt;EventOccurrence&gt; is repeatable in order to list a group of more or less similar occurrences such as a series of book signings.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EventOccurrence>",
+    "ShortTag": "<eventoccurrence>",
+    "Cardinality": "1\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

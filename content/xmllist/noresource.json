@@ -1,0 +1,11 @@
+{
+    "XMListName": "noresource",
+    "Label": "\u201cNo resource\u201d indicator",
+    "Description": "<p>An empty element that provides a positive indication that there is no alternative &#8216;generic&#8217; resource to be used in cases where there is a vendor-specific resource (indicated using &lt;SalesOutlet&gt;) with the same &lt;SequenceNumber&gt; specified within the manifest. The empty &lt;NoResource/&gt; must be used&#160;&#8211; and must only be used&#160;&#8211; when no &lt;ResourceFileLink&gt; is present.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>XML empty element</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<NoResource/>",
+    "ShortTag": "<x577/>",
+    "Cardinality": "0\u20261",
+    "Example": "<NoResource/>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "mapscale",
+    "Label": "Map scale",
+    "Description": "<p>The scale of a map, expressed as a ratio 1:nnnnn; only the number nnnnn is carried in the data element, without spaces or punctuation. Optional, and repeatable if a product comprises maps with two or more different scales.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 8 digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MapScale>",
+    "ShortTag": "<b063>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b063>50000</b063>",
+    "CodeListNumber": ""
+}

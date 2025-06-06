@@ -1,0 +1,11 @@
+{
+    "XMListName": "sender",
+    "Label": "composite",
+    "Description": "<p>A group of data elements which together specify the sender of an ONIX for Books message. Mandatory in any ONIX for Books message, and non-repeating.</p>\n\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Sender>",
+    "ShortTag": "<sender>",
+    "Cardinality": "1",
+    "Example": "",
+    "CodeListNumber": ""
+}

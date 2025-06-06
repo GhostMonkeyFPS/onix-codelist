@@ -1,0 +1,11 @@
+{
+    "XMListName": "productformfeaturedescription",
+    "Label": "Product form feature description",
+    "Description": "<p>If the &lt;ProductFormFeatureType&gt; requires free text rather than a code value, or if the code in &lt;ProductFormFeatureValue&gt; does not adequately describe the feature, a short text description may be added. Optional, and repeatable to provide parallel descriptive text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ProductFormFeatureDescription&gt;, but must be included in each instance if &lt;ProductFormFeatureDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 2500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ProductFormFeatureDescription>",
+    "ShortTag": "<b336>",
+    "Cardinality": "0\u2026n",
+    "Example": "<b336>11pt Helvetica</b336>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "occurrencedaterole",
+    "Label": "Occurrence date role",
+    "Description": "<p>An ONIX code indicating the significance of the date, <i>eg</i>&#160;the date of the occurrence, last date of ticket availability <i>etc</i>. Mandatory in each instance of the &lt;OccurrenceDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<OccurrenceDateRole>",
+    "ShortTag": "<x554>",
+    "Cardinality": "1",
+    "Example": "<x554>01</x554>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconditionquantity",
+    "Label": "condition quantity composite",
+    "Description": "<p>An optional and repeatable group of data elements which together specify a price condition quantity, for example a minimum number of copies, or a period of time for which updates are supplied or must be purchased.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PriceConditionQuantity>",
+    "ShortTag": "<priceconditionquantity>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

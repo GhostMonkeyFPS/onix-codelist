@@ -1,0 +1,11 @@
+{
+    "XMListName": "complexitycode",
+    "Label": "Complexity code",
+    "Description": "<p>A code specifying the level of complexity of a text. Mandatory in each occurrence of the &lt;Complexity&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters, according to the code type specified in the &lt;ComplexitySchemeIdentifier&gt; element</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ComplexityCode>",
+    "ShortTag": "<b078>",
+    "Cardinality": "1",
+    "Example": "<ComplexityCode>880L</ComplexityCode>",
+    "CodeListNumber": ""
+}

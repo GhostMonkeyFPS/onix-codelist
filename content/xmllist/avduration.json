@@ -1,0 +1,11 @@
+{
+    "XMListName": "avduration",
+    "Label": "Duration of AV item",
+    "Description": "<p>The duration of an audio or audiovisual item within the time-based content of a product. Optional and non-repeating, but normally expected when the AV content item is being referenced as part of a structured table of contents.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Hours, minutes and seconds in the form HHHMMSS or HHHMMSScc (hundredths of a second)</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<AVDuration>",
+    "ShortTag": "<x544>",
+    "Cardinality": "0\u20261",
+    "Example": "<AVDuration>0002948</AVDuration>",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "citedcontenttype",
+    "Label": "Cited content type code",
+    "Description": "<p>An ONIX code indicating the type of content which is being cited. Mandatory in each occurrence of the &lt;CitedContent&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CitedContentType>",
+    "ShortTag": "<x430>",
+    "Cardinality": "1",
+    "Example": "<CitedContentType>01</CitedContentType>",
+    "CodeListNumber": ""
+}

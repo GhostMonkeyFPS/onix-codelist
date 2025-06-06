@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventname",
+    "Label": "Event name",
+    "Description": "<p>The name of or headline for a promotional event or series of events which relate to the product. This element is mandatory within each instance of the &lt;PromotionalEvent&gt; composite, and repeatable to provide parallel names for a single event in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;EventName&gt;, but must be included in each instance if &lt;EventName&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 200 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EventName>",
+    "ShortTag": "<x516>",
+    "Cardinality": "1\u2026n",
+    "Example": "<x516>Meet the Writer: Daniel Handler (aka Lemony Snicket)</x516>",
+    "CodeListNumber": ""
+}

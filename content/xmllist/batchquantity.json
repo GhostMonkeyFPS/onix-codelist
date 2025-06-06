@@ -1,0 +1,11 @@
+{
+    "XMListName": "batchquantity",
+    "Label": "Batch quantity",
+    "Description": "<p>The number of copies which must be ordered to obtain the free copies specified in &lt;FreeQuantity&gt;. Mandatory in each occurrence of the &lt;BatchBonus&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer, suggested maximum length 4 digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<BatchQuantity>",
+    "ShortTag": "<j264>",
+    "Cardinality": "1",
+    "Example": "<j264>20</j264>",
+    "CodeListNumber": ""
+}

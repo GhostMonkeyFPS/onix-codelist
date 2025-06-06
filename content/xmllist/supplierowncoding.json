@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplierowncoding",
+    "Label": "own coding composite",
+    "Description": "<p>An optional and repeatable group of data elements which together allow a supplier to send coded data of a specified type, using its own coding schemes.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SupplierOwnCoding>",
+    "ShortTag": "<supplierowncoding>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

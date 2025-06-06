@@ -1,0 +1,11 @@
+{
+    "XMListName": "epublicense",
+    "Label": "product license composite (price)",
+    "Description": "<p>An optional and non-repeatable composite carrying the name or title of the usage license forming part of the commercial offer for the product, and a link to the license terms in eye-readable or machine-readable form.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EpubLicense>",
+    "ShortTag": "<epublicense>",
+    "Cardinality": "0\u20261",
+    "Example": "",
+    "CodeListNumber": ""
+}

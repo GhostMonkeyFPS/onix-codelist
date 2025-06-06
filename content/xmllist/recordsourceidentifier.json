@@ -1,0 +1,11 @@
+{
+    "XMListName": "recordsourceidentifier",
+    "Label": "source identifier composite",
+    "Description": "<p>A group of data elements which together define an identifier of the organization which is the source of the ONIX record. Optional, and repeatable in order to send multiple identifiers for the same organization.</p>\n\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<RecordSourceIdentifier>",
+    "ShortTag": "<recordsourceidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

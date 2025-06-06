@@ -1,0 +1,11 @@
+{
+    "XMListName": "thesisyear",
+    "Label": "Year of thesis",
+    "Description": "<p>The year in which a thesis was presented. Optional and non-repeating, but if this element is present, &lt;ThesisType&gt; must also be present.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYY if the attribute is missing</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ThesisYear>",
+    "ShortTag": "<b370>",
+    "Cardinality": "0\u20261",
+    "Example": "<ThesisYear>2002</ThesisYear>",
+    "CodeListNumber": ""
+}

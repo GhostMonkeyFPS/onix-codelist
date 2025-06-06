@@ -1,0 +1,11 @@
+{
+    "XMListName": "startdate",
+    "Label": "Start date",
+    "Description": "<p>The date from which a sales restriction is effective. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>As specified by the value in the <i>dateformat</i> attribute, or the default of YYYYMMDD if the attribute is missing</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<StartDate>",
+    "ShortTag": "<b324>",
+    "Cardinality": "0\u20261",
+    "Example": "<b324>20090327</b324>",
+    "CodeListNumber": ""
+}

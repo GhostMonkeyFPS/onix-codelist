@@ -1,0 +1,11 @@
+{
+    "XMListName": "supplydaterole",
+    "Label": "Supply date role code",
+    "Description": "<p>An ONIX code indicating the significance of the date. Mandatory in each occurrence of the &lt;SupplyDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplyDateRole>",
+    "ShortTag": "<x461>",
+    "Cardinality": "1",
+    "Example": "<SupplyDateRole>02</SupplyDateRole>",
+    "CodeListNumber": ""
+}

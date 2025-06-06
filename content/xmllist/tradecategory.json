@@ -1,0 +1,11 @@
+{
+    "XMListName": "tradecategory",
+    "Label": "Trade category code",
+    "Description": "<p>An ONIX code which indicates a trade category which is somewhat related to, but not properly an attribute of, product form. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<TradeCategory>",
+    "ShortTag": "<b384>",
+    "Cardinality": "0\u20261",
+    "Example": "<TradeCategory>03</TradeCategory>",
+    "CodeListNumber": ""
+}

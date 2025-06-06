@@ -1,0 +1,11 @@
+{
+    "XMListName": "positiononproduct",
+    "Label": "Position on product",
+    "Description": "<p>An ONIX code indicating a position on a product; in this case, the position in which a price appears. Optional, but must be included if (and only if) the &lt;PrintedOnProduct&gt; element indicates that the price appears on the product, even if the position is &#8216;unknown&#8217;. Non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PositionOnProduct>",
+    "ShortTag": "<x313>",
+    "Cardinality": "0\u20261",
+    "Example": "<x313>01</x313>",
+    "CodeListNumber": ""
+}

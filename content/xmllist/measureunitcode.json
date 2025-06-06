@@ -1,0 +1,11 @@
+{
+    "XMListName": "measureunitcode",
+    "Label": "Measure unit code",
+    "Description": "<p>An ONIX code indicating the measure unit in which dimensions are given. Mandatory in each occurrence of the &lt;Measure&gt; composite, and non-repeating. This element must follow the dimension to which the measure unit applies. See example below.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<MeasureUnitCode>",
+    "ShortTag": "<c095>",
+    "Cardinality": "1",
+    "Example": "<c095>mm</c095>",
+    "CodeListNumber": ""
+}

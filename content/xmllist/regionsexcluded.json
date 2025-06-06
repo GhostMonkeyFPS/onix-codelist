@@ -1,0 +1,11 @@
+{
+    "XMListName": "regionsexcluded",
+    "Label": "Regions excluded",
+    "Description": "<p>One or more ONIX codes identifying regions excluded from the territory. Successive codes must be separated by spaces. Optional and non-repeating, and can only occur if the &lt;CountriesIncluded&gt; element is also present (and specifies countries of which the excluded regions are a part), or if &lt;Regions Included&gt; is present and includes a supra-national region code (such as &#8216;WORLD&#8217;).</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>One or more variable-length codes, each consisting of upper case letters, with or without a hyphen and further upper case letters or digits, and with successive codes being separated by spaces. Suggested maximum length 750 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<RegionsExcluded>",
+    "ShortTag": "<x452>",
+    "Cardinality": "0\u20261",
+    "Example": "<x452>GB-ENG GB-SCT GB-WLS</x452>",
+    "CodeListNumber": ""
+}

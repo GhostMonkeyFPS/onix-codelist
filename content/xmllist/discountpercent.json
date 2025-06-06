@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountpercent",
+    "Label": "Discount percentage",
+    "Description": "<p>A discount percentage applicable to the price carried in an occurrence of the &lt;Price&gt; composite. Optional and non-repeating; but either &lt;DiscountPercent&gt; or &lt;DiscountAmount&gt; or both must be present in each occurrence of the &lt;Discount&gt; composite.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Real number between zero and 100 (inclusive), including explicit decimal point when required, suggested maximum length 6 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountPercent>",
+    "ShortTag": "<j267>",
+    "Cardinality": "0\u20261",
+    "Example": "<DiscountPercent>37.5</DiscountPercent>",
+    "CodeListNumber": ""
+}

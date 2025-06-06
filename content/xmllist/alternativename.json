@@ -1,0 +1,11 @@
+{
+    "XMListName": "alternativename",
+    "Label": "name composite",
+    "Description": "<p>A repeatable group of data elements which together represent an alternative name of a person or organization that is part of the subject of a product, and specify its type. The &lt;AlternativeName&gt; composite is optional.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<AlternativeName>",
+    "ShortTag": "<alternativename>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

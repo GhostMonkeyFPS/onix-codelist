@@ -1,0 +1,11 @@
+{
+    "XMListName": "insertpointvalue",
+    "Label": "Insertion point value",
+    "Description": "<p>The point at which the insert must be positioned, in the format specified in &lt;InsertPointType&gt;.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Dependent on the positioning specified in &lt;InsertPointType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<InsertPointValue>",
+    "ShortTag": "<x575>",
+    "Cardinality": "1",
+    "Example": "<x575>49</x575>",
+    "CodeListNumber": ""
+}

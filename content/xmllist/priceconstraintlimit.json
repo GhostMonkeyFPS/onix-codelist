@@ -1,0 +1,11 @@
+{
+    "XMListName": "priceconstraintlimit",
+    "Label": "constraint limit composite",
+    "Description": "<p>An optional and repeatable group of data elements which together specify a quantitative limit on a particular type of contractual term or constraint.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<PriceConstraintLimit>",
+    "ShortTag": "<priceconstraintlimit>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

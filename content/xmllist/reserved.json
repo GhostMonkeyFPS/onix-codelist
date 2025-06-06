@@ -1,0 +1,11 @@
+{
+    "XMListName": "reserved",
+    "Label": "Quantity reserved",
+    "Description": "<p>The quantity of stock on hand but unavailable to fulfil new orders for any reason&#160;&#8211; for example because the stock is reserved to fulfill existing orders or frozen to prevent dispatch. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Positive integer or zero, suggested maximum length 7 digits.</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<Reserved>",
+    "ShortTag": "<x536>",
+    "Cardinality": "0\u20261",
+    "Example": "<Reserved>500</Reserved>",
+    "CodeListNumber": ""
+}

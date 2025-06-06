@@ -1,0 +1,11 @@
+{
+    "XMListName": "marketdate",
+    "Label": "date composite",
+    "Description": "<p>A group of data elements which together specify a date associated with the publishing status of the product in a specified market, <i>eg</i>&#160;&#8216;local publication date&#8217;. Optional, but if known, a date of publication <em>must</em> be specified either here as a &#8216;local publication date&#8217; or in P.20. Other dates relating to the publication of the product in the specific market may be sent in further repeats of the composite.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<MarketDate>",
+    "ShortTag": "<marketdate>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

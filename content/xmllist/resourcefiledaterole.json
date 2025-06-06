@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefiledaterole",
+    "Label": "Resource file date role",
+    "Description": "<p>An ONIX code indicating the significance of the date in relation to the resource file. Mandatory in each occurrence of the &lt;ResourceFileDate&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFileDateRole>",
+    "ShortTag": "<x573>",
+    "Cardinality": "1",
+    "Example": "<ResourceFileDateRole>27</ResourceFileDateRole>",
+    "CodeListNumber": ""
+}

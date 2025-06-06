@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectiontype",
+    "Label": "Collection type code",
+    "Description": "<p>An ONIX code indicating the type of a collection: publisher collection, ascribed collection, or unspecified. Mandatory in each occurrence of the &lt;Collection&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed-length text, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CollectionType>",
+    "ShortTag": "<x329>",
+    "Cardinality": "1",
+    "Example": "<x329>10</x329>",
+    "CodeListNumber": ""
+}

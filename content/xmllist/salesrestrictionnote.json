@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesrestrictionnote",
+    "Label": "Sales restriction note",
+    "Description": "<p>A free text field describing an &#8216;unspecified&#8217; restriction, or giving more explanation of a coded restriction type. Optional, and repeatable if parallel notes are provided in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;SalesRestrictionNote&gt;, but must be included in each instance if &lt;SalesRestrictionNote&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 300 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SalesRestrictionNote>",
+    "ShortTag": "<x453>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

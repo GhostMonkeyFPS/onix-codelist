@@ -1,0 +1,11 @@
+{
+    "XMListName": "defaultpricetype",
+    "Label": "Default price type",
+    "Description": "<p>An ONIX code indicating the default price type which is assumed for prices of products listed in the message, unless the Price type is explicitly stated by sending a Price type code in each &lt;Price&gt; composite for each Product record. Optional and non-repeating. To avoid any possible ambiguity, use of this default is deprecated, but any default supplied will be assumed for all prices in Group&#160;P.26 which do not specify the Price type explicitly. It is strongly recommended that the price type should be specified in the &lt;Price&gt; composite for each individual price.</p>\n\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<DefaultPriceType>",
+    "ShortTag": "<x310>",
+    "Cardinality": "0\u20261",
+    "Example": "<x310>01</x310>",
+    "CodeListNumber": ""
+}

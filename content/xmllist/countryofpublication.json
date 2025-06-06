@@ -1,0 +1,11 @@
+{
+    "XMListName": "countryofpublication",
+    "Label": "Country of publication",
+    "Description": "<p>An ONIX code identifying the country where the product is published (<i>ie</i>&#160;where the publisher is based). Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two letters, based on ISO 3166-1. Note that ISO 3166-1 specifies that country codes shall be sent as upper case only</dd>\n\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<CountryOfPublication>",
+    "ShortTag": "<b083>",
+    "Cardinality": "0\u20261",
+    "Example": "<b083>US</b083>",
+    "CodeListNumber": ""
+}

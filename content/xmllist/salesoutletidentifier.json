@@ -1,0 +1,11 @@
+{
+    "XMListName": "salesoutletidentifier",
+    "Label": "outlet identifier composite",
+    "Description": "<p>An optional group of data elements which together represent a coded identification of a person or organization, used here to identify a sales outlet. Repeatable in order to identify multiple identifiers for the same sales outlet.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<SalesOutletIdentifier>",
+    "ShortTag": "<salesoutletidentifier>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

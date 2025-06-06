@@ -1,0 +1,11 @@
+{
+    "XMListName": "epubusageunit",
+    "Label": "Usage unit (content item)",
+    "Description": "<p>An ONIX code for a unit in which a permitted usage quantity is stated. Mandatory in each occurrence of the &lt;EpubUsageLimit&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<EpubUsageUnit>",
+    "ShortTag": "<x321>",
+    "Cardinality": "1",
+    "Example": "<EpubUsageUnit>07</EpubUsageUnit>",
+    "CodeListNumber": ""
+}

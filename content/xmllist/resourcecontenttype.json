@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcecontenttype",
+    "Label": "Resource content type code",
+    "Description": "<p>An ONIX code indicating the type of content carried in a supporting resource. Mandatory in each occurrence of the &lt;SupportingResource&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceContentType>",
+    "ShortTag": "<x436>",
+    "Cardinality": "1",
+    "Example": "<ResourceContentType>01</ResourceContentType>",
+    "CodeListNumber": ""
+}

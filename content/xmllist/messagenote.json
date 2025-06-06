@@ -1,0 +1,11 @@
+{
+    "XMListName": "messagenote",
+    "Label": "Message note",
+    "Description": "<p>Free text giving additional information about the message. Optional, and repeatable in order to provide a note in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;MessageNote&gt;, but must be included in each instance if &lt;MessageNote&gt; is repeated.</p>\n\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum 500 characters</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<MessageNote>",
+    "ShortTag": "<m183>",
+    "Cardinality": "0\u2026n",
+    "Example": "<MessageNote>Updates for titles to be published September 2009</MessageNote>",
+    "CodeListNumber": ""
+}

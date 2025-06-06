@@ -1,0 +1,11 @@
+{
+    "XMListName": "suppliercodevalue",
+    "Label": "Supplier code value",
+    "Description": "<p>A supplier-defined code of the type specified in the &lt;SupplierCodeType&gt; element. Mandatory in each occurrence of the &lt;SupplierOwnCoding&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>According to the supplier&#8217;s own format for the code type specified in &lt;SupplierCodeType&gt;</dd>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SupplierCodeValue>",
+    "ShortTag": "<x459>",
+    "Cardinality": "1",
+    "Example": "<x459>B</x459>",
+    "CodeListNumber": ""
+}

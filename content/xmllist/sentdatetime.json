@@ -1,0 +1,11 @@
+{
+    "XMListName": "sentdatetime",
+    "Label": "Message creation date/time",
+    "Description": "<p>The date on which the message is sent. Optionally, the time may be added, using the 24-hour clock, with an explicit indication of the time zone if required, in a format based on ISO 8601. Mandatory and non-repeating.</p>\n\t\t\t\t\t",
+    "Format": "<dd>\n\t\t\t\t\t\t\t<table>\n\t\t\t\t\t\t\t\t<thead>\n\t\t\t\t\t\t\t\t\t<tr>\n\t\t\t\t\t\t\t\t\t\t<th colspan=\"2\">Permitted formats, where &#8216;T&#8217; and &#8216;Z&#8217; represent themselves (<i>ie</i>&#160;the letters T and Z), and where the symbol &#8216;&#177;&#8217; represents either &#8216;+&#8217; or &#8216;-&#8217; to indicate a timezone offset from UTC.</th>\n\t\t\t\t\t\t\t\t\t</tr>\n\t\t\t\t\t\t\t\t</thead>\n\t\t\t\t\t\t\t\t<tbody>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDD</td><td>Date only</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmm</td><td>Date and time (local time of sender)</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmmZ</td><td>Universal time (UTC) &#8224;</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmm&#177;hhmm</td><td>With time zone offset from UTC &#8224;</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmmss</td><td>Date and time (with seconds)</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmmssZ</td><td>Universal time (with seconds)</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td>YYYYMMDDThhmmss&#177;hhmm</td><td>With time zone offset from UTC (with seconds)</td></tr>\n\t\t\t\t\t\t\t\t\t<tr><td/><td>&#8224; indicates the <em>preferred</em> formats</td></tr>\n\t\t\t\t\t\t\t\t</tbody>\n\t\t\t\t\t\t\t</table>\n\t\t\t\t\t\t</dd>\n\t\t\t\t\t\t",
+    "ReferenceName": "<SentDateTime>",
+    "ShortTag": "<x307>",
+    "Cardinality": "1",
+    "Example": "<x307>20100522T1230Z</x307>",
+    "CodeListNumber": ""
+}

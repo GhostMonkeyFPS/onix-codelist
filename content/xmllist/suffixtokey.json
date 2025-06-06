@@ -1,0 +1,11 @@
+{
+    "XMListName": "suffixtokey",
+    "Label": "Person name part 6: suffix after key names",
+    "Description": "<p>The sixth part of a structured name of a person who contributed to the creation of the product: a suffix following a person&#8217;s key name(s), <i>eg</i>&#160;&#8216;Jr&#8217; or &#8216;III&#8217;. Optional and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<SuffixToKey>",
+    "ShortTag": "<b248>",
+    "Cardinality": "0\u20261",
+    "Example": "<SuffixToKey>Jr.</SuffixToKey>",
+    "CodeListNumber": ""
+}

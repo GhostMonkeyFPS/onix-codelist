@@ -1,0 +1,11 @@
+{
+    "XMListName": "prizejury",
+    "Label": "Prize or award jury",
+    "Description": "<p>Free text listing members of the jury that awarded the prize. Optional, and repeatable if the text is provided in more than one language. The <i>language</i> attribute is optional for a single instance of &lt;PrizeJury&gt;, but must be included in each instance if &lt;PrizeJury&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters. XHTML is enabled in this element&#160;&#8211; see <a href=\"#message_markup\">Using XHTML, HTML, XML, JSON within ONIX text fields</a></dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<PrizeJury>",
+    "ShortTag": "<g343>",
+    "Cardinality": "0\u2026n",
+    "Example": "<g343>Russell Banks, Victoria Glendinning and Alistair MacLeod</g343>",
+    "CodeListNumber": ""
+}

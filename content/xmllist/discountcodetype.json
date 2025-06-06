@@ -1,0 +1,11 @@
+{
+    "XMListName": "discountcodetype",
+    "Label": "Discount code type code",
+    "Description": "<p>An ONIX code identifying the scheme from which the value in the &lt;DiscountCode&gt; element is taken. Mandatory in each occurrence of the &lt;DiscountCoded&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<DiscountCodeType>",
+    "ShortTag": "<j363>",
+    "Cardinality": "1",
+    "Example": "<j363>02</j363>",
+    "CodeListNumber": ""
+}

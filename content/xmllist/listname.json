@@ -1,0 +1,11 @@
+{
+    "XMListName": "listname",
+    "Label": "Name of bestseller list",
+    "Description": "<p>The name of a bestseller list, when the &lt;CitedContent&gt; composite is used to refer to a position which a product has reached on such a list. Optional, and repeatable to provide a parallel list name in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ListName&gt;, but must be included in each instance if &lt;ListName&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 100 characters</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ListName>",
+    "ShortTag": "<x432>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x432>Sunday Times Hardback Fiction</x432>",
+    "CodeListNumber": ""
+}

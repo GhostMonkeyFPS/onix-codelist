@@ -1,0 +1,11 @@
+{
+    "XMListName": "publisher",
+    "Label": "composite (content item)",
+    "Description": "<p>A group of data elements which together identify an entity which is associated with the publishing of a content item, included here to allow roles such as Funder, Sponsor to be associated with a specific content item rather than the product as a whole. The composite allows additional publishing roles to be introduced without adding new fields. Each occurrence of the composite must carry a publishing role code and either a name identifier or a name or both. Optional, and repeatable in order to identify multiple entities.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<Publisher>",
+    "ShortTag": "<publisher>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

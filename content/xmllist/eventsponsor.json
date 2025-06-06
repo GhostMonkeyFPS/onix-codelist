@@ -1,0 +1,11 @@
+{
+    "XMListName": "eventsponsor",
+    "Label": "sponsor composite",
+    "Description": "<p>An optional group of data elements which together identify an organizer or sponsor of an event or series of event occurrences. Either an &lt;EventSponsorIdentifier&gt;, or one or other of &lt;PersonName&gt; or &lt;CorporateName&gt;, or both an identifier and a name, must be present in each occurrence of the composite. The composite is repeatable in order to specify multiple organizers and sponsors.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<EventSponsor>",
+    "ShortTag": "<eventsponsor>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

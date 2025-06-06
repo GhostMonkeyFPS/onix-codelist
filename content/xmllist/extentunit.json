@@ -1,0 +1,11 @@
+{
+    "XMListName": "extentunit",
+    "Label": "Extent unit",
+    "Description": "<p>An ONIX code indicating the unit used for the &lt;ExtentValue&gt; and the format in which the value is presented. Mandatory in each occurrence of the &lt;Extent&gt; composite, and non-repeating.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Fixed length, two digits</dd>\n\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ExtentUnit>",
+    "ShortTag": "<b220>",
+    "Cardinality": "1",
+    "Example": "<b220>04</b220>",
+    "CodeListNumber": ""
+}

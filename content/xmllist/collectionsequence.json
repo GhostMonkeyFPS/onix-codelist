@@ -1,0 +1,11 @@
+{
+    "XMListName": "collectionsequence",
+    "Label": "sequence composite",
+    "Description": "<p>An optional and repeatable group of data elements which indicates some ordinal position of a product within a collection. Different ordinal positions may be specified using separate repeats of the composite&#160;&#8211; for example, a product may be published first while also being third in narrative order within a collection.</p>\n\t\t\t\t\t\t\t\t\t",
+    "Format": "",
+    "ReferenceName": "<CollectionSequence>",
+    "ShortTag": "<collectionsequence>",
+    "Cardinality": "0\u2026n",
+    "Example": "",
+    "CodeListNumber": ""
+}

@@ -1,0 +1,11 @@
+{
+    "XMListName": "resourcefilefeaturedescription",
+    "Label": "Resource file feature description",
+    "Description": "<p>If the &lt;ResourceFileFeatureType&gt; requires free text rather than a code value, or if the code in &lt;ResourceFileFeatureValue&gt; does not adequately specify the feature of the insert, a short text description may be added. Optional, and repeatable to provide parallel descriptive text in multiple languages. The <i>language</i> attribute is optional for a single instance of &lt;ResourceFileFeatureDescription&gt;, but must be included in each instance if &lt;ResourceFileFeatureDescription&gt; is repeated.</p>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length text, suggested maximum length 500 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<ResourceFileFeatureDescription>",
+    "ShortTag": "<x570>",
+    "Cardinality": "0\u2026n",
+    "Example": "<x570>96KHz 24-bit samples</x570>",
+    "CodeListNumber": ""
+}

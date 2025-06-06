@@ -1,0 +1,11 @@
+{
+    "XMListName": "firstpagenumber",
+    "Label": "First page number",
+    "Description": "<p>The number of the first page of a sequence of contiguous pages. Mandatory in each occurrence of the &lt;PageRun&gt; composite, and non-repeating. Note that here and in the &lt;LastPageNumber&gt; element a page &#8216;number&#8217; may be Arabic, Roman, or an alphanumeric string (<i>eg</i>&#160;L123).</p>\n\t\t\t\t\t\t\t\t\t\t\t",
+    "Format": "<dd>Variable length alphanumeric, suggested maximum length 20 characters</dd>\n\t\t\t\t\t\t\t\t\t\t\t\t",
+    "ReferenceName": "<FirstPageNumber>",
+    "ShortTag": "<b286>",
+    "Cardinality": "1",
+    "Example": "<FirstPageNumber>23</FirstPageNumber>",
+    "CodeListNumber": ""
+}
